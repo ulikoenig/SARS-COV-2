@@ -1,2 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="116" uniqueCount="28"><si><t>Einwohner</t></si><si><t>Bayern</t></si><si><t>Berlin</t></si><si><t>Brandenburg</t></si><si><t>Bremen</t></si><si><t>Hamburg</t></si><si><t>Hessen</t></si><si><t>Niedersachsen</t></si><si><t>Nordrhein-West­falen</t></si><si><t>Saarland</t></si><si><t>Sachsen</t></si><si><t>Sachsen-Anhalt</t></si><si><t>Thüringen</t></si><si><t>Infizierte</t></si><si><t>Tote</t></si><si><t>Schleswig-Holstein</t></si><si><t>Baden-Württemberg</t></si><si><t>Mecklenburg-Vorpommern</t></si><si><t>Rhein­landPfalz</t></si><si><t>Nordrhein-Westfalen</t></si><si><t>Rheinland Pfalz</t></si><si><t>Deutschland</t></si><si><t>1. Ableitung</t></si><si><t>2. Ableitung</t></si><si><t>Tote pro Kopf</t></si><si><t>Datum</t></si><si><t>Norddeutschland</t></si><si><t>Anzahl pro Kopf</t></si></sst>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="116" uniqueCount="28">
+  <si>
+    <t>Einwohner</t>
+  </si>
+  <si>
+    <t>Bayern</t>
+  </si>
+  <si>
+    <t>Berlin</t>
+  </si>
+  <si>
+    <t>Brandenburg</t>
+  </si>
+  <si>
+    <t>Bremen</t>
+  </si>
+  <si>
+    <t>Hamburg</t>
+  </si>
+  <si>
+    <t>Hessen</t>
+  </si>
+  <si>
+    <t>Niedersachsen</t>
+  </si>
+  <si>
+    <t>Nordrhein-West­falen</t>
+  </si>
+  <si>
+    <t>Saarland</t>
+  </si>
+  <si>
+    <t>Sachsen</t>
+  </si>
+  <si>
+    <t>Sachsen-Anhalt</t>
+  </si>
+  <si>
+    <t>Thüringen</t>
+  </si>
+  <si>
+    <t>Infizierte</t>
+  </si>
+  <si>
+    <t>Tote</t>
+  </si>
+  <si>
+    <t>Schleswig-Holstein</t>
+  </si>
+  <si>
+    <t>Baden-Württemberg</t>
+  </si>
+  <si>
+    <t>Mecklenburg-Vorpommern</t>
+  </si>
+  <si>
+    <t>Rhein­landPfalz</t>
+  </si>
+  <si>
+    <t>Nordrhein-Westfalen</t>
+  </si>
+  <si>
+    <t>Rheinland Pfalz</t>
+  </si>
+  <si>
+    <t>Deutschland</t>
+  </si>
+  <si>
+    <t>1. Ableitung</t>
+  </si>
+  <si>
+    <t>2. Ableitung</t>
+  </si>
+  <si>
+    <t>Tote pro Kopf</t>
+  </si>
+  <si>
+    <t>Datum</t>
+  </si>
+  <si>
+    <t>Norddeutschland</t>
+  </si>
+  <si>
+    <t>Anzahl pro Kopf</t>
+  </si>
+</sst>

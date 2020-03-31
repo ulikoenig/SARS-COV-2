@@ -1,1 +1,14 @@
-<p:properties xmlns:p="http://schemas.microsoft.com/office/2006/metadata/properties" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls"> <documentManagement> <msg_Klassifizierung xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">internal</msg_Klassifizierung> <msg_Status xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">draft</msg_Status> <msg_Firma xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30"></msg_Firma> <msg_Version xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">0.1</msg_Version> <msg_Manager xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">[Dokumentverantwortlicher]</msg_Manager> <msg_Dokumententyp xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">Schriftwechsel (allgemein)</msg_Dokumententyp> <msg_gueltig_ab xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">2020-03-09T12:00:00+00:00</msg_gueltig_ab> <msg_gueltig_bis xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">2026-12-31T12:00:00+00:00</msg_gueltig_bis> <msg_Kommentar xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">Neues Dokument erstellt.</msg_Kommentar> </documentManagement> </p:properties>
+<?xml version="1.0"?>
+<p:properties xmlns:p="http://schemas.microsoft.com/office/2006/metadata/properties" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls">
+  <documentManagement>
+    <msg_Klassifizierung xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">internal</msg_Klassifizierung>
+    <msg_Status xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">draft</msg_Status>
+    <msg_Firma xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30"/>
+    <msg_Version xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">0.1</msg_Version>
+    <msg_Manager xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">[Dokumentverantwortlicher]</msg_Manager>
+    <msg_Dokumententyp xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">Schriftwechsel (allgemein)</msg_Dokumententyp>
+    <msg_gueltig_ab xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">2020-03-09T12:00:00+00:00</msg_gueltig_ab>
+    <msg_gueltig_bis xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">2026-12-31T12:00:00+00:00</msg_gueltig_bis>
+    <msg_Kommentar xmlns="1dd69248-66f9-453d-8211-ae5ae34a4b30">Neues Dokument erstellt.</msg_Kommentar>
+  </documentManagement>
+</p:properties>

@@ -1,2 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x15 xr xr6 xr10 xr2" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr6="http://schemas.microsoft.com/office/spreadsheetml/2016/revision6" xmlns:xr10="http://schemas.microsoft.com/office/spreadsheetml/2016/revision10" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2"><fileVersion appName="xl" lastEdited="7" lowestEdited="7" rupBuild="22527"/><workbookPr defaultThemeVersion="166925"/><mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"><mc:Choice Requires="x15"><x15ac:absPath url="C:\Users\ukoenig\Documents\2020\Corona\" xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac"/></mc:Choice></mc:AlternateContent><xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{6CC59E02-4B69-44B3-8777-A0210C05402D}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/><bookViews><workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="582" xr2:uid="{4D893619-35DB-45DF-852E-5C63736BD35E}"/></bookViews><sheets><sheet name="RKI Zahlen" sheetId="1" r:id="rId1"/><sheet name="Vorlage" sheetId="18" r:id="rId2"/><sheet name="DE-Infizierte Abl" sheetId="35" r:id="rId3"/><sheet name="Bunddesländer Absolut" sheetId="23" r:id="rId4"/><sheet name="Bundesländer pro Kopf" sheetId="24" r:id="rId5"/><sheet name="DE-Tote" sheetId="31" r:id="rId6"/><sheet name="DE-Tote Abl" sheetId="37" r:id="rId7"/><sheet name="DE-Tote p. Kopf" sheetId="34" r:id="rId8"/><sheet name="Hamburg" sheetId="26" r:id="rId9"/><sheet name="Norddeutschland" sheetId="19" r:id="rId10"/><sheet name="ND-Tote" sheetId="27" r:id="rId11"/><sheet name="ND-Tote-Abl" sheetId="30" r:id="rId12"/><sheet name="ND-Tote pro Kopf" sheetId="28" r:id="rId13"/><sheet name="ND-Infizierte-Abs" sheetId="20" r:id="rId14"/><sheet name="ND-Ableitung" sheetId="21" r:id="rId15"/><sheet name="ND-pro-Kopf" sheetId="22" r:id="rId16"/></sheets><definedNames><definedName name="_xlnm.Print_Area" localSheetId="0">'RKI Zahlen'!$B$21</definedName></definedNames><calcPr calcId="181029"/><extLst><ext uri="{140A7094-0E35-4892-8432-C4D2E57EDEB5}" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main"><x15:workbookPr chartTrackingRefBase="1"/></ext><ext uri="{B58B0392-4F1F-4190-BB64-5DF3571DCE5F}" xmlns:xcalcf="http://schemas.microsoft.com/office/spreadsheetml/2018/calcfeatures"><xcalcf:calcFeatures><xcalcf:feature name="microsoft.com:RD"/><xcalcf:feature name="microsoft.com:FV"/></xcalcf:calcFeatures></ext></extLst></workbook>
+<workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr6="http://schemas.microsoft.com/office/spreadsheetml/2016/revision6" xmlns:xr10="http://schemas.microsoft.com/office/spreadsheetml/2016/revision10" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" mc:Ignorable="x15 xr xr6 xr10 xr2">
+  <fileVersion appName="xl" lastEdited="7" lowestEdited="7" rupBuild="22527"/>
+  <workbookPr defaultThemeVersion="166925"/>
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice Requires="x15">
+      <x15ac:absPath xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac" url="C:\Users\ukoenig\Documents\2020\Corona\"/>
+    </mc:Choice>
+  </mc:AlternateContent>
+  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{44C5B459-FCFF-4E66-8D87-5C5AE0887BB8}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+  <bookViews>
+    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="582" xr2:uid="{4D893619-35DB-45DF-852E-5C63736BD35E}"/>
+  </bookViews>
+  <sheets>
+    <sheet name="RKI Zahlen" sheetId="1" r:id="rId1"/>
+    <sheet name="Vorlage" sheetId="18" r:id="rId2"/>
+    <sheet name="DE-Infizierte Abl" sheetId="35" r:id="rId3"/>
+    <sheet name="Bunddesländer Absolut" sheetId="23" r:id="rId4"/>
+    <sheet name="Bundesländer pro Kopf" sheetId="24" r:id="rId5"/>
+    <sheet name="DE-Tote" sheetId="31" r:id="rId6"/>
+    <sheet name="DE-Tote Abl" sheetId="37" r:id="rId7"/>
+    <sheet name="DE-Tote p. Kopf" sheetId="34" r:id="rId8"/>
+    <sheet name="Hamburg" sheetId="26" r:id="rId9"/>
+    <sheet name="Norddeutschland" sheetId="19" r:id="rId10"/>
+    <sheet name="ND-Tote" sheetId="27" r:id="rId11"/>
+    <sheet name="ND-Tote-Abl" sheetId="30" r:id="rId12"/>
+    <sheet name="ND-Tote pro Kopf" sheetId="28" r:id="rId13"/>
+    <sheet name="ND-Infizierte-Abs" sheetId="20" r:id="rId14"/>
+    <sheet name="ND-Ableitung" sheetId="21" r:id="rId15"/>
+    <sheet name="ND-pro-Kopf" sheetId="22" r:id="rId16"/>
+  </sheets>
+  <calcPr calcId="181029"/>
+  <extLst>
+    <ext xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" uri="{140A7094-0E35-4892-8432-C4D2E57EDEB5}">
+      <x15:workbookPr chartTrackingRefBase="1"/>
+    </ext>
+    <ext xmlns:xcalcf="http://schemas.microsoft.com/office/spreadsheetml/2018/calcfeatures" uri="{B58B0392-4F1F-4190-BB64-5DF3571DCE5F}">
+      <xcalcf:calcFeatures>
+        <xcalcf:feature name="microsoft.com:RD"/>
+        <xcalcf:feature name="microsoft.com:FV"/>
+      </xcalcf:calcFeatures>
+    </ext>
+  </extLst>
+</workbook>

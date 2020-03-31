@@ -1,2 +1,1101 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<c:chartSpace xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:c16r2="http://schemas.microsoft.com/office/drawing/2015/06/chart"><c:date1904 val="0"/><c:lang val="de-DE"/><c:roundedCorners val="0"/><mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"><mc:Choice Requires="c14" xmlns:c14="http://schemas.microsoft.com/office/drawing/2007/8/2/chart"><c14:style val="102"/></mc:Choice><mc:Fallback><c:style val="2"/></mc:Fallback></mc:AlternateContent><c:chart><c:title><c:tx><c:strRef><c:f>'RKI Zahlen'!$C$44</c:f><c:strCache><c:ptCount val="1"/><c:pt idx="0"><c:v>SARS-CoV-2 Tote</c:v></c:pt></c:strCache></c:strRef></c:tx><c:overlay val="0"/><c:spPr><a:noFill/><a:ln><a:noFill/></a:ln><a:effectLst/></c:spPr><c:txPr><a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/><a:lstStyle/><a:p><a:pPr><a:defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" kern="1200" spc="0" baseline="0"><a:solidFill><a:schemeClr val="tx1"><a:lumMod val="65000"/><a:lumOff val="35000"/></a:schemeClr></a:solidFill><a:latin typeface="+mn-lt"/><a:ea typeface="+mn-ea"/><a:cs typeface="+mn-cs"/></a:defRPr></a:pPr><a:endParaRPr lang="de-DE"/></a:p></c:txPr></c:title><c:autoTitleDeleted val="0"/><c:plotArea><c:layout/><c:barChart><c:barDir val="col"/><c:grouping val="clustered"/><c:varyColors val="0"/><c:ser><c:idx val="0"/><c:order val="0"/><c:tx><c:strRef><c:f>Vorlage!$A$65:$L$65</c:f><c:strCache><c:ptCount val="12"/><c:pt idx="0"><c:v>Deutschland</c:v></c:pt></c:strCache></c:strRef></c:tx><c:spPr><a:solidFill><a:schemeClr val="accent1"/></a:solidFill><a:ln><a:noFill/></a:ln><a:effectLst/></c:spPr><c:invertIfNegative val="0"/><c:dLbls><c:spPr><a:noFill/><a:ln><a:noFill/></a:ln><a:effectLst/></c:spPr><c:txPr><a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr><a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0"><a:solidFill><a:schemeClr val="tx1"><a:lumMod val="75000"/><a:lumOff val="25000"/></a:schemeClr></a:solidFill><a:latin typeface="+mn-lt"/><a:ea typeface="+mn-ea"/><a:cs typeface="+mn-cs"/></a:defRPr></a:pPr><a:endParaRPr lang="de-DE"/></a:p></c:txPr><c:showLegendKey val="0"/><c:showVal val="1"/><c:showCatName val="0"/><c:showSerName val="0"/><c:showPercent val="0"/><c:showBubbleSize val="0"/><c:showLeaderLines val="0"/><c:extLst><c:ext uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}" xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"><c15:showLeaderLines val="1"/><c15:leaderLines><c:spPr><a:ln w="9525" cap="flat" cmpd="sng" algn="ctr"><a:solidFill><a:schemeClr val="tx1"><a:lumMod val="35000"/><a:lumOff val="65000"/></a:schemeClr></a:solidFill><a:round/></a:ln><a:effectLst/></c:spPr></c15:leaderLines></c:ext></c:extLst></c:dLbls><c:cat><c:strRef><c:f>Vorlage!$M$64:$AX$64</c:f><c:strCache><c:ptCount val="23"/><c:pt idx="0"><c:v>09.03.2020</c:v></c:pt><c:pt idx="1"><c:v>10.03.2020</c:v></c:pt><c:pt idx="2"><c:v>11.03.2020</c:v></c:pt><c:pt idx="3"><c:v>12.03.2020</c:v></c:pt><c:pt idx="4"><c:v>13.03.2020</c:v></c:pt><c:pt idx="5"><c:v>14.03.2020</c:v></c:pt><c:pt idx="6"><c:v>15.03.2020</c:v></c:pt><c:pt idx="7"><c:v>16.03.2020</c:v></c:pt><c:pt idx="8"><c:v>17.03.2020</c:v></c:pt><c:pt idx="9"><c:v>18.03.2020</c:v></c:pt><c:pt idx="10"><c:v>19.03.2020</c:v></c:pt><c:pt idx="11"><c:v>20.03.2020</c:v></c:pt><c:pt idx="12"><c:v>21.03.2020</c:v></c:pt><c:pt idx="13"><c:v>22.03.2020</c:v></c:pt><c:pt idx="14"><c:v>23.03.2020</c:v></c:pt><c:pt idx="15"><c:v>24.03.2020</c:v></c:pt><c:pt idx="16"><c:v>25.03.2020</c:v></c:pt><c:pt idx="17"><c:v>26.03.2020</c:v></c:pt><c:pt idx="18"><c:v>27.03.2020</c:v></c:pt><c:pt idx="19"><c:v>28.03.2020</c:v></c:pt><c:pt idx="20"><c:v>29.03.2020</c:v></c:pt><c:pt idx="21"><c:v>30.03.2020</c:v></c:pt><c:pt idx="22"><c:v>31.03.2020</c:v></c:pt></c:strCache></c:strRef></c:cat><c:val><c:numRef><c:f>Vorlage!$M$65:$AX$65</c:f><c:numCache><c:formatCode>#,##0</c:formatCode><c:ptCount val="38"/><c:pt idx="0"><c:v>2</c:v></c:pt><c:pt idx="1"><c:v>2</c:v></c:pt><c:pt idx="2"><c:v>3</c:v></c:pt><c:pt idx="3"><c:v>5</c:v></c:pt><c:pt idx="4"><c:v>5</c:v></c:pt><c:pt idx="5"><c:v>8</c:v></c:pt><c:pt idx="6"><c:v>12</c:v></c:pt><c:pt idx="7"><c:v>13</c:v></c:pt><c:pt idx="8"><c:v>12</c:v></c:pt><c:pt idx="9"><c:v>12</c:v></c:pt><c:pt idx="10"><c:v>20</c:v></c:pt><c:pt idx="11"><c:v>31</c:v></c:pt><c:pt idx="12"><c:v>46</c:v></c:pt><c:pt idx="13"><c:v>55</c:v></c:pt><c:pt idx="14"><c:v>86</c:v></c:pt><c:pt idx="15"><c:v>114</c:v></c:pt><c:pt idx="16"><c:v>149</c:v></c:pt><c:pt idx="17"><c:v>198</c:v></c:pt><c:pt idx="18"><c:v>253</c:v></c:pt><c:pt idx="19"><c:v>325</c:v></c:pt><c:pt idx="20"><c:v>389</c:v></c:pt><c:pt idx="21"><c:v>455</c:v></c:pt><c:pt idx="22"><c:v>583</c:v></c:pt><c:pt idx="23"><c:v>0</c:v></c:pt><c:pt idx="24"><c:v>0</c:v></c:pt><c:pt idx="25"><c:v>0</c:v></c:pt><c:pt idx="26"><c:v>0</c:v></c:pt><c:pt idx="27"><c:v>0</c:v></c:pt><c:pt idx="28"><c:v>0</c:v></c:pt><c:pt idx="29"><c:v>0</c:v></c:pt><c:pt idx="30"><c:v>0</c:v></c:pt><c:pt idx="31"><c:v>0</c:v></c:pt><c:pt idx="32"><c:v>0</c:v></c:pt><c:pt idx="33"><c:v>0</c:v></c:pt><c:pt idx="34"><c:v>0</c:v></c:pt><c:pt idx="35"><c:v>0</c:v></c:pt><c:pt idx="36"><c:v>0</c:v></c:pt><c:pt idx="37"><c:v>0</c:v></c:pt></c:numCache></c:numRef></c:val><c:extLst><c:ext uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}" xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart"><c16:uniqueId val="{00000000-FC63-4A92-9368-68717A536AA1}"/></c:ext></c:extLst></c:ser><c:dLbls><c:showLegendKey val="0"/><c:showVal val="0"/><c:showCatName val="0"/><c:showSerName val="0"/><c:showPercent val="0"/><c:showBubbleSize val="0"/></c:dLbls><c:gapWidth val="219"/><c:axId val="1760516848"/><c:axId val="1761166176"/></c:barChart><c:lineChart><c:grouping val="standard"/><c:varyColors val="0"/><c:ser><c:idx val="1"/><c:order val="1"/><c:tx><c:strRef><c:f>Vorlage!$A$66:$L$66</c:f><c:strCache><c:ptCount val="12"/><c:pt idx="0"><c:v>1. Ableitung</c:v></c:pt></c:strCache></c:strRef></c:tx><c:spPr><a:ln w="28575" cap="rnd"><a:solidFill><a:schemeClr val="accent2"/></a:solidFill><a:round/></a:ln><a:effectLst/></c:spPr><c:marker><c:symbol val="circle"/><c:size val="5"/><c:spPr><a:solidFill><a:schemeClr val="accent2"/></a:solidFill><a:ln w="9525"><a:solidFill><a:schemeClr val="accent2"/></a:solidFill></a:ln><a:effectLst/></c:spPr></c:marker><c:cat><c:strRef><c:f>Vorlage!$M$64:$AX$64</c:f><c:strCache><c:ptCount val="23"/><c:pt idx="0"><c:v>09.03.2020</c:v></c:pt><c:pt idx="1"><c:v>10.03.2020</c:v></c:pt><c:pt idx="2"><c:v>11.03.2020</c:v></c:pt><c:pt idx="3"><c:v>12.03.2020</c:v></c:pt><c:pt idx="4"><c:v>13.03.2020</c:v></c:pt><c:pt idx="5"><c:v>14.03.2020</c:v></c:pt><c:pt idx="6"><c:v>15.03.2020</c:v></c:pt><c:pt idx="7"><c:v>16.03.2020</c:v></c:pt><c:pt idx="8"><c:v>17.03.2020</c:v></c:pt><c:pt idx="9"><c:v>18.03.2020</c:v></c:pt><c:pt idx="10"><c:v>19.03.2020</c:v></c:pt><c:pt idx="11"><c:v>20.03.2020</c:v></c:pt><c:pt idx="12"><c:v>21.03.2020</c:v></c:pt><c:pt idx="13"><c:v>22.03.2020</c:v></c:pt><c:pt idx="14"><c:v>23.03.2020</c:v></c:pt><c:pt idx="15"><c:v>24.03.2020</c:v></c:pt><c:pt idx="16"><c:v>25.03.2020</c:v></c:pt><c:pt idx="17"><c:v>26.03.2020</c:v></c:pt><c:pt idx="18"><c:v>27.03.2020</c:v></c:pt><c:pt idx="19"><c:v>28.03.2020</c:v></c:pt><c:pt idx="20"><c:v>29.03.2020</c:v></c:pt><c:pt idx="21"><c:v>30.03.2020</c:v></c:pt><c:pt idx="22"><c:v>31.03.2020</c:v></c:pt></c:strCache></c:strRef></c:cat><c:val><c:numRef><c:f>Vorlage!$M$66:$AX$66</c:f><c:numCache><c:formatCode>#,##0</c:formatCode><c:ptCount val="38"/><c:pt idx="0"><c:v>0</c:v></c:pt><c:pt idx="1"><c:v>0</c:v></c:pt><c:pt idx="2"><c:v>1</c:v></c:pt><c:pt idx="3"><c:v>2</c:v></c:pt><c:pt idx="4"><c:v>0</c:v></c:pt><c:pt idx="5"><c:v>3</c:v></c:pt><c:pt idx="6"><c:v>4</c:v></c:pt><c:pt idx="7"><c:v>1</c:v></c:pt><c:pt idx="8"><c:v>-1</c:v></c:pt><c:pt idx="9"><c:v>0</c:v></c:pt><c:pt idx="10"><c:v>8</c:v></c:pt><c:pt idx="11"><c:v>11</c:v></c:pt><c:pt idx="12"><c:v>15</c:v></c:pt><c:pt idx="13"><c:v>9</c:v></c:pt><c:pt idx="14"><c:v>31</c:v></c:pt><c:pt idx="15"><c:v>28</c:v></c:pt><c:pt idx="16"><c:v>35</c:v></c:pt><c:pt idx="17"><c:v>49</c:v></c:pt><c:pt idx="18"><c:v>55</c:v></c:pt><c:pt idx="19"><c:v>72</c:v></c:pt><c:pt idx="20"><c:v>64</c:v></c:pt><c:pt idx="21"><c:v>66</c:v></c:pt><c:pt idx="22"><c:v>128</c:v></c:pt><c:pt idx="23"><c:v>0</c:v></c:pt><c:pt idx="24"><c:v>0</c:v></c:pt><c:pt idx="25"><c:v>0</c:v></c:pt><c:pt idx="26"><c:v>0</c:v></c:pt><c:pt idx="27"><c:v>0</c:v></c:pt><c:pt idx="28"><c:v>0</c:v></c:pt><c:pt idx="29"><c:v>0</c:v></c:pt><c:pt idx="30"><c:v>0</c:v></c:pt><c:pt idx="31"><c:v>0</c:v></c:pt><c:pt idx="32"><c:v>0</c:v></c:pt><c:pt idx="33"><c:v>0</c:v></c:pt><c:pt idx="34"><c:v>0</c:v></c:pt><c:pt idx="35"><c:v>0</c:v></c:pt><c:pt idx="36"><c:v>0</c:v></c:pt><c:pt idx="37"><c:v>0</c:v></c:pt></c:numCache></c:numRef></c:val><c:smooth val="0"/><c:extLst><c:ext uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}" xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart"><c16:uniqueId val="{00000001-FC63-4A92-9368-68717A536AA1}"/></c:ext></c:extLst></c:ser><c:ser><c:idx val="2"/><c:order val="2"/><c:tx><c:strRef><c:f>Vorlage!$A$67:$L$67</c:f><c:strCache><c:ptCount val="12"/><c:pt idx="0"><c:v>2. Ableitung</c:v></c:pt></c:strCache></c:strRef></c:tx><c:spPr><a:ln w="28575" cap="rnd"><a:solidFill><a:schemeClr val="accent3"/></a:solidFill><a:round/></a:ln><a:effectLst/></c:spPr><c:marker><c:symbol val="circle"/><c:size val="5"/><c:spPr><a:solidFill><a:schemeClr val="accent3"/></a:solidFill><a:ln w="9525"><a:solidFill><a:schemeClr val="accent3"/></a:solidFill></a:ln><a:effectLst/></c:spPr></c:marker><c:cat><c:strRef><c:f>Vorlage!$M$64:$AX$64</c:f><c:strCache><c:ptCount val="23"/><c:pt idx="0"><c:v>09.03.2020</c:v></c:pt><c:pt idx="1"><c:v>10.03.2020</c:v></c:pt><c:pt idx="2"><c:v>11.03.2020</c:v></c:pt><c:pt idx="3"><c:v>12.03.2020</c:v></c:pt><c:pt idx="4"><c:v>13.03.2020</c:v></c:pt><c:pt idx="5"><c:v>14.03.2020</c:v></c:pt><c:pt idx="6"><c:v>15.03.2020</c:v></c:pt><c:pt idx="7"><c:v>16.03.2020</c:v></c:pt><c:pt idx="8"><c:v>17.03.2020</c:v></c:pt><c:pt idx="9"><c:v>18.03.2020</c:v></c:pt><c:pt idx="10"><c:v>19.03.2020</c:v></c:pt><c:pt idx="11"><c:v>20.03.2020</c:v></c:pt><c:pt idx="12"><c:v>21.03.2020</c:v></c:pt><c:pt idx="13"><c:v>22.03.2020</c:v></c:pt><c:pt idx="14"><c:v>23.03.2020</c:v></c:pt><c:pt idx="15"><c:v>24.03.2020</c:v></c:pt><c:pt idx="16"><c:v>25.03.2020</c:v></c:pt><c:pt idx="17"><c:v>26.03.2020</c:v></c:pt><c:pt idx="18"><c:v>27.03.2020</c:v></c:pt><c:pt idx="19"><c:v>28.03.2020</c:v></c:pt><c:pt idx="20"><c:v>29.03.2020</c:v></c:pt><c:pt idx="21"><c:v>30.03.2020</c:v></c:pt><c:pt idx="22"><c:v>31.03.2020</c:v></c:pt></c:strCache></c:strRef></c:cat><c:val><c:numRef><c:f>Vorlage!$M$67:$AX$67</c:f><c:numCache><c:formatCode>#,##0</c:formatCode><c:ptCount val="38"/><c:pt idx="0"><c:v>0</c:v></c:pt><c:pt idx="1"><c:v>0</c:v></c:pt><c:pt idx="2"><c:v>1</c:v></c:pt><c:pt idx="3"><c:v>1</c:v></c:pt><c:pt idx="4"><c:v>-2</c:v></c:pt><c:pt idx="5"><c:v>3</c:v></c:pt><c:pt idx="6"><c:v>1</c:v></c:pt><c:pt idx="7"><c:v>-3</c:v></c:pt><c:pt idx="8"><c:v>-2</c:v></c:pt><c:pt idx="9"><c:v>1</c:v></c:pt><c:pt idx="10"><c:v>8</c:v></c:pt><c:pt idx="11"><c:v>3</c:v></c:pt><c:pt idx="12"><c:v>4</c:v></c:pt><c:pt idx="13"><c:v>-6</c:v></c:pt><c:pt idx="14"><c:v>22</c:v></c:pt><c:pt idx="15"><c:v>-3</c:v></c:pt><c:pt idx="16"><c:v>7</c:v></c:pt><c:pt idx="17"><c:v>14</c:v></c:pt><c:pt idx="18"><c:v>6</c:v></c:pt><c:pt idx="19"><c:v>17</c:v></c:pt><c:pt idx="20"><c:v>-8</c:v></c:pt><c:pt idx="21"><c:v>2</c:v></c:pt><c:pt idx="22"><c:v>62</c:v></c:pt><c:pt idx="23"><c:v>0</c:v></c:pt><c:pt idx="24"><c:v>0</c:v></c:pt><c:pt idx="25"><c:v>0</c:v></c:pt><c:pt idx="26"><c:v>0</c:v></c:pt><c:pt idx="27"><c:v>0</c:v></c:pt><c:pt idx="28"><c:v>0</c:v></c:pt><c:pt idx="29"><c:v>0</c:v></c:pt><c:pt idx="30"><c:v>0</c:v></c:pt><c:pt idx="31"><c:v>0</c:v></c:pt><c:pt idx="32"><c:v>0</c:v></c:pt><c:pt idx="33"><c:v>0</c:v></c:pt><c:pt idx="34"><c:v>0</c:v></c:pt><c:pt idx="35"><c:v>0</c:v></c:pt><c:pt idx="36"><c:v>0</c:v></c:pt><c:pt idx="37"><c:v>0</c:v></c:pt></c:numCache></c:numRef></c:val><c:smooth val="0"/><c:extLst><c:ext uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}" xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart"><c16:uniqueId val="{00000002-FC63-4A92-9368-68717A536AA1}"/></c:ext></c:extLst></c:ser><c:dLbls><c:showLegendKey val="0"/><c:showVal val="0"/><c:showCatName val="0"/><c:showSerName val="0"/><c:showPercent val="0"/><c:showBubbleSize val="0"/></c:dLbls><c:marker val="1"/><c:smooth val="0"/><c:axId val="1403154656"/><c:axId val="1761170336"/></c:lineChart><c:dateAx><c:axId val="1760516848"/><c:scaling><c:orientation val="minMax"/></c:scaling><c:delete val="0"/><c:axPos val="b"/><c:numFmt formatCode="m/d/yyyy" sourceLinked="1"/><c:majorTickMark val="out"/><c:minorTickMark val="none"/><c:tickLblPos val="nextTo"/><c:spPr><a:noFill/><a:ln w="9525" cap="flat" cmpd="sng" algn="ctr"><a:solidFill><a:schemeClr val="tx1"><a:lumMod val="15000"/><a:lumOff val="85000"/></a:schemeClr></a:solidFill><a:round/></a:ln><a:effectLst/></c:spPr><c:txPr><a:bodyPr rot="-60000000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/><a:lstStyle/><a:p><a:pPr><a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0"><a:solidFill><a:schemeClr val="tx1"><a:lumMod val="65000"/><a:lumOff val="35000"/></a:schemeClr></a:solidFill><a:latin typeface="+mn-lt"/><a:ea typeface="+mn-ea"/><a:cs typeface="+mn-cs"/></a:defRPr></a:pPr><a:endParaRPr lang="de-DE"/></a:p></c:txPr><c:crossAx val="1761166176"/><c:crosses val="autoZero"/><c:auto val="1"/><c:lblOffset val="100"/><c:baseTimeUnit val="days"/></c:dateAx><c:valAx><c:axId val="1761166176"/><c:scaling><c:orientation val="minMax"/></c:scaling><c:delete val="0"/><c:axPos val="l"/><c:majorGridlines><c:spPr><a:ln w="9525" cap="flat" cmpd="sng" algn="ctr"><a:solidFill><a:schemeClr val="tx1"><a:lumMod val="15000"/><a:lumOff val="85000"/></a:schemeClr></a:solidFill><a:round/></a:ln><a:effectLst/></c:spPr></c:majorGridlines><c:numFmt formatCode="#,##0" sourceLinked="1"/><c:majorTickMark val="none"/><c:minorTickMark val="none"/><c:tickLblPos val="nextTo"/><c:spPr><a:noFill/><a:ln><a:noFill/></a:ln><a:effectLst/></c:spPr><c:txPr><a:bodyPr rot="-60000000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/><a:lstStyle/><a:p><a:pPr><a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0"><a:solidFill><a:schemeClr val="tx1"><a:lumMod val="65000"/><a:lumOff val="35000"/></a:schemeClr></a:solidFill><a:latin typeface="+mn-lt"/><a:ea typeface="+mn-ea"/><a:cs typeface="+mn-cs"/></a:defRPr></a:pPr><a:endParaRPr lang="de-DE"/></a:p></c:txPr><c:crossAx val="1760516848"/><c:crosses val="autoZero"/><c:crossBetween val="between"/></c:valAx><c:valAx><c:axId val="1761170336"/><c:scaling><c:orientation val="minMax"/></c:scaling><c:delete val="0"/><c:axPos val="r"/><c:numFmt formatCode="#,##0" sourceLinked="1"/><c:majorTickMark val="out"/><c:minorTickMark val="none"/><c:tickLblPos val="nextTo"/><c:spPr><a:noFill/><a:ln><a:noFill/></a:ln><a:effectLst/></c:spPr><c:txPr><a:bodyPr rot="-60000000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/><a:lstStyle/><a:p><a:pPr><a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0"><a:solidFill><a:schemeClr val="tx1"><a:lumMod val="65000"/><a:lumOff val="35000"/></a:schemeClr></a:solidFill><a:latin typeface="+mn-lt"/><a:ea typeface="+mn-ea"/><a:cs typeface="+mn-cs"/></a:defRPr></a:pPr><a:endParaRPr lang="de-DE"/></a:p></c:txPr><c:crossAx val="1403154656"/><c:crosses val="max"/><c:crossBetween val="between"/></c:valAx><c:dateAx><c:axId val="1403154656"/><c:scaling><c:orientation val="minMax"/></c:scaling><c:delete val="1"/><c:axPos val="b"/><c:numFmt formatCode="m/d/yyyy" sourceLinked="1"/><c:majorTickMark val="out"/><c:minorTickMark val="none"/><c:tickLblPos val="nextTo"/><c:crossAx val="1761170336"/><c:crosses val="autoZero"/><c:auto val="1"/><c:lblOffset val="100"/><c:baseTimeUnit val="days"/></c:dateAx><c:spPr><a:noFill/><a:ln><a:noFill/></a:ln><a:effectLst/></c:spPr></c:plotArea><c:legend><c:legendPos val="b"/><c:overlay val="0"/><c:spPr><a:noFill/><a:ln><a:noFill/></a:ln><a:effectLst/></c:spPr><c:txPr><a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/><a:lstStyle/><a:p><a:pPr><a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0"><a:solidFill><a:schemeClr val="tx1"><a:lumMod val="65000"/><a:lumOff val="35000"/></a:schemeClr></a:solidFill><a:latin typeface="+mn-lt"/><a:ea typeface="+mn-ea"/><a:cs typeface="+mn-cs"/></a:defRPr></a:pPr><a:endParaRPr lang="de-DE"/></a:p></c:txPr></c:legend><c:plotVisOnly val="1"/><c:dispBlanksAs val="gap"/><c:showDLblsOverMax val="0"/></c:chart><c:spPr><a:solidFill><a:schemeClr val="bg1"/></a:solidFill><a:ln w="9525" cap="flat" cmpd="sng" algn="ctr"><a:solidFill><a:schemeClr val="tx1"><a:lumMod val="15000"/><a:lumOff val="85000"/></a:schemeClr></a:solidFill><a:round/></a:ln><a:effectLst/></c:spPr><c:txPr><a:bodyPr/><a:lstStyle/><a:p><a:pPr><a:defRPr/></a:pPr><a:endParaRPr lang="de-DE"/></a:p></c:txPr></c:chartSpace>
+<c:chartSpace xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:c16r2="http://schemas.microsoft.com/office/drawing/2015/06/chart">
+  <c:date1904 val="0"/>
+  <c:lang val="de-DE"/>
+  <c:roundedCorners val="0"/>
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice xmlns:c14="http://schemas.microsoft.com/office/drawing/2007/8/2/chart" Requires="c14">
+      <c14:style val="102"/>
+    </mc:Choice>
+    <mc:Fallback>
+      <c:style val="2"/>
+    </mc:Fallback>
+  </mc:AlternateContent>
+  <c:chart>
+    <c:title>
+      <c:tx>
+        <c:strRef>
+          <c:f>'RKI Zahlen'!$C$44</c:f>
+          <c:strCache>
+            <c:ptCount val="1"/>
+            <c:pt idx="0">
+              <c:v>SARS-CoV-2 Tote</c:v>
+            </c:pt>
+          </c:strCache>
+        </c:strRef>
+      </c:tx>
+      <c:overlay val="0"/>
+      <c:spPr>
+        <a:noFill/>
+        <a:ln>
+          <a:noFill/>
+        </a:ln>
+        <a:effectLst/>
+      </c:spPr>
+      <c:txPr>
+        <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/>
+        <a:lstStyle/>
+        <a:p>
+          <a:pPr>
+            <a:defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" kern="1200" spc="0" baseline="0">
+              <a:solidFill>
+                <a:schemeClr val="tx1">
+                  <a:lumMod val="65000"/>
+                  <a:lumOff val="35000"/>
+                </a:schemeClr>
+              </a:solidFill>
+              <a:latin typeface="+mn-lt"/>
+              <a:ea typeface="+mn-ea"/>
+              <a:cs typeface="+mn-cs"/>
+            </a:defRPr>
+          </a:pPr>
+          <a:endParaRPr lang="de-DE"/>
+        </a:p>
+      </c:txPr>
+    </c:title>
+    <c:autoTitleDeleted val="0"/>
+    <c:plotArea>
+      <c:layout/>
+      <c:barChart>
+        <c:barDir val="col"/>
+        <c:grouping val="clustered"/>
+        <c:varyColors val="0"/>
+        <c:ser>
+          <c:idx val="0"/>
+          <c:order val="0"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>Vorlage!$A$65:$L$65</c:f>
+              <c:strCache>
+                <c:ptCount val="12"/>
+                <c:pt idx="0">
+                  <c:v>Deutschland</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:tx>
+          <c:spPr>
+            <a:solidFill>
+              <a:schemeClr val="accent1"/>
+            </a:solidFill>
+            <a:ln>
+              <a:noFill/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+          <c:invertIfNegative val="0"/>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:txPr>
+              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+                <a:spAutoFit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr>
+                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                    <a:solidFill>
+                      <a:schemeClr val="tx1">
+                        <a:lumMod val="75000"/>
+                        <a:lumOff val="25000"/>
+                      </a:schemeClr>
+                    </a:solidFill>
+                    <a:latin typeface="+mn-lt"/>
+                    <a:ea typeface="+mn-ea"/>
+                    <a:cs typeface="+mn-cs"/>
+                  </a:defRPr>
+                </a:pPr>
+                <a:endParaRPr lang="de-DE"/>
+              </a:p>
+            </c:txPr>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst>
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+                <c15:leaderLines>
+                  <c:spPr>
+                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                      <a:solidFill>
+                        <a:schemeClr val="tx1">
+                          <a:lumMod val="35000"/>
+                          <a:lumOff val="65000"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:round/>
+                    </a:ln>
+                    <a:effectLst/>
+                  </c:spPr>
+                </c15:leaderLines>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
+          <c:cat>
+            <c:strRef>
+              <c:f>Vorlage!$M$64:$AX$64</c:f>
+              <c:strCache>
+                <c:ptCount val="23"/>
+                <c:pt idx="0">
+                  <c:v>09.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>10.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>11.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>12.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>13.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>14.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>15.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>16.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>17.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>18.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>19.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>20.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>21.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>22.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>23.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>24.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>25.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>26.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>27.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="19">
+                  <c:v>28.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="20">
+                  <c:v>29.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="21">
+                  <c:v>30.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="22">
+                  <c:v>31.03.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>Vorlage!$M$65:$AX$65</c:f>
+              <c:numCache>
+                <c:formatCode>#,##0</c:formatCode>
+                <c:ptCount val="38"/>
+                <c:pt idx="0">
+                  <c:v>2</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>2</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>3</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>5</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>5</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>8</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>12</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>13</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>12</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>12</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>20</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>31</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>46</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>55</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>86</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>114</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>149</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>198</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>253</c:v>
+                </c:pt>
+                <c:pt idx="19">
+                  <c:v>325</c:v>
+                </c:pt>
+                <c:pt idx="20">
+                  <c:v>389</c:v>
+                </c:pt>
+                <c:pt idx="21">
+                  <c:v>455</c:v>
+                </c:pt>
+                <c:pt idx="22">
+                  <c:v>583</c:v>
+                </c:pt>
+                <c:pt idx="23">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="25">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="26">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="27">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="28">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="29">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="30">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="31">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="32">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="33">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="35">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="36">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="37">
+                  <c:v>0</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:val>
+          <c:extLst>
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000000-FC63-4A92-9368-68717A536AA1}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
+        <c:dLbls>
+          <c:showLegendKey val="0"/>
+          <c:showVal val="0"/>
+          <c:showCatName val="0"/>
+          <c:showSerName val="0"/>
+          <c:showPercent val="0"/>
+          <c:showBubbleSize val="0"/>
+        </c:dLbls>
+        <c:gapWidth val="219"/>
+        <c:axId val="1760516848"/>
+        <c:axId val="1761166176"/>
+      </c:barChart>
+      <c:lineChart>
+        <c:grouping val="standard"/>
+        <c:varyColors val="0"/>
+        <c:ser>
+          <c:idx val="1"/>
+          <c:order val="1"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>Vorlage!$A$66:$L$66</c:f>
+              <c:strCache>
+                <c:ptCount val="12"/>
+                <c:pt idx="0">
+                  <c:v>1. Ableitung</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:tx>
+          <c:spPr>
+            <a:ln w="28575" cap="rnd">
+              <a:solidFill>
+                <a:schemeClr val="accent2"/>
+              </a:solidFill>
+              <a:round/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+          <c:marker>
+            <c:symbol val="circle"/>
+            <c:size val="5"/>
+            <c:spPr>
+              <a:solidFill>
+                <a:schemeClr val="accent2"/>
+              </a:solidFill>
+              <a:ln w="9525">
+                <a:solidFill>
+                  <a:schemeClr val="accent2"/>
+                </a:solidFill>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+          </c:marker>
+          <c:cat>
+            <c:strRef>
+              <c:f>Vorlage!$M$64:$AX$64</c:f>
+              <c:strCache>
+                <c:ptCount val="23"/>
+                <c:pt idx="0">
+                  <c:v>09.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>10.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>11.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>12.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>13.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>14.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>15.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>16.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>17.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>18.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>19.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>20.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>21.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>22.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>23.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>24.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>25.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>26.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>27.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="19">
+                  <c:v>28.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="20">
+                  <c:v>29.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="21">
+                  <c:v>30.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="22">
+                  <c:v>31.03.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>Vorlage!$M$66:$AX$66</c:f>
+              <c:numCache>
+                <c:formatCode>#,##0</c:formatCode>
+                <c:ptCount val="38"/>
+                <c:pt idx="0">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>1</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>2</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>3</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>4</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>1</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>-1</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>8</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>11</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>15</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>9</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>31</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>28</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>35</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>49</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>55</c:v>
+                </c:pt>
+                <c:pt idx="19">
+                  <c:v>72</c:v>
+                </c:pt>
+                <c:pt idx="20">
+                  <c:v>64</c:v>
+                </c:pt>
+                <c:pt idx="21">
+                  <c:v>66</c:v>
+                </c:pt>
+                <c:pt idx="22">
+                  <c:v>128</c:v>
+                </c:pt>
+                <c:pt idx="23">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="25">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="26">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="27">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="28">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="29">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="30">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="31">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="32">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="33">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="35">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="36">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="37">
+                  <c:v>0</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:val>
+          <c:smooth val="0"/>
+          <c:extLst>
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000001-FC63-4A92-9368-68717A536AA1}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
+        <c:ser>
+          <c:idx val="2"/>
+          <c:order val="2"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>Vorlage!$A$67:$L$67</c:f>
+              <c:strCache>
+                <c:ptCount val="12"/>
+                <c:pt idx="0">
+                  <c:v>2. Ableitung</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:tx>
+          <c:spPr>
+            <a:ln w="28575" cap="rnd">
+              <a:solidFill>
+                <a:schemeClr val="accent3"/>
+              </a:solidFill>
+              <a:round/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+          <c:marker>
+            <c:symbol val="circle"/>
+            <c:size val="5"/>
+            <c:spPr>
+              <a:solidFill>
+                <a:schemeClr val="accent3"/>
+              </a:solidFill>
+              <a:ln w="9525">
+                <a:solidFill>
+                  <a:schemeClr val="accent3"/>
+                </a:solidFill>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+          </c:marker>
+          <c:cat>
+            <c:strRef>
+              <c:f>Vorlage!$M$64:$AX$64</c:f>
+              <c:strCache>
+                <c:ptCount val="23"/>
+                <c:pt idx="0">
+                  <c:v>09.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>10.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>11.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>12.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>13.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>14.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>15.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>16.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>17.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>18.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>19.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>20.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>21.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>22.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>23.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>24.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>25.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>26.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>27.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="19">
+                  <c:v>28.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="20">
+                  <c:v>29.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="21">
+                  <c:v>30.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="22">
+                  <c:v>31.03.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>Vorlage!$M$67:$AX$67</c:f>
+              <c:numCache>
+                <c:formatCode>#,##0</c:formatCode>
+                <c:ptCount val="38"/>
+                <c:pt idx="0">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>1</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>1</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>-2</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>3</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>1</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>-3</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>-2</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>1</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>8</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>3</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>4</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>-6</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>22</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>-3</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>7</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>14</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>6</c:v>
+                </c:pt>
+                <c:pt idx="19">
+                  <c:v>17</c:v>
+                </c:pt>
+                <c:pt idx="20">
+                  <c:v>-8</c:v>
+                </c:pt>
+                <c:pt idx="21">
+                  <c:v>2</c:v>
+                </c:pt>
+                <c:pt idx="22">
+                  <c:v>62</c:v>
+                </c:pt>
+                <c:pt idx="23">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="25">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="26">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="27">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="28">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="29">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="30">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="31">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="32">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="33">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="35">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="36">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="37">
+                  <c:v>0</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:val>
+          <c:smooth val="0"/>
+          <c:extLst>
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000002-FC63-4A92-9368-68717A536AA1}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
+        <c:dLbls>
+          <c:showLegendKey val="0"/>
+          <c:showVal val="0"/>
+          <c:showCatName val="0"/>
+          <c:showSerName val="0"/>
+          <c:showPercent val="0"/>
+          <c:showBubbleSize val="0"/>
+        </c:dLbls>
+        <c:marker val="1"/>
+        <c:smooth val="0"/>
+        <c:axId val="1403154656"/>
+        <c:axId val="1761170336"/>
+      </c:lineChart>
+      <c:dateAx>
+        <c:axId val="1760516848"/>
+        <c:scaling>
+          <c:orientation val="minMax"/>
+        </c:scaling>
+        <c:delete val="0"/>
+        <c:axPos val="b"/>
+        <c:numFmt formatCode="m/d/yyyy" sourceLinked="1"/>
+        <c:majorTickMark val="out"/>
+        <c:minorTickMark val="none"/>
+        <c:tickLblPos val="nextTo"/>
+        <c:spPr>
+          <a:noFill/>
+          <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+            <a:solidFill>
+              <a:schemeClr val="tx1">
+                <a:lumMod val="15000"/>
+                <a:lumOff val="85000"/>
+              </a:schemeClr>
+            </a:solidFill>
+            <a:round/>
+          </a:ln>
+          <a:effectLst/>
+        </c:spPr>
+        <c:txPr>
+          <a:bodyPr rot="-60000000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr>
+              <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                <a:solidFill>
+                  <a:schemeClr val="tx1">
+                    <a:lumMod val="65000"/>
+                    <a:lumOff val="35000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="+mn-lt"/>
+                <a:ea typeface="+mn-ea"/>
+                <a:cs typeface="+mn-cs"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:endParaRPr lang="de-DE"/>
+          </a:p>
+        </c:txPr>
+        <c:crossAx val="1761166176"/>
+        <c:crosses val="autoZero"/>
+        <c:auto val="1"/>
+        <c:lblOffset val="100"/>
+        <c:baseTimeUnit val="days"/>
+      </c:dateAx>
+      <c:valAx>
+        <c:axId val="1761166176"/>
+        <c:scaling>
+          <c:orientation val="minMax"/>
+        </c:scaling>
+        <c:delete val="0"/>
+        <c:axPos val="l"/>
+        <c:majorGridlines>
+          <c:spPr>
+            <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+              <a:solidFill>
+                <a:schemeClr val="tx1">
+                  <a:lumMod val="15000"/>
+                  <a:lumOff val="85000"/>
+                </a:schemeClr>
+              </a:solidFill>
+              <a:round/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+        </c:majorGridlines>
+        <c:numFmt formatCode="#,##0" sourceLinked="1"/>
+        <c:majorTickMark val="none"/>
+        <c:minorTickMark val="none"/>
+        <c:tickLblPos val="nextTo"/>
+        <c:spPr>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+          <a:effectLst/>
+        </c:spPr>
+        <c:txPr>
+          <a:bodyPr rot="-60000000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr>
+              <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                <a:solidFill>
+                  <a:schemeClr val="tx1">
+                    <a:lumMod val="65000"/>
+                    <a:lumOff val="35000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="+mn-lt"/>
+                <a:ea typeface="+mn-ea"/>
+                <a:cs typeface="+mn-cs"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:endParaRPr lang="de-DE"/>
+          </a:p>
+        </c:txPr>
+        <c:crossAx val="1760516848"/>
+        <c:crosses val="autoZero"/>
+        <c:crossBetween val="between"/>
+      </c:valAx>
+      <c:valAx>
+        <c:axId val="1761170336"/>
+        <c:scaling>
+          <c:orientation val="minMax"/>
+        </c:scaling>
+        <c:delete val="0"/>
+        <c:axPos val="r"/>
+        <c:numFmt formatCode="#,##0" sourceLinked="1"/>
+        <c:majorTickMark val="out"/>
+        <c:minorTickMark val="none"/>
+        <c:tickLblPos val="nextTo"/>
+        <c:spPr>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+          <a:effectLst/>
+        </c:spPr>
+        <c:txPr>
+          <a:bodyPr rot="-60000000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr>
+              <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                <a:solidFill>
+                  <a:schemeClr val="tx1">
+                    <a:lumMod val="65000"/>
+                    <a:lumOff val="35000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="+mn-lt"/>
+                <a:ea typeface="+mn-ea"/>
+                <a:cs typeface="+mn-cs"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:endParaRPr lang="de-DE"/>
+          </a:p>
+        </c:txPr>
+        <c:crossAx val="1403154656"/>
+        <c:crosses val="max"/>
+        <c:crossBetween val="between"/>
+      </c:valAx>
+      <c:dateAx>
+        <c:axId val="1403154656"/>
+        <c:scaling>
+          <c:orientation val="minMax"/>
+        </c:scaling>
+        <c:delete val="1"/>
+        <c:axPos val="b"/>
+        <c:numFmt formatCode="m/d/yyyy" sourceLinked="1"/>
+        <c:majorTickMark val="out"/>
+        <c:minorTickMark val="none"/>
+        <c:tickLblPos val="nextTo"/>
+        <c:crossAx val="1761170336"/>
+        <c:crosses val="autoZero"/>
+        <c:auto val="1"/>
+        <c:lblOffset val="100"/>
+        <c:baseTimeUnit val="days"/>
+      </c:dateAx>
+      <c:spPr>
+        <a:noFill/>
+        <a:ln>
+          <a:noFill/>
+        </a:ln>
+        <a:effectLst/>
+      </c:spPr>
+    </c:plotArea>
+    <c:legend>
+      <c:legendPos val="b"/>
+      <c:overlay val="0"/>
+      <c:spPr>
+        <a:noFill/>
+        <a:ln>
+          <a:noFill/>
+        </a:ln>
+        <a:effectLst/>
+      </c:spPr>
+      <c:txPr>
+        <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/>
+        <a:lstStyle/>
+        <a:p>
+          <a:pPr>
+            <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+              <a:solidFill>
+                <a:schemeClr val="tx1">
+                  <a:lumMod val="65000"/>
+                  <a:lumOff val="35000"/>
+                </a:schemeClr>
+              </a:solidFill>
+              <a:latin typeface="+mn-lt"/>
+              <a:ea typeface="+mn-ea"/>
+              <a:cs typeface="+mn-cs"/>
+            </a:defRPr>
+          </a:pPr>
+          <a:endParaRPr lang="de-DE"/>
+        </a:p>
+      </c:txPr>
+    </c:legend>
+    <c:plotVisOnly val="1"/>
+    <c:dispBlanksAs val="gap"/>
+    <c:showDLblsOverMax val="0"/>
+  </c:chart>
+  <c:spPr>
+    <a:solidFill>
+      <a:schemeClr val="bg1"/>
+    </a:solidFill>
+    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+      <a:solidFill>
+        <a:schemeClr val="tx1">
+          <a:lumMod val="15000"/>
+          <a:lumOff val="85000"/>
+        </a:schemeClr>
+      </a:solidFill>
+      <a:round/>
+    </a:ln>
+    <a:effectLst/>
+  </c:spPr>
+  <c:txPr>
+    <a:bodyPr/>
+    <a:lstStyle/>
+    <a:p>
+      <a:pPr>
+        <a:defRPr/>
+      </a:pPr>
+      <a:endParaRPr lang="de-DE"/>
+    </a:p>
+  </c:txPr>
+</c:chartSpace>

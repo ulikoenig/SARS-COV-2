@@ -1,2 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="100" uniqueCount="23"><si><t>Dithmarschen</t></si><si><t>Flensburg</t></si><si><t>Herzogtum Lauenburg</t></si><si><t>Kiel</t></si><si><t>Lübeck</t></si><si><t>Neumünster</t></si><si><t>Nordfriesland</t></si><si><t>Ostholstein</t></si><si><t>Pinneberg</t></si><si><t>Plön</t></si><si><t>Rendsburg-Eckernförde</t></si><si><t>Schleswig-Flensburg</t></si><si><t>Segeberg</t></si><si><t>Steinburg</t></si><si><t>Stormarn</t></si><si><t>Einwohner</t></si><si><t>Datum</t></si><si><t>Änderung zum Vortag (1. Ableitung)</t></si><si><t>Beschleunigung (2. Ableitung)</t></si><si><t>Infizierte in Schleswig-Holstein</t></si><si><t>Anzahl pro Kopf</t></si><si><t>SH</t></si><si><t>Irgendwo in SH/Unbekannt</t></si></sst>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="100" uniqueCount="23">
+  <si>
+    <t>Dithmarschen</t>
+  </si>
+  <si>
+    <t>Flensburg</t>
+  </si>
+  <si>
+    <t>Herzogtum Lauenburg</t>
+  </si>
+  <si>
+    <t>Kiel</t>
+  </si>
+  <si>
+    <t>Lübeck</t>
+  </si>
+  <si>
+    <t>Neumünster</t>
+  </si>
+  <si>
+    <t>Nordfriesland</t>
+  </si>
+  <si>
+    <t>Ostholstein</t>
+  </si>
+  <si>
+    <t>Pinneberg</t>
+  </si>
+  <si>
+    <t>Plön</t>
+  </si>
+  <si>
+    <t>Rendsburg-Eckernförde</t>
+  </si>
+  <si>
+    <t>Schleswig-Flensburg</t>
+  </si>
+  <si>
+    <t>Segeberg</t>
+  </si>
+  <si>
+    <t>Steinburg</t>
+  </si>
+  <si>
+    <t>Stormarn</t>
+  </si>
+  <si>
+    <t>Einwohner</t>
+  </si>
+  <si>
+    <t>Datum</t>
+  </si>
+  <si>
+    <t>Änderung zum Vortag (1. Ableitung)</t>
+  </si>
+  <si>
+    <t>Beschleunigung (2. Ableitung)</t>
+  </si>
+  <si>
+    <t>Infizierte in Schleswig-Holstein</t>
+  </si>
+  <si>
+    <t>Anzahl pro Kopf</t>
+  </si>
+  <si>
+    <t>SH</t>
+  </si>
+  <si>
+    <t>Irgendwo in SH/Unbekannt</t>
+  </si>
+</sst>
