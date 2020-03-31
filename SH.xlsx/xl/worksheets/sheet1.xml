@@ -3,8 +3,8 @@
   <dimension ref="A1:BM110"/>
   <sheetViews>
     <sheetView tabSelected="1" zoomScale="55" zoomScaleNormal="55" workbookViewId="0">
-      <pane xSplit="1" topLeftCell="B1" activePane="topRight" state="frozen"/>
-      <selection pane="topRight" activeCell="BD183" sqref="BD183"/>
+      <pane xSplit="1" topLeftCell="AE1" activePane="topRight" state="frozen"/>
+      <selection pane="topRight" activeCell="BI23" sqref="BI23"/>
     </sheetView>
   </sheetViews>
   <sheetFormatPr baseColWidth="10" defaultRowHeight="14.25" x14ac:dyDescent="0.45"/>
@@ -192,6 +192,10 @@
         <f>IF(ISNUMBER(BG18),BF1+1,"")</f>
         <v>43919</v>
       </c>
+      <c r="BH1" s="10">
+        <f>IF(ISNUMBER(BH18),BG1+1,"")</f>
+        <v>43920</v>
+      </c>
       <c r="BK1" s="32"/>
       <c r="BL1" s="32"/>
       <c r="BM1" s="32"/>
@@ -373,6 +377,9 @@
       </c>
       <c r="BG2">
         <v>23</v>
+      </c>
+      <c r="BH2" s="3">
+        <v>26</v>
       </c>
       <c r="BK2" s="3"/>
       <c r="BL2" s="3"/>
@@ -556,6 +563,9 @@
       <c r="BG3">
         <v>22</v>
       </c>
+      <c r="BH3" s="3">
+        <v>23</v>
+      </c>
       <c r="BK3" s="3"/>
       <c r="BL3" s="3"/>
       <c r="BM3" s="3"/>
@@ -737,6 +747,9 @@
       </c>
       <c r="BG4">
         <v>80</v>
+      </c>
+      <c r="BH4" s="3">
+        <v>92</v>
       </c>
       <c r="BK4" s="3"/>
       <c r="BL4" s="3"/>
@@ -920,6 +933,9 @@
       <c r="BG5">
         <v>113</v>
       </c>
+      <c r="BH5" s="3">
+        <v>121</v>
+      </c>
       <c r="BK5" s="3"/>
       <c r="BL5" s="3"/>
       <c r="BM5" s="3"/>
@@ -1101,6 +1117,9 @@
       </c>
       <c r="BG6">
         <v>77</v>
+      </c>
+      <c r="BH6" s="3">
+        <v>88</v>
       </c>
       <c r="BK6" s="3"/>
       <c r="BL6" s="3"/>
@@ -1284,6 +1303,9 @@
       <c r="BG7">
         <v>15</v>
       </c>
+      <c r="BH7" s="3">
+        <v>19</v>
+      </c>
       <c r="BK7" s="3"/>
       <c r="BL7" s="3"/>
       <c r="BM7" s="3"/>
@@ -1465,6 +1487,9 @@
       </c>
       <c r="BG8">
         <v>39</v>
+      </c>
+      <c r="BH8" s="3">
+        <v>40</v>
       </c>
       <c r="BK8" s="3"/>
       <c r="BL8" s="3"/>
@@ -1648,6 +1673,9 @@
       <c r="BG9">
         <v>23</v>
       </c>
+      <c r="BH9" s="3">
+        <v>32</v>
+      </c>
       <c r="BK9" s="3"/>
       <c r="BL9" s="3"/>
       <c r="BM9" s="3"/>
@@ -1829,6 +1857,9 @@
       </c>
       <c r="BG10">
         <v>194</v>
+      </c>
+      <c r="BH10" s="3">
+        <v>201</v>
       </c>
       <c r="BK10" s="3"/>
       <c r="BL10" s="3"/>
@@ -2012,6 +2043,9 @@
       <c r="BG11">
         <v>54</v>
       </c>
+      <c r="BH11" s="3">
+        <v>56</v>
+      </c>
       <c r="BK11" s="3"/>
       <c r="BL11" s="3"/>
       <c r="BM11" s="3"/>
@@ -2193,6 +2227,9 @@
       </c>
       <c r="BG12">
         <v>112</v>
+      </c>
+      <c r="BH12" s="3">
+        <v>125</v>
       </c>
       <c r="BK12" s="3"/>
       <c r="BL12" s="3"/>
@@ -2376,6 +2413,9 @@
       <c r="BG13">
         <v>65</v>
       </c>
+      <c r="BH13" s="3">
+        <v>67</v>
+      </c>
       <c r="BK13" s="3"/>
       <c r="BL13" s="3"/>
       <c r="BM13" s="3"/>
@@ -2557,6 +2597,9 @@
       </c>
       <c r="BG14">
         <v>80</v>
+      </c>
+      <c r="BH14" s="3">
+        <v>79</v>
       </c>
       <c r="BK14" s="3"/>
       <c r="BL14" s="3"/>
@@ -2740,6 +2783,9 @@
       <c r="BG15">
         <v>36</v>
       </c>
+      <c r="BH15" s="3">
+        <v>40</v>
+      </c>
       <c r="BK15" s="3"/>
       <c r="BL15" s="3"/>
       <c r="BM15" s="3"/>
@@ -2921,6 +2967,9 @@
       </c>
       <c r="BG16">
         <v>120</v>
+      </c>
+      <c r="BH16" s="3">
+        <v>126</v>
       </c>
       <c r="BK16" s="3"/>
       <c r="BL16" s="3"/>
@@ -3160,9 +3209,9 @@
         <f t="shared" si="1"/>
         <v>43919</v>
       </c>
-      <c r="BH17" s="25" t="str">
+      <c r="BH17" s="25">
         <f t="shared" si="1"/>
-        <v/>
+        <v>43920</v>
       </c>
       <c r="BI17" s="25" t="str">
         <f t="shared" si="1"/>
@@ -3418,9 +3467,9 @@
         <f t="shared" si="4"/>
         <v>1053</v>
       </c>
-      <c r="BH18" s="14" t="str">
+      <c r="BH18" s="14">
         <f t="shared" si="4"/>
-        <v/>
+        <v>1135</v>
       </c>
       <c r="BI18" s="14" t="str">
         <f t="shared" si="4"/>
@@ -3672,9 +3721,9 @@
         <f t="shared" ref="BG19:BG20" si="10">IF(AND(ISNUMBER(BF18),ISNUMBER(BG18)),BG18-BF18,"")</f>
         <v>46</v>
       </c>
-      <c r="BH19" s="7" t="str">
+      <c r="BH19" s="7">
         <f t="shared" ref="BH19:BH20" si="11">IF(AND(ISNUMBER(BG18),ISNUMBER(BH18)),BH18-BG18,"")</f>
-        <v/>
+        <v>82</v>
       </c>
       <c r="BI19" s="7" t="str">
         <f t="shared" ref="BI19:BI20" si="12">IF(AND(ISNUMBER(BH18),ISNUMBER(BI18)),BI18-BH18,"")</f>
@@ -3924,9 +3973,9 @@
         <f t="shared" si="10"/>
         <v>-44</v>
       </c>
-      <c r="BH20" s="7" t="str">
+      <c r="BH20" s="7">
         <f t="shared" si="11"/>
-        <v/>
+        <v>36</v>
       </c>
       <c r="BI20" s="7" t="str">
         <f t="shared" si="12"/>
@@ -4189,9 +4238,9 @@
         <f t="shared" si="17"/>
         <v>43919</v>
       </c>
-      <c r="BH24" s="25" t="str">
+      <c r="BH24" s="25">
         <f t="shared" si="17"/>
-        <v/>
+        <v>43920</v>
       </c>
       <c r="BI24" s="25" t="str">
         <f t="shared" si="17"/>
@@ -4446,9 +4495,9 @@
         <f t="shared" si="20"/>
         <v>17.265971023196457</v>
       </c>
-      <c r="BH25" s="13" t="str">
+      <c r="BH25" s="13">
         <f t="shared" si="20"/>
-        <v/>
+        <v>19.518054200135126</v>
       </c>
       <c r="BI25" s="13" t="str">
         <f t="shared" si="20"/>
@@ -4699,9 +4748,9 @@
         <f t="shared" si="23"/>
         <v>24.579907043260636</v>
       </c>
-      <c r="BH26" s="13" t="str">
+      <c r="BH26" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>25.697175545227029</v>
       </c>
       <c r="BI26" s="13" t="str">
         <f t="shared" si="23"/>
@@ -4952,9 +5001,9 @@
         <f t="shared" si="23"/>
         <v>40.554789520642387</v>
       </c>
-      <c r="BH27" s="13" t="str">
+      <c r="BH27" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>46.638007948738746</v>
       </c>
       <c r="BI27" s="13" t="str">
         <f t="shared" si="23"/>
@@ -5205,9 +5254,9 @@
         <f t="shared" si="23"/>
         <v>45.647712766816937</v>
       </c>
-      <c r="BH28" s="13" t="str">
+      <c r="BH28" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>48.879409245883622</v>
       </c>
       <c r="BI28" s="13" t="str">
         <f t="shared" si="23"/>
@@ -5458,9 +5507,9 @@
         <f t="shared" si="23"/>
         <v>35.451523494691479</v>
       </c>
-      <c r="BH29" s="13" t="str">
+      <c r="BH29" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>40.516026851075978</v>
       </c>
       <c r="BI29" s="13" t="str">
         <f t="shared" si="23"/>
@@ -5711,9 +5760,9 @@
         <f t="shared" si="23"/>
         <v>18.871010353894349</v>
       </c>
-      <c r="BH30" s="13" t="str">
+      <c r="BH30" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>23.903279781599508</v>
       </c>
       <c r="BI30" s="13" t="str">
         <f t="shared" si="23"/>
@@ -5964,9 +6013,9 @@
         <f t="shared" si="23"/>
         <v>23.563958019902479</v>
       </c>
-      <c r="BH31" s="13" t="str">
+      <c r="BH31" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>24.168162071694855</v>
       </c>
       <c r="BI31" s="13" t="str">
         <f t="shared" si="23"/>
@@ -6217,9 +6266,9 @@
         <f t="shared" si="23"/>
         <v>11.466689267677397</v>
       </c>
-      <c r="BH32" s="13" t="str">
+      <c r="BH32" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>15.953654633290292</v>
       </c>
       <c r="BI32" s="13" t="str">
         <f t="shared" si="23"/>
@@ -6470,9 +6519,9 @@
         <f t="shared" si="23"/>
         <v>61.706601015932392</v>
       </c>
-      <c r="BH33" s="13" t="str">
+      <c r="BH33" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>63.933127856713455</v>
       </c>
       <c r="BI33" s="13" t="str">
         <f t="shared" si="23"/>
@@ -6723,9 +6772,9 @@
         <f t="shared" si="23"/>
         <v>41.975327835083604</v>
       </c>
-      <c r="BH34" s="13" t="str">
+      <c r="BH34" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>43.529969606753362</v>
       </c>
       <c r="BI34" s="13" t="str">
         <f t="shared" si="23"/>
@@ -6976,9 +7025,9 @@
         <f t="shared" si="23"/>
         <v>41.059481257446613</v>
       </c>
-      <c r="BH35" s="13" t="str">
+      <c r="BH35" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>45.825313903400243</v>
       </c>
       <c r="BI35" s="13" t="str">
         <f t="shared" si="23"/>
@@ -7229,9 +7278,9 @@
         <f t="shared" si="23"/>
         <v>32.495938007749032</v>
       </c>
-      <c r="BH36" s="13" t="str">
+      <c r="BH36" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>33.495813023372079</v>
       </c>
       <c r="BI36" s="13" t="str">
         <f t="shared" si="23"/>
@@ -7482,9 +7531,9 @@
         <f t="shared" si="23"/>
         <v>28.982146997449572</v>
       </c>
-      <c r="BH37" s="13" t="str">
+      <c r="BH37" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>28.619870159981453</v>
       </c>
       <c r="BI37" s="13" t="str">
         <f t="shared" si="23"/>
@@ -7735,9 +7784,9 @@
         <f t="shared" si="23"/>
         <v>27.408315378348952</v>
       </c>
-      <c r="BH38" s="13" t="str">
+      <c r="BH38" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>30.453683753721059</v>
       </c>
       <c r="BI38" s="13" t="str">
         <f t="shared" si="23"/>
@@ -7988,9 +8037,9 @@
         <f t="shared" si="23"/>
         <v>49.342916824289873</v>
       </c>
-      <c r="BH39" s="13" t="str">
+      <c r="BH39" s="13">
         <f t="shared" si="23"/>
-        <v/>
+        <v>51.810062665504368</v>
       </c>
       <c r="BI39" s="13" t="str">
         <f t="shared" si="23"/>
@@ -8241,9 +8290,9 @@
         <f t="shared" si="52"/>
         <v>43919</v>
       </c>
-      <c r="BH40" s="25" t="str">
+      <c r="BH40" s="25">
         <f t="shared" si="52"/>
-        <v/>
+        <v>43920</v>
       </c>
       <c r="BI40" s="25" t="str">
         <f t="shared" si="52"/>
@@ -8494,9 +8543,9 @@
         <f t="shared" si="55"/>
         <v>36.351559975586113</v>
       </c>
-      <c r="BH41" s="13" t="str">
+      <c r="BH41" s="13">
         <f t="shared" si="55"/>
-        <v/>
+        <v>39.182355719174012</v>
       </c>
       <c r="BI41" s="13" t="str">
         <f t="shared" si="55"/>
@@ -8747,9 +8796,9 @@
         <f t="shared" ref="BG42:BG43" si="65">IF(AND(ISNUMBER(BF41),ISNUMBER(BG41)),BG41-BF41,"")</f>
         <v>1.5880073683541909</v>
       </c>
-      <c r="BH42" s="7" t="str">
+      <c r="BH42" s="7">
         <f t="shared" ref="BH42:BH43" si="66">IF(AND(ISNUMBER(BG41),ISNUMBER(BH41)),BH41-BG41,"")</f>
-        <v/>
+        <v>2.830795743587899</v>
       </c>
       <c r="BI42" s="7" t="str">
         <f t="shared" ref="BI42:BI43" si="67">IF(AND(ISNUMBER(BH41),ISNUMBER(BI41)),BI41-BH41,"")</f>
@@ -9000,9 +9049,9 @@
         <f t="shared" si="65"/>
         <v>-1.5189635697300901</v>
       </c>
-      <c r="BH43" s="7" t="str">
+      <c r="BH43" s="7">
         <f t="shared" si="66"/>
-        <v/>
+        <v>1.2427883752337081</v>
       </c>
       <c r="BI43" s="7" t="str">
         <f t="shared" si="67"/>
@@ -9257,9 +9306,9 @@
         <f t="shared" si="70"/>
         <v>43919</v>
       </c>
-      <c r="BH47" s="31" t="str">
+      <c r="BH47" s="31">
         <f t="shared" si="70"/>
-        <v/>
+        <v>43920</v>
       </c>
       <c r="BI47" s="31" t="str">
         <f t="shared" si="70"/>
@@ -9351,6 +9400,10 @@
       <c r="BG48">
         <v>0</v>
       </c>
+      <c r="BH48">
+        <f>BG48</f>
+        <v>0</v>
+      </c>
     </row>
     <row r="49" spans="1:62" ht="15.75" x14ac:dyDescent="0.45">
       <c r="A49" s="3" t="s">
@@ -9423,6 +9476,10 @@
         <v>0</v>
       </c>
       <c r="BG49">
+        <v>0</v>
+      </c>
+      <c r="BH49">
+        <f>BG49</f>
         <v>0</v>
       </c>
     </row>
@@ -9499,6 +9556,10 @@
       <c r="BG50">
         <v>1</v>
       </c>
+      <c r="BH50">
+        <f>BG50</f>
+        <v>1</v>
+      </c>
     </row>
     <row r="51" spans="1:62" ht="15.75" x14ac:dyDescent="0.45">
       <c r="A51" s="3" t="s">
@@ -9571,6 +9632,10 @@
         <v>1</v>
       </c>
       <c r="BG51">
+        <v>1</v>
+      </c>
+      <c r="BH51">
+        <f>BG51</f>
         <v>1</v>
       </c>
     </row>
@@ -9647,6 +9712,10 @@
       <c r="BG52">
         <v>1</v>
       </c>
+      <c r="BH52">
+        <f>BG52</f>
+        <v>1</v>
+      </c>
     </row>
     <row r="53" spans="1:62" ht="15.75" x14ac:dyDescent="0.45">
       <c r="A53" s="3" t="s">
@@ -9719,6 +9788,10 @@
         <v>0</v>
       </c>
       <c r="BG53">
+        <v>0</v>
+      </c>
+      <c r="BH53">
+        <f>BG53</f>
         <v>0</v>
       </c>
     </row>
@@ -9795,6 +9868,10 @@
       <c r="BG54">
         <v>0</v>
       </c>
+      <c r="BH54">
+        <f>BG54</f>
+        <v>0</v>
+      </c>
     </row>
     <row r="55" spans="1:62" ht="15.75" x14ac:dyDescent="0.45">
       <c r="A55" s="3" t="s">
@@ -9867,6 +9944,10 @@
         <v>0</v>
       </c>
       <c r="BG55">
+        <v>0</v>
+      </c>
+      <c r="BH55">
+        <f>BG55</f>
         <v>0</v>
       </c>
     </row>
@@ -9943,6 +10024,10 @@
       <c r="BG56">
         <v>1</v>
       </c>
+      <c r="BH56">
+        <f>BG56</f>
+        <v>1</v>
+      </c>
     </row>
     <row r="57" spans="1:62" ht="15.75" x14ac:dyDescent="0.45">
       <c r="A57" s="3" t="s">
@@ -10016,6 +10101,10 @@
       </c>
       <c r="BG57">
         <v>1</v>
+      </c>
+      <c r="BH57">
+        <f>BG57+1</f>
+        <v>2</v>
       </c>
     </row>
     <row r="58" spans="1:62" ht="15.75" x14ac:dyDescent="0.45">
@@ -10091,6 +10180,10 @@
       <c r="BG58">
         <v>1</v>
       </c>
+      <c r="BH58">
+        <f>BG58+1</f>
+        <v>2</v>
+      </c>
     </row>
     <row r="59" spans="1:62" ht="15.75" x14ac:dyDescent="0.45">
       <c r="A59" s="3" t="s">
@@ -10163,6 +10256,10 @@
         <v>0</v>
       </c>
       <c r="BG59">
+        <v>0</v>
+      </c>
+      <c r="BH59">
+        <f>BG59</f>
         <v>0</v>
       </c>
     </row>
@@ -10239,6 +10336,10 @@
       <c r="BG60">
         <v>0</v>
       </c>
+      <c r="BH60">
+        <f>BG60</f>
+        <v>0</v>
+      </c>
     </row>
     <row r="61" spans="1:62" ht="15.75" x14ac:dyDescent="0.45">
       <c r="A61" s="3" t="s">
@@ -10311,6 +10412,10 @@
         <v>0</v>
       </c>
       <c r="BG61">
+        <v>0</v>
+      </c>
+      <c r="BH61">
+        <f>BG61</f>
         <v>0</v>
       </c>
     </row>
@@ -10387,6 +10492,10 @@
       <c r="BG62">
         <v>0</v>
       </c>
+      <c r="BH62">
+        <f>BG62</f>
+        <v>0</v>
+      </c>
     </row>
     <row r="63" spans="1:62" ht="15.75" x14ac:dyDescent="0.45">
       <c r="A63" s="3" t="s">
@@ -10453,6 +10562,10 @@
         <v>1</v>
       </c>
       <c r="BG63">
+        <v>1</v>
+      </c>
+      <c r="BH63">
+        <f>BG63</f>
         <v>1</v>
       </c>
     </row>
@@ -10692,9 +10805,9 @@
         <f t="shared" si="72"/>
         <v>43919</v>
       </c>
-      <c r="BH64" s="25" t="str">
+      <c r="BH64" s="25">
         <f t="shared" si="72"/>
-        <v/>
+        <v>43920</v>
       </c>
       <c r="BI64" s="25" t="str">
         <f t="shared" si="72"/>
@@ -10941,9 +11054,9 @@
         <f t="shared" ref="BG65:BJ65" si="75">IF(SUM(BG48:BG63)&gt;0,SUM(BG48:BG63),"")</f>
         <v>7</v>
       </c>
-      <c r="BH65" s="9" t="str">
+      <c r="BH65" s="9">
         <f t="shared" si="75"/>
-        <v/>
+        <v>9</v>
       </c>
       <c r="BI65" s="9" t="str">
         <f t="shared" si="75"/>
@@ -11189,9 +11302,9 @@
         <f t="shared" ref="BG66:BG67" si="129">IF(AND(ISNUMBER(BF65),ISNUMBER(BG65)),BG65-BF65,"")</f>
         <v>1</v>
       </c>
-      <c r="BH66" s="7" t="str">
+      <c r="BH66" s="7">
         <f t="shared" ref="BH66:BH67" si="130">IF(AND(ISNUMBER(BG65),ISNUMBER(BH65)),BH65-BG65,"")</f>
-        <v/>
+        <v>2</v>
       </c>
       <c r="BI66" s="7" t="str">
         <f t="shared" ref="BI66:BI67" si="131">IF(AND(ISNUMBER(BH65),ISNUMBER(BI65)),BI65-BH65,"")</f>
@@ -11437,9 +11550,9 @@
         <f t="shared" si="129"/>
         <v>0</v>
       </c>
-      <c r="BH67" s="7" t="str">
+      <c r="BH67" s="7">
         <f t="shared" si="130"/>
-        <v/>
+        <v>1</v>
       </c>
       <c r="BI67" s="7" t="str">
         <f t="shared" si="131"/>
@@ -11742,9 +11855,9 @@
         <f t="shared" si="134"/>
         <v>43919</v>
       </c>
-      <c r="BH70" s="25" t="str">
+      <c r="BH70" s="25">
         <f t="shared" si="134"/>
-        <v/>
+        <v>43920</v>
       </c>
       <c r="BI70" s="25" t="str">
         <f t="shared" si="134"/>
@@ -11999,9 +12112,9 @@
         <f t="shared" si="136"/>
         <v>0</v>
       </c>
-      <c r="BH71" s="28" t="str">
+      <c r="BH71" s="28">
         <f t="shared" si="136"/>
-        <v/>
+        <v>0</v>
       </c>
       <c r="BI71" s="28" t="str">
         <f t="shared" si="136"/>
@@ -12248,9 +12361,9 @@
         <f t="shared" si="138"/>
         <v>0</v>
       </c>
-      <c r="BH72" s="28" t="str">
+      <c r="BH72" s="28">
         <f t="shared" si="138"/>
-        <v/>
+        <v>0</v>
       </c>
       <c r="BI72" s="28" t="str">
         <f t="shared" si="138"/>
@@ -12497,9 +12610,9 @@
         <f t="shared" si="140"/>
         <v>5.0693486900802984</v>
       </c>
-      <c r="BH73" s="28" t="str">
+      <c r="BH73" s="28">
         <f t="shared" si="140"/>
-        <v/>
+        <v>5.0693486900802984</v>
       </c>
       <c r="BI73" s="28" t="str">
         <f t="shared" si="140"/>
@@ -12746,9 +12859,9 @@
         <f t="shared" si="142"/>
         <v>4.0396205988333573</v>
       </c>
-      <c r="BH74" s="28" t="str">
+      <c r="BH74" s="28">
         <f t="shared" si="142"/>
-        <v/>
+        <v>4.0396205988333573</v>
       </c>
       <c r="BI74" s="28" t="str">
         <f t="shared" si="142"/>
@@ -12995,9 +13108,9 @@
         <f t="shared" si="144"/>
         <v>4.6040939603495428</v>
       </c>
-      <c r="BH75" s="28" t="str">
+      <c r="BH75" s="28">
         <f t="shared" si="144"/>
-        <v/>
+        <v>4.6040939603495428</v>
       </c>
       <c r="BI75" s="28" t="str">
         <f t="shared" si="144"/>
@@ -13244,9 +13357,9 @@
         <f t="shared" si="146"/>
         <v>0</v>
       </c>
-      <c r="BH76" s="28" t="str">
+      <c r="BH76" s="28">
         <f t="shared" si="146"/>
-        <v/>
+        <v>0</v>
       </c>
       <c r="BI76" s="28" t="str">
         <f t="shared" si="146"/>
@@ -13493,9 +13606,9 @@
         <f t="shared" si="148"/>
         <v>0</v>
       </c>
-      <c r="BH77" s="28" t="str">
+      <c r="BH77" s="28">
         <f t="shared" si="148"/>
-        <v/>
+        <v>0</v>
       </c>
       <c r="BI77" s="28" t="str">
         <f t="shared" si="148"/>
@@ -13742,9 +13855,9 @@
         <f t="shared" si="150"/>
         <v>0</v>
       </c>
-      <c r="BH78" s="28" t="str">
+      <c r="BH78" s="28">
         <f t="shared" si="150"/>
-        <v/>
+        <v>0</v>
       </c>
       <c r="BI78" s="28" t="str">
         <f t="shared" si="150"/>
@@ -13991,9 +14104,9 @@
         <f t="shared" si="152"/>
         <v>3.1807526296872366</v>
       </c>
-      <c r="BH79" s="28" t="str">
+      <c r="BH79" s="28">
         <f t="shared" si="152"/>
-        <v/>
+        <v>3.1807526296872366</v>
       </c>
       <c r="BI79" s="28" t="str">
         <f t="shared" si="152"/>
@@ -14240,9 +14353,9 @@
         <f t="shared" si="154"/>
         <v>7.7732088583488155</v>
       </c>
-      <c r="BH80" s="28" t="str">
+      <c r="BH80" s="28">
         <f t="shared" si="154"/>
-        <v/>
+        <v>15.546417716697631</v>
       </c>
       <c r="BI80" s="28" t="str">
         <f t="shared" si="154"/>
@@ -14489,9 +14602,9 @@
         <f t="shared" si="156"/>
         <v>3.6660251122720187</v>
       </c>
-      <c r="BH81" s="28" t="str">
+      <c r="BH81" s="28">
         <f t="shared" si="156"/>
-        <v/>
+        <v>7.3320502245440373</v>
       </c>
       <c r="BI81" s="28" t="str">
         <f t="shared" si="156"/>
@@ -14738,9 +14851,9 @@
         <f t="shared" si="158"/>
         <v>0</v>
       </c>
-      <c r="BH82" s="28" t="str">
+      <c r="BH82" s="28">
         <f t="shared" si="158"/>
-        <v/>
+        <v>0</v>
       </c>
       <c r="BI82" s="28" t="str">
         <f t="shared" si="158"/>
@@ -14987,9 +15100,9 @@
         <f t="shared" si="160"/>
         <v>0</v>
       </c>
-      <c r="BH83" s="28" t="str">
+      <c r="BH83" s="28">
         <f t="shared" si="160"/>
-        <v/>
+        <v>0</v>
       </c>
       <c r="BI83" s="28" t="str">
         <f t="shared" si="160"/>
@@ -15236,9 +15349,9 @@
         <f t="shared" si="162"/>
         <v>0</v>
       </c>
-      <c r="BH84" s="28" t="str">
+      <c r="BH84" s="28">
         <f t="shared" si="162"/>
-        <v/>
+        <v>0</v>
       </c>
       <c r="BI84" s="28" t="str">
         <f t="shared" si="162"/>
@@ -15485,9 +15598,9 @@
         <f t="shared" si="164"/>
         <v>0</v>
       </c>
-      <c r="BH85" s="28" t="str">
+      <c r="BH85" s="28">
         <f t="shared" si="164"/>
-        <v/>
+        <v>0</v>
       </c>
       <c r="BI85" s="28" t="str">
         <f t="shared" si="164"/>
@@ -15578,9 +15691,9 @@
         <f t="shared" si="165"/>
         <v>0.34521899312047588</v>
       </c>
-      <c r="BH86" s="28" t="str">
+      <c r="BH86" s="28">
         <f t="shared" si="165"/>
-        <v/>
+        <v>0.34521899312047588</v>
       </c>
       <c r="BI86" s="28" t="str">
         <f t="shared" si="165"/>
@@ -15827,9 +15940,9 @@
         <f t="shared" si="167"/>
         <v>43919</v>
       </c>
-      <c r="BH87" s="25" t="str">
+      <c r="BH87" s="25">
         <f t="shared" si="167"/>
-        <v/>
+        <v>43920</v>
       </c>
       <c r="BI87" s="25" t="str">
         <f t="shared" si="167"/>
@@ -15900,39 +16013,39 @@
       <c r="AZ88" s="25"/>
       <c r="BA88" s="25"/>
       <c r="BB88" s="28">
-        <f>IF(ISNUMBER(BB65),(BB65/$B110)*$B$69,"")</f>
+        <f t="shared" ref="BB88:BJ88" si="168">IF(ISNUMBER(BB65),(BB65/$B110)*$B$69,"")</f>
         <v>1.3808759724819035</v>
       </c>
       <c r="BC88" s="28">
-        <f>IF(ISNUMBER(BC65),(BC65/$B110)*$B$69,"")</f>
+        <f t="shared" si="168"/>
         <v>1.3808759724819035</v>
       </c>
       <c r="BD88" s="28">
-        <f>IF(ISNUMBER(BD65),(BD65/$B110)*$B$69,"")</f>
+        <f t="shared" si="168"/>
         <v>1.7260949656023794</v>
       </c>
       <c r="BE88" s="28">
-        <f>IF(ISNUMBER(BE65),(BE65/$B110)*$B$69,"")</f>
+        <f t="shared" si="168"/>
         <v>1.7260949656023794</v>
       </c>
       <c r="BF88" s="28">
-        <f>IF(ISNUMBER(BF65),(BF65/$B110)*$B$69,"")</f>
+        <f t="shared" si="168"/>
         <v>2.0713139587228553</v>
       </c>
       <c r="BG88" s="28">
-        <f>IF(ISNUMBER(BG65),(BG65/$B110)*$B$69,"")</f>
+        <f t="shared" si="168"/>
         <v>2.4165329518433314</v>
       </c>
-      <c r="BH88" s="28" t="str">
-        <f>IF(ISNUMBER(BH65),(BH65/$B110)*$B$69,"")</f>
-        <v/>
+      <c r="BH88" s="28">
+        <f t="shared" si="168"/>
+        <v>3.1069709380842832</v>
       </c>
       <c r="BI88" s="28" t="str">
-        <f>IF(ISNUMBER(BI65),(BI65/$B110)*$B$69,"")</f>
+        <f t="shared" si="168"/>
         <v/>
       </c>
       <c r="BJ88" s="28" t="str">
-        <f>IF(ISNUMBER(BJ65),(BJ65/$B110)*$B$69,"")</f>
+        <f t="shared" si="168"/>
         <v/>
       </c>
     </row>
@@ -15941,7 +16054,7 @@
         <v>17</v>
       </c>
       <c r="B89" s="27" t="str">
-        <f t="shared" ref="B89:B90" si="168">IF(AND(ISNUMBER(A88),ISNUMBER(B88)),B88-A88,"")</f>
+        <f t="shared" ref="B89:B90" si="169">IF(AND(ISNUMBER(A88),ISNUMBER(B88)),B88-A88,"")</f>
         <v/>
       </c>
       <c r="C89" s="25"/>
@@ -15995,43 +16108,43 @@
       <c r="AY89" s="25"/>
       <c r="AZ89" s="25"/>
       <c r="BA89" s="29" t="str">
-        <f t="shared" ref="BA89:BJ90" si="169">IF(AND(ISNUMBER(AZ88),ISNUMBER(BA88)),BA88-AZ88,"")</f>
+        <f t="shared" ref="BA89:BJ90" si="170">IF(AND(ISNUMBER(AZ88),ISNUMBER(BA88)),BA88-AZ88,"")</f>
         <v/>
       </c>
       <c r="BB89" s="29" t="str">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v/>
       </c>
       <c r="BC89" s="29">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v>0</v>
       </c>
       <c r="BD89" s="29">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v>0.34521899312047588</v>
       </c>
       <c r="BE89" s="29">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v>0</v>
       </c>
       <c r="BF89" s="29">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v>0.34521899312047588</v>
       </c>
       <c r="BG89" s="29">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v>0.3452189931204761</v>
       </c>
-      <c r="BH89" s="29" t="str">
-        <f t="shared" si="169"/>
-        <v/>
+      <c r="BH89" s="29">
+        <f t="shared" si="170"/>
+        <v>0.69043798624095176</v>
       </c>
       <c r="BI89" s="29" t="str">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v/>
       </c>
       <c r="BJ89" s="29" t="str">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v/>
       </c>
     </row>
@@ -16040,7 +16153,7 @@
         <v>18</v>
       </c>
       <c r="B90" s="27" t="str">
-        <f t="shared" si="168"/>
+        <f t="shared" si="169"/>
         <v/>
       </c>
       <c r="C90" s="25"/>
@@ -16094,43 +16207,43 @@
       <c r="AY90" s="25"/>
       <c r="AZ90" s="25"/>
       <c r="BA90" s="29" t="str">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v/>
       </c>
       <c r="BB90" s="29" t="str">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v/>
       </c>
       <c r="BC90" s="29" t="str">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v/>
       </c>
       <c r="BD90" s="29">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v>0.34521899312047588</v>
       </c>
       <c r="BE90" s="29">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v>-0.34521899312047588</v>
       </c>
       <c r="BF90" s="29">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v>0.34521899312047588</v>
       </c>
       <c r="BG90" s="29">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v>2.2204460492503131E-16</v>
       </c>
-      <c r="BH90" s="29" t="str">
-        <f t="shared" si="169"/>
-        <v/>
+      <c r="BH90" s="29">
+        <f t="shared" si="170"/>
+        <v>0.34521899312047566</v>
       </c>
       <c r="BI90" s="29" t="str">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v/>
       </c>
       <c r="BJ90" s="29" t="str">
-        <f t="shared" si="169"/>
+        <f t="shared" si="170"/>
         <v/>
       </c>
     </row>

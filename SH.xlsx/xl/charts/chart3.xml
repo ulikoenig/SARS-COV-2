@@ -2997,6 +2997,9 @@
               <c:f>Kreise!$BH$24</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
+                <c:pt idx="0">
+                  <c:v>30.03.2020</c:v>
+                </c:pt>
               </c:strCache>
             </c:strRef>
           </c:tx>
@@ -3083,49 +3086,49 @@
                 <c:formatCode>0.0</c:formatCode>
                 <c:ptCount val="15"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
+                  <c:v>19.518054200135126</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>0</c:v>
+                  <c:v>25.697175545227029</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>0</c:v>
+                  <c:v>46.638007948738746</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>0</c:v>
+                  <c:v>48.879409245883622</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>0</c:v>
+                  <c:v>40.516026851075978</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>0</c:v>
+                  <c:v>23.903279781599508</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>0</c:v>
+                  <c:v>24.168162071694855</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>0</c:v>
+                  <c:v>15.953654633290292</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>0</c:v>
+                  <c:v>63.933127856713455</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>0</c:v>
+                  <c:v>43.529969606753362</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>0</c:v>
+                  <c:v>45.825313903400243</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>0</c:v>
+                  <c:v>33.495813023372079</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>0</c:v>
+                  <c:v>28.619870159981453</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>0</c:v>
+                  <c:v>30.453683753721059</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>0</c:v>
+                  <c:v>51.810062665504368</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
