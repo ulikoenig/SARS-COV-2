@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" mc:Ignorable="x14ac xr xr2 xr3" xr:uid="{F85389FE-D89B-4EAF-84B9-8FC0F84E0F33}">
+  <dimension ref="A2:AH14"/>
+  <sheetViews>
+    <sheetView topLeftCell="K1" workbookViewId="0">
+      <selection activeCell="W7" sqref="W7"/>
+    </sheetView>
+  </sheetViews>
+  <sheetFormatPr baseColWidth="10" defaultRowHeight="14.25" x14ac:dyDescent="0.45"/>
+  <cols>
+    <col min="1" max="1" width="29.46484375" customWidth="1"/>
+  </cols>
+  <sheetData>
+    <row r="2" spans="1:34" x14ac:dyDescent="0.45">
+      <c r="A2" s="9" t="str">
+        <f>IF(ISNUMBER(Kreise!A17),Kreise!A17,"")</f>
+        <v/>
+      </c>
+      <c r="B2" s="9">
+        <f>IF(ISNUMBER(Kreise!AC17),Kreise!AC17,"")</f>
+        <v>43889</v>
+      </c>
+      <c r="C2" s="9">
+        <f>IF(ISNUMBER(Kreise!AD17),Kreise!AD17,"")</f>
+        <v>43890</v>
+      </c>
+      <c r="D2" s="9">
+        <f>IF(ISNUMBER(Kreise!AE17),Kreise!AE17,"")</f>
+        <v>43891</v>
+      </c>
+      <c r="E2" s="9">
+        <f>IF(ISNUMBER(Kreise!AF17),Kreise!AF17,"")</f>
+        <v>43892</v>
+      </c>
+      <c r="F2" s="9">
+        <f>IF(ISNUMBER(Kreise!AG17),Kreise!AG17,"")</f>
+        <v>43893</v>
+      </c>
+      <c r="G2" s="9">
+        <f>IF(ISNUMBER(Kreise!AH17),Kreise!AH17,"")</f>
+        <v>43894</v>
+      </c>
+      <c r="H2" s="9">
+        <f>IF(ISNUMBER(Kreise!AI17),Kreise!AI17,"")</f>
+        <v>43895</v>
+      </c>
+      <c r="I2" s="9">
+        <f>IF(ISNUMBER(Kreise!AJ17),Kreise!AJ17,"")</f>
+        <v>43896</v>
+      </c>
+      <c r="J2" s="9">
+        <f>IF(ISNUMBER(Kreise!AK17),Kreise!AK17,"")</f>
+        <v>43897</v>
+      </c>
+      <c r="K2" s="9">
+        <f>IF(ISNUMBER(Kreise!AL17),Kreise!AL17,"")</f>
+        <v>43898</v>
+      </c>
+      <c r="L2" s="9">
+        <f>IF(ISNUMBER(Kreise!AM17),Kreise!AM17,"")</f>
+        <v>43899</v>
+      </c>
+      <c r="M2" s="9">
+        <f>IF(ISNUMBER(Kreise!AN17),Kreise!AN17,"")</f>
+        <v>43900</v>
+      </c>
+      <c r="N2" s="9">
+        <f>IF(ISNUMBER(Kreise!AO17),Kreise!AO17,"")</f>
+        <v>43901</v>
+      </c>
+      <c r="O2" s="9">
+        <f>IF(ISNUMBER(Kreise!AP17),Kreise!AP17,"")</f>
+        <v>43902</v>
+      </c>
+      <c r="P2" s="9">
+        <f>IF(ISNUMBER(Kreise!AQ17),Kreise!AQ17,"")</f>
+        <v>43903</v>
+      </c>
+      <c r="Q2" s="9">
+        <f>IF(ISNUMBER(Kreise!AR17),Kreise!AR17,"")</f>
+        <v>43904</v>
+      </c>
+      <c r="R2" s="9">
+        <f>IF(ISNUMBER(Kreise!AS17),Kreise!AS17,"")</f>
+        <v>43905</v>
+      </c>
+      <c r="S2" s="9">
+        <f>IF(ISNUMBER(Kreise!AT17),Kreise!AT17,"")</f>
+        <v>43906</v>
+      </c>
+      <c r="T2" s="9">
+        <f>IF(ISNUMBER(Kreise!AU17),Kreise!AU17,"")</f>
+        <v>43907</v>
+      </c>
+      <c r="U2" s="9">
+        <f>IF(ISNUMBER(Kreise!AV17),Kreise!AV17,"")</f>
+        <v>43908</v>
+      </c>
+      <c r="V2" s="9">
+        <f>IF(ISNUMBER(Kreise!AW17),Kreise!AW17,"")</f>
+        <v>43909</v>
+      </c>
+      <c r="W2" s="9">
+        <f>IF(ISNUMBER(Kreise!AX17),Kreise!AX17,"")</f>
+        <v>43910</v>
+      </c>
+      <c r="X2" s="9">
+        <f>IF(ISNUMBER(Kreise!AY17),Kreise!AY17,"")</f>
+        <v>43911</v>
+      </c>
+      <c r="Y2" s="9">
+        <f>IF(ISNUMBER(Kreise!AZ17),Kreise!AZ17,"")</f>
+        <v>43912</v>
+      </c>
+      <c r="Z2" s="9">
+        <f>IF(ISNUMBER(Kreise!BA17),Kreise!BA17,"")</f>
+        <v>43913</v>
+      </c>
+      <c r="AA2" s="9">
+        <f>IF(ISNUMBER(Kreise!BB17),Kreise!BB17,"")</f>
+        <v>43914</v>
+      </c>
+      <c r="AB2" s="9">
+        <f>IF(ISNUMBER(Kreise!BC17),Kreise!BC17,"")</f>
+        <v>43915</v>
+      </c>
+      <c r="AC2" s="9">
+        <f>IF(ISNUMBER(Kreise!BD17),Kreise!BD17,"")</f>
+        <v>43916</v>
+      </c>
+      <c r="AD2" s="9">
+        <f>IF(ISNUMBER(Kreise!BE17),Kreise!BE17,"")</f>
+        <v>43917</v>
+      </c>
+      <c r="AE2" s="9">
+        <f>IF(ISNUMBER(Kreise!BF17),Kreise!BF17,"")</f>
+        <v>43918</v>
+      </c>
+      <c r="AF2" s="9">
+        <f>IF(ISNUMBER(Kreise!BG17),Kreise!BG17,"")</f>
+        <v>43919</v>
+      </c>
+      <c r="AG2" s="9">
+        <f>IF(ISNUMBER(Kreise!BH17),Kreise!BH17,"")</f>
+        <v>43920</v>
+      </c>
+      <c r="AH2" s="9">
+        <f>IF(ISNUMBER(Kreise!BI17),Kreise!BI17,"")</f>
+        <v>43921</v>
+      </c>
+    </row>
+    <row r="3" spans="1:34" x14ac:dyDescent="0.45">
+      <c r="A3" s="36" t="str">
+        <f>Kreise!A18&amp;" abzl. Hospitalisiert, Entlassen, verstorben, geheilt"</f>
+        <v>Infizierte in Schleswig-Holstein abzl. Hospitalisiert, Entlassen, verstorben, geheilt</v>
+      </c>
+      <c r="B3" s="36">
+        <f>IF(ISNUMBER(Kreise!AC18),Kreise!AC18-B4-B5-B6-B7,"")</f>
+        <v>2</v>
+      </c>
+      <c r="C3" s="36">
+        <f>IF(ISNUMBER(Kreise!AD18),Kreise!AD18-C5-C6,"")</f>
+        <v>2</v>
+      </c>
+      <c r="D3" s="36">
+        <f>IF(ISNUMBER(Kreise!AE18),Kreise!AE18-D5-D6,"")</f>
+        <v>3</v>
+      </c>
+      <c r="E3" s="36">
+        <f>IF(ISNUMBER(Kreise!AF18),Kreise!AF18-E5-E6,"")</f>
+        <v>4</v>
+      </c>
+      <c r="F3" s="36">
+        <f>IF(ISNUMBER(Kreise!AG18),Kreise!AG18-F5-F6,"")</f>
+        <v>5</v>
+      </c>
+      <c r="G3" s="36">
+        <f>IF(ISNUMBER(Kreise!AH18),Kreise!AH18-G5-G6,"")</f>
+        <v>5</v>
+      </c>
+      <c r="H3" s="36">
+        <f>IF(ISNUMBER(Kreise!AI18),Kreise!AI18-H5-H6,"")</f>
+        <v>7</v>
+      </c>
+      <c r="I3" s="36">
+        <f>IF(ISNUMBER(Kreise!AJ18),Kreise!AJ18-I5-I6,"")</f>
+        <v>9</v>
+      </c>
+      <c r="J3" s="36">
+        <f>IF(ISNUMBER(Kreise!AK18),Kreise!AK18-J5-J6,"")</f>
+        <v>9</v>
+      </c>
+      <c r="K3" s="36">
+        <f>IF(ISNUMBER(Kreise!AL18),Kreise!AL18-K5-K6,"")</f>
+        <v>9</v>
+      </c>
+      <c r="L3" s="36">
+        <f>IF(ISNUMBER(Kreise!AM18),Kreise!AM18-L5-L6,"")</f>
+        <v>11</v>
+      </c>
+      <c r="M3" s="36">
+        <f>IF(ISNUMBER(Kreise!AN18),Kreise!AN18-M5-M6,"")</f>
+        <v>25</v>
+      </c>
+      <c r="N3" s="36">
+        <f>IF(ISNUMBER(Kreise!AO18),Kreise!AO18-N5-N6,"")</f>
+        <v>29</v>
+      </c>
+      <c r="O3" s="36">
+        <f>IF(ISNUMBER(Kreise!AP18),Kreise!AP18-O5-O6,"")</f>
+        <v>35</v>
+      </c>
+      <c r="P3" s="36">
+        <f>IF(ISNUMBER(Kreise!AQ18),Kreise!AQ18-P5-P6,"")</f>
+        <v>58</v>
+      </c>
+      <c r="Q3" s="36">
+        <f>IF(ISNUMBER(Kreise!AR18),Kreise!AR18-Q5-Q6,"")</f>
+        <v>103</v>
+      </c>
+      <c r="R3" s="36">
+        <f>IF(ISNUMBER(Kreise!AS18),Kreise!AS18-R5-R6,"")</f>
+        <v>123</v>
+      </c>
+      <c r="S3" s="36">
+        <f>IF(ISNUMBER(Kreise!AT18),Kreise!AT18-S5-S6,"")</f>
+        <v>145</v>
+      </c>
+      <c r="T3" s="36">
+        <f>IF(ISNUMBER(Kreise!AU18),Kreise!AU18-T5-T6,"")</f>
+        <v>187</v>
+      </c>
+      <c r="U3" s="36">
+        <f>IF(ISNUMBER(Kreise!AV18),Kreise!AV18-U5-U6,"")</f>
+        <v>240</v>
+      </c>
+      <c r="V3" s="36">
+        <f>IF(ISNUMBER(Kreise!AW18),Kreise!AW18-V5-V6,"")</f>
+        <v>300</v>
+      </c>
+      <c r="W3" s="36">
+        <f>IF(ISNUMBER(Kreise!AX18),Kreise!AX18-W5-W6,"")</f>
+        <v>354</v>
+      </c>
+      <c r="X3" s="36">
+        <f>IF(ISNUMBER(Kreise!AY18),Kreise!AY18-X5-X6,"")</f>
+        <v>403</v>
+      </c>
+      <c r="Y3" s="36">
+        <f>IF(ISNUMBER(Kreise!AZ18),Kreise!AZ18-Y5-Y6,"")</f>
+        <v>431</v>
+      </c>
+      <c r="Z3" s="36">
+        <f>IF(ISNUMBER(Kreise!BA18),Kreise!BA18-Z5-Z6,"")</f>
+        <v>494</v>
+      </c>
+      <c r="AA3" s="36">
+        <f>IF(ISNUMBER(Kreise!BB18),Kreise!BB18-AA5-AA6,"")</f>
+        <v>544</v>
+      </c>
+      <c r="AB3" s="36">
+        <f>IF(ISNUMBER(Kreise!BC18),Kreise!BC18-AB5-AB6,"")</f>
+        <v>610</v>
+      </c>
+      <c r="AC3" s="36">
+        <f>IF(ISNUMBER(Kreise!BD18),Kreise!BD18-AC5-AC6,"")</f>
+        <v>720</v>
+      </c>
+      <c r="AD3" s="36">
+        <f>IF(ISNUMBER(Kreise!BE18),Kreise!BE18-AD5-AD6,"")</f>
+        <v>809</v>
+      </c>
+      <c r="AE3" s="36">
+        <f>IF(ISNUMBER(Kreise!BF18),Kreise!BF18-AE5-AE6,"")</f>
+        <v>884</v>
+      </c>
+      <c r="AF3" s="36">
+        <f>IF(ISNUMBER(Kreise!BG18),Kreise!BG18-AF5-AF6,"")</f>
+        <v>918</v>
+      </c>
+      <c r="AG3" s="36">
+        <f>IF(ISNUMBER(Kreise!BH18),Kreise!BH18-AG5-AG6,"")</f>
+        <v>980</v>
+      </c>
+      <c r="AH3" s="36">
+        <f>IF(ISNUMBER(Kreise!BI18),Kreise!BI18-AH5-AH6,"")</f>
+        <v>1118</v>
+      </c>
+    </row>
+    <row r="4" spans="1:34" x14ac:dyDescent="0.45">
+      <c r="A4" s="36" t="s">
+        <v>30</v>
+      </c>
+      <c r="B4" s="36"/>
+      <c r="C4" s="36"/>
+      <c r="D4" s="36"/>
+      <c r="E4" s="36"/>
+      <c r="F4" s="36"/>
+      <c r="G4" s="36"/>
+      <c r="H4" s="36"/>
+      <c r="I4" s="36"/>
+      <c r="J4" s="36"/>
+      <c r="K4" s="36"/>
+      <c r="L4" s="36"/>
+      <c r="M4" s="36"/>
+      <c r="N4" s="36"/>
+      <c r="O4" s="36"/>
+      <c r="P4" s="36"/>
+      <c r="Q4" s="36"/>
+      <c r="R4" s="36"/>
+      <c r="S4" s="36"/>
+      <c r="T4" s="36"/>
+      <c r="U4" s="36"/>
+      <c r="V4" s="36"/>
+      <c r="W4" s="36"/>
+      <c r="X4" s="36"/>
+      <c r="Y4" s="36"/>
+      <c r="Z4" s="36"/>
+      <c r="AA4" s="36"/>
+      <c r="AB4" s="36"/>
+      <c r="AC4" s="36"/>
+      <c r="AD4" s="36"/>
+      <c r="AE4" s="36"/>
+      <c r="AF4" s="36"/>
+      <c r="AG4" s="36"/>
+      <c r="AH4" s="36">
+        <f>Kreise!BI96</f>
+        <v>40</v>
+      </c>
+    </row>
+    <row r="5" spans="1:34" x14ac:dyDescent="0.45">
+      <c r="A5" s="36" t="s">
+        <v>26</v>
+      </c>
+      <c r="B5" s="48">
+        <v>0</v>
+      </c>
+      <c r="C5" s="48">
+        <v>0</v>
+      </c>
+      <c r="D5" s="48">
+        <v>0</v>
+      </c>
+      <c r="E5" s="48">
+        <v>0</v>
+      </c>
+      <c r="F5" s="48">
+        <v>0</v>
+      </c>
+      <c r="G5" s="48">
+        <v>0</v>
+      </c>
+      <c r="H5" s="48">
+        <v>0</v>
+      </c>
+      <c r="I5" s="48">
+        <v>0</v>
+      </c>
+      <c r="J5" s="48">
+        <v>0</v>
+      </c>
+      <c r="K5" s="48">
+        <v>0</v>
+      </c>
+      <c r="L5" s="48">
+        <v>0</v>
+      </c>
+      <c r="M5" s="48">
+        <v>0</v>
+      </c>
+      <c r="N5" s="48">
+        <v>0</v>
+      </c>
+      <c r="O5" s="48">
+        <v>0</v>
+      </c>
+      <c r="P5" s="48">
+        <v>0</v>
+      </c>
+      <c r="Q5" s="48">
+        <v>0</v>
+      </c>
+      <c r="R5" s="48">
+        <v>0</v>
+      </c>
+      <c r="S5" s="48">
+        <v>0</v>
+      </c>
+      <c r="T5" s="36">
+        <f>IF(ISNUMBER(Kreise!AU95),Kreise!AU95,IF(ISNUMBER(Kreise!AU94),Kreise!AU94,""))</f>
+        <v>9</v>
+      </c>
+      <c r="U5" s="36">
+        <f>IF(ISNUMBER(Kreise!AV95),Kreise!AV95,IF(ISNUMBER(Kreise!AV94),Kreise!AV94,""))</f>
+        <v>13</v>
+      </c>
+      <c r="V5" s="36">
+        <f>IF(ISNUMBER(Kreise!AW95),Kreise!AW95,IF(ISNUMBER(Kreise!AW94),Kreise!AW94,""))</f>
+        <v>21</v>
+      </c>
+      <c r="W5" s="36">
+        <f>IF(ISNUMBER(Kreise!AX95),Kreise!AX95,IF(ISNUMBER(Kreise!AX94),Kreise!AX94,""))</f>
+        <v>29</v>
+      </c>
+      <c r="X5" s="36">
+        <f>IF(ISNUMBER(Kreise!AY95),Kreise!AY95,IF(ISNUMBER(Kreise!AY94),Kreise!AY94,""))</f>
+        <v>33</v>
+      </c>
+      <c r="Y5" s="36">
+        <f>IF(ISNUMBER(Kreise!AZ95),Kreise!AZ95,IF(ISNUMBER(Kreise!AZ94),Kreise!AZ94,""))</f>
+        <v>36</v>
+      </c>
+      <c r="Z5" s="36">
+        <f>IF(ISNUMBER(Kreise!BA95),Kreise!BA95,IF(ISNUMBER(Kreise!BA94),Kreise!BA94,""))</f>
+        <v>50</v>
+      </c>
+      <c r="AA5" s="36">
+        <f>IF(ISNUMBER(Kreise!BB95),Kreise!BB95,IF(ISNUMBER(Kreise!BB94),Kreise!BB94,""))</f>
+        <v>61</v>
+      </c>
+      <c r="AB5" s="36">
+        <f>IF(ISNUMBER(Kreise!BC95),Kreise!BC95,IF(ISNUMBER(Kreise!BC94),Kreise!BC94,""))</f>
+        <v>71</v>
+      </c>
+      <c r="AC5" s="36">
+        <f>IF(ISNUMBER(Kreise!BD95),Kreise!BD95,IF(ISNUMBER(Kreise!BD94),Kreise!BD94,""))</f>
+        <v>96</v>
+      </c>
+      <c r="AD5" s="36">
+        <f>IF(ISNUMBER(Kreise!BE95),Kreise!BE95,IF(ISNUMBER(Kreise!BE94),Kreise!BE94,""))</f>
+        <v>103</v>
+      </c>
+      <c r="AE5" s="36">
+        <f>IF(ISNUMBER(Kreise!BF95),Kreise!BF95,IF(ISNUMBER(Kreise!BF94),Kreise!BF94,""))</f>
+        <v>117</v>
+      </c>
+      <c r="AF5" s="36">
+        <f>IF(ISNUMBER(Kreise!BG95),Kreise!BG95,IF(ISNUMBER(Kreise!BG94),Kreise!BG94,""))</f>
+        <v>128</v>
+      </c>
+      <c r="AG5" s="36">
+        <f>IF(ISNUMBER(Kreise!BH95),Kreise!BH95,IF(ISNUMBER(Kreise!BH94),Kreise!BH94,""))</f>
+        <v>146</v>
+      </c>
+      <c r="AH5" s="36">
+        <f>IF(ISNUMBER(Kreise!BI95),Kreise!BI95,IF(ISNUMBER(Kreise!BI94),Kreise!BI94,""))</f>
+        <v>124</v>
+      </c>
+    </row>
+    <row r="6" spans="1:34" x14ac:dyDescent="0.45">
+      <c r="A6" t="str">
+        <f>Kreise!A65</f>
+        <v>Verstorbene in Schleswig-Holstein</v>
+      </c>
+      <c r="B6">
+        <f>IF(ISNUMBER(Kreise!AC65),Kreise!AC65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="C6">
+        <f>IF(ISNUMBER(Kreise!AD65),Kreise!AD65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="D6">
+        <f>IF(ISNUMBER(Kreise!AE65),Kreise!AE65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="E6">
+        <f>IF(ISNUMBER(Kreise!AF65),Kreise!AF65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="F6">
+        <f>IF(ISNUMBER(Kreise!AG65),Kreise!AG65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="G6">
+        <f>IF(ISNUMBER(Kreise!AH65),Kreise!AH65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="H6">
+        <f>IF(ISNUMBER(Kreise!AI65),Kreise!AI65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="I6">
+        <f>IF(ISNUMBER(Kreise!AJ65),Kreise!AJ65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="J6">
+        <f>IF(ISNUMBER(Kreise!AK65),Kreise!AK65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="K6">
+        <f>IF(ISNUMBER(Kreise!AL65),Kreise!AL65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="L6">
+        <f>IF(ISNUMBER(Kreise!AM65),Kreise!AM65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="M6">
+        <f>IF(ISNUMBER(Kreise!AN65),Kreise!AN65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="N6">
+        <f>IF(ISNUMBER(Kreise!AO65),Kreise!AO65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="O6">
+        <f>IF(ISNUMBER(Kreise!AP65),Kreise!AP65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="P6">
+        <f>IF(ISNUMBER(Kreise!AQ65),Kreise!AQ65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="Q6">
+        <f>IF(ISNUMBER(Kreise!AR65),Kreise!AR65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="R6">
+        <f>IF(ISNUMBER(Kreise!AS65),Kreise!AS65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="S6">
+        <f>IF(ISNUMBER(Kreise!AT65),Kreise!AT65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="T6">
+        <f>IF(ISNUMBER(Kreise!AU65),Kreise!AU65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="U6">
+        <f>IF(ISNUMBER(Kreise!AV65),Kreise!AV65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="V6">
+        <f>IF(ISNUMBER(Kreise!AW65),Kreise!AW65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="W6">
+        <f>IF(ISNUMBER(Kreise!AX65),Kreise!AX65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="X6">
+        <f>IF(ISNUMBER(Kreise!AY65),Kreise!AY65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="Y6">
+        <f>IF(ISNUMBER(Kreise!AZ65),Kreise!AZ65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="Z6">
+        <f>IF(ISNUMBER(Kreise!BA65),Kreise!BA65,"")</f>
+        <v>0</v>
+      </c>
+      <c r="AA6">
+        <f>IF(ISNUMBER(Kreise!BB65),Kreise!BB65,"")</f>
+        <v>4</v>
+      </c>
+      <c r="AB6">
+        <f>IF(ISNUMBER(Kreise!BC65),Kreise!BC65,"")</f>
+        <v>4</v>
+      </c>
+      <c r="AC6">
+        <f>IF(ISNUMBER(Kreise!BD65),Kreise!BD65,"")</f>
+        <v>5</v>
+      </c>
+      <c r="AD6">
+        <f>IF(ISNUMBER(Kreise!BE65),Kreise!BE65,"")</f>
+        <v>5</v>
+      </c>
+      <c r="AE6">
+        <f>IF(ISNUMBER(Kreise!BF65),Kreise!BF65,"")</f>
+        <v>6</v>
+      </c>
+      <c r="AF6">
+        <f>IF(ISNUMBER(Kreise!BG65),Kreise!BG65,"")</f>
+        <v>7</v>
+      </c>
+      <c r="AG6">
+        <f>IF(ISNUMBER(Kreise!BH65),Kreise!BH65,"")</f>
+        <v>9</v>
+      </c>
+      <c r="AH6">
+        <f>IF(ISNUMBER(Kreise!BI65),Kreise!BI65,"")</f>
+        <v>10</v>
+      </c>
+    </row>
+    <row r="7" spans="1:34" x14ac:dyDescent="0.45">
+      <c r="A7" s="6" t="s">
+        <v>27</v>
+      </c>
+      <c r="B7" s="6"/>
+      <c r="C7" s="6"/>
+      <c r="D7" s="6"/>
+      <c r="E7" s="6"/>
+      <c r="F7" s="6"/>
+      <c r="G7" s="6"/>
+      <c r="H7" s="6"/>
+      <c r="I7" s="6"/>
+      <c r="J7" s="6"/>
+      <c r="K7" s="6"/>
+      <c r="L7" s="6"/>
+      <c r="M7" s="6"/>
+      <c r="N7" s="6"/>
+      <c r="O7" s="6"/>
+      <c r="P7" s="6"/>
+      <c r="Q7" s="6"/>
+      <c r="R7" s="6"/>
+      <c r="S7" s="6"/>
+      <c r="T7" s="6"/>
+      <c r="U7" s="6"/>
+      <c r="V7" s="6"/>
+      <c r="W7" s="6">
+        <f>IF(AND(ISNUMBER(B3),ISNUMBER(W3)),Kreise!AC18-W6,"")</f>
+        <v>2</v>
+      </c>
+      <c r="X7" s="6">
+        <f t="shared" ref="X7:AH7" si="0">IF(AND(ISNUMBER(C3),ISNUMBER(X3)),C3-X6,"")</f>
+        <v>2</v>
+      </c>
+      <c r="Y7" s="6">
+        <f t="shared" si="0"/>
+        <v>3</v>
+      </c>
+      <c r="Z7" s="6">
+        <f t="shared" si="0"/>
+        <v>4</v>
+      </c>
+      <c r="AA7" s="6">
+        <f t="shared" si="0"/>
+        <v>1</v>
+      </c>
+      <c r="AB7" s="6">
+        <f t="shared" si="0"/>
+        <v>1</v>
+      </c>
+      <c r="AC7" s="6">
+        <f t="shared" si="0"/>
+        <v>2</v>
+      </c>
+      <c r="AD7" s="6">
+        <f t="shared" si="0"/>
+        <v>4</v>
+      </c>
+      <c r="AE7" s="6">
+        <f t="shared" si="0"/>
+        <v>3</v>
+      </c>
+      <c r="AF7" s="6">
+        <f t="shared" si="0"/>
+        <v>2</v>
+      </c>
+      <c r="AG7" s="6">
+        <f t="shared" si="0"/>
+        <v>2</v>
+      </c>
+      <c r="AH7" s="6">
+        <f t="shared" si="0"/>
+        <v>15</v>
+      </c>
+    </row>
+    <row r="8" spans="1:34" x14ac:dyDescent="0.45">
+      <c r="A8" s="6" t="s">
+        <v>24</v>
+      </c>
+      <c r="B8">
+        <f>IF(ISNUMBER(Kreise!AC19),Kreise!AC19,"")</f>
+        <v>2</v>
+      </c>
+      <c r="C8">
+        <f>IF(ISNUMBER(Kreise!AD19),Kreise!AD19,"")</f>
+        <v>0</v>
+      </c>
+      <c r="D8">
+        <f>IF(ISNUMBER(Kreise!AE19),Kreise!AE19,"")</f>
+        <v>1</v>
+      </c>
+      <c r="E8">
+        <f>IF(ISNUMBER(Kreise!AF19),Kreise!AF19,"")</f>
+        <v>1</v>
+      </c>
+      <c r="F8">
+        <f>IF(ISNUMBER(Kreise!AG19),Kreise!AG19,"")</f>
+        <v>1</v>
+      </c>
+      <c r="G8">
+        <f>IF(ISNUMBER(Kreise!AH19),Kreise!AH19,"")</f>
+        <v>0</v>
+      </c>
+      <c r="H8">
+        <f>IF(ISNUMBER(Kreise!AI19),Kreise!AI19,"")</f>
+        <v>2</v>
+      </c>
+      <c r="I8">
+        <f>IF(ISNUMBER(Kreise!AJ19),Kreise!AJ19,"")</f>
+        <v>2</v>
+      </c>
+      <c r="J8">
+        <f>IF(ISNUMBER(Kreise!AK19),Kreise!AK19,"")</f>
+        <v>0</v>
+      </c>
+      <c r="K8">
+        <f>IF(ISNUMBER(Kreise!AL19),Kreise!AL19,"")</f>
+        <v>0</v>
+      </c>
+      <c r="L8">
+        <f>IF(ISNUMBER(Kreise!AM19),Kreise!AM19,"")</f>
+        <v>2</v>
+      </c>
+      <c r="M8">
+        <f>IF(ISNUMBER(Kreise!AN19),Kreise!AN19,"")</f>
+        <v>14</v>
+      </c>
+      <c r="N8">
+        <f>IF(ISNUMBER(Kreise!AO19),Kreise!AO19,"")</f>
+        <v>4</v>
+      </c>
+      <c r="O8">
+        <f>IF(ISNUMBER(Kreise!AP19),Kreise!AP19,"")</f>
+        <v>6</v>
+      </c>
+      <c r="P8">
+        <f>IF(ISNUMBER(Kreise!AQ19),Kreise!AQ19,"")</f>
+        <v>23</v>
+      </c>
+      <c r="Q8">
+        <f>IF(ISNUMBER(Kreise!AR19),Kreise!AR19,"")</f>
+        <v>45</v>
+      </c>
+      <c r="R8">
+        <f>IF(ISNUMBER(Kreise!AS19),Kreise!AS19,"")</f>
+        <v>20</v>
+      </c>
+      <c r="S8">
+        <f>IF(ISNUMBER(Kreise!AT19),Kreise!AT19,"")</f>
+        <v>22</v>
+      </c>
+      <c r="T8">
+        <f>IF(ISNUMBER(Kreise!AU19),Kreise!AU19,"")</f>
+        <v>51</v>
+      </c>
+      <c r="U8">
+        <f>IF(ISNUMBER(Kreise!AV19),Kreise!AV19,"")</f>
+        <v>57</v>
+      </c>
+      <c r="V8">
+        <f>IF(ISNUMBER(Kreise!AW19),Kreise!AW19,"")</f>
+        <v>68</v>
+      </c>
+      <c r="W8">
+        <f>IF(ISNUMBER(Kreise!AX19),Kreise!AX19,"")</f>
+        <v>62</v>
+      </c>
+      <c r="X8">
+        <f>IF(ISNUMBER(Kreise!AY19),Kreise!AY19,"")</f>
+        <v>53</v>
+      </c>
+      <c r="Y8">
+        <f>IF(ISNUMBER(Kreise!AZ19),Kreise!AZ19,"")</f>
+        <v>31</v>
+      </c>
+      <c r="Z8">
+        <f>IF(ISNUMBER(Kreise!BA19),Kreise!BA19,"")</f>
+        <v>77</v>
+      </c>
+      <c r="AA8">
+        <f>IF(ISNUMBER(Kreise!BB19),Kreise!BB19,"")</f>
+        <v>65</v>
+      </c>
+      <c r="AB8">
+        <f>IF(ISNUMBER(Kreise!BC19),Kreise!BC19,"")</f>
+        <v>76</v>
+      </c>
+      <c r="AC8">
+        <f>IF(ISNUMBER(Kreise!BD19),Kreise!BD19,"")</f>
+        <v>136</v>
+      </c>
+      <c r="AD8">
+        <f>IF(ISNUMBER(Kreise!BE19),Kreise!BE19,"")</f>
+        <v>96</v>
+      </c>
+      <c r="AE8">
+        <f>IF(ISNUMBER(Kreise!BF19),Kreise!BF19,"")</f>
+        <v>90</v>
+      </c>
+      <c r="AF8">
+        <f>IF(ISNUMBER(Kreise!BG19),Kreise!BG19,"")</f>
+        <v>46</v>
+      </c>
+      <c r="AG8">
+        <f>IF(ISNUMBER(Kreise!BH19),Kreise!BH19,"")</f>
+        <v>82</v>
+      </c>
+      <c r="AH8">
+        <f>IF(ISNUMBER(Kreise!BI19),Kreise!BI19,"")</f>
+        <v>117</v>
+      </c>
+    </row>
+    <row r="9" spans="1:34" x14ac:dyDescent="0.45">
+      <c r="A9" s="6" t="s">
+        <v>25</v>
+      </c>
+      <c r="B9">
+        <f>IF(ISNUMBER(Kreise!AC20),Kreise!AC20,"")</f>
+        <v>2</v>
+      </c>
+      <c r="C9">
+        <f>IF(ISNUMBER(Kreise!AD20),Kreise!AD20,"")</f>
+        <v>-2</v>
+      </c>
+      <c r="D9">
+        <f>IF(ISNUMBER(Kreise!AE20),Kreise!AE20,"")</f>
+        <v>1</v>
+      </c>
+      <c r="E9">
+        <f>IF(ISNUMBER(Kreise!AF20),Kreise!AF20,"")</f>
+        <v>0</v>
+      </c>
+      <c r="F9">
+        <f>IF(ISNUMBER(Kreise!AG20),Kreise!AG20,"")</f>
+        <v>0</v>
+      </c>
+      <c r="G9">
+        <f>IF(ISNUMBER(Kreise!AH20),Kreise!AH20,"")</f>
+        <v>-1</v>
+      </c>
+      <c r="H9">
+        <f>IF(ISNUMBER(Kreise!AI20),Kreise!AI20,"")</f>
+        <v>2</v>
+      </c>
+      <c r="I9">
+        <f>IF(ISNUMBER(Kreise!AJ20),Kreise!AJ20,"")</f>
+        <v>0</v>
+      </c>
+      <c r="J9">
+        <f>IF(ISNUMBER(Kreise!AK20),Kreise!AK20,"")</f>
+        <v>-2</v>
+      </c>
+      <c r="K9">
+        <f>IF(ISNUMBER(Kreise!AL20),Kreise!AL20,"")</f>
+        <v>0</v>
+      </c>
+      <c r="L9">
+        <f>IF(ISNUMBER(Kreise!AM20),Kreise!AM20,"")</f>
+        <v>2</v>
+      </c>
+      <c r="M9">
+        <f>IF(ISNUMBER(Kreise!AN20),Kreise!AN20,"")</f>
+        <v>12</v>
+      </c>
+      <c r="N9">
+        <f>IF(ISNUMBER(Kreise!AO20),Kreise!AO20,"")</f>
+        <v>-10</v>
+      </c>
+      <c r="O9">
+        <f>IF(ISNUMBER(Kreise!AP20),Kreise!AP20,"")</f>
+        <v>2</v>
+      </c>
+      <c r="P9">
+        <f>IF(ISNUMBER(Kreise!AQ20),Kreise!AQ20,"")</f>
+        <v>17</v>
+      </c>
+      <c r="Q9">
+        <f>IF(ISNUMBER(Kreise!AR20),Kreise!AR20,"")</f>
+        <v>22</v>
+      </c>
+      <c r="R9">
+        <f>IF(ISNUMBER(Kreise!AS20),Kreise!AS20,"")</f>
+        <v>-25</v>
+      </c>
+      <c r="S9">
+        <f>IF(ISNUMBER(Kreise!AT20),Kreise!AT20,"")</f>
+        <v>2</v>
+      </c>
+      <c r="T9">
+        <f>IF(ISNUMBER(Kreise!AU20),Kreise!AU20,"")</f>
+        <v>29</v>
+      </c>
+      <c r="U9">
+        <f>IF(ISNUMBER(Kreise!AV20),Kreise!AV20,"")</f>
+        <v>6</v>
+      </c>
+      <c r="V9">
+        <f>IF(ISNUMBER(Kreise!AW20),Kreise!AW20,"")</f>
+        <v>11</v>
+      </c>
+      <c r="W9">
+        <f>IF(ISNUMBER(Kreise!AX20),Kreise!AX20,"")</f>
+        <v>-6</v>
+      </c>
+      <c r="X9">
+        <f>IF(ISNUMBER(Kreise!AY20),Kreise!AY20,"")</f>
+        <v>-9</v>
+      </c>
+      <c r="Y9">
+        <f>IF(ISNUMBER(Kreise!AZ20),Kreise!AZ20,"")</f>
+        <v>-22</v>
+      </c>
+      <c r="Z9">
+        <f>IF(ISNUMBER(Kreise!BA20),Kreise!BA20,"")</f>
+        <v>46</v>
+      </c>
+      <c r="AA9">
+        <f>IF(ISNUMBER(Kreise!BB20),Kreise!BB20,"")</f>
+        <v>-12</v>
+      </c>
+      <c r="AB9">
+        <f>IF(ISNUMBER(Kreise!BC20),Kreise!BC20,"")</f>
+        <v>11</v>
+      </c>
+      <c r="AC9">
+        <f>IF(ISNUMBER(Kreise!BD20),Kreise!BD20,"")</f>
+        <v>60</v>
+      </c>
+      <c r="AD9">
+        <f>IF(ISNUMBER(Kreise!BE20),Kreise!BE20,"")</f>
+        <v>-40</v>
+      </c>
+      <c r="AE9">
+        <f>IF(ISNUMBER(Kreise!BF20),Kreise!BF20,"")</f>
+        <v>-6</v>
+      </c>
+      <c r="AF9">
+        <f>IF(ISNUMBER(Kreise!BG20),Kreise!BG20,"")</f>
+        <v>-44</v>
+      </c>
+      <c r="AG9">
+        <f>IF(ISNUMBER(Kreise!BH20),Kreise!BH20,"")</f>
+        <v>36</v>
+      </c>
+      <c r="AH9">
+        <f>IF(ISNUMBER(Kreise!BI20),Kreise!BI20,"")</f>
+        <v>35</v>
+      </c>
+    </row>
+    <row r="14" spans="1:34" x14ac:dyDescent="0.45">
+      <c r="A14" s="36" t="str">
+        <f>Kreise!A29&amp;" abzl. Hospitalisiert, Entlassen, verstorben, geheilt"</f>
+        <v>Lübeck abzl. Hospitalisiert, Entlassen, verstorben, geheilt</v>
+      </c>
+    </row>
+  </sheetData>
+  <pageMargins left="0.7" right="0.7" top="0.78740157499999996" bottom="0.78740157499999996" header="0.3" footer="0.3"/>
+</worksheet>

@@ -16,16 +16,17 @@
         <vt:lpstr>Diagramme</vt:lpstr>
       </vt:variant>
       <vt:variant>
-        <vt:i4>12</vt:i4>
+        <vt:i4>13</vt:i4>
       </vt:variant>
     </vt:vector>
   </HeadingPairs>
   <TitlesOfParts>
-    <vt:vector size="16" baseType="lpstr">
+    <vt:vector size="17" baseType="lpstr">
       <vt:lpstr>RKI Zahlen</vt:lpstr>
       <vt:lpstr>Vorlage</vt:lpstr>
       <vt:lpstr>Hamburg</vt:lpstr>
       <vt:lpstr>Norddeutschland</vt:lpstr>
+      <vt:lpstr>Woche</vt:lpstr>
       <vt:lpstr>DE-Infizierte Abl</vt:lpstr>
       <vt:lpstr>Bunddesländer Absolut</vt:lpstr>
       <vt:lpstr>Bundesländer pro Kopf</vt:lpstr>

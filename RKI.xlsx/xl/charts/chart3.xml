@@ -14,15 +14,29 @@
   <c:chart>
     <c:title>
       <c:tx>
-        <c:strRef>
-          <c:f>'RKI Zahlen'!$C$22</c:f>
-          <c:strCache>
-            <c:ptCount val="1"/>
-            <c:pt idx="0">
-              <c:v>SARS-CoV-2 infizierte pro 100.000 Einwohner</c:v>
-            </c:pt>
-          </c:strCache>
-        </c:strRef>
+        <c:rich>
+          <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr>
+              <a:defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" kern="1200" spc="0" baseline="0">
+                <a:solidFill>
+                  <a:schemeClr val="tx1">
+                    <a:lumMod val="65000"/>
+                    <a:lumOff val="35000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="+mn-lt"/>
+                <a:ea typeface="+mn-ea"/>
+                <a:cs typeface="+mn-cs"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="de-DE"/>
+              <a:t>SARS-CoV-2 infizierte in Deutschland</a:t>
+            </a:r>
+          </a:p>
+        </c:rich>
       </c:tx>
       <c:overlay val="0"/>
       <c:spPr>
@@ -65,7 +79,7 @@
           <c:order val="6"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$H$23</c:f>
+              <c:f>'RKI Zahlen'!$H$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -88,7 +102,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -144,64 +158,61 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$H$24:$H$39</c:f>
+              <c:f>'RKI Zahlen'!$H$2:$H$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>9.0338047684577118E-3</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>5.3530238964339762E-2</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>1.3718075979484343</c:v>
+                  <c:v>50</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>1.9108911639994475</c:v>
+                  <c:v>48</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>0.43924765661375198</c:v>
+                  <c:v>3</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>0.65175629311435768</c:v>
+                  <c:v>12</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>4.7878893212352946E-2</c:v>
+                  <c:v>3</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>0.24849736748101323</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>8.7692397119279702E-2</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>0.64128834046901373</c:v>
+                  <c:v>115</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>0.17136517330894399</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>0.10095819422135488</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>2.4522203261109723E-2</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>0</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>6.9043798624095182E-2</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>4.6851727868297915E-2</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000006-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000006-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -210,7 +221,7 @@
           <c:order val="7"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$I$23</c:f>
+              <c:f>'RKI Zahlen'!$I$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -233,7 +244,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -289,64 +300,61 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$I$24:$I$39</c:f>
+              <c:f>'RKI Zahlen'!$I$2:$I$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>9.0338047684577118E-3</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>9.9413300933773846E-2</c:v>
+                  <c:v>13</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>2.0028390930047144</c:v>
+                  <c:v>73</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>2.7867162808325276</c:v>
+                  <c:v>70</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>0.43924765661375198</c:v>
+                  <c:v>3</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>0.76038234196675059</c:v>
+                  <c:v>14</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>7.9798155353921582E-2</c:v>
+                  <c:v>5</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>0.24849736748101323</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>0.22549473544957635</c:v>
+                  <c:v>18</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>1.0093320836947086</c:v>
+                  <c:v>181</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>0.19584591235307885</c:v>
+                  <c:v>8</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>0.10095819422135488</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>2.4522203261109723E-2</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>0</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>0.24165329518433312</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>4.6851727868297915E-2</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000007-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000007-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -355,7 +363,7 @@
           <c:order val="8"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$J$23</c:f>
+              <c:f>'RKI Zahlen'!$J$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -378,7 +386,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -434,64 +442,61 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$J$24:$J$39</c:f>
+              <c:f>'RKI Zahlen'!$J$2:$J$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>1.8067609536915424E-2</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>0.14529636290320794</c:v>
+                  <c:v>19</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>2.6338705880609941</c:v>
+                  <c:v>96</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>4.6577972122486528</c:v>
+                  <c:v>117</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>0.58566354215166927</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>0.86900839081914372</c:v>
+                  <c:v>16</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>0.17555594177862746</c:v>
+                  <c:v>11</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>0.31062170935126654</c:v>
+                  <c:v>5</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>0.22549473544957635</c:v>
+                  <c:v>18</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>1.8346422957765698</c:v>
+                  <c:v>329</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>0.24480739044134855</c:v>
+                  <c:v>10</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>0.20191638844270976</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>4.9044406522219447E-2</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>0</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>0.24165329518433312</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>4.6851727868297915E-2</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000008-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000008-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -500,7 +505,7 @@
           <c:order val="9"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$K$23</c:f>
+              <c:f>'RKI Zahlen'!$K$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -523,7 +528,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -579,64 +584,61 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$K$24:$K$39</c:f>
+              <c:f>'RKI Zahlen'!$K$2:$K$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>1.5357468106378112</c:v>
+                  <c:v>170</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>1.0247217173173611</c:v>
+                  <c:v>134</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>0.76821225485112321</c:v>
+                  <c:v>28</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>7.9620465166643645E-2</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>0.58566354215166927</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>0.70606931754055424</c:v>
+                  <c:v>13</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>0.27131372820333338</c:v>
+                  <c:v>17</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>0.31062170935126654</c:v>
+                  <c:v>5</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>0.23802222075233062</c:v>
+                  <c:v>19</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>2.0800047912603663</c:v>
+                  <c:v>373</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>0.31824960757375315</c:v>
+                  <c:v>13</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>0.30287458266406464</c:v>
+                  <c:v>3</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>9.8088813044438894E-2</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>0</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>0.27617519449638073</c:v>
+                  <c:v>8</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>9.3703455736595831E-2</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000009-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000009-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -645,7 +647,7 @@
           <c:order val="10"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$L$23</c:f>
+              <c:f>'RKI Zahlen'!$L$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -668,7 +670,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -724,64 +726,61 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$L$24:$L$39</c:f>
+              <c:f>'RKI Zahlen'!$L$2:$L$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>1.6441524678593036</c:v>
+                  <c:v>182</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>1.3153144431237771</c:v>
+                  <c:v>172</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>1.0974460783587474</c:v>
+                  <c:v>40</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>0.15924093033328729</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>0.58566354215166927</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>0.70606931754055424</c:v>
+                  <c:v>13</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>0.30323299034490203</c:v>
+                  <c:v>19</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>0.49699473496202645</c:v>
+                  <c:v>8</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>0.26307719135783908</c:v>
+                  <c:v>21</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>2.2194153000579782</c:v>
+                  <c:v>398</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>0.46513404183856227</c:v>
+                  <c:v>19</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>0.90862374799219403</c:v>
+                  <c:v>9</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>9.8088813044438894E-2</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>0</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>0.24165329518433312</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>9.3703455736595831E-2</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000000A-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000000A-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -790,7 +789,7 @@
           <c:order val="11"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$M$23</c:f>
+              <c:f>'RKI Zahlen'!$M$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -813,7 +812,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -869,64 +868,61 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$M$24:$M$39</c:f>
+              <c:f>'RKI Zahlen'!$M$2:$M$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>1.8428961727653732</c:v>
+                  <c:v>204</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>1.957677310695854</c:v>
+                  <c:v>256</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>1.316935294030497</c:v>
+                  <c:v>48</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>0.23886139549993093</c:v>
+                  <c:v>6</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>0.58566354215166927</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>0.92332141524534006</c:v>
+                  <c:v>17</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>0.41495040784039217</c:v>
+                  <c:v>26</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>0.62124341870253308</c:v>
+                  <c:v>10</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>0.47604444150466124</c:v>
+                  <c:v>38</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>2.6989874503217623</c:v>
+                  <c:v>484</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>0.4161725637502926</c:v>
+                  <c:v>17</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>0.60574916532812928</c:v>
+                  <c:v>6</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>0.29426643913331668</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>0</c:v>
+                  <c:v>12</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>0.3106970938084283</c:v>
+                  <c:v>9</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>9.3703455736595831E-2</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000000B-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000000B-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -935,7 +931,7 @@
           <c:order val="12"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$N$23</c:f>
+              <c:f>'RKI Zahlen'!$N$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -959,7 +955,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -1015,64 +1011,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$N$24:$N$39</c:f>
+              <c:f>'RKI Zahlen'!$N$2:$N$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>2.1410117301244775</c:v>
+                  <c:v>237</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>2.4012135764003837</c:v>
+                  <c:v>314</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>1.316935294030497</c:v>
+                  <c:v>48</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>0.35829209324989642</c:v>
+                  <c:v>9</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>0.58566354215166927</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>1.5750777083596976</c:v>
+                  <c:v>29</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>0.55858708747745101</c:v>
+                  <c:v>35</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>0.80761644431329305</c:v>
+                  <c:v>13</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>0.61384677983495795</c:v>
+                  <c:v>49</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>2.6989874503217623</c:v>
+                  <c:v>484</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>0.61201847610337134</c:v>
+                  <c:v>25</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>0.70670735954948416</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>0.53948847174441394</c:v>
+                  <c:v>22</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>0.31698290239507754</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>0.3106970938084283</c:v>
+                  <c:v>9</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>0.18740691147319166</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000000C-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000000C-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -1081,7 +1077,7 @@
           <c:order val="13"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$O$23</c:f>
+              <c:f>'RKI Zahlen'!$O$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -1105,7 +1101,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -1161,64 +1157,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$O$24:$O$39</c:f>
+              <c:f>'RKI Zahlen'!$O$2:$O$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>2.5023639208627864</c:v>
+                  <c:v>277</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>2.7988667801354792</c:v>
+                  <c:v>366</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>2.469253676307182</c:v>
+                  <c:v>90</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>0.95544558199972374</c:v>
+                  <c:v>24</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>3.0747335962962641</c:v>
+                  <c:v>21</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>2.6070251724574307</c:v>
+                  <c:v>48</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>0.76606229139764714</c:v>
+                  <c:v>48</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>1.0561138117943063</c:v>
+                  <c:v>17</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>0.93956139770656821</c:v>
+                  <c:v>75</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>2.6989874503217623</c:v>
+                  <c:v>484</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>0.61201847610337134</c:v>
+                  <c:v>25</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>1.4134147190989683</c:v>
+                  <c:v>14</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>0.63757728478885278</c:v>
+                  <c:v>26</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>0.6792490765608804</c:v>
+                  <c:v>15</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>0.93209128142528486</c:v>
+                  <c:v>27</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>0.46851727868297921</c:v>
+                  <c:v>10</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000000D-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000000D-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -1227,7 +1223,7 @@
           <c:order val="14"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$P$23</c:f>
+              <c:f>'RKI Zahlen'!$P$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -1251,7 +1247,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -1307,64 +1303,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$P$24:$P$39</c:f>
+              <c:f>'RKI Zahlen'!$P$2:$P$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>4.1013473648798016</c:v>
+                  <c:v>454</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>3.8235884974528402</c:v>
+                  <c:v>500</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>3.7587528183787096</c:v>
+                  <c:v>137</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>1.1943069774996546</c:v>
+                  <c:v>30</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>5.5638036504408586</c:v>
+                  <c:v>38</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>4.7795461495052898</c:v>
+                  <c:v>88</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>1.5800034760076471</c:v>
+                  <c:v>99</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>1.4288598630158262</c:v>
+                  <c:v>23</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>1.6160456040552975</c:v>
+                  <c:v>129</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>3.8365772021102735</c:v>
+                  <c:v>688</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>1.2729984302950126</c:v>
+                  <c:v>52</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>1.4134147190989683</c:v>
+                  <c:v>14</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>1.1034991467499375</c:v>
+                  <c:v>45</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>1.2226483378095847</c:v>
+                  <c:v>27</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>1.0701788786734752</c:v>
+                  <c:v>31</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>0.65592419015617087</c:v>
+                  <c:v>14</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000000E-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000000E-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -1373,7 +1369,7 @@
           <c:order val="15"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$Q$23</c:f>
+              <c:f>'RKI Zahlen'!$Q$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -1397,7 +1393,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -1453,64 +1449,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$Q$24:$Q$39</c:f>
+              <c:f>'RKI Zahlen'!$Q$2:$Q$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>4.1013473648798016</c:v>
+                  <c:v>454</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>4.2671247631573692</c:v>
+                  <c:v>558</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>4.7738904408605514</c:v>
+                  <c:v>174</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>1.7516502336661604</c:v>
+                  <c:v>44</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>6.1494671925925282</c:v>
+                  <c:v>42</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>5.3769894181934514</c:v>
+                  <c:v>99</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>2.3620253984760784</c:v>
+                  <c:v>148</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>2.0501032817183593</c:v>
+                  <c:v>33</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>2.8813216196334759</c:v>
+                  <c:v>230</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>5.2195294493825815</c:v>
+                  <c:v>936</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>2.4970353825017555</c:v>
+                  <c:v>102</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>4.0383277688541952</c:v>
+                  <c:v>40</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>2.0353428706721068</c:v>
+                  <c:v>83</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>1.9018974143704652</c:v>
+                  <c:v>42</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>1.6570511669782844</c:v>
+                  <c:v>48</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>1.3587001081806396</c:v>
+                  <c:v>29</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000000F-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000000F-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -1519,7 +1515,7 @@
           <c:order val="16"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$R$23</c:f>
+              <c:f>'RKI Zahlen'!$R$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -1543,7 +1539,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -1599,64 +1595,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$R$24:$R$39</c:f>
+              <c:f>'RKI Zahlen'!$R$2:$R$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>5.1402349132524376</c:v>
+                  <c:v>569</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>5.2077275335307682</c:v>
+                  <c:v>681</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>5.9262088231372356</c:v>
+                  <c:v>216</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>2.4284241875826309</c:v>
+                  <c:v>61</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>7.3207942768958665</c:v>
+                  <c:v>50</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>8.5814578593390429</c:v>
+                  <c:v>158</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>3.2398051073692162</c:v>
+                  <c:v>203</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>2.7955953841613987</c:v>
+                  <c:v>45</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>3.1694537815968231</c:v>
+                  <c:v>253</c:v>
                 </c:pt>
-                <c:pt idx="9">
-                  <c:v>6.435189086097755</c:v>
+                <c:pt idx="9" formatCode="#,##0">
+                  <c:v>1154</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>2.9621694243403174</c:v>
+                  <c:v>121</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>4.0383277688541952</c:v>
+                  <c:v>40</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>2.2805649032832043</c:v>
+                  <c:v>93</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>2.0377472296826413</c:v>
+                  <c:v>45</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>2.0713139587228557</c:v>
+                  <c:v>60</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>2.1551794819417043</c:v>
+                  <c:v>46</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000010-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000010-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -1665,7 +1661,7 @@
           <c:order val="17"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$S$23</c:f>
+              <c:f>'RKI Zahlen'!$S$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -1689,7 +1685,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -1745,64 +1741,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$S$24:$S$39</c:f>
+              <c:f>'RKI Zahlen'!$S$2:$S$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>7.4709565435145269</c:v>
+                  <c:v>827</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>6.7753988174864324</c:v>
+                  <c:v>886</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>7.2705802691267012</c:v>
+                  <c:v>265</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>3.3440595369990334</c:v>
+                  <c:v>84</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>7.7600419335096174</c:v>
+                  <c:v>53</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>8.7987099570438296</c:v>
+                  <c:v>162</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>4.5644544862443137</c:v>
+                  <c:v>286</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>3.1062170935126656</c:v>
+                  <c:v>50</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>3.5953882818904677</c:v>
+                  <c:v>287</c:v>
                 </c:pt>
-                <c:pt idx="9">
-                  <c:v>7.8460234351295863</c:v>
+                <c:pt idx="9" formatCode="#,##0">
+                  <c:v>1407</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>4.112764159414656</c:v>
+                  <c:v>168</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>3.2306622150833562</c:v>
+                  <c:v>32</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>3.1878864239442639</c:v>
+                  <c:v>130</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>2.1283137732240918</c:v>
+                  <c:v>47</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>3.555755629140902</c:v>
+                  <c:v>103</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>2.3894381212831939</c:v>
+                  <c:v>51</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000011-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000011-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -1811,7 +1807,7 @@
           <c:order val="18"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$T$23</c:f>
+              <c:f>'RKI Zahlen'!$T$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -1834,7 +1830,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -1890,64 +1886,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$T$24:$T$39</c:f>
+              <c:f>'RKI Zahlen'!$T$2:$T$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>9.9823542691457714</c:v>
+                  <c:v>1105</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>8.1595378535643608</c:v>
+                  <c:v>1067</c:v>
                 </c:pt>
-                <c:pt idx="2">
-                  <c:v>8.2308455876906059</c:v>
+                <c:pt idx="2" formatCode="General">
+                  <c:v>300</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>3.7421618628322513</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>94</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>8.1992895901233709</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>56</c:v>
                 </c:pt>
-                <c:pt idx="5">
-                  <c:v>14.121386350811083</c:v>
+                <c:pt idx="5" formatCode="General">
+                  <c:v>260</c:v>
                 </c:pt>
-                <c:pt idx="6">
-                  <c:v>5.4581938262082357</c:v>
+                <c:pt idx="6" formatCode="General">
+                  <c:v>342</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>3.1683414353829189</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>51</c:v>
                 </c:pt>
-                <c:pt idx="8">
-                  <c:v>4.8982467533769087</c:v>
+                <c:pt idx="8" formatCode="General">
+                  <c:v>391</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>8.5932637622847849</c:v>
+                  <c:v>1541</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>7.9562401893438279</c:v>
+                  <c:v>325</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>8.5814465088151639</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>85</c:v>
                 </c:pt>
-                <c:pt idx="12">
-                  <c:v>3.4331084565553609</c:v>
+                <c:pt idx="12" formatCode="General">
+                  <c:v>140</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>3.4868119263458532</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>77</c:v>
                 </c:pt>
-                <c:pt idx="14">
-                  <c:v>4.2461936153818529</c:v>
+                <c:pt idx="14" formatCode="General">
+                  <c:v>123</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>2.5768450327563857</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>55</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000012-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000012-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -1956,7 +1952,7 @@
           <c:order val="19"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$U$23</c:f>
+              <c:f>'RKI Zahlen'!$U$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -1979,7 +1975,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -2035,64 +2031,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$U$24:$U$39</c:f>
+              <c:f>'RKI Zahlen'!$U$2:$U$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>13.360997252548955</c:v>
+                  <c:v>1479</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>8.4807192873504</c:v>
+                  <c:v>1109</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>9.4654724258441956</c:v>
+                  <c:v>345</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>2.9061469785824929</c:v>
+                  <c:v>73</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>8.345705475661287</c:v>
+                  <c:v>57</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>16.837037572120906</c:v>
+                  <c:v>310</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>5.9529423894025495</c:v>
+                  <c:v>373</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>2.7955953841613987</c:v>
+                  <c:v>45</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>4.0714327233951293</c:v>
+                  <c:v>325</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>11.738364840758903</c:v>
+                  <c:v>2105</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>10.820486657507606</c:v>
+                  <c:v>442</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>7.571864566601616</c:v>
+                  <c:v>75</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>4.4630409935219699</c:v>
+                  <c:v>182</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>2.6264297627020712</c:v>
+                  <c:v>58</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>4.3842812126300439</c:v>
+                  <c:v>127</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>2.3894381212831939</c:v>
+                  <c:v>51</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000013-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000013-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -2101,7 +2097,7 @@
           <c:order val="20"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$V$23</c:f>
+              <c:f>'RKI Zahlen'!$V$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -2124,7 +2120,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -2180,64 +2176,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$V$24:$V$39</c:f>
+              <c:f>'RKI Zahlen'!$V$2:$V$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>14.535391872448459</c:v>
+                  <c:v>1609</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>9.5054410046677607</c:v>
+                  <c:v>1243</c:v>
                 </c:pt>
-                <c:pt idx="2">
-                  <c:v>10.727535415956757</c:v>
+                <c:pt idx="2" formatCode="General">
+                  <c:v>391</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>3.662541397665608</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>92</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>10.102696102116296</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>69</c:v>
                 </c:pt>
-                <c:pt idx="5">
-                  <c:v>19.444062744578339</c:v>
+                <c:pt idx="5" formatCode="General">
+                  <c:v>358</c:v>
                 </c:pt>
-                <c:pt idx="6">
-                  <c:v>6.8945606225788234</c:v>
+                <c:pt idx="6" formatCode="General">
+                  <c:v>432</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>3.4789631447341853</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>56</c:v>
                 </c:pt>
-                <c:pt idx="8">
-                  <c:v>5.988137974716528</c:v>
+                <c:pt idx="8" formatCode="General">
+                  <c:v>478</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>13.227269074717396</c:v>
+                  <c:v>2372</c:v>
                 </c:pt>
-                <c:pt idx="10">
-                  <c:v>11.603870306919921</c:v>
+                <c:pt idx="10" formatCode="General">
+                  <c:v>474</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>8.8843210914792294</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>88</c:v>
                 </c:pt>
-                <c:pt idx="12">
-                  <c:v>4.8553962456997253</c:v>
+                <c:pt idx="12" formatCode="General">
+                  <c:v>198</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>4.7547435359261634</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>105</c:v>
                 </c:pt>
-                <c:pt idx="14">
-                  <c:v>5.4889819906155664</c:v>
+                <c:pt idx="14" formatCode="General">
+                  <c:v>159</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>3.4670278622540458</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>74</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000014-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000014-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -2246,7 +2242,7 @@
           <c:order val="21"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$W$23</c:f>
+              <c:f>'RKI Zahlen'!$W$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -2269,7 +2265,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -2325,64 +2321,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$W$24:$W$39</c:f>
+              <c:f>'RKI Zahlen'!$W$2:$W$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>19.467849276026367</c:v>
+                  <c:v>2155</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>12.939023475380409</c:v>
+                  <c:v>1692</c:v>
                 </c:pt>
-                <c:pt idx="2">
-                  <c:v>15.720915072489058</c:v>
+                <c:pt idx="2" formatCode="General">
+                  <c:v>573</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>5.3345711661651238</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>134</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>11.713270843033387</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>80</c:v>
                 </c:pt>
-                <c:pt idx="5">
-                  <c:v>23.463226552116875</c:v>
+                <c:pt idx="5" formatCode="General">
+                  <c:v>432</c:v>
                 </c:pt>
-                <c:pt idx="6">
-                  <c:v>10.884468390274902</c:v>
+                <c:pt idx="6" formatCode="General">
+                  <c:v>682</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>6.0881855032848247</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>98</c:v>
                 </c:pt>
-                <c:pt idx="8">
-                  <c:v>8.3808876675425878</c:v>
+                <c:pt idx="8" formatCode="General">
+                  <c:v>669</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>16.91328292732625</c:v>
+                  <c:v>3033</c:v>
                 </c:pt>
-                <c:pt idx="10">
-                  <c:v>15.594230771113901</c:v>
+                <c:pt idx="10" formatCode="General">
+                  <c:v>637</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>9.9948612279141322</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>99</c:v>
                 </c:pt>
-                <c:pt idx="12">
-                  <c:v>6.7436058968051737</c:v>
+                <c:pt idx="12" formatCode="General">
+                  <c:v>275</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>6.3396580479015512</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>140</c:v>
                 </c:pt>
-                <c:pt idx="14">
-                  <c:v>6.9734236610336131</c:v>
+                <c:pt idx="14" formatCode="General">
+                  <c:v>202</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>4.5914693310931964</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>98</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000015-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000015-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -2391,7 +2387,7 @@
           <c:order val="22"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$X$23</c:f>
+              <c:f>'RKI Zahlen'!$X$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -2414,7 +2410,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -2470,64 +2466,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$X$24:$X$39</c:f>
+              <c:f>'RKI Zahlen'!$X$2:$X$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>24.806827894184877</c:v>
+                  <c:v>2746</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>18.360871964768538</c:v>
+                  <c:v>2401</c:v>
                 </c:pt>
-                <c:pt idx="2">
-                  <c:v>20.055827082006111</c:v>
+                <c:pt idx="2" formatCode="General">
+                  <c:v>731</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>7.6435646559977899</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>192</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>17.716322150087997</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>121</c:v>
                 </c:pt>
-                <c:pt idx="5">
-                  <c:v>31.827432313751132</c:v>
+                <c:pt idx="5" formatCode="General">
+                  <c:v>586</c:v>
                 </c:pt>
-                <c:pt idx="6">
-                  <c:v>12.975180060547647</c:v>
+                <c:pt idx="6" formatCode="General">
+                  <c:v>813</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>8.1382887850031853</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>131</c:v>
                 </c:pt>
-                <c:pt idx="8">
-                  <c:v>10.059570698111658</c:v>
+                <c:pt idx="8" formatCode="General">
+                  <c:v>803</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>19.500741970609923</c:v>
+                  <c:v>3497</c:v>
                 </c:pt>
-                <c:pt idx="10">
-                  <c:v>19.60907197435202</c:v>
+                <c:pt idx="10" formatCode="General">
+                  <c:v>801</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>14.739896356317811</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>146</c:v>
                 </c:pt>
-                <c:pt idx="12">
-                  <c:v>9.6617480848772317</c:v>
+                <c:pt idx="12" formatCode="General">
+                  <c:v>394</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>8.1509889187305653</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>180</c:v>
                 </c:pt>
-                <c:pt idx="14">
-                  <c:v>9.1828252170046589</c:v>
+                <c:pt idx="14" formatCode="General">
+                  <c:v>266</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>6.9809074523763908</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>149</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000016-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000016-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -2536,7 +2532,7 @@
           <c:order val="23"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$Y$23</c:f>
+              <c:f>'RKI Zahlen'!$Y$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -2559,7 +2555,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -2615,64 +2611,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$Y$24:$Y$39</c:f>
+              <c:f>'RKI Zahlen'!$Y$2:$Y$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>33.135995890702887</c:v>
+                  <c:v>3668</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>22.635643904920812</c:v>
+                  <c:v>2960</c:v>
                 </c:pt>
-                <c:pt idx="2">
-                  <c:v>23.759707596466882</c:v>
+                <c:pt idx="2" formatCode="General">
+                  <c:v>866</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>10.111799076163743</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>254</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>20.791055746384259</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>142</c:v>
                 </c:pt>
-                <c:pt idx="5">
-                  <c:v>31.881745338177332</c:v>
+                <c:pt idx="5" formatCode="General">
+                  <c:v>587</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>17.23640155644706</c:v>
+                  <c:v>1080</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>10.250516408591798</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>165</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>12.81561746471759</c:v>
+                  <c:v>1023</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>19.751680886445623</c:v>
+                  <c:v>3542</c:v>
                 </c:pt>
-                <c:pt idx="10">
-                  <c:v>22.962933223398494</c:v>
+                <c:pt idx="10" formatCode="General">
+                  <c:v>938</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>18.879182319393362</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>187</c:v>
                 </c:pt>
-                <c:pt idx="12">
-                  <c:v>13.904089249049212</c:v>
+                <c:pt idx="12" formatCode="General">
+                  <c:v>567</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>8.5132550928963671</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>188</c:v>
                 </c:pt>
-                <c:pt idx="14">
-                  <c:v>10.632744988110659</c:v>
+                <c:pt idx="14" formatCode="General">
+                  <c:v>308</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>8.7612731113717111</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>187</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000017-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000017-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -2681,7 +2677,7 @@
           <c:order val="24"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$Z$23</c:f>
+              <c:f>'RKI Zahlen'!$Z$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -2705,7 +2701,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -2761,64 +2757,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$Z$24:$Z$39</c:f>
+              <c:f>'RKI Zahlen'!$Z$2:$Z$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>34.391694753518507</c:v>
+                  <c:v>3807</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>27.912196031405735</c:v>
+                  <c:v>3650</c:v>
                 </c:pt>
-                <c:pt idx="2">
-                  <c:v>28.094619605983933</c:v>
+                <c:pt idx="2" formatCode="General">
+                  <c:v>1024</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>10.908003727830179</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>274</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>24.158621113756357</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>165</c:v>
                 </c:pt>
-                <c:pt idx="5">
-                  <c:v>47.360957299643331</c:v>
+                <c:pt idx="5" formatCode="General">
+                  <c:v>872</c:v>
                 </c:pt>
-                <c:pt idx="6">
-                  <c:v>18.752566508171572</c:v>
+                <c:pt idx="6" formatCode="General">
+                  <c:v>1175</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>10.68538680168357</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>172</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>16.360895805397043</c:v>
+                  <c:v>1306</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>19.768410147501339</c:v>
+                  <c:v>3545</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>25.778218213474002</c:v>
+                  <c:v>1053</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>18.879182319393362</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>187</c:v>
                 </c:pt>
-                <c:pt idx="12">
-                  <c:v>14.860455176232492</c:v>
+                <c:pt idx="12" formatCode="General">
+                  <c:v>606</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>9.5547703436230513</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>211</c:v>
                 </c:pt>
-                <c:pt idx="14">
-                  <c:v>11.979099061280515</c:v>
+                <c:pt idx="14" formatCode="General">
+                  <c:v>347</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>10.119973219552351</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>216</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000018-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000018-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -2827,7 +2823,7 @@
           <c:order val="25"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$AA$23</c:f>
+              <c:f>'RKI Zahlen'!$AA$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -2851,7 +2847,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -2907,64 +2903,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$AA$24:$AA$39</c:f>
+              <c:f>'RKI Zahlen'!$AA$2:$AA$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>34.427829972592342</c:v>
+                  <c:v>3811</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>37.409989859078586</c:v>
+                  <c:v>4892</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>29.548735659809275</c:v>
+                  <c:v>1077</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>11.465346983996685</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>288</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>24.890700541445945</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>170</c:v>
                 </c:pt>
-                <c:pt idx="5">
-                  <c:v>51.217182033903278</c:v>
+                <c:pt idx="5" formatCode="General">
+                  <c:v>943</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>21.497623052346473</c:v>
+                  <c:v>1347</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>10.68538680168357</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>172</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>18.578260703984544</c:v>
+                  <c:v>1483</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>31.311600275943587</c:v>
+                  <c:v>5615</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>28.813829854946722</c:v>
+                  <c:v>1177</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>20.191638844270976</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>200</c:v>
                 </c:pt>
-                <c:pt idx="12">
-                  <c:v>16.012998729504648</c:v>
+                <c:pt idx="12" formatCode="General">
+                  <c:v>653</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>9.6000536153937759</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>212</c:v>
                 </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.221887436514228</c:v>
+                <c:pt idx="14" formatCode="General">
+                  <c:v>383</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>11.666080239206183</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>249</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000019-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000019-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -2973,7 +2969,7 @@
           <c:order val="26"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$AB$23</c:f>
+              <c:f>'RKI Zahlen'!$AB$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -2997,7 +2993,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -3053,64 +3049,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$AB$24:$AB$39</c:f>
+              <c:f>'RKI Zahlen'!$AB$2:$AB$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>48.312787901711843</c:v>
+                  <c:v>5348</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>44.001856428687283</c:v>
+                  <c:v>5754</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>33.472105389941795</c:v>
+                  <c:v>1220</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>13.654909776079384</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>343</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>26.794107053438871</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>183</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>56.648484476522924</c:v>
+                  <c:v>1043</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>25.854602334670592</c:v>
+                  <c:v>1620</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>12.362744032180411</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>199</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>22.098484074058483</c:v>
+                  <c:v>1764</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>35.23182378333243</c:v>
+                  <c:v>6318</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>33.53861249046475</c:v>
+                  <c:v>1370</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>34.022911452596595</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>337</c:v>
                 </c:pt>
-                <c:pt idx="12">
-                  <c:v>19.887506844759987</c:v>
+                <c:pt idx="12" formatCode="General">
+                  <c:v>811</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>14.535930238402843</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>321</c:v>
                 </c:pt>
-                <c:pt idx="14">
-                  <c:v>16.501467871158749</c:v>
+                <c:pt idx="14" formatCode="General">
+                  <c:v>478</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>15.320515012933418</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>327</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000001A-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000001A-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -3119,7 +3115,7 @@
           <c:order val="27"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$AC$23</c:f>
+              <c:f>'RKI Zahlen'!$AC$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -3143,7 +3139,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -3199,64 +3195,64 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$AC$24:$AC$39</c:f>
+              <c:f>'RKI Zahlen'!$AC$2:$AC$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>General</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>54.826161139769852</c:v>
+                  <c:v>6069</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>50.150186732591457</c:v>
+                  <c:v>6558</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>39.178824997407283</c:v>
+                  <c:v>1428</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>17.07858977824506</c:v>
+                  <c:v>429</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>29.283177107583466</c:v>
+                  <c:v>200</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>68.543036825859957</c:v>
+                  <c:v>1262</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>27.993192898155691</c:v>
+                  <c:v>1754</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>13.543106527715221</c:v>
+                  <c:v>218</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>26.808818547894077</c:v>
+                  <c:v>2140</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>40.133497272656456</c:v>
+                  <c:v>7197</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>38.948855819218558</c:v>
+                  <c:v>1591</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>40.686152271206019</c:v>
+                  <c:v>403</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>23.516792927404222</c:v>
+                  <c:v>959</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>16.98122691402201</c:v>
+                  <c:v>375</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>19.919135903051458</c:v>
+                  <c:v>577</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>18.459580780109381</c:v>
+                  <c:v>394</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000001B-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000001B-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -3265,7 +3261,7 @@
           <c:order val="28"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$AD$23</c:f>
+              <c:f>'RKI Zahlen'!$AD$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -3290,7 +3286,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -3347,57 +3343,57 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$AD$24:$AD$39</c:f>
+              <c:f>'RKI Zahlen'!$AD$2:$AD$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>65.793200128677512</c:v>
+                  <c:v>7283</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>61.123885720281095</c:v>
+                  <c:v>7993</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>45.434267644052142</c:v>
+                  <c:v>1656</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>18.989480942244509</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>477</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>30.893751848500553</c:v>
+                  <c:v>211</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>68.705975899138537</c:v>
+                  <c:v>1265</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>34.42492421968177</c:v>
+                  <c:v>2157</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>15.158339416341809</c:v>
+                  <c:v>244</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>29.402008005564205</c:v>
+                  <c:v>2347</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>44.187554868490999</c:v>
+                  <c:v>7924</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>44.457022104148898</c:v>
+                  <c:v>1816</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43.714898097846664</c:v>
+                  <c:v>433</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>27.979833920926197</c:v>
+                  <c:v>1141</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>18.928407600163201</c:v>
+                  <c:v>418</c:v>
                 </c:pt>
-                <c:pt idx="14">
-                  <c:v>23.302282035632121</c:v>
+                <c:pt idx="14" formatCode="General">
+                  <c:v>675</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>21.926608642363426</c:v>
+                  <c:v>468</c:v>
                 </c:pt>
               </c:numCache>
               <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
@@ -3405,7 +3401,7 @@
           </c:val>
           <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000001C-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000001C-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -3414,7 +3410,7 @@
           <c:order val="29"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$AE$23</c:f>
+              <c:f>'RKI Zahlen'!$AE$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -3439,7 +3435,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -3496,57 +3492,57 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$AE$24:$AE$39</c:f>
+              <c:f>'RKI Zahlen'!$AE$2:$AE$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>73.724880715383378</c:v>
+                  <c:v>8161</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>72.502885088700751</c:v>
+                  <c:v>9481</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>53.637677079783785</c:v>
+                  <c:v>1955</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>21.378094897243816</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>537</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>35.286228414638074</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>241</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>91.951950353550629</c:v>
+                  <c:v>1693</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>37.074222977431965</c:v>
+                  <c:v>2323</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>16.090204544395608</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>259</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>35.20223370073942</c:v>
+                  <c:v>2810</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>51.498241949837755</c:v>
+                  <c:v>9235</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>48.251536655989796</c:v>
+                  <c:v>1971</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>50.983888081784215</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>505</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>32.00147525574819</c:v>
+                  <c:v>1305</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>20.739738470992215</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>458</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>28.031782241382643</c:v>
+                  <c:v>812</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>25.393636504617472</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>542</c:v>
                 </c:pt>
               </c:numCache>
               <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
@@ -3554,7 +3550,7 @@
           </c:val>
           <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000001D-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000001D-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -3563,7 +3559,7 @@
           <c:order val="30"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$AF$23</c:f>
+              <c:f>'RKI Zahlen'!$AF$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -3587,7 +3583,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -3644,57 +3640,57 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$AF$24:$AF$39</c:f>
+              <c:f>'RKI Zahlen'!$AF$2:$AF$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>88.359644440284882</c:v>
+                  <c:v>9781</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>85.266023493198333</c:v>
+                  <c:v>11150</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>59.289524383331333</c:v>
+                  <c:v>2161</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>25.677600016242575</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>645</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>38.068130239858505</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>260</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>95.862488112236775</c:v>
+                  <c:v>1765</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>41.558879308322361</c:v>
+                  <c:v>2604</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>19.134297296038021</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>308</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>39.461578703675862</c:v>
+                  <c:v>3150</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>59.149090672650686</c:v>
+                  <c:v>10607</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>54.1513947656263</c:v>
+                  <c:v>2212</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>55.527006821745182</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>550</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>35.115795069909126</c:v>
+                  <c:v>1432</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>20.739738470992215</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>458</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>31.587537870523544</c:v>
+                  <c:v>915</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>27.361409075085984</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>584</c:v>
                 </c:pt>
               </c:numCache>
               <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
@@ -3702,7 +3698,7 @@
           </c:val>
           <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000001E-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000001E-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -3711,7 +3707,7 @@
           <c:order val="31"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$AG$23</c:f>
+              <c:f>'RKI Zahlen'!$AG$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -3735,7 +3731,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -3792,57 +3788,57 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$AG$24:$AG$39</c:f>
+              <c:f>'RKI Zahlen'!$AG$2:$AG$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>88.477083902274828</c:v>
+                  <c:v>9794</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>98.503286871380055</c:v>
+                  <c:v>12881</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>64.749318623166104</c:v>
+                  <c:v>2360</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>28.703177692575032</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>721</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>40.264368522927263</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>275</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>100.2618430907587</c:v>
+                  <c:v>1846</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>41.574838939393139</c:v>
+                  <c:v>2605</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>21.619270970848152</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>348</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43.219824294502139</c:v>
+                  <c:v>3450</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>63.571192011710927</c:v>
+                  <c:v>11400</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>58.655850749747117</c:v>
+                  <c:v>2396</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>56.536588763958733</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>560</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>39.652402673214418</c:v>
+                  <c:v>1617</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>26.807696888269415</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>592</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>34.694508808607829</c:v>
+                  <c:v>1005</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>32.655654324203653</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>697</c:v>
                 </c:pt>
               </c:numCache>
               <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
@@ -3850,7 +3846,7 @@
           </c:val>
           <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{0000001F-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{0000001F-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -3859,7 +3855,7 @@
           <c:order val="32"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$AH$23</c:f>
+              <c:f>'RKI Zahlen'!$AH$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -3883,7 +3879,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -3940,57 +3936,57 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$AH$24:$AH$39</c:f>
+              <c:f>'RKI Zahlen'!$AH$2:$AH$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>98.856925581232744</c:v>
+                  <c:v>10943</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>106.97635898173556</c:v>
+                  <c:v>13989</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>67.602678426898848</c:v>
+                  <c:v>2464</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>30.295586995907904</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>761</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>41.874943263844351</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>286</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>111.50463914698136</c:v>
+                  <c:v>2053</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>49.331219639794313</c:v>
+                  <c:v>3091</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>22.116265705810179</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>356</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>46.75257514987883</c:v>
+                  <c:v>3732</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>67.909647045492605</c:v>
+                  <c:v>12178</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>63.258229690044466</c:v>
+                  <c:v>2584</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>71.276485120276547</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>706</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>44.017354853691955</c:v>
+                  <c:v>1795</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>26.807696888269415</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>592</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>36.213472378337919</c:v>
+                  <c:v>1049</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>33.686392337306202</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>719</c:v>
                 </c:pt>
               </c:numCache>
               <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
@@ -3998,7 +3994,7 @@
           </c:val>
           <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000020-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000020-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -4007,7 +4003,7 @@
           <c:order val="33"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$AI$23</c:f>
+              <c:f>'RKI Zahlen'!$AI$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -4031,7 +4027,7 @@
           <c:invertIfNegative val="0"/>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$A$39</c:f>
+              <c:f>'RKI Zahlen'!$A$2:$A$17</c:f>
               <c:strCache>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
@@ -4088,57 +4084,57 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$AI$24:$AI$39</c:f>
+              <c:f>'RKI Zahlen'!$AI$2:$AI$17</c:f>
               <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
+                <c:formatCode>#,##0</c:formatCode>
                 <c:ptCount val="16"/>
                 <c:pt idx="0">
-                  <c:v>111.42294801415741</c:v>
+                  <c:v>12334</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>113.25469129455311</c:v>
+                  <c:v>14810</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>70.648091294344368</c:v>
+                  <c:v>2575</c:v>
                 </c:pt>
-                <c:pt idx="3">
-                  <c:v>31.768565601490813</c:v>
+                <c:pt idx="3" formatCode="General">
+                  <c:v>798</c:v>
                 </c:pt>
-                <c:pt idx="4">
-                  <c:v>43.046270348147694</c:v>
+                <c:pt idx="4" formatCode="General">
+                  <c:v>294</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>118.99983651779648</c:v>
+                  <c:v>2191</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>52.395468805384908</c:v>
+                  <c:v>3283</c:v>
                 </c:pt>
-                <c:pt idx="7">
-                  <c:v>22.737509124512712</c:v>
+                <c:pt idx="7" formatCode="General">
+                  <c:v>366</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>50.899172785090485</c:v>
+                  <c:v>4063</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>73.748159153936584</c:v>
+                  <c:v>13225</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>66.734494634311616</c:v>
+                  <c:v>2726</c:v>
                 </c:pt>
-                <c:pt idx="11">
-                  <c:v>78.949307881099514</c:v>
+                <c:pt idx="11" formatCode="General">
+                  <c:v>782</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>46.1507865374085</c:v>
+                  <c:v>1882</c:v>
                 </c:pt>
-                <c:pt idx="13">
-                  <c:v>30.792624804093244</c:v>
+                <c:pt idx="13" formatCode="General">
+                  <c:v>680</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>38.664527229493302</c:v>
+                  <c:v>1120</c:v>
                 </c:pt>
-                <c:pt idx="15">
-                  <c:v>36.731754648745572</c:v>
+                <c:pt idx="15" formatCode="General">
+                  <c:v>784</c:v>
                 </c:pt>
               </c:numCache>
               <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
@@ -4146,7 +4142,7 @@
           </c:val>
           <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000021-270D-4D23-9C6E-A3C9E501108D}"/>
+              <c16:uniqueId val="{00000021-0FF9-487C-973C-6DAB9B93DDFF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -4160,8 +4156,8 @@
         </c:dLbls>
         <c:gapWidth val="219"/>
         <c:overlap val="-27"/>
-        <c:axId val="499860688"/>
-        <c:axId val="1459741184"/>
+        <c:axId val="457346224"/>
+        <c:axId val="1459755744"/>
         <c:extLst>
           <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
             <c15:filteredBarSeries>
@@ -4173,7 +4169,7 @@
                     <c:extLst>
                       <c:ext uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$B$23</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$B$1</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -4197,7 +4193,7 @@
                     <c:extLst>
                       <c:ext uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$A$24:$A$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$A$2:$A$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -4259,67 +4255,19 @@
                     <c:extLst>
                       <c:ext uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$B$24:$B$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$B$2:$B$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
                     <c:numCache>
-                      <c:formatCode>#,##0.0</c:formatCode>
+                      <c:formatCode>General</c:formatCode>
                       <c:ptCount val="16"/>
-                      <c:pt idx="0">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="15">
-                        <c:v>0</c:v>
-                      </c:pt>
                     </c:numCache>
                   </c:numRef>
                 </c:val>
                 <c:extLst>
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-                    <c16:uniqueId val="{00000000-270D-4D23-9C6E-A3C9E501108D}"/>
+                    <c16:uniqueId val="{00000000-0FF9-487C-973C-6DAB9B93DDFF}"/>
                   </c:ext>
                 </c:extLst>
               </c15:ser>
@@ -4333,7 +4281,7 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$C$23</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$C$1</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -4357,7 +4305,7 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$A$24:$A$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$A$2:$A$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -4419,67 +4367,19 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$C$24:$C$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$C$2:$C$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
                     <c:numCache>
-                      <c:formatCode>#,##0.0</c:formatCode>
+                      <c:formatCode>General</c:formatCode>
                       <c:ptCount val="16"/>
-                      <c:pt idx="0">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="15">
-                        <c:v>0</c:v>
-                      </c:pt>
                     </c:numCache>
                   </c:numRef>
                 </c:val>
                 <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-                    <c16:uniqueId val="{00000001-270D-4D23-9C6E-A3C9E501108D}"/>
+                    <c16:uniqueId val="{00000001-0FF9-487C-973C-6DAB9B93DDFF}"/>
                   </c:ext>
                 </c:extLst>
               </c15:ser>
@@ -4493,7 +4393,7 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$D$23</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$D$1</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -4517,7 +4417,7 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$A$24:$A$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$A$2:$A$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -4579,67 +4479,19 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$D$24:$D$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$D$2:$D$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
                     <c:numCache>
-                      <c:formatCode>#,##0.0</c:formatCode>
+                      <c:formatCode>General</c:formatCode>
                       <c:ptCount val="16"/>
-                      <c:pt idx="0">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="15">
-                        <c:v>0</c:v>
-                      </c:pt>
                     </c:numCache>
                   </c:numRef>
                 </c:val>
                 <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-                    <c16:uniqueId val="{00000002-270D-4D23-9C6E-A3C9E501108D}"/>
+                    <c16:uniqueId val="{00000002-0FF9-487C-973C-6DAB9B93DDFF}"/>
                   </c:ext>
                 </c:extLst>
               </c15:ser>
@@ -4653,7 +4505,7 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$E$23</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$E$1</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -4677,7 +4529,7 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$A$24:$A$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$A$2:$A$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -4739,67 +4591,19 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$E$24:$E$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$E$2:$E$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
                     <c:numCache>
-                      <c:formatCode>#,##0.0</c:formatCode>
+                      <c:formatCode>General</c:formatCode>
                       <c:ptCount val="16"/>
-                      <c:pt idx="0">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="15">
-                        <c:v>0</c:v>
-                      </c:pt>
                     </c:numCache>
                   </c:numRef>
                 </c:val>
                 <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-                    <c16:uniqueId val="{00000003-270D-4D23-9C6E-A3C9E501108D}"/>
+                    <c16:uniqueId val="{00000003-0FF9-487C-973C-6DAB9B93DDFF}"/>
                   </c:ext>
                 </c:extLst>
               </c15:ser>
@@ -4813,7 +4617,7 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$F$23</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$F$1</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -4837,7 +4641,7 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$A$24:$A$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$A$2:$A$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -4899,67 +4703,19 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$F$24:$F$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$F$2:$F$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
                     <c:numCache>
-                      <c:formatCode>#,##0.0</c:formatCode>
+                      <c:formatCode>General</c:formatCode>
                       <c:ptCount val="16"/>
-                      <c:pt idx="0">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="15">
-                        <c:v>0</c:v>
-                      </c:pt>
                     </c:numCache>
                   </c:numRef>
                 </c:val>
                 <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-                    <c16:uniqueId val="{00000004-270D-4D23-9C6E-A3C9E501108D}"/>
+                    <c16:uniqueId val="{00000004-0FF9-487C-973C-6DAB9B93DDFF}"/>
                   </c:ext>
                 </c:extLst>
               </c15:ser>
@@ -4973,7 +4729,7 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$G$23</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$G$1</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -4997,7 +4753,7 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$A$24:$A$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$A$2:$A$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
@@ -5059,67 +4815,19 @@
                     <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
-                          <c15:sqref>'RKI Zahlen'!$G$24:$G$39</c15:sqref>
+                          <c15:sqref>'RKI Zahlen'!$G$2:$G$17</c15:sqref>
                         </c15:formulaRef>
                       </c:ext>
                     </c:extLst>
                     <c:numCache>
-                      <c:formatCode>#,##0.0</c:formatCode>
+                      <c:formatCode>General</c:formatCode>
                       <c:ptCount val="16"/>
-                      <c:pt idx="0">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="15">
-                        <c:v>0</c:v>
-                      </c:pt>
                     </c:numCache>
                   </c:numRef>
                 </c:val>
                 <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-                    <c16:uniqueId val="{00000005-270D-4D23-9C6E-A3C9E501108D}"/>
+                    <c16:uniqueId val="{00000005-0FF9-487C-973C-6DAB9B93DDFF}"/>
                   </c:ext>
                 </c:extLst>
               </c15:ser>
@@ -5128,7 +4836,7 @@
         </c:extLst>
       </c:barChart>
       <c:catAx>
-        <c:axId val="499860688"/>
+        <c:axId val="457346224"/>
         <c:scaling>
           <c:orientation val="minMax"/>
         </c:scaling>
@@ -5171,7 +4879,7 @@
             <a:endParaRPr lang="de-DE"/>
           </a:p>
         </c:txPr>
-        <c:crossAx val="1459741184"/>
+        <c:crossAx val="1459755744"/>
         <c:crosses val="autoZero"/>
         <c:auto val="1"/>
         <c:lblAlgn val="ctr"/>
@@ -5179,7 +4887,7 @@
         <c:noMultiLvlLbl val="0"/>
       </c:catAx>
       <c:valAx>
-        <c:axId val="1459741184"/>
+        <c:axId val="1459755744"/>
         <c:scaling>
           <c:orientation val="minMax"/>
         </c:scaling>
@@ -5199,7 +4907,7 @@
             <a:effectLst/>
           </c:spPr>
         </c:majorGridlines>
-        <c:numFmt formatCode="#,##0.0" sourceLinked="1"/>
+        <c:numFmt formatCode="General" sourceLinked="1"/>
         <c:majorTickMark val="none"/>
         <c:minorTickMark val="none"/>
         <c:tickLblPos val="nextTo"/>
@@ -5230,7 +4938,7 @@
             <a:endParaRPr lang="de-DE"/>
           </a:p>
         </c:txPr>
-        <c:crossAx val="499860688"/>
+        <c:crossAx val="457346224"/>
         <c:crosses val="autoZero"/>
         <c:crossBetween val="between"/>
       </c:valAx>

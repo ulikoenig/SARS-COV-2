@@ -10,23 +10,28 @@
         <vt:lpstr>Arbeitsblätter</vt:lpstr>
       </vt:variant>
       <vt:variant>
-        <vt:i4>1</vt:i4>
+        <vt:i4>3</vt:i4>
       </vt:variant>
       <vt:variant>
         <vt:lpstr>Diagramme</vt:lpstr>
       </vt:variant>
       <vt:variant>
-        <vt:i4>4</vt:i4>
+        <vt:i4>7</vt:i4>
       </vt:variant>
     </vt:vector>
   </HeadingPairs>
   <TitlesOfParts>
-    <vt:vector size="5" baseType="lpstr">
+    <vt:vector size="10" baseType="lpstr">
       <vt:lpstr>Kreise</vt:lpstr>
+      <vt:lpstr>Auswertung</vt:lpstr>
+      <vt:lpstr>Tabelle1</vt:lpstr>
+      <vt:lpstr>Wochentage</vt:lpstr>
       <vt:lpstr>DC-Kreise</vt:lpstr>
       <vt:lpstr>DC-Kreise2</vt:lpstr>
       <vt:lpstr>DC-Kreise-Normiert</vt:lpstr>
       <vt:lpstr>DC-Kreise-Ableitung</vt:lpstr>
+      <vt:lpstr>DC-Kreise-Ableitung-Tot</vt:lpstr>
+      <vt:lpstr>Diagramm2</vt:lpstr>
     </vt:vector>
   </TitlesOfParts>
   <Company>msg systems group</Company>

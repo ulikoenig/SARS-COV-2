@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="116" uniqueCount="28">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="138" uniqueCount="43">
   <si>
     <t>Einwohner</t>
   </si>
@@ -83,5 +83,50 @@
   </si>
   <si>
     <t>Anzahl pro Kopf</t>
+  </si>
+  <si>
+    <t>Wochentag</t>
+  </si>
+  <si>
+    <t>Werte</t>
+  </si>
+  <si>
+    <t>Insgesamt gemeldet</t>
+  </si>
+  <si>
+    <t>Durchschnitt pro Tag</t>
+  </si>
+  <si>
+    <t>Tage mit Werten</t>
+  </si>
+  <si>
+    <t>Montag</t>
+  </si>
+  <si>
+    <t>Dienstag</t>
+  </si>
+  <si>
+    <t>Mittwoch</t>
+  </si>
+  <si>
+    <t>Donnerstag</t>
+  </si>
+  <si>
+    <t>Freitag</t>
+  </si>
+  <si>
+    <t>Samstag</t>
+  </si>
+  <si>
+    <t>Sonntag</t>
+  </si>
+  <si>
+    <t>Maximum</t>
+  </si>
+  <si>
+    <t>Summe</t>
+  </si>
+  <si>
+    <t>SARS-CoV-2 verifizierte Infektionen nach Wochentagen in Deutschland</t>
   </si>
 </sst>
