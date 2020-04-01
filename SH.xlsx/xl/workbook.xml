@@ -7,21 +7,20 @@
       <x15ac:absPath xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac" url="C:\Users\ukoenig\Documents\2020\Corona\"/>
     </mc:Choice>
   </mc:AlternateContent>
-  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{7C8F6017-4E3B-4D2D-8CA4-A4B648DD20C9}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{E3D01BAC-6CBB-44CC-BF82-B16BBF52F03C}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
   <bookViews>
-    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="709" activeTab="1" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
+    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="709" activeTab="8" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
   </bookViews>
   <sheets>
-    <sheet name="Kreise" sheetId="3" r:id="rId1"/>
-    <sheet name="Wochentage" sheetId="37" r:id="rId2"/>
-    <sheet name="Auswertung" sheetId="26" r:id="rId3"/>
-    <sheet name="Tabelle1" sheetId="32" r:id="rId4"/>
+    <sheet name="Woche2" sheetId="38" r:id="rId1"/>
+    <sheet name="Kreise" sheetId="3" r:id="rId2"/>
+    <sheet name="Auswertung" sheetId="32" r:id="rId3"/>
+    <sheet name="Wochentage" sheetId="37" r:id="rId4"/>
     <sheet name="DC-Kreise" sheetId="9" r:id="rId5"/>
     <sheet name="DC-Kreise2" sheetId="11" r:id="rId6"/>
     <sheet name="DC-Kreise-Normiert" sheetId="10" r:id="rId7"/>
     <sheet name="DC-Kreise-Ableitung" sheetId="25" r:id="rId8"/>
-    <sheet name="DC-Kreise-Ableitung-Tot" sheetId="31" r:id="rId9"/>
-    <sheet name="Diagramm2" sheetId="34" r:id="rId10"/>
+    <sheet name="DC-Kreise-Ableitung-Tot" sheetId="34" r:id="rId9"/>
   </sheets>
   <calcPr calcId="181029"/>
   <extLst>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<chartsheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" mc:Ignorable="xr xr3" xr:uid="{B28DCFF8-31AE-44B0-812D-A2BE0748786A}">
+<chartsheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" mc:Ignorable="xr xr3" xr:uid="{21BF9401-3E9D-498C-A900-7AE0D21270C4}">
   <sheetPr/>
   <sheetViews>
-    <sheetView zoomScale="130" workbookViewId="0"/>
+    <sheetView zoomScale="123" workbookViewId="0" zoomToFit="1"/>
   </sheetViews>
-  <pageMargins left="0.23622047244094491" right="0.23622047244094491" top="0.74803149606299213" bottom="0.74803149606299213" header="0.31496062992125984" footer="0.31496062992125984"/>
-  <pageSetup paperSize="9" orientation="portrait" r:id="rId1"/>
+  <pageMargins left="0.25" right="0.25" top="0.75" bottom="0.75" header="0.3" footer="0.3"/>
+  <pageSetup paperSize="9" orientation="landscape" r:id="rId1"/>
   <headerFooter>
     <oddFooter>&amp;LLizenz: CC-BY&amp;CErstellt von Uli König &amp;D&amp;RDatenquelle: Staatskanzlei SH</oddFooter>
   </headerFooter>

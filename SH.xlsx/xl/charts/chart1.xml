@@ -13,6 +13,38 @@
   </mc:AlternateContent>
   <c:chart>
     <c:title>
+      <c:tx>
+        <c:rich>
+          <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr>
+              <a:defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" kern="1200" spc="0" baseline="0">
+                <a:solidFill>
+                  <a:schemeClr val="tx1">
+                    <a:lumMod val="65000"/>
+                    <a:lumOff val="35000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="+mn-lt"/>
+                <a:ea typeface="+mn-ea"/>
+                <a:cs typeface="+mn-cs"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="de-DE" sz="1400" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                <a:effectLst/>
+              </a:rPr>
+              <a:t>SARS-CoV-2 verifizierte Infektionen nach Wochentagen in SH</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="de-DE" sz="1400" b="0" i="0" u="none" strike="noStrike" baseline="0"/>
+              <a:t> </a:t>
+            </a:r>
+            <a:endParaRPr lang="de-DE"/>
+          </a:p>
+        </c:rich>
+      </c:tx>
       <c:overlay val="0"/>
       <c:spPr>
         <a:noFill/>
@@ -73,6 +105,64 @@
             <a:effectLst/>
           </c:spPr>
           <c:invertIfNegative val="0"/>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:txPr>
+              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+                <a:spAutoFit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr>
+                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                    <a:solidFill>
+                      <a:schemeClr val="tx1">
+                        <a:lumMod val="75000"/>
+                        <a:lumOff val="25000"/>
+                      </a:schemeClr>
+                    </a:solidFill>
+                    <a:latin typeface="+mn-lt"/>
+                    <a:ea typeface="+mn-ea"/>
+                    <a:cs typeface="+mn-cs"/>
+                  </a:defRPr>
+                </a:pPr>
+                <a:endParaRPr lang="de-DE"/>
+              </a:p>
+            </c:txPr>
+            <c:dLblPos val="outEnd"/>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst>
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+                <c15:leaderLines>
+                  <c:spPr>
+                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                      <a:solidFill>
+                        <a:schemeClr val="tx1">
+                          <a:lumMod val="35000"/>
+                          <a:lumOff val="65000"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:round/>
+                    </a:ln>
+                    <a:effectLst/>
+                  </c:spPr>
+                </c15:leaderLines>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
           <c:cat>
             <c:strRef>
               <c:f>Kreise!$A$122:$A$128</c:f>
@@ -134,7 +224,7 @@
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000000-F764-4E83-9B9C-2BA80A72B764}"/>
+              <c16:uniqueId val="{00000000-2DB1-4321-9FA0-19D3F11DB7BF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -162,6 +252,64 @@
             <a:effectLst/>
           </c:spPr>
           <c:invertIfNegative val="0"/>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:txPr>
+              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+                <a:spAutoFit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr>
+                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                    <a:solidFill>
+                      <a:schemeClr val="tx1">
+                        <a:lumMod val="75000"/>
+                        <a:lumOff val="25000"/>
+                      </a:schemeClr>
+                    </a:solidFill>
+                    <a:latin typeface="+mn-lt"/>
+                    <a:ea typeface="+mn-ea"/>
+                    <a:cs typeface="+mn-cs"/>
+                  </a:defRPr>
+                </a:pPr>
+                <a:endParaRPr lang="de-DE"/>
+              </a:p>
+            </c:txPr>
+            <c:dLblPos val="outEnd"/>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst>
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+                <c15:leaderLines>
+                  <c:spPr>
+                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                      <a:solidFill>
+                        <a:schemeClr val="tx1">
+                          <a:lumMod val="35000"/>
+                          <a:lumOff val="65000"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:round/>
+                    </a:ln>
+                    <a:effectLst/>
+                  </c:spPr>
+                </c15:leaderLines>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
           <c:cat>
             <c:strRef>
               <c:f>Kreise!$A$122:$A$128</c:f>
@@ -223,13 +371,14 @@
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000001-F764-4E83-9B9C-2BA80A72B764}"/>
+              <c16:uniqueId val="{00000001-2DB1-4321-9FA0-19D3F11DB7BF}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
         <c:dLbls>
+          <c:dLblPos val="outEnd"/>
           <c:showLegendKey val="0"/>
-          <c:showVal val="0"/>
+          <c:showVal val="1"/>
           <c:showCatName val="0"/>
           <c:showSerName val="0"/>
           <c:showPercent val="0"/>
@@ -237,11 +386,11 @@
         </c:dLbls>
         <c:gapWidth val="219"/>
         <c:overlap val="-27"/>
-        <c:axId val="742046575"/>
-        <c:axId val="738385327"/>
+        <c:axId val="1904978640"/>
+        <c:axId val="1575380736"/>
       </c:barChart>
       <c:catAx>
-        <c:axId val="742046575"/>
+        <c:axId val="1904978640"/>
         <c:scaling>
           <c:orientation val="minMax"/>
         </c:scaling>
@@ -284,7 +433,7 @@
             <a:endParaRPr lang="de-DE"/>
           </a:p>
         </c:txPr>
-        <c:crossAx val="738385327"/>
+        <c:crossAx val="1575380736"/>
         <c:crosses val="autoZero"/>
         <c:auto val="1"/>
         <c:lblAlgn val="ctr"/>
@@ -292,7 +441,7 @@
         <c:noMultiLvlLbl val="0"/>
       </c:catAx>
       <c:valAx>
-        <c:axId val="738385327"/>
+        <c:axId val="1575380736"/>
         <c:scaling>
           <c:orientation val="minMax"/>
         </c:scaling>
@@ -343,7 +492,7 @@
             <a:endParaRPr lang="de-DE"/>
           </a:p>
         </c:txPr>
-        <c:crossAx val="742046575"/>
+        <c:crossAx val="1904978640"/>
         <c:crosses val="autoZero"/>
         <c:crossBetween val="between"/>
       </c:valAx>
@@ -415,9 +564,4 @@
       <a:endParaRPr lang="de-DE"/>
     </a:p>
   </c:txPr>
-  <c:printSettings>
-    <c:headerFooter/>
-    <c:pageMargins b="0.78740157499999996" l="0.7" r="0.7" t="0.78740157499999996" header="0.3" footer="0.3"/>
-    <c:pageSetup/>
-  </c:printSettings>
 </c:chartSpace>

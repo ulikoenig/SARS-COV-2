@@ -521,6 +521,13 @@
                 </c:ext>
               </c:extLst>
             </c:dLbl>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
             <c:dLblPos val="outEnd"/>
             <c:showLegendKey val="0"/>
             <c:showVal val="0"/>
