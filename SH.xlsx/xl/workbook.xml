@@ -7,21 +7,25 @@
       <x15ac:absPath xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac" url="C:\Users\ukoenig\Documents\2020\Corona\"/>
     </mc:Choice>
   </mc:AlternateContent>
-  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{E3D01BAC-6CBB-44CC-BF82-B16BBF52F03C}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{31696ECB-24F6-4C63-B909-1697A021ECDC}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
   <bookViews>
-    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="709" activeTab="8" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
+    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="709" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
   </bookViews>
   <sheets>
-    <sheet name="Woche2" sheetId="38" r:id="rId1"/>
-    <sheet name="Kreise" sheetId="3" r:id="rId2"/>
-    <sheet name="Auswertung" sheetId="32" r:id="rId3"/>
-    <sheet name="Wochentage" sheetId="37" r:id="rId4"/>
+    <sheet name="Kreise" sheetId="3" r:id="rId1"/>
+    <sheet name="Auswertung" sheetId="32" r:id="rId2"/>
+    <sheet name="Wochentage" sheetId="37" r:id="rId3"/>
+    <sheet name="Woche2" sheetId="38" r:id="rId4"/>
     <sheet name="DC-Kreise" sheetId="9" r:id="rId5"/>
     <sheet name="DC-Kreise2" sheetId="11" r:id="rId6"/>
     <sheet name="DC-Kreise-Normiert" sheetId="10" r:id="rId7"/>
     <sheet name="DC-Kreise-Ableitung" sheetId="25" r:id="rId8"/>
     <sheet name="DC-Kreise-Ableitung-Tot" sheetId="34" r:id="rId9"/>
   </sheets>
+  <definedNames>
+    <definedName name="_xlnm.Print_Area" localSheetId="1">Auswertung!$A$1</definedName>
+    <definedName name="_xlnm.Print_Area" localSheetId="0">Kreise!$A$1</definedName>
+  </definedNames>
   <calcPr calcId="181029"/>
   <extLst>
     <ext xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" uri="{140A7094-0E35-4892-8432-C4D2E57EDEB5}">

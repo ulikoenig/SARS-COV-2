@@ -5,7 +5,7 @@
   <DocSecurity>0</DocSecurity>
   <ScaleCrop>false</ScaleCrop>
   <HeadingPairs>
-    <vt:vector size="4" baseType="variant">
+    <vt:vector size="6" baseType="variant">
       <vt:variant>
         <vt:lpstr>Arbeitsblätter</vt:lpstr>
       </vt:variant>
@@ -18,19 +18,27 @@
       <vt:variant>
         <vt:i4>7</vt:i4>
       </vt:variant>
+      <vt:variant>
+        <vt:lpstr>Benannte Bereiche</vt:lpstr>
+      </vt:variant>
+      <vt:variant>
+        <vt:i4>2</vt:i4>
+      </vt:variant>
     </vt:vector>
   </HeadingPairs>
   <TitlesOfParts>
-    <vt:vector size="9" baseType="lpstr">
+    <vt:vector size="11" baseType="lpstr">
       <vt:lpstr>Kreise</vt:lpstr>
       <vt:lpstr>Auswertung</vt:lpstr>
-      <vt:lpstr>Woche2</vt:lpstr>
       <vt:lpstr>Wochentage</vt:lpstr>
+      <vt:lpstr>Woche2</vt:lpstr>
       <vt:lpstr>DC-Kreise</vt:lpstr>
       <vt:lpstr>DC-Kreise2</vt:lpstr>
       <vt:lpstr>DC-Kreise-Normiert</vt:lpstr>
       <vt:lpstr>DC-Kreise-Ableitung</vt:lpstr>
       <vt:lpstr>DC-Kreise-Ableitung-Tot</vt:lpstr>
+      <vt:lpstr>Auswertung!Druckbereich</vt:lpstr>
+      <vt:lpstr>Kreise!Druckbereich</vt:lpstr>
     </vt:vector>
   </TitlesOfParts>
   <Company>msg systems group</Company>
