@@ -521,6 +521,13 @@
                 </c:ext>
               </c:extLst>
             </c:dLbl>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
             <c:dLblPos val="outEnd"/>
             <c:showLegendKey val="0"/>
             <c:showVal val="0"/>
@@ -583,25 +590,25 @@
                 <c:formatCode>0.00</c:formatCode>
                 <c:ptCount val="7"/>
                 <c:pt idx="0">
-                  <c:v>0.1658367260871681</c:v>
+                  <c:v>0.157468672605626</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>0.17323319978589155</c:v>
+                  <c:v>0.16449192326174547</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>8.8092650565278749E-2</c:v>
+                  <c:v>0.1341071230547444</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>0.14103583072456247</c:v>
+                  <c:v>0.13391922029596226</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>0.15685065935670142</c:v>
+                  <c:v>0.14893603913305981</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>0.16038669283547713</c:v>
+                  <c:v>0.15229364580638008</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>0.1145642406449206</c:v>
+                  <c:v>0.10878337584248204</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>

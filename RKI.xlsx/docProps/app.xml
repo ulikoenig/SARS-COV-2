@@ -16,12 +16,12 @@
         <vt:lpstr>Diagramme</vt:lpstr>
       </vt:variant>
       <vt:variant>
-        <vt:i4>13</vt:i4>
+        <vt:i4>15</vt:i4>
       </vt:variant>
     </vt:vector>
   </HeadingPairs>
   <TitlesOfParts>
-    <vt:vector size="17" baseType="lpstr">
+    <vt:vector size="19" baseType="lpstr">
       <vt:lpstr>RKI Zahlen</vt:lpstr>
       <vt:lpstr>Vorlage</vt:lpstr>
       <vt:lpstr>Hamburg</vt:lpstr>
@@ -33,9 +33,11 @@
       <vt:lpstr>DE-Tote</vt:lpstr>
       <vt:lpstr>DE-Tote Abl</vt:lpstr>
       <vt:lpstr>DE-Tote p. Kopf</vt:lpstr>
+      <vt:lpstr>HH-Absolut</vt:lpstr>
+      <vt:lpstr>HH-pro-Kopf</vt:lpstr>
       <vt:lpstr>ND-Tote</vt:lpstr>
-      <vt:lpstr>ND-Tote-Abl</vt:lpstr>
       <vt:lpstr>ND-Tote pro Kopf</vt:lpstr>
+      <vt:lpstr>ND-Tote-Abl</vt:lpstr>
       <vt:lpstr>ND-Infizierte-Abs</vt:lpstr>
       <vt:lpstr>ND-Ableitung</vt:lpstr>
       <vt:lpstr>ND-pro-Kopf</vt:lpstr>

@@ -7,9 +7,9 @@
       <x15ac:absPath xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac" url="C:\Users\ukoenig\Documents\2020\Corona\"/>
     </mc:Choice>
   </mc:AlternateContent>
-  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{69078EA3-36A1-400F-884A-50713EB12057}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{D130D692-D65D-4F36-AB82-40BCC80D814D}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
   <bookViews>
-    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="582" xr2:uid="{4D893619-35DB-45DF-852E-5C63736BD35E}"/>
+    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="582" firstSheet="12" activeTab="18" xr2:uid="{4D893619-35DB-45DF-852E-5C63736BD35E}"/>
   </bookViews>
   <sheets>
     <sheet name="RKI Zahlen" sheetId="1" r:id="rId1"/>
@@ -22,13 +22,15 @@
     <sheet name="DE-Tote Abl" sheetId="37" r:id="rId8"/>
     <sheet name="DE-Tote p. Kopf" sheetId="34" r:id="rId9"/>
     <sheet name="Hamburg" sheetId="26" r:id="rId10"/>
-    <sheet name="Norddeutschland" sheetId="19" r:id="rId11"/>
-    <sheet name="ND-Tote" sheetId="27" r:id="rId12"/>
-    <sheet name="ND-Tote-Abl" sheetId="30" r:id="rId13"/>
-    <sheet name="ND-Tote pro Kopf" sheetId="28" r:id="rId14"/>
-    <sheet name="ND-Infizierte-Abs" sheetId="20" r:id="rId15"/>
-    <sheet name="ND-Ableitung" sheetId="21" r:id="rId16"/>
-    <sheet name="ND-pro-Kopf" sheetId="22" r:id="rId17"/>
+    <sheet name="HH-Absolut" sheetId="39" r:id="rId11"/>
+    <sheet name="HH-pro-Kopf" sheetId="40" r:id="rId12"/>
+    <sheet name="Norddeutschland" sheetId="19" r:id="rId13"/>
+    <sheet name="ND-Tote" sheetId="27" r:id="rId14"/>
+    <sheet name="ND-Tote pro Kopf" sheetId="28" r:id="rId15"/>
+    <sheet name="ND-Tote-Abl" sheetId="30" r:id="rId16"/>
+    <sheet name="ND-Infizierte-Abs" sheetId="20" r:id="rId17"/>
+    <sheet name="ND-Ableitung" sheetId="21" r:id="rId18"/>
+    <sheet name="ND-pro-Kopf" sheetId="22" r:id="rId19"/>
   </sheets>
   <calcPr calcId="181029"/>
   <extLst>

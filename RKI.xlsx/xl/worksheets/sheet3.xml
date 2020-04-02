@@ -128,9 +128,9 @@
         <f>IF(AND('RKI Zahlen'!AI1&gt;40000,ISNUMBER('RKI Zahlen'!AI1)),'RKI Zahlen'!AI1,"")</f>
         <v>43921</v>
       </c>
-      <c r="AD1" s="16" t="str">
+      <c r="AD1" s="16">
         <f>IF(AND('RKI Zahlen'!AJ1&gt;40000,ISNUMBER('RKI Zahlen'!AJ1)),'RKI Zahlen'!AJ1,"")</f>
-        <v/>
+        <v>43922</v>
       </c>
       <c r="AE1" s="16" t="str">
         <f>IF(AND('RKI Zahlen'!AK1&gt;40000,ISNUMBER('RKI Zahlen'!AK1)),'RKI Zahlen'!AK1,"")</f>
@@ -262,9 +262,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AI7),'RKI Zahlen'!AI7,"")</f>
         <v>2191</v>
       </c>
-      <c r="AD2" t="str">
+      <c r="AD2">
         <f>IF(ISNUMBER('RKI Zahlen'!AJ7),'RKI Zahlen'!AJ7,"")</f>
-        <v/>
+        <v>2311</v>
       </c>
       <c r="AE2" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AK7),'RKI Zahlen'!AK7,"")</f>
@@ -440,9 +440,9 @@
         <f t="shared" ref="AC3:AC4" si="26">IF(AND(ISNUMBER(AB2),ISNUMBER(AC2)),AC2-AB2,"")</f>
         <v>138</v>
       </c>
-      <c r="AD3" s="4" t="str">
+      <c r="AD3" s="4">
         <f t="shared" ref="AD3:AD4" si="27">IF(AND(ISNUMBER(AC2),ISNUMBER(AD2)),AD2-AC2,"")</f>
-        <v/>
+        <v>120</v>
       </c>
       <c r="AE3" s="4" t="str">
         <f t="shared" ref="AE3:AE4" si="28">IF(AND(ISNUMBER(AD2),ISNUMBER(AE2)),AE2-AD2,"")</f>
@@ -618,9 +618,9 @@
         <f t="shared" si="26"/>
         <v>-69</v>
       </c>
-      <c r="AD4" s="4" t="str">
+      <c r="AD4" s="4">
         <f t="shared" si="27"/>
-        <v/>
+        <v>-18</v>
       </c>
       <c r="AE4" s="4" t="str">
         <f t="shared" si="28"/>
@@ -801,9 +801,9 @@
         <f t="shared" si="33"/>
         <v>43921</v>
       </c>
-      <c r="AD7" s="16" t="str">
+      <c r="AD7" s="16">
         <f t="shared" si="33"/>
-        <v/>
+        <v>43922</v>
       </c>
       <c r="AE7" s="16" t="str">
         <f t="shared" si="33"/>
@@ -936,9 +936,9 @@
         <f>IF(ISNUMBER(AC2),AC2/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
         <v>118.99983651779648</v>
       </c>
-      <c r="AD8" s="11" t="str">
+      <c r="AD8" s="11">
         <f>IF(ISNUMBER(AD2),AD2/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>125.51739944894005</v>
       </c>
       <c r="AE8" s="11" t="str">
         <f>IF(ISNUMBER(AE2),AE2/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
@@ -1074,9 +1074,9 @@
         <f t="shared" ref="AC9:AC10" si="60">IF(AND(ISNUMBER(AB8),ISNUMBER(AC8)),AC8-AB8,"")</f>
         <v>7.4951973708151201</v>
       </c>
-      <c r="AD9" s="23" t="str">
+      <c r="AD9" s="23">
         <f t="shared" ref="AD9:AD10" si="61">IF(AND(ISNUMBER(AC8),ISNUMBER(AD8)),AD8-AC8,"")</f>
-        <v/>
+        <v>6.5175629311435728</v>
       </c>
       <c r="AE9" s="23" t="str">
         <f t="shared" ref="AE9:AE10" si="62">IF(AND(ISNUMBER(AD8),ISNUMBER(AE8)),AE8-AD8,"")</f>
@@ -1212,9 +1212,9 @@
         <f t="shared" si="60"/>
         <v>-3.7475986854075387</v>
       </c>
-      <c r="AD10" s="23" t="str">
+      <c r="AD10" s="23">
         <f t="shared" si="61"/>
-        <v/>
+        <v>-0.97763443967154728</v>
       </c>
       <c r="AE10" s="23" t="str">
         <f t="shared" si="62"/>
@@ -1352,9 +1352,9 @@
         <f>IF(AND('RKI Zahlen'!AI45&gt;40000,ISNUMBER('RKI Zahlen'!AI45)),'RKI Zahlen'!AI45,"")</f>
         <v>43921</v>
       </c>
-      <c r="AD13" s="16" t="str">
+      <c r="AD13" s="16">
         <f>IF(AND('RKI Zahlen'!AJ45&gt;40000,ISNUMBER('RKI Zahlen'!AJ45)),'RKI Zahlen'!AJ45,"")</f>
-        <v/>
+        <v>43922</v>
       </c>
       <c r="AE13" s="16" t="str">
         <f>IF(AND('RKI Zahlen'!AK45&gt;40000,ISNUMBER('RKI Zahlen'!AK45)),'RKI Zahlen'!AK45,"")</f>
@@ -1486,9 +1486,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AI51),'RKI Zahlen'!AI51,"")</f>
         <v>9</v>
       </c>
-      <c r="AD14" t="str">
+      <c r="AD14">
         <f>IF(ISNUMBER('RKI Zahlen'!AJ51),'RKI Zahlen'!AJ51,"")</f>
-        <v/>
+        <v>14</v>
       </c>
       <c r="AE14" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AK51),'RKI Zahlen'!AK51,"")</f>
@@ -1664,9 +1664,9 @@
         <f t="shared" ref="AC15:AC16" si="80">IF(AND(ISNUMBER(AB14),ISNUMBER(AC14)),AC14-AB14,"")</f>
         <v>4</v>
       </c>
-      <c r="AD15" s="4" t="str">
+      <c r="AD15" s="4">
         <f t="shared" ref="AD15:AD16" si="81">IF(AND(ISNUMBER(AC14),ISNUMBER(AD14)),AD14-AC14,"")</f>
-        <v/>
+        <v>5</v>
       </c>
       <c r="AE15" s="4" t="str">
         <f t="shared" ref="AE15:AE16" si="82">IF(AND(ISNUMBER(AD14),ISNUMBER(AE14)),AE14-AD14,"")</f>
@@ -1842,9 +1842,9 @@
         <f t="shared" si="80"/>
         <v>3</v>
       </c>
-      <c r="AD16" s="4" t="str">
+      <c r="AD16" s="4">
         <f t="shared" si="81"/>
-        <v/>
+        <v>1</v>
       </c>
       <c r="AE16" s="4" t="str">
         <f t="shared" si="82"/>
@@ -2025,9 +2025,9 @@
         <f t="shared" si="87"/>
         <v>43921</v>
       </c>
-      <c r="AD19" s="16" t="str">
+      <c r="AD19" s="16">
         <f t="shared" si="87"/>
-        <v/>
+        <v>43922</v>
       </c>
       <c r="AE19" s="16" t="str">
         <f t="shared" si="87"/>
@@ -2160,9 +2160,9 @@
         <f>IF(ISNUMBER(AC14),AC14/'RKI Zahlen'!$B105*'RKI Zahlen'!$C$88,"")</f>
         <v>0.10842007009212971</v>
       </c>
-      <c r="AD20" s="12" t="str">
+      <c r="AD20" s="12">
         <f>IF(ISNUMBER(AD14),AD14/'RKI Zahlen'!$B105*'RKI Zahlen'!$C$88,"")</f>
-        <v/>
+        <v>0.16865344236553512</v>
       </c>
       <c r="AE20" s="12" t="str">
         <f>IF(ISNUMBER(AE14),AE14/'RKI Zahlen'!$B105*'RKI Zahlen'!$C$88,"")</f>
@@ -2298,9 +2298,9 @@
         <f t="shared" ref="AC21:AC22" si="102">IF(AND(ISNUMBER(AB20),ISNUMBER(AC20)),AC20-AB20,"")</f>
         <v>4.8186697818724318E-2</v>
       </c>
-      <c r="AD21" s="13" t="str">
+      <c r="AD21" s="13">
         <f t="shared" ref="AD21:AD22" si="103">IF(AND(ISNUMBER(AC20),ISNUMBER(AD20)),AD20-AC20,"")</f>
-        <v/>
+        <v>6.0233372273405403E-2</v>
       </c>
       <c r="AE21" s="13" t="str">
         <f t="shared" ref="AE21:AE22" si="104">IF(AND(ISNUMBER(AD20),ISNUMBER(AE20)),AE20-AD20,"")</f>
@@ -2436,9 +2436,9 @@
         <f t="shared" si="102"/>
         <v>3.614002336404324E-2</v>
       </c>
-      <c r="AD22" s="13" t="str">
+      <c r="AD22" s="13">
         <f t="shared" si="103"/>
-        <v/>
+        <v>1.2046674454681085E-2</v>
       </c>
       <c r="AE22" s="13" t="str">
         <f t="shared" si="104"/>
@@ -2460,5 +2460,4 @@
   </sheetData>
   <pageMargins left="0.7" right="0.7" top="0.78740157499999996" bottom="0.78740157499999996" header="0.3" footer="0.3"/>
   <pageSetup paperSize="9" orientation="portrait" r:id="rId1"/>
-  <drawing r:id="rId2"/>
 </worksheet>

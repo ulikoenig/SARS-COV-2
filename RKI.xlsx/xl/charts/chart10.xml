@@ -19,11 +19,11 @@
           <a:lstStyle/>
           <a:p>
             <a:pPr>
-              <a:defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" kern="1200" spc="0" baseline="0">
+              <a:defRPr sz="1800" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
                 <a:solidFill>
-                  <a:schemeClr val="tx1">
-                    <a:lumMod val="65000"/>
-                    <a:lumOff val="35000"/>
+                  <a:schemeClr val="dk1">
+                    <a:lumMod val="75000"/>
+                    <a:lumOff val="25000"/>
                   </a:schemeClr>
                 </a:solidFill>
                 <a:latin typeface="+mn-lt"/>
@@ -33,13 +33,8 @@
             </a:pPr>
             <a:r>
               <a:rPr lang="de-DE"/>
-              <a:t>SARS-CoV-2</a:t>
+              <a:t>SARS-CoV-2 Tote in Norddeutschland</a:t>
             </a:r>
-            <a:r>
-              <a:rPr lang="de-DE" baseline="0"/>
-              <a:t> Tote in Norddeutschland</a:t>
-            </a:r>
-            <a:endParaRPr lang="de-DE"/>
           </a:p>
         </c:rich>
       </c:tx>
@@ -56,11 +51,11 @@
         <a:lstStyle/>
         <a:p>
           <a:pPr>
-            <a:defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" kern="1200" spc="0" baseline="0">
+            <a:defRPr sz="1800" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
               <a:solidFill>
-                <a:schemeClr val="tx1">
-                  <a:lumMod val="65000"/>
-                  <a:lumOff val="35000"/>
+                <a:schemeClr val="dk1">
+                  <a:lumMod val="75000"/>
+                  <a:lumOff val="25000"/>
                 </a:schemeClr>
               </a:solidFill>
               <a:latin typeface="+mn-lt"/>
@@ -93,9 +88,9 @@
             </c:strRef>
           </c:tx>
           <c:spPr>
-            <a:ln w="28575" cap="rnd">
+            <a:ln w="31750" cap="rnd">
               <a:solidFill>
-                <a:schemeClr val="accent1"/>
+                <a:schemeClr val="accent6"/>
               </a:solidFill>
               <a:round/>
             </a:ln>
@@ -103,14 +98,14 @@
           </c:spPr>
           <c:marker>
             <c:symbol val="circle"/>
-            <c:size val="5"/>
+            <c:size val="17"/>
             <c:spPr>
               <a:solidFill>
-                <a:schemeClr val="accent1"/>
+                <a:schemeClr val="accent6"/>
               </a:solidFill>
-              <a:ln w="9525">
+              <a:ln>
                 <a:solidFill>
-                  <a:schemeClr val="accent1"/>
+                  <a:schemeClr val="accent6"/>
                 </a:solidFill>
               </a:ln>
               <a:effectLst/>
@@ -131,12 +126,9 @@
               <a:lstStyle/>
               <a:p>
                 <a:pPr>
-                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                  <a:defRPr sz="900" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
                     <a:solidFill>
-                      <a:schemeClr val="tx1">
-                        <a:lumMod val="75000"/>
-                        <a:lumOff val="25000"/>
-                      </a:schemeClr>
+                      <a:schemeClr val="lt1"/>
                     </a:solidFill>
                     <a:latin typeface="+mn-lt"/>
                     <a:ea typeface="+mn-ea"/>
@@ -146,7 +138,7 @@
                 <a:endParaRPr lang="de-DE"/>
               </a:p>
             </c:txPr>
-            <c:dLblPos val="t"/>
+            <c:dLblPos val="ctr"/>
             <c:showLegendKey val="0"/>
             <c:showVal val="1"/>
             <c:showCatName val="0"/>
@@ -159,14 +151,13 @@
                 <c15:showLeaderLines val="1"/>
                 <c15:leaderLines>
                   <c:spPr>
-                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                    <a:ln w="9525">
                       <a:solidFill>
-                        <a:schemeClr val="tx1">
-                          <a:lumMod val="35000"/>
-                          <a:lumOff val="65000"/>
+                        <a:schemeClr val="dk1">
+                          <a:lumMod val="50000"/>
+                          <a:lumOff val="50000"/>
                         </a:schemeClr>
                       </a:solidFill>
-                      <a:round/>
                     </a:ln>
                     <a:effectLst/>
                   </c:spPr>
@@ -178,7 +169,7 @@
             <c:strRef>
               <c:f>Norddeutschland!$U$25:$AW$25</c:f>
               <c:strCache>
-                <c:ptCount val="15"/>
+                <c:ptCount val="16"/>
                 <c:pt idx="0">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
@@ -223,6 +214,9 @@
                 </c:pt>
                 <c:pt idx="14">
                   <c:v>31.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -279,7 +273,7 @@
                   <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>0</c:v>
+                  <c:v>5</c:v>
                 </c:pt>
                 <c:pt idx="16">
                   <c:v>0</c:v>
@@ -345,9 +339,9 @@
             </c:strRef>
           </c:tx>
           <c:spPr>
-            <a:ln w="28575" cap="rnd">
+            <a:ln w="31750" cap="rnd">
               <a:solidFill>
-                <a:schemeClr val="accent2"/>
+                <a:srgbClr val="FF0000"/>
               </a:solidFill>
               <a:round/>
             </a:ln>
@@ -355,15 +349,13 @@
           </c:spPr>
           <c:marker>
             <c:symbol val="circle"/>
-            <c:size val="5"/>
+            <c:size val="17"/>
             <c:spPr>
               <a:solidFill>
-                <a:schemeClr val="accent2"/>
+                <a:srgbClr val="FF0000"/>
               </a:solidFill>
-              <a:ln w="9525">
-                <a:solidFill>
-                  <a:schemeClr val="accent2"/>
-                </a:solidFill>
+              <a:ln>
+                <a:noFill/>
               </a:ln>
               <a:effectLst/>
             </c:spPr>
@@ -383,12 +375,9 @@
               <a:lstStyle/>
               <a:p>
                 <a:pPr>
-                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                  <a:defRPr sz="900" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
                     <a:solidFill>
-                      <a:schemeClr val="tx1">
-                        <a:lumMod val="75000"/>
-                        <a:lumOff val="25000"/>
-                      </a:schemeClr>
+                      <a:schemeClr val="lt1"/>
                     </a:solidFill>
                     <a:latin typeface="+mn-lt"/>
                     <a:ea typeface="+mn-ea"/>
@@ -398,7 +387,7 @@
                 <a:endParaRPr lang="de-DE"/>
               </a:p>
             </c:txPr>
-            <c:dLblPos val="t"/>
+            <c:dLblPos val="ctr"/>
             <c:showLegendKey val="0"/>
             <c:showVal val="1"/>
             <c:showCatName val="0"/>
@@ -411,14 +400,13 @@
                 <c15:showLeaderLines val="1"/>
                 <c15:leaderLines>
                   <c:spPr>
-                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                    <a:ln w="9525">
                       <a:solidFill>
-                        <a:schemeClr val="tx1">
-                          <a:lumMod val="35000"/>
-                          <a:lumOff val="65000"/>
+                        <a:schemeClr val="dk1">
+                          <a:lumMod val="50000"/>
+                          <a:lumOff val="50000"/>
                         </a:schemeClr>
                       </a:solidFill>
-                      <a:round/>
                     </a:ln>
                     <a:effectLst/>
                   </c:spPr>
@@ -430,7 +418,7 @@
             <c:strRef>
               <c:f>Norddeutschland!$U$25:$AW$25</c:f>
               <c:strCache>
-                <c:ptCount val="15"/>
+                <c:ptCount val="16"/>
                 <c:pt idx="0">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
@@ -475,6 +463,9 @@
                 </c:pt>
                 <c:pt idx="14">
                   <c:v>31.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -531,7 +522,7 @@
                   <c:v>9</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>0</c:v>
+                  <c:v>14</c:v>
                 </c:pt>
                 <c:pt idx="16">
                   <c:v>0</c:v>
@@ -597,7 +588,7 @@
             </c:strRef>
           </c:tx>
           <c:spPr>
-            <a:ln w="28575" cap="rnd">
+            <a:ln w="31750" cap="rnd">
               <a:solidFill>
                 <a:schemeClr val="accent3"/>
               </a:solidFill>
@@ -607,15 +598,13 @@
           </c:spPr>
           <c:marker>
             <c:symbol val="circle"/>
-            <c:size val="5"/>
+            <c:size val="17"/>
             <c:spPr>
               <a:solidFill>
                 <a:schemeClr val="accent3"/>
               </a:solidFill>
-              <a:ln w="9525">
-                <a:solidFill>
-                  <a:schemeClr val="accent3"/>
-                </a:solidFill>
+              <a:ln>
+                <a:noFill/>
               </a:ln>
               <a:effectLst/>
             </c:spPr>
@@ -635,12 +624,9 @@
               <a:lstStyle/>
               <a:p>
                 <a:pPr>
-                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                  <a:defRPr sz="900" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
                     <a:solidFill>
-                      <a:schemeClr val="tx1">
-                        <a:lumMod val="75000"/>
-                        <a:lumOff val="25000"/>
-                      </a:schemeClr>
+                      <a:schemeClr val="lt1"/>
                     </a:solidFill>
                     <a:latin typeface="+mn-lt"/>
                     <a:ea typeface="+mn-ea"/>
@@ -650,7 +636,7 @@
                 <a:endParaRPr lang="de-DE"/>
               </a:p>
             </c:txPr>
-            <c:dLblPos val="t"/>
+            <c:dLblPos val="ctr"/>
             <c:showLegendKey val="0"/>
             <c:showVal val="1"/>
             <c:showCatName val="0"/>
@@ -663,14 +649,13 @@
                 <c15:showLeaderLines val="1"/>
                 <c15:leaderLines>
                   <c:spPr>
-                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                    <a:ln w="9525">
                       <a:solidFill>
-                        <a:schemeClr val="tx1">
-                          <a:lumMod val="35000"/>
-                          <a:lumOff val="65000"/>
+                        <a:schemeClr val="dk1">
+                          <a:lumMod val="50000"/>
+                          <a:lumOff val="50000"/>
                         </a:schemeClr>
                       </a:solidFill>
-                      <a:round/>
                     </a:ln>
                     <a:effectLst/>
                   </c:spPr>
@@ -682,7 +667,7 @@
             <c:strRef>
               <c:f>Norddeutschland!$U$25:$AW$25</c:f>
               <c:strCache>
-                <c:ptCount val="15"/>
+                <c:ptCount val="16"/>
                 <c:pt idx="0">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
@@ -727,6 +712,9 @@
                 </c:pt>
                 <c:pt idx="14">
                   <c:v>31.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -783,7 +771,7 @@
                   <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>0</c:v>
+                  <c:v>3</c:v>
                 </c:pt>
                 <c:pt idx="16">
                   <c:v>0</c:v>
@@ -849,7 +837,7 @@
             </c:strRef>
           </c:tx>
           <c:spPr>
-            <a:ln w="28575" cap="rnd">
+            <a:ln w="31750" cap="rnd">
               <a:solidFill>
                 <a:schemeClr val="accent4"/>
               </a:solidFill>
@@ -859,15 +847,13 @@
           </c:spPr>
           <c:marker>
             <c:symbol val="circle"/>
-            <c:size val="5"/>
+            <c:size val="17"/>
             <c:spPr>
               <a:solidFill>
                 <a:schemeClr val="accent4"/>
               </a:solidFill>
-              <a:ln w="9525">
-                <a:solidFill>
-                  <a:schemeClr val="accent4"/>
-                </a:solidFill>
+              <a:ln>
+                <a:noFill/>
               </a:ln>
               <a:effectLst/>
             </c:spPr>
@@ -887,12 +873,9 @@
               <a:lstStyle/>
               <a:p>
                 <a:pPr>
-                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                  <a:defRPr sz="900" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
                     <a:solidFill>
-                      <a:schemeClr val="tx1">
-                        <a:lumMod val="75000"/>
-                        <a:lumOff val="25000"/>
-                      </a:schemeClr>
+                      <a:schemeClr val="lt1"/>
                     </a:solidFill>
                     <a:latin typeface="+mn-lt"/>
                     <a:ea typeface="+mn-ea"/>
@@ -902,7 +885,7 @@
                 <a:endParaRPr lang="de-DE"/>
               </a:p>
             </c:txPr>
-            <c:dLblPos val="t"/>
+            <c:dLblPos val="ctr"/>
             <c:showLegendKey val="0"/>
             <c:showVal val="1"/>
             <c:showCatName val="0"/>
@@ -915,14 +898,13 @@
                 <c15:showLeaderLines val="1"/>
                 <c15:leaderLines>
                   <c:spPr>
-                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                    <a:ln w="9525">
                       <a:solidFill>
-                        <a:schemeClr val="tx1">
-                          <a:lumMod val="35000"/>
-                          <a:lumOff val="65000"/>
+                        <a:schemeClr val="dk1">
+                          <a:lumMod val="50000"/>
+                          <a:lumOff val="50000"/>
                         </a:schemeClr>
                       </a:solidFill>
-                      <a:round/>
                     </a:ln>
                     <a:effectLst/>
                   </c:spPr>
@@ -934,7 +916,7 @@
             <c:strRef>
               <c:f>Norddeutschland!$U$25:$AW$25</c:f>
               <c:strCache>
-                <c:ptCount val="15"/>
+                <c:ptCount val="16"/>
                 <c:pt idx="0">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
@@ -979,6 +961,9 @@
                 </c:pt>
                 <c:pt idx="14">
                   <c:v>31.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -1035,7 +1020,7 @@
                   <c:v>34</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>0</c:v>
+                  <c:v>42</c:v>
                 </c:pt>
                 <c:pt idx="16">
                   <c:v>0</c:v>
@@ -1101,7 +1086,7 @@
             </c:strRef>
           </c:tx>
           <c:spPr>
-            <a:ln w="28575" cap="rnd">
+            <a:ln w="31750" cap="rnd">
               <a:solidFill>
                 <a:schemeClr val="accent5"/>
               </a:solidFill>
@@ -1111,15 +1096,13 @@
           </c:spPr>
           <c:marker>
             <c:symbol val="circle"/>
-            <c:size val="5"/>
+            <c:size val="17"/>
             <c:spPr>
               <a:solidFill>
                 <a:schemeClr val="accent5"/>
               </a:solidFill>
-              <a:ln w="9525">
-                <a:solidFill>
-                  <a:schemeClr val="accent5"/>
-                </a:solidFill>
+              <a:ln>
+                <a:noFill/>
               </a:ln>
               <a:effectLst/>
             </c:spPr>
@@ -1139,12 +1122,9 @@
               <a:lstStyle/>
               <a:p>
                 <a:pPr>
-                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                  <a:defRPr sz="900" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
                     <a:solidFill>
-                      <a:schemeClr val="tx1">
-                        <a:lumMod val="75000"/>
-                        <a:lumOff val="25000"/>
-                      </a:schemeClr>
+                      <a:schemeClr val="lt1"/>
                     </a:solidFill>
                     <a:latin typeface="+mn-lt"/>
                     <a:ea typeface="+mn-ea"/>
@@ -1154,7 +1134,7 @@
                 <a:endParaRPr lang="de-DE"/>
               </a:p>
             </c:txPr>
-            <c:dLblPos val="t"/>
+            <c:dLblPos val="ctr"/>
             <c:showLegendKey val="0"/>
             <c:showVal val="1"/>
             <c:showCatName val="0"/>
@@ -1167,14 +1147,13 @@
                 <c15:showLeaderLines val="1"/>
                 <c15:leaderLines>
                   <c:spPr>
-                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                    <a:ln w="9525">
                       <a:solidFill>
-                        <a:schemeClr val="tx1">
-                          <a:lumMod val="35000"/>
-                          <a:lumOff val="65000"/>
+                        <a:schemeClr val="dk1">
+                          <a:lumMod val="50000"/>
+                          <a:lumOff val="50000"/>
                         </a:schemeClr>
                       </a:solidFill>
-                      <a:round/>
                     </a:ln>
                     <a:effectLst/>
                   </c:spPr>
@@ -1186,7 +1165,7 @@
             <c:strRef>
               <c:f>Norddeutschland!$U$25:$AW$25</c:f>
               <c:strCache>
-                <c:ptCount val="15"/>
+                <c:ptCount val="16"/>
                 <c:pt idx="0">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
@@ -1231,6 +1210,9 @@
                 </c:pt>
                 <c:pt idx="14">
                   <c:v>31.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -1287,7 +1269,7 @@
                   <c:v>9</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>0</c:v>
+                  <c:v>10</c:v>
                 </c:pt>
                 <c:pt idx="16">
                   <c:v>0</c:v>
@@ -1339,7 +1321,7 @@
           </c:extLst>
         </c:ser>
         <c:dLbls>
-          <c:dLblPos val="t"/>
+          <c:dLblPos val="ctr"/>
           <c:showLegendKey val="0"/>
           <c:showVal val="1"/>
           <c:showCatName val="0"/>
@@ -1365,11 +1347,11 @@
         <c:tickLblPos val="nextTo"/>
         <c:spPr>
           <a:noFill/>
-          <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+          <a:ln w="19050" cap="flat" cmpd="sng" algn="ctr">
             <a:solidFill>
-              <a:schemeClr val="tx1">
-                <a:lumMod val="15000"/>
-                <a:lumOff val="85000"/>
+              <a:schemeClr val="dk1">
+                <a:lumMod val="75000"/>
+                <a:lumOff val="25000"/>
               </a:schemeClr>
             </a:solidFill>
             <a:round/>
@@ -1381,11 +1363,11 @@
           <a:lstStyle/>
           <a:p>
             <a:pPr>
-              <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+              <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" cap="all" baseline="0">
                 <a:solidFill>
-                  <a:schemeClr val="tx1">
-                    <a:lumMod val="65000"/>
-                    <a:lumOff val="35000"/>
+                  <a:schemeClr val="dk1">
+                    <a:lumMod val="75000"/>
+                    <a:lumOff val="25000"/>
                   </a:schemeClr>
                 </a:solidFill>
                 <a:latin typeface="+mn-lt"/>
@@ -1407,17 +1389,29 @@
         <c:scaling>
           <c:orientation val="minMax"/>
         </c:scaling>
-        <c:delete val="0"/>
+        <c:delete val="1"/>
         <c:axPos val="l"/>
         <c:majorGridlines>
           <c:spPr>
             <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
-              <a:solidFill>
-                <a:schemeClr val="tx1">
-                  <a:lumMod val="15000"/>
-                  <a:lumOff val="85000"/>
-                </a:schemeClr>
-              </a:solidFill>
+              <a:gradFill>
+                <a:gsLst>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="dk1">
+                      <a:lumMod val="95000"/>
+                      <a:lumOff val="5000"/>
+                      <a:alpha val="42000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="0">
+                    <a:schemeClr val="lt1">
+                      <a:lumMod val="75000"/>
+                      <a:alpha val="36000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:lin ang="5400000" scaled="0"/>
+              </a:gradFill>
               <a:round/>
             </a:ln>
             <a:effectLst/>
@@ -1427,33 +1421,6 @@
         <c:majorTickMark val="none"/>
         <c:minorTickMark val="none"/>
         <c:tickLblPos val="nextTo"/>
-        <c:spPr>
-          <a:noFill/>
-          <a:ln>
-            <a:noFill/>
-          </a:ln>
-          <a:effectLst/>
-        </c:spPr>
-        <c:txPr>
-          <a:bodyPr rot="-60000000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/>
-          <a:lstStyle/>
-          <a:p>
-            <a:pPr>
-              <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
-                <a:solidFill>
-                  <a:schemeClr val="tx1">
-                    <a:lumMod val="65000"/>
-                    <a:lumOff val="35000"/>
-                  </a:schemeClr>
-                </a:solidFill>
-                <a:latin typeface="+mn-lt"/>
-                <a:ea typeface="+mn-ea"/>
-                <a:cs typeface="+mn-cs"/>
-              </a:defRPr>
-            </a:pPr>
-            <a:endParaRPr lang="de-DE"/>
-          </a:p>
-        </c:txPr>
         <c:crossAx val="2113142064"/>
         <c:crosses val="autoZero"/>
         <c:crossBetween val="between"/>
@@ -1470,7 +1437,12 @@
       <c:legendPos val="b"/>
       <c:overlay val="0"/>
       <c:spPr>
-        <a:noFill/>
+        <a:solidFill>
+          <a:schemeClr val="lt1">
+            <a:lumMod val="95000"/>
+            <a:alpha val="39000"/>
+          </a:schemeClr>
+        </a:solidFill>
         <a:ln>
           <a:noFill/>
         </a:ln>
@@ -1483,9 +1455,9 @@
           <a:pPr>
             <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
               <a:solidFill>
-                <a:schemeClr val="tx1">
-                  <a:lumMod val="65000"/>
-                  <a:lumOff val="35000"/>
+                <a:schemeClr val="dk1">
+                  <a:lumMod val="75000"/>
+                  <a:lumOff val="25000"/>
                 </a:schemeClr>
               </a:solidFill>
               <a:latin typeface="+mn-lt"/>
@@ -1502,14 +1474,12 @@
     <c:showDLblsOverMax val="0"/>
   </c:chart>
   <c:spPr>
-    <a:solidFill>
-      <a:schemeClr val="bg1"/>
-    </a:solidFill>
+    <a:noFill/>
     <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
       <a:solidFill>
-        <a:schemeClr val="tx1">
-          <a:lumMod val="15000"/>
-          <a:lumOff val="85000"/>
+        <a:schemeClr val="dk1">
+          <a:lumMod val="25000"/>
+          <a:lumOff val="75000"/>
         </a:schemeClr>
       </a:solidFill>
       <a:round/>

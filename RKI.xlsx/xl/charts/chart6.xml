@@ -145,7 +145,7 @@
             <c:strRef>
               <c:f>Vorlage!$M$64:$AX$64</c:f>
               <c:strCache>
-                <c:ptCount val="23"/>
+                <c:ptCount val="24"/>
                 <c:pt idx="0">
                   <c:v>09.03.2020</c:v>
                 </c:pt>
@@ -214,6 +214,9 @@
                 </c:pt>
                 <c:pt idx="22">
                   <c:v>31.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="23">
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -294,7 +297,7 @@
                   <c:v>583</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>0</c:v>
+                  <c:v>732</c:v>
                 </c:pt>
                 <c:pt idx="24">
                   <c:v>0</c:v>
@@ -404,7 +407,7 @@
             <c:strRef>
               <c:f>Vorlage!$M$64:$AX$64</c:f>
               <c:strCache>
-                <c:ptCount val="23"/>
+                <c:ptCount val="24"/>
                 <c:pt idx="0">
                   <c:v>09.03.2020</c:v>
                 </c:pt>
@@ -473,6 +476,9 @@
                 </c:pt>
                 <c:pt idx="22">
                   <c:v>31.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="23">
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -553,7 +559,7 @@
                   <c:v>128</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>0</c:v>
+                  <c:v>149</c:v>
                 </c:pt>
                 <c:pt idx="24">
                   <c:v>0</c:v>
@@ -649,7 +655,7 @@
             <c:strRef>
               <c:f>Vorlage!$M$64:$AX$64</c:f>
               <c:strCache>
-                <c:ptCount val="23"/>
+                <c:ptCount val="24"/>
                 <c:pt idx="0">
                   <c:v>09.03.2020</c:v>
                 </c:pt>
@@ -718,6 +724,9 @@
                 </c:pt>
                 <c:pt idx="22">
                   <c:v>31.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="23">
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -798,7 +807,7 @@
                   <c:v>62</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>0</c:v>
+                  <c:v>21</c:v>
                 </c:pt>
                 <c:pt idx="24">
                   <c:v>0</c:v>

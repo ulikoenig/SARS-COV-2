@@ -145,7 +145,7 @@
             <c:strRef>
               <c:f>Hamburg!$B$7:$AX$7</c:f>
               <c:strCache>
-                <c:ptCount val="28"/>
+                <c:ptCount val="29"/>
                 <c:pt idx="0">
                   <c:v>04.03.2020</c:v>
                 </c:pt>
@@ -229,6 +229,9 @@
                 </c:pt>
                 <c:pt idx="27">
                   <c:v>31.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="28">
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -324,7 +327,7 @@
                   <c:v>118.99983651779648</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>0</c:v>
+                  <c:v>125.51739944894005</c:v>
                 </c:pt>
                 <c:pt idx="29">
                   <c:v>0</c:v>
@@ -343,7 +346,7 @@
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000000-0129-4C12-8670-0E69B89FC5D1}"/>
+              <c16:uniqueId val="{00000000-C9E9-4A5B-BDF3-2ABCC2056C84}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -461,7 +464,7 @@
             <c:strRef>
               <c:f>Hamburg!$B$7:$AX$7</c:f>
               <c:strCache>
-                <c:ptCount val="28"/>
+                <c:ptCount val="29"/>
                 <c:pt idx="0">
                   <c:v>04.03.2020</c:v>
                 </c:pt>
@@ -545,6 +548,9 @@
                 </c:pt>
                 <c:pt idx="27">
                   <c:v>31.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="28">
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -640,7 +646,7 @@
                   <c:v>7.4951973708151201</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>0</c:v>
+                  <c:v>6.5175629311435728</c:v>
                 </c:pt>
                 <c:pt idx="29">
                   <c:v>0</c:v>
@@ -660,7 +666,7 @@
           <c:smooth val="0"/>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000001-0129-4C12-8670-0E69B89FC5D1}"/>
+              <c16:uniqueId val="{00000001-C9E9-4A5B-BDF3-2ABCC2056C84}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -763,7 +769,7 @@
             <c:strRef>
               <c:f>Hamburg!$B$7:$AX$7</c:f>
               <c:strCache>
-                <c:ptCount val="28"/>
+                <c:ptCount val="29"/>
                 <c:pt idx="0">
                   <c:v>04.03.2020</c:v>
                 </c:pt>
@@ -847,6 +853,9 @@
                 </c:pt>
                 <c:pt idx="27">
                   <c:v>31.03.2020</c:v>
+                </c:pt>
+                <c:pt idx="28">
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -942,7 +951,7 @@
                   <c:v>-3.7475986854075387</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>0</c:v>
+                  <c:v>-0.97763443967154728</c:v>
                 </c:pt>
                 <c:pt idx="29">
                   <c:v>0</c:v>
@@ -962,7 +971,7 @@
           <c:smooth val="0"/>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000002-0129-4C12-8670-0E69B89FC5D1}"/>
+              <c16:uniqueId val="{00000002-C9E9-4A5B-BDF3-2ABCC2056C84}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -1212,9 +1221,4 @@
       <a:endParaRPr lang="de-DE"/>
     </a:p>
   </c:txPr>
-  <c:printSettings>
-    <c:headerFooter/>
-    <c:pageMargins b="0.78740157499999996" l="0.7" r="0.7" t="0.78740157499999996" header="0.3" footer="0.3"/>
-    <c:pageSetup/>
-  </c:printSettings>
 </c:chartSpace>
