@@ -156,10 +156,10 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Auswertung!$B$2:$AI$2</c:f>
+              <c:f>Auswertung!$B$2:$AJ$2</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -262,15 +262,18 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Auswertung!$B$3:$AI$3</c:f>
+              <c:f>Auswertung!$B$3:$AJ$3</c:f>
               <c:numCache>
                 <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>2</c:v>
                 </c:pt>
@@ -373,6 +376,9 @@
                 <c:pt idx="33">
                   <c:v>1132</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>1213</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -465,10 +471,10 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Auswertung!$B$2:$AI$2</c:f>
+              <c:f>Auswertung!$B$2:$AJ$2</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -571,20 +577,26 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Auswertung!$B$4:$AI$4</c:f>
+              <c:f>Auswertung!$B$4:$AJ$4</c:f>
               <c:numCache>
                 <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="32">
                   <c:v>40</c:v>
                 </c:pt>
                 <c:pt idx="33">
                   <c:v>51</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>55</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -678,10 +690,10 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Auswertung!$B$2:$AI$2</c:f>
+              <c:f>Auswertung!$B$2:$AJ$2</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -784,15 +796,18 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Auswertung!$B$5:$AI$5</c:f>
+              <c:f>Auswertung!$B$5:$AJ$5</c:f>
               <c:numCache>
                 <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -895,6 +910,9 @@
                 <c:pt idx="33">
                   <c:v>131</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>145</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -992,10 +1010,10 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Auswertung!$B$2:$AI$2</c:f>
+              <c:f>Auswertung!$B$2:$AJ$2</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -1098,15 +1116,18 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Auswertung!$B$6:$AI$6</c:f>
+              <c:f>Auswertung!$B$6:$AJ$6</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -1209,6 +1230,9 @@
                 <c:pt idx="33">
                   <c:v>12</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>15</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -1302,10 +1326,10 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Auswertung!$B$2:$AI$2</c:f>
+              <c:f>Auswertung!$B$2:$AJ$2</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -1408,15 +1432,18 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Auswertung!$B$7:$AI$7</c:f>
+              <c:f>Auswertung!$B$7:$AJ$7</c:f>
               <c:numCache>
                 <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -1518,6 +1545,9 @@
                 </c:pt>
                 <c:pt idx="33">
                   <c:v>17</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>20</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -1638,10 +1668,10 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Auswertung!$B$2:$AI$2</c:f>
+              <c:f>Auswertung!$B$2:$AJ$2</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -1744,15 +1774,18 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Auswertung!$B$8:$AI$8</c:f>
+              <c:f>Auswertung!$B$8:$AJ$8</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>2</c:v>
                 </c:pt>
@@ -1854,6 +1887,9 @@
                 </c:pt>
                 <c:pt idx="33">
                   <c:v>91</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>105</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -1959,10 +1995,10 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Auswertung!$B$2:$AI$2</c:f>
+              <c:f>Auswertung!$B$2:$AJ$2</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -2065,15 +2101,18 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Auswertung!$B$9:$AI$9</c:f>
+              <c:f>Auswertung!$B$9:$AJ$9</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>2</c:v>
                 </c:pt>
@@ -2175,6 +2214,9 @@
                 </c:pt>
                 <c:pt idx="33">
                   <c:v>-26</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>14</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>

@@ -250,6 +250,12 @@
                 <c:pt idx="32">
                   <c:v>43921</c:v>
                 </c:pt>
+                <c:pt idx="33">
+                  <c:v>43922</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -347,7 +353,7 @@
                   <c:v>67366</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>0</c:v>
+                  <c:v>73522</c:v>
                 </c:pt>
                 <c:pt idx="35">
                   <c:v>0</c:v>
@@ -399,7 +405,7 @@
         </c:ser>
         <c:dLbls>
           <c:showLegendKey val="0"/>
-          <c:showVal val="0"/>
+          <c:showVal val="1"/>
           <c:showCatName val="0"/>
           <c:showSerName val="0"/>
           <c:showPercent val="0"/>
@@ -450,6 +456,63 @@
               <a:effectLst/>
             </c:spPr>
           </c:marker>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:txPr>
+              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+                <a:spAutoFit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr>
+                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                    <a:solidFill>
+                      <a:schemeClr val="tx1">
+                        <a:lumMod val="75000"/>
+                        <a:lumOff val="25000"/>
+                      </a:schemeClr>
+                    </a:solidFill>
+                    <a:latin typeface="+mn-lt"/>
+                    <a:ea typeface="+mn-ea"/>
+                    <a:cs typeface="+mn-cs"/>
+                  </a:defRPr>
+                </a:pPr>
+                <a:endParaRPr lang="de-DE"/>
+              </a:p>
+            </c:txPr>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst>
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+                <c15:leaderLines>
+                  <c:spPr>
+                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                      <a:solidFill>
+                        <a:schemeClr val="tx1">
+                          <a:lumMod val="35000"/>
+                          <a:lumOff val="65000"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:round/>
+                    </a:ln>
+                    <a:effectLst/>
+                  </c:spPr>
+                </c15:leaderLines>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
           <c:cat>
             <c:numRef>
               <c:f>Vorlage!$C$18:$AX$18</c:f>
@@ -539,6 +602,12 @@
                 </c:pt>
                 <c:pt idx="32">
                   <c:v>43921</c:v>
+                </c:pt>
+                <c:pt idx="33">
+                  <c:v>43922</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -637,7 +706,7 @@
                   <c:v>5453</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>0</c:v>
+                  <c:v>6156</c:v>
                 </c:pt>
                 <c:pt idx="35">
                   <c:v>0</c:v>
@@ -726,6 +795,63 @@
               <a:effectLst/>
             </c:spPr>
           </c:marker>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:txPr>
+              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+                <a:spAutoFit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr>
+                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                    <a:solidFill>
+                      <a:schemeClr val="tx1">
+                        <a:lumMod val="75000"/>
+                        <a:lumOff val="25000"/>
+                      </a:schemeClr>
+                    </a:solidFill>
+                    <a:latin typeface="+mn-lt"/>
+                    <a:ea typeface="+mn-ea"/>
+                    <a:cs typeface="+mn-cs"/>
+                  </a:defRPr>
+                </a:pPr>
+                <a:endParaRPr lang="de-DE"/>
+              </a:p>
+            </c:txPr>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst>
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+                <c15:leaderLines>
+                  <c:spPr>
+                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                      <a:solidFill>
+                        <a:schemeClr val="tx1">
+                          <a:lumMod val="35000"/>
+                          <a:lumOff val="65000"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:round/>
+                    </a:ln>
+                    <a:effectLst/>
+                  </c:spPr>
+                </c15:leaderLines>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
           <c:cat>
             <c:numRef>
               <c:f>Vorlage!$C$18:$AX$18</c:f>
@@ -815,6 +941,12 @@
                 </c:pt>
                 <c:pt idx="32">
                   <c:v>43921</c:v>
+                </c:pt>
+                <c:pt idx="33">
+                  <c:v>43922</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -913,7 +1045,7 @@
                   <c:v>838</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>0</c:v>
+                  <c:v>703</c:v>
                 </c:pt>
                 <c:pt idx="35">
                   <c:v>0</c:v>
@@ -966,7 +1098,7 @@
         </c:ser>
         <c:dLbls>
           <c:showLegendKey val="0"/>
-          <c:showVal val="0"/>
+          <c:showVal val="1"/>
           <c:showCatName val="0"/>
           <c:showSerName val="0"/>
           <c:showPercent val="0"/>

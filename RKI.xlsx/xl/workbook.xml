@@ -7,9 +7,9 @@
       <x15ac:absPath xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac" url="C:\Users\ukoenig\Documents\2020\Corona\"/>
     </mc:Choice>
   </mc:AlternateContent>
-  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{D130D692-D65D-4F36-AB82-40BCC80D814D}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{0E81BD28-04D6-4795-894E-19B24BE91911}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
   <bookViews>
-    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="582" firstSheet="12" activeTab="18" xr2:uid="{4D893619-35DB-45DF-852E-5C63736BD35E}"/>
+    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="703" firstSheet="1" activeTab="12" xr2:uid="{4D893619-35DB-45DF-852E-5C63736BD35E}"/>
   </bookViews>
   <sheets>
     <sheet name="RKI Zahlen" sheetId="1" r:id="rId1"/>
@@ -32,6 +32,12 @@
     <sheet name="ND-Ableitung" sheetId="21" r:id="rId18"/>
     <sheet name="ND-pro-Kopf" sheetId="22" r:id="rId19"/>
   </sheets>
+  <definedNames>
+    <definedName name="_xlnm.Print_Area" localSheetId="9">Hamburg!$A$23</definedName>
+    <definedName name="_xlnm.Print_Area" localSheetId="12">Norddeutschland!$A$11</definedName>
+    <definedName name="_xlnm.Print_Area" localSheetId="0">'RKI Zahlen'!$A$21</definedName>
+    <definedName name="_xlnm.Print_Area" localSheetId="2">Vorlage!$A$22</definedName>
+  </definedNames>
   <calcPr calcId="181029"/>
   <extLst>
     <ext xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" uri="{140A7094-0E35-4892-8432-C4D2E57EDEB5}">

@@ -2,8 +2,8 @@
 <worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" mc:Ignorable="x14ac xr xr2 xr3" xr:uid="{E58EDEBC-CA00-4BE6-B796-DFEA8773D5CE}">
   <dimension ref="A1:AX90"/>
   <sheetViews>
-    <sheetView topLeftCell="X55" workbookViewId="0">
-      <selection activeCell="AJ18" sqref="AJ18:AP18"/>
+    <sheetView workbookViewId="0">
+      <selection activeCell="A22" sqref="A22"/>
     </sheetView>
   </sheetViews>
   <sheetFormatPr baseColWidth="10" defaultRowHeight="14.25" x14ac:dyDescent="0.45"/>
@@ -156,9 +156,9 @@
         <f>IF(AND('RKI Zahlen'!AJ1&gt;40000,ISNUMBER('RKI Zahlen'!AJ1)),'RKI Zahlen'!AJ1,"")</f>
         <v>43922</v>
       </c>
-      <c r="AK1" s="16" t="str">
+      <c r="AK1" s="16">
         <f>IF(AND('RKI Zahlen'!AK1&gt;40000,ISNUMBER('RKI Zahlen'!AK1)),'RKI Zahlen'!AK1,"")</f>
-        <v/>
+        <v>43923</v>
       </c>
       <c r="AL1" s="16" t="str">
         <f>IF(AND('RKI Zahlen'!AL1&gt;40000,ISNUMBER('RKI Zahlen'!AL1)),'RKI Zahlen'!AL1,"")</f>
@@ -318,9 +318,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ2),'RKI Zahlen'!AJ2,"")</f>
         <v>13410</v>
       </c>
-      <c r="AK2" t="str">
+      <c r="AK2">
         <f>IF(ISNUMBER('RKI Zahlen'!AK2),'RKI Zahlen'!AK2,"")</f>
-        <v/>
+        <v>14662</v>
       </c>
       <c r="AL2" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL2),'RKI Zahlen'!AL2,"")</f>
@@ -520,9 +520,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ3),'RKI Zahlen'!AJ3,"")</f>
         <v>16497</v>
       </c>
-      <c r="AK3" t="str">
+      <c r="AK3">
         <f>IF(ISNUMBER('RKI Zahlen'!AK3),'RKI Zahlen'!AK3,"")</f>
-        <v/>
+        <v>18496</v>
       </c>
       <c r="AL3" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL3),'RKI Zahlen'!AL3,"")</f>
@@ -722,9 +722,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ4),'RKI Zahlen'!AJ4,"")</f>
         <v>2754</v>
       </c>
-      <c r="AK4" t="str">
+      <c r="AK4">
         <f>IF(ISNUMBER('RKI Zahlen'!AK4),'RKI Zahlen'!AK4,"")</f>
-        <v/>
+        <v>2970</v>
       </c>
       <c r="AL4" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL4),'RKI Zahlen'!AL4,"")</f>
@@ -924,9 +924,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ5),'RKI Zahlen'!AJ5,"")</f>
         <v>881</v>
       </c>
-      <c r="AK5" t="str">
+      <c r="AK5">
         <f>IF(ISNUMBER('RKI Zahlen'!AK5),'RKI Zahlen'!AK5,"")</f>
-        <v/>
+        <v>995</v>
       </c>
       <c r="AL5" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL5),'RKI Zahlen'!AL5,"")</f>
@@ -1126,9 +1126,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ6),'RKI Zahlen'!AJ6,"")</f>
         <v>311</v>
       </c>
-      <c r="AK6" t="str">
+      <c r="AK6">
         <f>IF(ISNUMBER('RKI Zahlen'!AK6),'RKI Zahlen'!AK6,"")</f>
-        <v/>
+        <v>327</v>
       </c>
       <c r="AL6" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL6),'RKI Zahlen'!AL6,"")</f>
@@ -1328,9 +1328,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ7),'RKI Zahlen'!AJ7,"")</f>
         <v>2311</v>
       </c>
-      <c r="AK7" t="str">
+      <c r="AK7">
         <f>IF(ISNUMBER('RKI Zahlen'!AK7),'RKI Zahlen'!AK7,"")</f>
-        <v/>
+        <v>2406</v>
       </c>
       <c r="AL7" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL7),'RKI Zahlen'!AL7,"")</f>
@@ -1530,9 +1530,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ8),'RKI Zahlen'!AJ8,"")</f>
         <v>3445</v>
       </c>
-      <c r="AK8" t="str">
+      <c r="AK8">
         <f>IF(ISNUMBER('RKI Zahlen'!AK8),'RKI Zahlen'!AK8,"")</f>
-        <v/>
+        <v>3707</v>
       </c>
       <c r="AL8" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL8),'RKI Zahlen'!AL8,"")</f>
@@ -1732,9 +1732,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ9),'RKI Zahlen'!AJ9,"")</f>
         <v>406</v>
       </c>
-      <c r="AK9" t="str">
+      <c r="AK9">
         <f>IF(ISNUMBER('RKI Zahlen'!AK9),'RKI Zahlen'!AK9,"")</f>
-        <v/>
+        <v>438</v>
       </c>
       <c r="AL9" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL9),'RKI Zahlen'!AL9,"")</f>
@@ -1934,9 +1934,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ10),'RKI Zahlen'!AJ10,"")</f>
         <v>4382</v>
       </c>
-      <c r="AK10" t="str">
+      <c r="AK10">
         <f>IF(ISNUMBER('RKI Zahlen'!AK10),'RKI Zahlen'!AK10,"")</f>
-        <v/>
+        <v>4695</v>
       </c>
       <c r="AL10" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL10),'RKI Zahlen'!AL10,"")</f>
@@ -2136,9 +2136,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ11),'RKI Zahlen'!AJ11,"")</f>
         <v>14351</v>
       </c>
-      <c r="AK11" t="str">
+      <c r="AK11">
         <f>IF(ISNUMBER('RKI Zahlen'!AK11),'RKI Zahlen'!AK11,"")</f>
-        <v/>
+        <v>15427</v>
       </c>
       <c r="AL11" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL11),'RKI Zahlen'!AL11,"")</f>
@@ -2338,9 +2338,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ12),'RKI Zahlen'!AJ12,"")</f>
         <v>2899</v>
       </c>
-      <c r="AK12" t="str">
+      <c r="AK12">
         <f>IF(ISNUMBER('RKI Zahlen'!AK12),'RKI Zahlen'!AK12,"")</f>
-        <v/>
+        <v>3132</v>
       </c>
       <c r="AL12" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL12),'RKI Zahlen'!AL12,"")</f>
@@ -2540,9 +2540,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ13),'RKI Zahlen'!AJ13,"")</f>
         <v>829</v>
       </c>
-      <c r="AK13" t="str">
+      <c r="AK13">
         <f>IF(ISNUMBER('RKI Zahlen'!AK13),'RKI Zahlen'!AK13,"")</f>
-        <v/>
+        <v>1020</v>
       </c>
       <c r="AL13" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL13),'RKI Zahlen'!AL13,"")</f>
@@ -2742,9 +2742,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ14),'RKI Zahlen'!AJ14,"")</f>
         <v>2034</v>
       </c>
-      <c r="AK14" t="str">
+      <c r="AK14">
         <f>IF(ISNUMBER('RKI Zahlen'!AK14),'RKI Zahlen'!AK14,"")</f>
-        <v/>
+        <v>2183</v>
       </c>
       <c r="AL14" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL14),'RKI Zahlen'!AL14,"")</f>
@@ -2944,9 +2944,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ15),'RKI Zahlen'!AJ15,"")</f>
         <v>750</v>
       </c>
-      <c r="AK15" t="str">
+      <c r="AK15">
         <f>IF(ISNUMBER('RKI Zahlen'!AK15),'RKI Zahlen'!AK15,"")</f>
-        <v/>
+        <v>804</v>
       </c>
       <c r="AL15" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL15),'RKI Zahlen'!AL15,"")</f>
@@ -3146,9 +3146,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ16),'RKI Zahlen'!AJ16,"")</f>
         <v>1246</v>
       </c>
-      <c r="AK16" t="str">
+      <c r="AK16">
         <f>IF(ISNUMBER('RKI Zahlen'!AK16),'RKI Zahlen'!AK16,"")</f>
-        <v/>
+        <v>1335</v>
       </c>
       <c r="AL16" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL16),'RKI Zahlen'!AL16,"")</f>
@@ -3348,9 +3348,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ17),'RKI Zahlen'!AJ17,"")</f>
         <v>860</v>
       </c>
-      <c r="AK17" t="str">
+      <c r="AK17">
         <f>IF(ISNUMBER('RKI Zahlen'!AK17),'RKI Zahlen'!AK17,"")</f>
-        <v/>
+        <v>925</v>
       </c>
       <c r="AL17" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL17),'RKI Zahlen'!AL17,"")</f>
@@ -3418,7 +3418,7 @@
       <c r="F18" s="16"/>
       <c r="G18" s="16"/>
       <c r="H18" s="16">
-        <f t="shared" ref="H18:AI18" si="0">H1</f>
+        <f t="shared" ref="H18:AK18" si="0">H1</f>
         <v>43894</v>
       </c>
       <c r="I18" s="16">
@@ -3529,8 +3529,14 @@
         <f t="shared" si="0"/>
         <v>43921</v>
       </c>
-      <c r="AJ18" s="16"/>
-      <c r="AK18" s="16"/>
+      <c r="AJ18" s="16">
+        <f t="shared" si="0"/>
+        <v>43922</v>
+      </c>
+      <c r="AK18" s="16">
+        <f t="shared" si="0"/>
+        <v>43923</v>
+      </c>
       <c r="AL18" s="16"/>
       <c r="AM18" s="16"/>
       <c r="AN18" s="16"/>
@@ -3661,9 +3667,9 @@
         <f t="shared" si="1"/>
         <v>67366</v>
       </c>
-      <c r="AK19" s="19" t="str">
+      <c r="AK19" s="19">
         <f t="shared" si="1"/>
-        <v/>
+        <v>73522</v>
       </c>
       <c r="AL19" s="19" t="str">
         <f t="shared" si="1"/>
@@ -3844,9 +3850,9 @@
         <f t="shared" si="2"/>
         <v>5453</v>
       </c>
-      <c r="AK20" s="4" t="str">
+      <c r="AK20" s="4">
         <f t="shared" si="2"/>
-        <v/>
+        <v>6156</v>
       </c>
       <c r="AL20" s="4" t="str">
         <f t="shared" si="2"/>
@@ -4027,9 +4033,9 @@
         <f t="shared" si="2"/>
         <v>838</v>
       </c>
-      <c r="AK21" s="4" t="str">
+      <c r="AK21" s="4">
         <f t="shared" si="2"/>
-        <v/>
+        <v>703</v>
       </c>
       <c r="AL21" s="4" t="str">
         <f t="shared" si="2"/>
@@ -4228,9 +4234,9 @@
         <f t="shared" si="3"/>
         <v>43922</v>
       </c>
-      <c r="AK24" s="16" t="str">
+      <c r="AK24" s="16">
         <f t="shared" si="3"/>
-        <v/>
+        <v>43923</v>
       </c>
       <c r="AL24" s="16" t="str">
         <f t="shared" si="3"/>
@@ -4390,9 +4396,9 @@
         <f>IF(ISNUMBER(AJ2),AJ2/'RKI Zahlen'!$B89*'RKI Zahlen'!$B$88,"")</f>
         <v>121.14332194501792</v>
       </c>
-      <c r="AK25" s="17" t="str">
+      <c r="AK25" s="17">
         <f>IF(ISNUMBER(AK2),AK2/'RKI Zahlen'!$B89*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>132.45364551512696</v>
       </c>
       <c r="AL25" s="17" t="str">
         <f>IF(ISNUMBER(AL2),AL2/'RKI Zahlen'!$B89*'RKI Zahlen'!$B$88,"")</f>
@@ -4552,9 +4558,9 @@
         <f>IF(ISNUMBER(AJ3),AJ3/'RKI Zahlen'!$B90*'RKI Zahlen'!$B$88,"")</f>
         <v>126.15547888495901</v>
       </c>
-      <c r="AK26" s="17" t="str">
+      <c r="AK26" s="17">
         <f>IF(ISNUMBER(AK3),AK3/'RKI Zahlen'!$B90*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>141.44218569777544</v>
       </c>
       <c r="AL26" s="17" t="str">
         <f>IF(ISNUMBER(AL3),AL3/'RKI Zahlen'!$B90*'RKI Zahlen'!$B$88,"")</f>
@@ -4714,9 +4720,9 @@
         <f>IF(ISNUMBER(AJ4),AJ4/'RKI Zahlen'!$B91*'RKI Zahlen'!$B$88,"")</f>
         <v>75.559162494999754</v>
       </c>
-      <c r="AK27" s="17" t="str">
+      <c r="AK27" s="17">
         <f>IF(ISNUMBER(AK4),AK4/'RKI Zahlen'!$B91*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>81.485371318136998</v>
       </c>
       <c r="AL27" s="17" t="str">
         <f>IF(ISNUMBER(AL4),AL4/'RKI Zahlen'!$B91*'RKI Zahlen'!$B$88,"")</f>
@@ -4876,9 +4882,9 @@
         <f>IF(ISNUMBER(AJ5),AJ5/'RKI Zahlen'!$B92*'RKI Zahlen'!$B$88,"")</f>
         <v>35.072814905906526</v>
       </c>
-      <c r="AK28" s="17" t="str">
+      <c r="AK28" s="17">
         <f>IF(ISNUMBER(AK5),AK5/'RKI Zahlen'!$B92*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>39.611181420405217</v>
       </c>
       <c r="AL28" s="17" t="str">
         <f>IF(ISNUMBER(AL5),AL5/'RKI Zahlen'!$B92*'RKI Zahlen'!$B$88,"")</f>
@@ -5038,9 +5044,9 @@
         <f>IF(ISNUMBER(AJ6),AJ6/'RKI Zahlen'!$B93*'RKI Zahlen'!$B$88,"")</f>
         <v>45.535340402292292</v>
       </c>
-      <c r="AK29" s="17" t="str">
+      <c r="AK29" s="17">
         <f>IF(ISNUMBER(AK6),AK6/'RKI Zahlen'!$B93*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>47.87799457089897</v>
       </c>
       <c r="AL29" s="17" t="str">
         <f>IF(ISNUMBER(AL6),AL6/'RKI Zahlen'!$B93*'RKI Zahlen'!$B$88,"")</f>
@@ -5200,9 +5206,9 @@
         <f>IF(ISNUMBER(AJ7),AJ7/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
         <v>125.51739944894005</v>
       </c>
-      <c r="AK30" s="17" t="str">
+      <c r="AK30" s="17">
         <f>IF(ISNUMBER(AK7),AK7/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>130.6771367694287</v>
       </c>
       <c r="AL30" s="17" t="str">
         <f>IF(ISNUMBER(AL7),AL7/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
@@ -5362,9 +5368,9 @@
         <f>IF(ISNUMBER(AJ8),AJ8/'RKI Zahlen'!$B95*'RKI Zahlen'!$B$88,"")</f>
         <v>54.980929038851968</v>
       </c>
-      <c r="AK31" s="17" t="str">
+      <c r="AK31" s="17">
         <f>IF(ISNUMBER(AK8),AK8/'RKI Zahlen'!$B95*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>59.162352379397454</v>
       </c>
       <c r="AL31" s="17" t="str">
         <f>IF(ISNUMBER(AL8),AL8/'RKI Zahlen'!$B95*'RKI Zahlen'!$B$88,"")</f>
@@ -5524,9 +5530,9 @@
         <f>IF(ISNUMBER(AJ9),AJ9/'RKI Zahlen'!$B96*'RKI Zahlen'!$B$88,"")</f>
         <v>25.222482799322844</v>
       </c>
-      <c r="AK32" s="17" t="str">
+      <c r="AK32" s="17">
         <f>IF(ISNUMBER(AK9),AK9/'RKI Zahlen'!$B96*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>27.210461739170949</v>
       </c>
       <c r="AL32" s="17" t="str">
         <f>IF(ISNUMBER(AL9),AL9/'RKI Zahlen'!$B96*'RKI Zahlen'!$B$88,"")</f>
@@ -5686,9 +5692,9 @@
         <f>IF(ISNUMBER(AJ10),AJ10/'RKI Zahlen'!$B97*'RKI Zahlen'!$B$88,"")</f>
         <v>54.895440596669097</v>
       </c>
-      <c r="AK33" s="17" t="str">
+      <c r="AK33" s="17">
         <f>IF(ISNUMBER(AK10),AK10/'RKI Zahlen'!$B97*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>58.816543496431173</v>
       </c>
       <c r="AL33" s="17" t="str">
         <f>IF(ISNUMBER(AL10),AL10/'RKI Zahlen'!$B97*'RKI Zahlen'!$B$88,"")</f>
@@ -5848,9 +5854,9 @@
         <f>IF(ISNUMBER(AJ11),AJ11/'RKI Zahlen'!$B98*'RKI Zahlen'!$B$88,"")</f>
         <v>80.027208470181009</v>
       </c>
-      <c r="AK34" s="17" t="str">
+      <c r="AK34" s="17">
         <f>IF(ISNUMBER(AK11),AK11/'RKI Zahlen'!$B98*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>86.027436768830214</v>
       </c>
       <c r="AL34" s="17" t="str">
         <f>IF(ISNUMBER(AL11),AL11/'RKI Zahlen'!$B98*'RKI Zahlen'!$B$88,"")</f>
@@ -6010,9 +6016,9 @@
         <f>IF(ISNUMBER(AJ12),AJ12/'RKI Zahlen'!$B99*'RKI Zahlen'!$B$88,"")</f>
         <v>70.969662488946952</v>
       </c>
-      <c r="AK35" s="17" t="str">
+      <c r="AK35" s="17">
         <f>IF(ISNUMBER(AK12),AK12/'RKI Zahlen'!$B99*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>76.673674686230356</v>
       </c>
       <c r="AL35" s="17" t="str">
         <f>IF(ISNUMBER(AL12),AL12/'RKI Zahlen'!$B99*'RKI Zahlen'!$B$88,"")</f>
@@ -6172,9 +6178,9 @@
         <f>IF(ISNUMBER(AJ13),AJ13/'RKI Zahlen'!$B100*'RKI Zahlen'!$B$88,"")</f>
         <v>83.694343009503186</v>
       </c>
-      <c r="AK36" s="17" t="str">
+      <c r="AK36" s="17">
         <f>IF(ISNUMBER(AK13),AK13/'RKI Zahlen'!$B100*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>102.97735810578197</v>
       </c>
       <c r="AL36" s="17" t="str">
         <f>IF(ISNUMBER(AL13),AL13/'RKI Zahlen'!$B100*'RKI Zahlen'!$B$88,"")</f>
@@ -6334,9 +6340,9 @@
         <f>IF(ISNUMBER(AJ14),AJ14/'RKI Zahlen'!$B101*'RKI Zahlen'!$B$88,"")</f>
         <v>49.878161433097176</v>
       </c>
-      <c r="AK37" s="17" t="str">
+      <c r="AK37" s="17">
         <f>IF(ISNUMBER(AK14),AK14/'RKI Zahlen'!$B101*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>53.531969719002525</v>
       </c>
       <c r="AL37" s="17" t="str">
         <f>IF(ISNUMBER(AL14),AL14/'RKI Zahlen'!$B101*'RKI Zahlen'!$B$88,"")</f>
@@ -6496,9 +6502,9 @@
         <f>IF(ISNUMBER(AJ15),AJ15/'RKI Zahlen'!$B102*'RKI Zahlen'!$B$88,"")</f>
         <v>33.962453828044019</v>
       </c>
-      <c r="AK38" s="17" t="str">
+      <c r="AK38" s="17">
         <f>IF(ISNUMBER(AK15),AK15/'RKI Zahlen'!$B102*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>36.407750503663188</v>
       </c>
       <c r="AL38" s="17" t="str">
         <f>IF(ISNUMBER(AL15),AL15/'RKI Zahlen'!$B102*'RKI Zahlen'!$B$88,"")</f>
@@ -6658,9 +6664,9 @@
         <f>IF(ISNUMBER(AJ16),AJ16/'RKI Zahlen'!$B103*'RKI Zahlen'!$B$88,"")</f>
         <v>43.014286542811298</v>
       </c>
-      <c r="AK39" s="17" t="str">
+      <c r="AK39" s="17">
         <f>IF(ISNUMBER(AK16),AK16/'RKI Zahlen'!$B103*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>46.086735581583532</v>
       </c>
       <c r="AL39" s="17" t="str">
         <f>IF(ISNUMBER(AL16),AL16/'RKI Zahlen'!$B103*'RKI Zahlen'!$B$88,"")</f>
@@ -6820,9 +6826,9 @@
         <f>IF(ISNUMBER(AJ17),AJ17/'RKI Zahlen'!$B104*'RKI Zahlen'!$B$88,"")</f>
         <v>40.292485966736216</v>
       </c>
-      <c r="AK40" s="17" t="str">
+      <c r="AK40" s="17">
         <f>IF(ISNUMBER(AK17),AK17/'RKI Zahlen'!$B104*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>43.337848278175578</v>
       </c>
       <c r="AL40" s="17" t="str">
         <f>IF(ISNUMBER(AL17),AL17/'RKI Zahlen'!$B104*'RKI Zahlen'!$B$88,"")</f>
@@ -6981,9 +6987,9 @@
         <f t="shared" si="5"/>
         <v>43922</v>
       </c>
-      <c r="AK41" s="16" t="str">
+      <c r="AK41" s="16">
         <f t="shared" si="5"/>
-        <v/>
+        <v>43923</v>
       </c>
       <c r="AL41" s="16" t="str">
         <f t="shared" si="5"/>
@@ -7143,9 +7149,9 @@
         <f>IF(ISNUMBER(AJ19),AJ19/'RKI Zahlen'!$B105*'RKI Zahlen'!$B$88,"")</f>
         <v>81.153627131404562</v>
       </c>
-      <c r="AK42" s="15" t="str">
+      <c r="AK42" s="15">
         <f>IF(ISNUMBER(AK19),AK19/'RKI Zahlen'!$B105*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>88.56955992570623</v>
       </c>
       <c r="AL42" s="15" t="str">
         <f>IF(ISNUMBER(AL19),AL19/'RKI Zahlen'!$B105*'RKI Zahlen'!$B$88,"")</f>
@@ -7305,9 +7311,9 @@
         <f t="shared" ref="AJ43:AJ44" si="40">IF(AND(ISNUMBER(AI42),ISNUMBER(AJ42)),AJ42-AI42,"")</f>
         <v>6.5690515801375966</v>
       </c>
-      <c r="AK43" s="13" t="str">
+      <c r="AK43" s="13">
         <f t="shared" ref="AK43:AK44" si="41">IF(AND(ISNUMBER(AJ42),ISNUMBER(AK42)),AK42-AJ42,"")</f>
-        <v/>
+        <v>7.4159327943016677</v>
       </c>
       <c r="AL43" s="13" t="str">
         <f t="shared" ref="AL43:AL44" si="42">IF(AND(ISNUMBER(AK42),ISNUMBER(AL42)),AL42-AK42,"")</f>
@@ -7467,9 +7473,9 @@
         <f t="shared" si="40"/>
         <v>1.0095113193022769</v>
       </c>
-      <c r="AK44" s="13" t="str">
+      <c r="AK44" s="13">
         <f t="shared" si="41"/>
-        <v/>
+        <v>0.84688121416407114</v>
       </c>
       <c r="AL44" s="13" t="str">
         <f t="shared" si="42"/>
@@ -7631,9 +7637,9 @@
         <f>IF(AND('RKI Zahlen'!AJ45&gt;40000,ISNUMBER('RKI Zahlen'!AJ45)),'RKI Zahlen'!AJ45,"")</f>
         <v>43922</v>
       </c>
-      <c r="AK47" s="16" t="str">
+      <c r="AK47" s="16">
         <f>IF(AND('RKI Zahlen'!AK45&gt;40000,ISNUMBER('RKI Zahlen'!AK45)),'RKI Zahlen'!AK45,"")</f>
-        <v/>
+        <v>43923</v>
       </c>
       <c r="AL47" s="16" t="str">
         <f>IF(AND('RKI Zahlen'!AL45&gt;40000,ISNUMBER('RKI Zahlen'!AL45)),'RKI Zahlen'!AL45,"")</f>
@@ -7793,9 +7799,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ46),'RKI Zahlen'!AJ46,"")</f>
         <v>197</v>
       </c>
-      <c r="AK48" t="str">
+      <c r="AK48">
         <f>IF(ISNUMBER('RKI Zahlen'!AK46),'RKI Zahlen'!AK46,"")</f>
-        <v/>
+        <v>241</v>
       </c>
       <c r="AL48" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL46),'RKI Zahlen'!AL46,"")</f>
@@ -7995,9 +8001,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ47),'RKI Zahlen'!AJ47,"")</f>
         <v>225</v>
       </c>
-      <c r="AK49" t="str">
+      <c r="AK49">
         <f>IF(ISNUMBER('RKI Zahlen'!AK47),'RKI Zahlen'!AK47,"")</f>
-        <v/>
+        <v>268</v>
       </c>
       <c r="AL49" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL47),'RKI Zahlen'!AL47,"")</f>
@@ -8197,9 +8203,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ48),'RKI Zahlen'!AJ48,"")</f>
         <v>16</v>
       </c>
-      <c r="AK50" t="str">
+      <c r="AK50">
         <f>IF(ISNUMBER('RKI Zahlen'!AK48),'RKI Zahlen'!AK48,"")</f>
-        <v/>
+        <v>19</v>
       </c>
       <c r="AL50" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL48),'RKI Zahlen'!AL48,"")</f>
@@ -8399,9 +8405,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ49),'RKI Zahlen'!AJ49,"")</f>
         <v>4</v>
       </c>
-      <c r="AK51" t="str">
+      <c r="AK51">
         <f>IF(ISNUMBER('RKI Zahlen'!AK49),'RKI Zahlen'!AK49,"")</f>
-        <v/>
+        <v>7</v>
       </c>
       <c r="AL51" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL49),'RKI Zahlen'!AL49,"")</f>
@@ -8601,9 +8607,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ50),'RKI Zahlen'!AJ50,"")</f>
         <v>5</v>
       </c>
-      <c r="AK52" t="str">
+      <c r="AK52">
         <f>IF(ISNUMBER('RKI Zahlen'!AK50),'RKI Zahlen'!AK50,"")</f>
-        <v/>
+        <v>6</v>
       </c>
       <c r="AL52" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL50),'RKI Zahlen'!AL50,"")</f>
@@ -8803,9 +8809,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ51),'RKI Zahlen'!AJ51,"")</f>
         <v>14</v>
       </c>
-      <c r="AK53" t="str">
+      <c r="AK53">
         <f>IF(ISNUMBER('RKI Zahlen'!AK51),'RKI Zahlen'!AK51,"")</f>
-        <v/>
+        <v>14</v>
       </c>
       <c r="AL53" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL51),'RKI Zahlen'!AL51,"")</f>
@@ -9005,9 +9011,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ52),'RKI Zahlen'!AJ52,"")</f>
         <v>21</v>
       </c>
-      <c r="AK54" t="str">
+      <c r="AK54">
         <f>IF(ISNUMBER('RKI Zahlen'!AK52),'RKI Zahlen'!AK52,"")</f>
-        <v/>
+        <v>27</v>
       </c>
       <c r="AL54" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL52),'RKI Zahlen'!AL52,"")</f>
@@ -9207,9 +9213,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ53),'RKI Zahlen'!AJ53,"")</f>
         <v>3</v>
       </c>
-      <c r="AK55" t="str">
+      <c r="AK55">
         <f>IF(ISNUMBER('RKI Zahlen'!AK53),'RKI Zahlen'!AK53,"")</f>
-        <v/>
+        <v>3</v>
       </c>
       <c r="AL55" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL53),'RKI Zahlen'!AL53,"")</f>
@@ -9409,9 +9415,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ54),'RKI Zahlen'!AJ54,"")</f>
         <v>42</v>
       </c>
-      <c r="AK56" t="str">
+      <c r="AK56">
         <f>IF(ISNUMBER('RKI Zahlen'!AK54),'RKI Zahlen'!AK54,"")</f>
-        <v/>
+        <v>45</v>
       </c>
       <c r="AL56" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL54),'RKI Zahlen'!AL54,"")</f>
@@ -9611,9 +9617,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ55),'RKI Zahlen'!AJ55,"")</f>
         <v>134</v>
       </c>
-      <c r="AK57" t="str">
+      <c r="AK57">
         <f>IF(ISNUMBER('RKI Zahlen'!AK55),'RKI Zahlen'!AK55,"")</f>
-        <v/>
+        <v>161</v>
       </c>
       <c r="AL57" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL55),'RKI Zahlen'!AL55,"")</f>
@@ -9813,9 +9819,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ56),'RKI Zahlen'!AJ56,"")</f>
         <v>23</v>
       </c>
-      <c r="AK58" t="str">
+      <c r="AK58">
         <f>IF(ISNUMBER('RKI Zahlen'!AK56),'RKI Zahlen'!AK56,"")</f>
-        <v/>
+        <v>26</v>
       </c>
       <c r="AL58" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL56),'RKI Zahlen'!AL56,"")</f>
@@ -10015,9 +10021,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ57),'RKI Zahlen'!AJ57,"")</f>
         <v>8</v>
       </c>
-      <c r="AK59" t="str">
+      <c r="AK59">
         <f>IF(ISNUMBER('RKI Zahlen'!AK57),'RKI Zahlen'!AK57,"")</f>
-        <v/>
+        <v>11</v>
       </c>
       <c r="AL59" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL57),'RKI Zahlen'!AL57,"")</f>
@@ -10217,9 +10223,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ58),'RKI Zahlen'!AJ58,"")</f>
         <v>17</v>
       </c>
-      <c r="AK60" t="str">
+      <c r="AK60">
         <f>IF(ISNUMBER('RKI Zahlen'!AK58),'RKI Zahlen'!AK58,"")</f>
-        <v/>
+        <v>18</v>
       </c>
       <c r="AL60" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL58),'RKI Zahlen'!AL58,"")</f>
@@ -10419,9 +10425,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ59),'RKI Zahlen'!AJ59,"")</f>
         <v>7</v>
       </c>
-      <c r="AK61" t="str">
+      <c r="AK61">
         <f>IF(ISNUMBER('RKI Zahlen'!AK59),'RKI Zahlen'!AK59,"")</f>
-        <v/>
+        <v>8</v>
       </c>
       <c r="AL61" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL59),'RKI Zahlen'!AL59,"")</f>
@@ -10621,9 +10627,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ60),'RKI Zahlen'!AJ60,"")</f>
         <v>10</v>
       </c>
-      <c r="AK62" t="str">
+      <c r="AK62">
         <f>IF(ISNUMBER('RKI Zahlen'!AK60),'RKI Zahlen'!AK60,"")</f>
-        <v/>
+        <v>11</v>
       </c>
       <c r="AL62" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL60),'RKI Zahlen'!AL60,"")</f>
@@ -10823,9 +10829,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AJ61),'RKI Zahlen'!AJ61,"")</f>
         <v>6</v>
       </c>
-      <c r="AK63" t="str">
+      <c r="AK63">
         <f>IF(ISNUMBER('RKI Zahlen'!AK61),'RKI Zahlen'!AK61,"")</f>
-        <v/>
+        <v>7</v>
       </c>
       <c r="AL63" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AL61),'RKI Zahlen'!AL61,"")</f>
@@ -11013,9 +11019,9 @@
         <f t="shared" si="45"/>
         <v>43922</v>
       </c>
-      <c r="AK64" s="16" t="str">
+      <c r="AK64" s="16">
         <f t="shared" si="45"/>
-        <v/>
+        <v>43923</v>
       </c>
       <c r="AL64" s="16" t="str">
         <f t="shared" si="45"/>
@@ -11171,9 +11177,9 @@
         <f t="shared" si="46"/>
         <v>732</v>
       </c>
-      <c r="AK65" s="19" t="str">
+      <c r="AK65" s="19">
         <f t="shared" si="46"/>
-        <v/>
+        <v>872</v>
       </c>
       <c r="AL65" s="19" t="str">
         <f t="shared" si="46"/>
@@ -11369,9 +11375,9 @@
         <f t="shared" ref="AJ66:AJ67" si="79">IF(AND(ISNUMBER(AI65),ISNUMBER(AJ65)),AJ65-AI65,"")</f>
         <v>149</v>
       </c>
-      <c r="AK66" s="4" t="str">
+      <c r="AK66" s="4">
         <f t="shared" ref="AK66:AK67" si="80">IF(AND(ISNUMBER(AJ65),ISNUMBER(AK65)),AK65-AJ65,"")</f>
-        <v/>
+        <v>140</v>
       </c>
       <c r="AL66" s="4" t="str">
         <f t="shared" ref="AL66:AL67" si="81">IF(AND(ISNUMBER(AK65),ISNUMBER(AL65)),AL65-AK65,"")</f>
@@ -11567,9 +11573,9 @@
         <f t="shared" si="79"/>
         <v>21</v>
       </c>
-      <c r="AK67" s="4" t="str">
+      <c r="AK67" s="4">
         <f t="shared" si="80"/>
-        <v/>
+        <v>-9</v>
       </c>
       <c r="AL67" s="4" t="str">
         <f t="shared" si="81"/>
@@ -11768,9 +11774,9 @@
         <f t="shared" si="94"/>
         <v>43922</v>
       </c>
-      <c r="AK70" s="16" t="str">
+      <c r="AK70" s="16">
         <f t="shared" si="94"/>
-        <v/>
+        <v>43923</v>
       </c>
       <c r="AL70" s="16" t="str">
         <f t="shared" si="94"/>
@@ -11930,9 +11936,9 @@
         <f>IF(ISNUMBER(AJ48),AJ48/'RKI Zahlen'!$B89*'RKI Zahlen'!$C$88,"")</f>
         <v>17.796595393861693</v>
       </c>
-      <c r="AK71" s="17" t="str">
-        <f>IF(ISNUMBER(AK48),AK48/'RKI Zahlen'!$B133*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK71" s="17">
+        <f>IF(ISNUMBER(AK48),AK48/'RKI Zahlen'!$B89*'RKI Zahlen'!$C$88,"")</f>
+        <v>21.771469491983087</v>
       </c>
       <c r="AL71" s="17" t="str">
         <f>IF(ISNUMBER(AL48),AL48/'RKI Zahlen'!$B133*'RKI Zahlen'!$B$88,"")</f>
@@ -12092,9 +12098,9 @@
         <f>IF(ISNUMBER(AJ49),AJ49/'RKI Zahlen'!$B90*'RKI Zahlen'!$C$88,"")</f>
         <v>17.206148238537779</v>
       </c>
-      <c r="AK72" s="17" t="str">
-        <f>IF(ISNUMBER(AK49),AK49/'RKI Zahlen'!$B134*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK72" s="17">
+        <f>IF(ISNUMBER(AK49),AK49/'RKI Zahlen'!$B90*'RKI Zahlen'!$C$88,"")</f>
+        <v>20.494434346347223</v>
       </c>
       <c r="AL72" s="17" t="str">
         <f>IF(ISNUMBER(AL49),AL49/'RKI Zahlen'!$B134*'RKI Zahlen'!$B$88,"")</f>
@@ -12254,9 +12260,9 @@
         <f>IF(ISNUMBER(AJ50),AJ50/'RKI Zahlen'!$B91*'RKI Zahlen'!$C$88,"")</f>
         <v>4.3897843134349896</v>
       </c>
-      <c r="AK73" s="17" t="str">
-        <f>IF(ISNUMBER(AK50),AK50/'RKI Zahlen'!$B135*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK73" s="17">
+        <f>IF(ISNUMBER(AK50),AK50/'RKI Zahlen'!$B91*'RKI Zahlen'!$C$88,"")</f>
+        <v>5.2128688722040506</v>
       </c>
       <c r="AL73" s="17" t="str">
         <f>IF(ISNUMBER(AL50),AL50/'RKI Zahlen'!$B135*'RKI Zahlen'!$B$88,"")</f>
@@ -12416,9 +12422,9 @@
         <f>IF(ISNUMBER(AJ51),AJ51/'RKI Zahlen'!$B92*'RKI Zahlen'!$C$88,"")</f>
         <v>1.592409303332873</v>
       </c>
-      <c r="AK74" s="17" t="str">
-        <f>IF(ISNUMBER(AK51),AK51/'RKI Zahlen'!$B136*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK74" s="17">
+        <f>IF(ISNUMBER(AK51),AK51/'RKI Zahlen'!$B92*'RKI Zahlen'!$C$88,"")</f>
+        <v>2.7867162808325276</v>
       </c>
       <c r="AL74" s="17" t="str">
         <f>IF(ISNUMBER(AL51),AL51/'RKI Zahlen'!$B136*'RKI Zahlen'!$B$88,"")</f>
@@ -12578,9 +12584,9 @@
         <f>IF(ISNUMBER(AJ52),AJ52/'RKI Zahlen'!$B93*'RKI Zahlen'!$C$88,"")</f>
         <v>7.3207942768958665</v>
       </c>
-      <c r="AK75" s="17" t="str">
-        <f>IF(ISNUMBER(AK52),AK52/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK75" s="17">
+        <f>IF(ISNUMBER(AK52),AK52/'RKI Zahlen'!$B93*'RKI Zahlen'!$C$88,"")</f>
+        <v>8.7849531322750405</v>
       </c>
       <c r="AL75" s="17" t="str">
         <f>IF(ISNUMBER(AL52),AL52/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
@@ -12740,9 +12746,9 @@
         <f>IF(ISNUMBER(AJ53),AJ53/'RKI Zahlen'!$B94*'RKI Zahlen'!$C$88,"")</f>
         <v>7.6038234196675063</v>
       </c>
-      <c r="AK76" s="17" t="str">
-        <f>IF(ISNUMBER(AK53),AK53/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK76" s="17">
+        <f>IF(ISNUMBER(AK53),AK53/'RKI Zahlen'!$B94*'RKI Zahlen'!$C$88,"")</f>
+        <v>7.6038234196675063</v>
       </c>
       <c r="AL76" s="17" t="str">
         <f>IF(ISNUMBER(AL53),AL53/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
@@ -12902,9 +12908,9 @@
         <f>IF(ISNUMBER(AJ54),AJ54/'RKI Zahlen'!$B95*'RKI Zahlen'!$C$88,"")</f>
         <v>3.3515225248647065</v>
       </c>
-      <c r="AK77" s="17" t="str">
-        <f>IF(ISNUMBER(AK54),AK54/'RKI Zahlen'!$B139*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK77" s="17">
+        <f>IF(ISNUMBER(AK54),AK54/'RKI Zahlen'!$B95*'RKI Zahlen'!$C$88,"")</f>
+        <v>4.309100389111765</v>
       </c>
       <c r="AL77" s="17" t="str">
         <f>IF(ISNUMBER(AL54),AL54/'RKI Zahlen'!$B139*'RKI Zahlen'!$B$88,"")</f>
@@ -13064,9 +13070,9 @@
         <f>IF(ISNUMBER(AJ55),AJ55/'RKI Zahlen'!$B96*'RKI Zahlen'!$C$88,"")</f>
         <v>1.8637302561075992</v>
       </c>
-      <c r="AK78" s="17" t="str">
-        <f>IF(ISNUMBER(AK55),AK55/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK78" s="17">
+        <f>IF(ISNUMBER(AK55),AK55/'RKI Zahlen'!$B96*'RKI Zahlen'!$C$88,"")</f>
+        <v>1.8637302561075992</v>
       </c>
       <c r="AL78" s="17" t="str">
         <f>IF(ISNUMBER(AL55),AL55/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
@@ -13226,9 +13232,9 @@
         <f>IF(ISNUMBER(AJ56),AJ56/'RKI Zahlen'!$B97*'RKI Zahlen'!$C$88,"")</f>
         <v>5.2615438271567818</v>
       </c>
-      <c r="AK79" s="17" t="str">
-        <f>IF(ISNUMBER(AK56),AK56/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK79" s="17">
+        <f>IF(ISNUMBER(AK56),AK56/'RKI Zahlen'!$B97*'RKI Zahlen'!$C$88,"")</f>
+        <v>5.6373683862394097</v>
       </c>
       <c r="AL79" s="17" t="str">
         <f>IF(ISNUMBER(AL56),AL56/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
@@ -13388,9 +13394,9 @@
         <f>IF(ISNUMBER(AJ57),AJ57/'RKI Zahlen'!$B98*'RKI Zahlen'!$C$88,"")</f>
         <v>7.4724032715519861</v>
       </c>
-      <c r="AK80" s="17" t="str">
-        <f>IF(ISNUMBER(AK57),AK57/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK80" s="17">
+        <f>IF(ISNUMBER(AK57),AK57/'RKI Zahlen'!$B98*'RKI Zahlen'!$C$88,"")</f>
+        <v>8.9780367665661931</v>
       </c>
       <c r="AL80" s="17" t="str">
         <f>IF(ISNUMBER(AL57),AL57/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
@@ -13550,9 +13556,9 @@
         <f>IF(ISNUMBER(AJ58),AJ58/'RKI Zahlen'!$B99*'RKI Zahlen'!$C$88,"")</f>
         <v>5.6305699801510167</v>
       </c>
-      <c r="AK81" s="17" t="str">
-        <f>IF(ISNUMBER(AK58),AK58/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK81" s="17">
+        <f>IF(ISNUMBER(AK58),AK58/'RKI Zahlen'!$B99*'RKI Zahlen'!$C$88,"")</f>
+        <v>6.3649921514750627</v>
       </c>
       <c r="AL81" s="17" t="str">
         <f>IF(ISNUMBER(AL58),AL58/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
@@ -13712,9 +13718,9 @@
         <f>IF(ISNUMBER(AJ59),AJ59/'RKI Zahlen'!$B100*'RKI Zahlen'!$C$88,"")</f>
         <v>8.0766555377083904</v>
       </c>
-      <c r="AK82" s="17" t="str">
-        <f>IF(ISNUMBER(AK59),AK59/'RKI Zahlen'!$B144*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK82" s="17">
+        <f>IF(ISNUMBER(AK59),AK59/'RKI Zahlen'!$B100*'RKI Zahlen'!$C$88,"")</f>
+        <v>11.105401364349037</v>
       </c>
       <c r="AL82" s="17" t="str">
         <f>IF(ISNUMBER(AL59),AL59/'RKI Zahlen'!$B144*'RKI Zahlen'!$B$88,"")</f>
@@ -13874,9 +13880,9 @@
         <f>IF(ISNUMBER(AJ60),AJ60/'RKI Zahlen'!$B101*'RKI Zahlen'!$C$88,"")</f>
         <v>4.1687745543886532</v>
       </c>
-      <c r="AK83" s="17" t="str">
-        <f>IF(ISNUMBER(AK60),AK60/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK83" s="17">
+        <f>IF(ISNUMBER(AK60),AK60/'RKI Zahlen'!$B101*'RKI Zahlen'!$C$88,"")</f>
+        <v>4.4139965869997502</v>
       </c>
       <c r="AL83" s="17" t="str">
         <f>IF(ISNUMBER(AL60),AL60/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
@@ -14036,9 +14042,9 @@
         <f>IF(ISNUMBER(AJ61),AJ61/'RKI Zahlen'!$B102*'RKI Zahlen'!$C$88,"")</f>
         <v>3.1698290239507756</v>
       </c>
-      <c r="AK84" s="17" t="str">
-        <f>IF(ISNUMBER(AK61),AK61/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK84" s="17">
+        <f>IF(ISNUMBER(AK61),AK61/'RKI Zahlen'!$B102*'RKI Zahlen'!$C$88,"")</f>
+        <v>3.6226617416580291</v>
       </c>
       <c r="AL84" s="17" t="str">
         <f>IF(ISNUMBER(AL61),AL61/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
@@ -14198,9 +14204,9 @@
         <f>IF(ISNUMBER(AJ62),AJ62/'RKI Zahlen'!$B103*'RKI Zahlen'!$C$88,"")</f>
         <v>3.4521899312047588</v>
       </c>
-      <c r="AK85" s="17" t="str">
-        <f>IF(ISNUMBER(AK62),AK62/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK85" s="17">
+        <f>IF(ISNUMBER(AK62),AK62/'RKI Zahlen'!$B103*'RKI Zahlen'!$C$88,"")</f>
+        <v>3.7974089243252349</v>
       </c>
       <c r="AL85" s="17" t="str">
         <f>IF(ISNUMBER(AL62),AL62/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
@@ -14360,9 +14366,9 @@
         <f>IF(ISNUMBER(AJ63),AJ63/'RKI Zahlen'!$B104*'RKI Zahlen'!$C$88,"")</f>
         <v>2.8111036720978753</v>
       </c>
-      <c r="AK86" s="17" t="str">
-        <f>IF(ISNUMBER(AK63),AK63/'RKI Zahlen'!$B148*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+      <c r="AK86" s="17">
+        <f>IF(ISNUMBER(AK63),AK63/'RKI Zahlen'!$B104*'RKI Zahlen'!$C$88,"")</f>
+        <v>3.279620950780854</v>
       </c>
       <c r="AL86" s="17" t="str">
         <f>IF(ISNUMBER(AL63),AL63/'RKI Zahlen'!$B148*'RKI Zahlen'!$B$88,"")</f>
@@ -14521,9 +14527,9 @@
         <f t="shared" si="96"/>
         <v>43922</v>
       </c>
-      <c r="AK87" s="16" t="str">
-        <f t="shared" si="96"/>
-        <v/>
+      <c r="AK87" s="16">
+        <f t="shared" ref="AK87" si="97">AK64</f>
+        <v>43923</v>
       </c>
       <c r="AL87" s="16" t="str">
         <f t="shared" si="96"/>
@@ -14683,9 +14689,9 @@
         <f>IF(ISNUMBER(AJ65),AJ65/'RKI Zahlen'!$B105*'RKI Zahlen'!$C$88,"")</f>
         <v>8.818165700826551</v>
       </c>
-      <c r="AK88" s="17" t="str">
+      <c r="AK88" s="17">
         <f>IF(ISNUMBER(AK65),AK65/'RKI Zahlen'!$B105*'RKI Zahlen'!$C$88,"")</f>
-        <v/>
+        <v>10.504700124481902</v>
       </c>
       <c r="AL88" s="17" t="str">
         <f>IF(ISNUMBER(AL65),AL65/'RKI Zahlen'!$B105*'RKI Zahlen'!$C$88,"")</f>
@@ -14706,148 +14712,148 @@
         <v>1. Ableitung</v>
       </c>
       <c r="B89" s="13" t="str">
-        <f t="shared" ref="B89:B90" si="97">IF(AND(ISNUMBER(A88),ISNUMBER(B88)),B88-A88,"")</f>
+        <f t="shared" ref="B89:B90" si="98">IF(AND(ISNUMBER(A88),ISNUMBER(B88)),B88-A88,"")</f>
         <v/>
       </c>
       <c r="C89" s="13" t="str">
-        <f t="shared" ref="C89:C90" si="98">IF(AND(ISNUMBER(B88),ISNUMBER(C88)),C88-B88,"")</f>
+        <f t="shared" ref="C89:C90" si="99">IF(AND(ISNUMBER(B88),ISNUMBER(C88)),C88-B88,"")</f>
         <v/>
       </c>
       <c r="D89" s="13" t="str">
-        <f t="shared" ref="D89:D90" si="99">IF(AND(ISNUMBER(C88),ISNUMBER(D88)),D88-C88,"")</f>
+        <f t="shared" ref="D89:D90" si="100">IF(AND(ISNUMBER(C88),ISNUMBER(D88)),D88-C88,"")</f>
         <v/>
       </c>
       <c r="E89" s="13" t="str">
-        <f t="shared" ref="E89:E90" si="100">IF(AND(ISNUMBER(D88),ISNUMBER(E88)),E88-D88,"")</f>
+        <f t="shared" ref="E89:E90" si="101">IF(AND(ISNUMBER(D88),ISNUMBER(E88)),E88-D88,"")</f>
         <v/>
       </c>
       <c r="F89" s="13" t="str">
-        <f t="shared" ref="F89:F90" si="101">IF(AND(ISNUMBER(E88),ISNUMBER(F88)),F88-E88,"")</f>
+        <f t="shared" ref="F89:F90" si="102">IF(AND(ISNUMBER(E88),ISNUMBER(F88)),F88-E88,"")</f>
         <v/>
       </c>
       <c r="G89" s="13" t="str">
-        <f t="shared" ref="G89:G90" si="102">IF(AND(ISNUMBER(F88),ISNUMBER(G88)),G88-F88,"")</f>
+        <f t="shared" ref="G89:G90" si="103">IF(AND(ISNUMBER(F88),ISNUMBER(G88)),G88-F88,"")</f>
         <v/>
       </c>
       <c r="H89" s="13" t="str">
-        <f t="shared" ref="H89:H90" si="103">IF(AND(ISNUMBER(G88),ISNUMBER(H88)),H88-G88,"")</f>
+        <f t="shared" ref="H89:H90" si="104">IF(AND(ISNUMBER(G88),ISNUMBER(H88)),H88-G88,"")</f>
         <v/>
       </c>
       <c r="I89" s="13" t="str">
-        <f t="shared" ref="I89:I90" si="104">IF(AND(ISNUMBER(H88),ISNUMBER(I88)),I88-H88,"")</f>
+        <f t="shared" ref="I89:I90" si="105">IF(AND(ISNUMBER(H88),ISNUMBER(I88)),I88-H88,"")</f>
         <v/>
       </c>
       <c r="J89" s="13" t="str">
-        <f t="shared" ref="J89:J90" si="105">IF(AND(ISNUMBER(I88),ISNUMBER(J88)),J88-I88,"")</f>
+        <f t="shared" ref="J89:J90" si="106">IF(AND(ISNUMBER(I88),ISNUMBER(J88)),J88-I88,"")</f>
         <v/>
       </c>
       <c r="K89" s="13" t="str">
-        <f t="shared" ref="K89:K90" si="106">IF(AND(ISNUMBER(J88),ISNUMBER(K88)),K88-J88,"")</f>
+        <f t="shared" ref="K89:K90" si="107">IF(AND(ISNUMBER(J88),ISNUMBER(K88)),K88-J88,"")</f>
         <v/>
       </c>
       <c r="L89" s="13" t="str">
-        <f t="shared" ref="L89:L90" si="107">IF(AND(ISNUMBER(K88),ISNUMBER(L88)),L88-K88,"")</f>
+        <f t="shared" ref="L89:L90" si="108">IF(AND(ISNUMBER(K88),ISNUMBER(L88)),L88-K88,"")</f>
         <v/>
       </c>
       <c r="M89" s="13" t="str">
-        <f t="shared" ref="M89:M90" si="108">IF(AND(ISNUMBER(L88),ISNUMBER(M88)),M88-L88,"")</f>
+        <f t="shared" ref="M89:M90" si="109">IF(AND(ISNUMBER(L88),ISNUMBER(M88)),M88-L88,"")</f>
         <v/>
       </c>
       <c r="N89" s="13">
-        <f t="shared" ref="N89:N90" si="109">IF(AND(ISNUMBER(M88),ISNUMBER(N88)),N88-M88,"")</f>
+        <f t="shared" ref="N89:N90" si="110">IF(AND(ISNUMBER(M88),ISNUMBER(N88)),N88-M88,"")</f>
         <v>0</v>
       </c>
       <c r="O89" s="13">
-        <f t="shared" ref="O89:O90" si="110">IF(AND(ISNUMBER(N88),ISNUMBER(O88)),O88-N88,"")</f>
+        <f t="shared" ref="O89:O90" si="111">IF(AND(ISNUMBER(N88),ISNUMBER(O88)),O88-N88,"")</f>
         <v>1.2046674454681074E-2</v>
       </c>
       <c r="P89" s="13">
-        <f t="shared" ref="P89:P90" si="111">IF(AND(ISNUMBER(O88),ISNUMBER(P88)),P88-O88,"")</f>
+        <f t="shared" ref="P89:P90" si="112">IF(AND(ISNUMBER(O88),ISNUMBER(P88)),P88-O88,"")</f>
         <v>2.4093348909362163E-2</v>
       </c>
       <c r="Q89" s="13">
-        <f t="shared" ref="Q89:Q90" si="112">IF(AND(ISNUMBER(P88),ISNUMBER(Q88)),Q88-P88,"")</f>
+        <f t="shared" ref="Q89:Q90" si="113">IF(AND(ISNUMBER(P88),ISNUMBER(Q88)),Q88-P88,"")</f>
         <v>0</v>
       </c>
       <c r="R89" s="13">
-        <f t="shared" ref="R89:R90" si="113">IF(AND(ISNUMBER(Q88),ISNUMBER(R88)),R88-Q88,"")</f>
+        <f t="shared" ref="R89:R90" si="114">IF(AND(ISNUMBER(Q88),ISNUMBER(R88)),R88-Q88,"")</f>
         <v>3.614002336404324E-2</v>
       </c>
       <c r="S89" s="13">
-        <f t="shared" ref="S89:S90" si="114">IF(AND(ISNUMBER(R88),ISNUMBER(S88)),S88-R88,"")</f>
+        <f t="shared" ref="S89:S90" si="115">IF(AND(ISNUMBER(R88),ISNUMBER(S88)),S88-R88,"")</f>
         <v>4.8186697818724297E-2</v>
       </c>
       <c r="T89" s="13">
-        <f t="shared" ref="T89:T90" si="115">IF(AND(ISNUMBER(S88),ISNUMBER(T88)),T88-S88,"")</f>
+        <f t="shared" ref="T89:T90" si="116">IF(AND(ISNUMBER(S88),ISNUMBER(T88)),T88-S88,"")</f>
         <v>1.2046674454681106E-2</v>
       </c>
       <c r="U89" s="13">
-        <f t="shared" ref="U89:U90" si="116">IF(AND(ISNUMBER(T88),ISNUMBER(U88)),U88-T88,"")</f>
+        <f t="shared" ref="U89:U90" si="117">IF(AND(ISNUMBER(T88),ISNUMBER(U88)),U88-T88,"")</f>
         <v>-1.2046674454681106E-2</v>
       </c>
       <c r="V89" s="13">
-        <f t="shared" ref="V89:V90" si="117">IF(AND(ISNUMBER(U88),ISNUMBER(V88)),V88-U88,"")</f>
+        <f t="shared" ref="V89:V90" si="118">IF(AND(ISNUMBER(U88),ISNUMBER(V88)),V88-U88,"")</f>
         <v>0</v>
       </c>
       <c r="W89" s="13">
-        <f t="shared" ref="W89:W90" si="118">IF(AND(ISNUMBER(V88),ISNUMBER(W88)),W88-V88,"")</f>
+        <f t="shared" ref="W89:W90" si="119">IF(AND(ISNUMBER(V88),ISNUMBER(W88)),W88-V88,"")</f>
         <v>9.637339563744865E-2</v>
       </c>
       <c r="X89" s="13">
-        <f t="shared" ref="X89:X90" si="119">IF(AND(ISNUMBER(W88),ISNUMBER(X88)),X88-W88,"")</f>
+        <f t="shared" ref="X89:X90" si="120">IF(AND(ISNUMBER(W88),ISNUMBER(X88)),X88-W88,"")</f>
         <v>0.13251341900149186</v>
       </c>
       <c r="Y89" s="13">
-        <f t="shared" ref="Y89:Y90" si="120">IF(AND(ISNUMBER(X88),ISNUMBER(Y88)),Y88-X88,"")</f>
+        <f t="shared" ref="Y89:Y90" si="121">IF(AND(ISNUMBER(X88),ISNUMBER(Y88)),Y88-X88,"")</f>
         <v>0.18070011682021619</v>
       </c>
       <c r="Z89" s="13">
-        <f t="shared" ref="Z89:Z90" si="121">IF(AND(ISNUMBER(Y88),ISNUMBER(Z88)),Z88-Y88,"")</f>
+        <f t="shared" ref="Z89:Z90" si="122">IF(AND(ISNUMBER(Y88),ISNUMBER(Z88)),Z88-Y88,"")</f>
         <v>0.10842007009212973</v>
       </c>
       <c r="AA89" s="13">
-        <f t="shared" ref="AA89:AA90" si="122">IF(AND(ISNUMBER(Z88),ISNUMBER(AA88)),AA88-Z88,"")</f>
+        <f t="shared" ref="AA89:AA90" si="123">IF(AND(ISNUMBER(Z88),ISNUMBER(AA88)),AA88-Z88,"")</f>
         <v>0.37344690809511349</v>
       </c>
       <c r="AB89" s="13">
-        <f t="shared" ref="AB89:AB90" si="123">IF(AND(ISNUMBER(AA88),ISNUMBER(AB88)),AB88-AA88,"")</f>
+        <f t="shared" ref="AB89:AB90" si="124">IF(AND(ISNUMBER(AA88),ISNUMBER(AB88)),AB88-AA88,"")</f>
         <v>0.33730688473107007</v>
       </c>
       <c r="AC89" s="13">
-        <f t="shared" ref="AC89:AC90" si="124">IF(AND(ISNUMBER(AB88),ISNUMBER(AC88)),AC88-AB88,"")</f>
+        <f t="shared" ref="AC89:AC90" si="125">IF(AND(ISNUMBER(AB88),ISNUMBER(AC88)),AC88-AB88,"")</f>
         <v>0.42163360591383792</v>
       </c>
       <c r="AD89" s="13">
-        <f t="shared" ref="AD89:AD90" si="125">IF(AND(ISNUMBER(AC88),ISNUMBER(AD88)),AD88-AC88,"")</f>
+        <f t="shared" ref="AD89:AD90" si="126">IF(AND(ISNUMBER(AC88),ISNUMBER(AD88)),AD88-AC88,"")</f>
         <v>0.59028704827937295</v>
       </c>
       <c r="AE89" s="13">
-        <f t="shared" ref="AE89:AE90" si="126">IF(AND(ISNUMBER(AD88),ISNUMBER(AE88)),AE88-AD88,"")</f>
+        <f t="shared" ref="AE89:AE90" si="127">IF(AND(ISNUMBER(AD88),ISNUMBER(AE88)),AE88-AD88,"")</f>
         <v>0.66256709500745936</v>
       </c>
       <c r="AF89" s="13">
-        <f t="shared" ref="AF89:AF90" si="127">IF(AND(ISNUMBER(AE88),ISNUMBER(AF88)),AF88-AE88,"")</f>
+        <f t="shared" ref="AF89:AF90" si="128">IF(AND(ISNUMBER(AE88),ISNUMBER(AF88)),AF88-AE88,"")</f>
         <v>0.86736056073703738</v>
       </c>
       <c r="AG89" s="13">
-        <f t="shared" ref="AG89:AG90" si="128">IF(AND(ISNUMBER(AF88),ISNUMBER(AG88)),AG88-AF88,"")</f>
+        <f t="shared" ref="AG89:AG90" si="129">IF(AND(ISNUMBER(AF88),ISNUMBER(AG88)),AG88-AF88,"")</f>
         <v>0.77098716509958942</v>
       </c>
       <c r="AH89" s="13">
-        <f t="shared" ref="AH89:AH90" si="129">IF(AND(ISNUMBER(AG88),ISNUMBER(AH88)),AH88-AG88,"")</f>
+        <f t="shared" ref="AH89:AH90" si="130">IF(AND(ISNUMBER(AG88),ISNUMBER(AH88)),AH88-AG88,"")</f>
         <v>0.79508051400895052</v>
       </c>
       <c r="AI89" s="13">
-        <f t="shared" ref="AI89:AI90" si="130">IF(AND(ISNUMBER(AH88),ISNUMBER(AI88)),AI88-AH88,"")</f>
+        <f t="shared" ref="AI89:AI90" si="131">IF(AND(ISNUMBER(AH88),ISNUMBER(AI88)),AI88-AH88,"")</f>
         <v>1.5419743301991788</v>
       </c>
       <c r="AJ89" s="13">
-        <f t="shared" ref="AJ89:AJ90" si="131">IF(AND(ISNUMBER(AI88),ISNUMBER(AJ88)),AJ88-AI88,"")</f>
+        <f t="shared" ref="AJ89:AK90" si="132">IF(AND(ISNUMBER(AI88),ISNUMBER(AJ88)),AJ88-AI88,"")</f>
         <v>1.7949544937474817</v>
       </c>
-      <c r="AK89" s="13" t="str">
-        <f t="shared" ref="AK89:AK90" si="132">IF(AND(ISNUMBER(AJ88),ISNUMBER(AK88)),AK88-AJ88,"")</f>
-        <v/>
+      <c r="AK89" s="13">
+        <f t="shared" si="132"/>
+        <v>1.6865344236553508</v>
       </c>
       <c r="AL89" s="13" t="str">
         <f t="shared" ref="AL89:AL90" si="133">IF(AND(ISNUMBER(AK88),ISNUMBER(AL88)),AL88-AK88,"")</f>
@@ -14868,148 +14874,148 @@
         <v>2. Ableitung</v>
       </c>
       <c r="B90" s="13" t="str">
-        <f t="shared" si="97"/>
-        <v/>
-      </c>
-      <c r="C90" s="13" t="str">
         <f t="shared" si="98"/>
         <v/>
       </c>
-      <c r="D90" s="13" t="str">
+      <c r="C90" s="13" t="str">
         <f t="shared" si="99"/>
         <v/>
       </c>
-      <c r="E90" s="13" t="str">
+      <c r="D90" s="13" t="str">
         <f t="shared" si="100"/>
         <v/>
       </c>
-      <c r="F90" s="13" t="str">
+      <c r="E90" s="13" t="str">
         <f t="shared" si="101"/>
         <v/>
       </c>
-      <c r="G90" s="13" t="str">
+      <c r="F90" s="13" t="str">
         <f t="shared" si="102"/>
         <v/>
       </c>
-      <c r="H90" s="13" t="str">
+      <c r="G90" s="13" t="str">
         <f t="shared" si="103"/>
         <v/>
       </c>
-      <c r="I90" s="13" t="str">
+      <c r="H90" s="13" t="str">
         <f t="shared" si="104"/>
         <v/>
       </c>
-      <c r="J90" s="13" t="str">
+      <c r="I90" s="13" t="str">
         <f t="shared" si="105"/>
         <v/>
       </c>
-      <c r="K90" s="13" t="str">
+      <c r="J90" s="13" t="str">
         <f t="shared" si="106"/>
         <v/>
       </c>
-      <c r="L90" s="13" t="str">
+      <c r="K90" s="13" t="str">
         <f t="shared" si="107"/>
         <v/>
       </c>
-      <c r="M90" s="13" t="str">
+      <c r="L90" s="13" t="str">
         <f t="shared" si="108"/>
         <v/>
       </c>
-      <c r="N90" s="13" t="str">
+      <c r="M90" s="13" t="str">
         <f t="shared" si="109"/>
         <v/>
       </c>
-      <c r="O90" s="13">
+      <c r="N90" s="13" t="str">
         <f t="shared" si="110"/>
+        <v/>
+      </c>
+      <c r="O90" s="13">
+        <f t="shared" si="111"/>
         <v>1.2046674454681074E-2</v>
       </c>
       <c r="P90" s="13">
-        <f t="shared" si="111"/>
+        <f t="shared" si="112"/>
         <v>1.2046674454681088E-2</v>
       </c>
       <c r="Q90" s="13">
-        <f t="shared" si="112"/>
+        <f t="shared" si="113"/>
         <v>-2.4093348909362163E-2</v>
       </c>
       <c r="R90" s="13">
-        <f t="shared" si="113"/>
+        <f t="shared" si="114"/>
         <v>3.614002336404324E-2</v>
       </c>
       <c r="S90" s="13">
-        <f t="shared" si="114"/>
+        <f t="shared" si="115"/>
         <v>1.2046674454681057E-2</v>
       </c>
       <c r="T90" s="13">
-        <f t="shared" si="115"/>
+        <f t="shared" si="116"/>
         <v>-3.6140023364043192E-2</v>
       </c>
       <c r="U90" s="13">
-        <f t="shared" si="116"/>
+        <f t="shared" si="117"/>
         <v>-2.4093348909362211E-2</v>
       </c>
       <c r="V90" s="13">
-        <f t="shared" si="117"/>
+        <f t="shared" si="118"/>
         <v>1.2046674454681106E-2</v>
       </c>
       <c r="W90" s="13">
-        <f t="shared" si="118"/>
+        <f t="shared" si="119"/>
         <v>9.637339563744865E-2</v>
       </c>
       <c r="X90" s="13">
-        <f t="shared" si="119"/>
+        <f t="shared" si="120"/>
         <v>3.6140023364043206E-2</v>
       </c>
       <c r="Y90" s="13">
-        <f t="shared" si="120"/>
+        <f t="shared" si="121"/>
         <v>4.8186697818724339E-2</v>
       </c>
       <c r="Z90" s="13">
-        <f t="shared" si="121"/>
+        <f t="shared" si="122"/>
         <v>-7.2280046728086467E-2</v>
       </c>
       <c r="AA90" s="13">
-        <f t="shared" si="122"/>
+        <f t="shared" si="123"/>
         <v>0.26502683800298377</v>
       </c>
       <c r="AB90" s="13">
-        <f t="shared" si="123"/>
+        <f t="shared" si="124"/>
         <v>-3.6140023364043428E-2</v>
       </c>
       <c r="AC90" s="13">
-        <f t="shared" si="124"/>
+        <f t="shared" si="125"/>
         <v>8.432672118276785E-2</v>
       </c>
       <c r="AD90" s="13">
-        <f t="shared" si="125"/>
+        <f t="shared" si="126"/>
         <v>0.16865344236553503</v>
       </c>
       <c r="AE90" s="13">
-        <f t="shared" si="126"/>
+        <f t="shared" si="127"/>
         <v>7.2280046728086411E-2</v>
       </c>
       <c r="AF90" s="13">
-        <f t="shared" si="127"/>
+        <f t="shared" si="128"/>
         <v>0.20479346572957802</v>
       </c>
       <c r="AG90" s="13">
-        <f t="shared" si="128"/>
+        <f t="shared" si="129"/>
         <v>-9.6373395637447956E-2</v>
       </c>
       <c r="AH90" s="13">
-        <f t="shared" si="129"/>
+        <f t="shared" si="130"/>
         <v>2.4093348909361101E-2</v>
       </c>
       <c r="AI90" s="13">
-        <f t="shared" si="130"/>
+        <f t="shared" si="131"/>
         <v>0.74689381619022832</v>
       </c>
       <c r="AJ90" s="13">
-        <f t="shared" si="131"/>
+        <f t="shared" si="132"/>
         <v>0.25298016354830288</v>
       </c>
-      <c r="AK90" s="13" t="str">
+      <c r="AK90" s="13">
         <f t="shared" si="132"/>
-        <v/>
+        <v>-0.10842007009213095</v>
       </c>
       <c r="AL90" s="13" t="str">
         <f t="shared" si="133"/>

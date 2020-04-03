@@ -5,7 +5,7 @@
   <DocSecurity>0</DocSecurity>
   <ScaleCrop>false</ScaleCrop>
   <HeadingPairs>
-    <vt:vector size="4" baseType="variant">
+    <vt:vector size="6" baseType="variant">
       <vt:variant>
         <vt:lpstr>Arbeitsblätter</vt:lpstr>
       </vt:variant>
@@ -18,10 +18,16 @@
       <vt:variant>
         <vt:i4>15</vt:i4>
       </vt:variant>
+      <vt:variant>
+        <vt:lpstr>Benannte Bereiche</vt:lpstr>
+      </vt:variant>
+      <vt:variant>
+        <vt:i4>4</vt:i4>
+      </vt:variant>
     </vt:vector>
   </HeadingPairs>
   <TitlesOfParts>
-    <vt:vector size="19" baseType="lpstr">
+    <vt:vector size="23" baseType="lpstr">
       <vt:lpstr>RKI Zahlen</vt:lpstr>
       <vt:lpstr>Vorlage</vt:lpstr>
       <vt:lpstr>Hamburg</vt:lpstr>
@@ -41,6 +47,10 @@
       <vt:lpstr>ND-Infizierte-Abs</vt:lpstr>
       <vt:lpstr>ND-Ableitung</vt:lpstr>
       <vt:lpstr>ND-pro-Kopf</vt:lpstr>
+      <vt:lpstr>Hamburg!Druckbereich</vt:lpstr>
+      <vt:lpstr>Norddeutschland!Druckbereich</vt:lpstr>
+      <vt:lpstr>'RKI Zahlen'!Druckbereich</vt:lpstr>
+      <vt:lpstr>Vorlage!Druckbereich</vt:lpstr>
     </vt:vector>
   </TitlesOfParts>
   <Company/>

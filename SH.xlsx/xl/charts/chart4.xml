@@ -164,10 +164,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -270,6 +270,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -282,10 +285,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$2:$BJ$2</c:f>
+              <c:f>Kreise!$AC$2:$BK$2</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -388,6 +391,9 @@
                 <c:pt idx="33">
                   <c:v>29</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>31</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -488,10 +494,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -594,6 +600,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -606,10 +615,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$3:$BJ$3</c:f>
+              <c:f>Kreise!$AC$3:$BK$3</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -710,6 +719,9 @@
                   <c:v>25</c:v>
                 </c:pt>
                 <c:pt idx="33">
+                  <c:v>25</c:v>
+                </c:pt>
+                <c:pt idx="34">
                   <c:v>25</c:v>
                 </c:pt>
               </c:numCache>
@@ -812,10 +824,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -918,6 +930,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -930,10 +945,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$4:$BJ$4</c:f>
+              <c:f>Kreise!$AC$4:$BK$4</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -1036,6 +1051,9 @@
                 <c:pt idx="33">
                   <c:v>115</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>135</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -1136,10 +1154,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -1242,6 +1260,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -1254,10 +1275,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$5:$BJ$5</c:f>
+              <c:f>Kreise!$AC$5:$BK$5</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -1360,6 +1381,9 @@
                 <c:pt idx="33">
                   <c:v>136</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>146</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -1457,10 +1481,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -1563,6 +1587,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -1575,10 +1602,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$6:$BJ$6</c:f>
+              <c:f>Kreise!$AC$6:$BK$6</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>1</c:v>
                 </c:pt>
@@ -1681,6 +1708,9 @@
                 <c:pt idx="33">
                   <c:v>98</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>101</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -1781,10 +1811,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -1887,6 +1917,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -1899,10 +1932,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$7:$BJ$7</c:f>
+              <c:f>Kreise!$AC$7:$BK$7</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -2005,6 +2038,9 @@
                 <c:pt idx="33">
                   <c:v>25</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>29</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -2104,10 +2140,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -2210,6 +2246,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -2222,10 +2261,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$8:$BJ$8</c:f>
+              <c:f>Kreise!$AC$8:$BK$8</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -2328,6 +2367,9 @@
                 <c:pt idx="33">
                   <c:v>43</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>48</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -2427,10 +2469,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -2533,6 +2575,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -2545,10 +2590,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$9:$BJ$9</c:f>
+              <c:f>Kreise!$AC$9:$BK$9</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -2651,6 +2696,9 @@
                 <c:pt idx="33">
                   <c:v>43</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>47</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -2750,10 +2798,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -2856,6 +2904,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -2868,10 +2919,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$10:$BJ$10</c:f>
+              <c:f>Kreise!$AC$10:$BK$10</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -2974,6 +3025,9 @@
                 <c:pt idx="33">
                   <c:v>245</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>267</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -3073,10 +3127,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -3179,6 +3233,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -3191,10 +3248,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$11:$BJ$11</c:f>
+              <c:f>Kreise!$AC$11:$BK$11</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -3297,6 +3354,9 @@
                 <c:pt idx="33">
                   <c:v>64</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>68</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -3394,10 +3454,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -3500,6 +3560,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -3512,10 +3575,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$12:$BJ$12</c:f>
+              <c:f>Kreise!$AC$12:$BK$12</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -3618,6 +3681,9 @@
                 <c:pt idx="33">
                   <c:v>137</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>147</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -3717,10 +3783,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -3823,6 +3889,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -3835,10 +3904,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$13:$BJ$13</c:f>
+              <c:f>Kreise!$AC$13:$BK$13</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -3941,6 +4010,9 @@
                 <c:pt idx="33">
                   <c:v>81</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>90</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -4041,10 +4113,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -4147,6 +4219,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -4159,10 +4234,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$14:$BJ$14</c:f>
+              <c:f>Kreise!$AC$14:$BK$14</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>1</c:v>
                 </c:pt>
@@ -4264,6 +4339,9 @@
                 </c:pt>
                 <c:pt idx="33">
                   <c:v>109</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>119</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -4368,10 +4446,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -4474,6 +4552,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -4486,10 +4567,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$15:$BJ$15</c:f>
+              <c:f>Kreise!$AC$15:$BK$15</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -4591,6 +4672,9 @@
                 </c:pt>
                 <c:pt idx="33">
                   <c:v>51</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>53</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -4695,10 +4779,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BJ$1</c:f>
+              <c:f>Kreise!$AC$1:$BK$1</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>43889</c:v>
                 </c:pt>
@@ -4801,6 +4885,9 @@
                 <c:pt idx="33">
                   <c:v>43922</c:v>
                 </c:pt>
+                <c:pt idx="34">
+                  <c:v>43923</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -4813,10 +4900,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$16:$BJ$16</c:f>
+              <c:f>Kreise!$AC$16:$BK$16</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -4917,6 +5004,9 @@
                   <c:v>137</c:v>
                 </c:pt>
                 <c:pt idx="33">
+                  <c:v>142</c:v>
+                </c:pt>
+                <c:pt idx="34">
                   <c:v>142</c:v>
                 </c:pt>
               </c:numCache>
