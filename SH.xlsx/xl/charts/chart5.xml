@@ -3597,6 +3597,9 @@
               <c:f>Kreise!$BL$24</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
+                <c:pt idx="0">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
               </c:strCache>
             </c:strRef>
           </c:tx>
@@ -3680,8 +3683,53 @@
             <c:numRef>
               <c:f>Kreise!$BL$25:$BL$39</c:f>
               <c:numCache>
-                <c:formatCode>General</c:formatCode>
+                <c:formatCode>0.0</c:formatCode>
                 <c:ptCount val="15"/>
+                <c:pt idx="0">
+                  <c:v>27.77569251557691</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>30.166249553092598</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>74.519425744180396</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>63.422043401683716</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>47.422167791600288</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>37.742020707788697</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>29.001794486033823</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>25.426137071806401</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>95.422578890617103</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>55.967103780111465</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>57.923196773897907</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>46.494188226471692</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>48.545096220728034</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>40.351130973680405</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>64.968173818648339</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -3782,8 +3830,53 @@
             <c:numRef>
               <c:f>Kreise!$BM$25:$BM$39</c:f>
               <c:numCache>
-                <c:formatCode>General</c:formatCode>
+                <c:formatCode>0.0</c:formatCode>
                 <c:ptCount val="15"/>
+                <c:pt idx="0">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>0</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -3884,8 +3977,53 @@
             <c:numRef>
               <c:f>Kreise!$BN$25:$BN$39</c:f>
               <c:numCache>
-                <c:formatCode>General</c:formatCode>
+                <c:formatCode>0.0</c:formatCode>
                 <c:ptCount val="15"/>
+                <c:pt idx="0">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>0</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -3986,8 +4124,53 @@
             <c:numRef>
               <c:f>Kreise!$BO$25:$BO$39</c:f>
               <c:numCache>
-                <c:formatCode>General</c:formatCode>
+                <c:formatCode>0.0</c:formatCode>
                 <c:ptCount val="15"/>
+                <c:pt idx="0">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>0</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -4088,8 +4271,53 @@
             <c:numRef>
               <c:f>Kreise!$BP$25:$BP$39</c:f>
               <c:numCache>
-                <c:formatCode>General</c:formatCode>
+                <c:formatCode>0.0</c:formatCode>
                 <c:ptCount val="15"/>
+                <c:pt idx="0">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>0</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>

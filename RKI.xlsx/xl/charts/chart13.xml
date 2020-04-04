@@ -172,7 +172,7 @@
             <c:strRef>
               <c:f>Norddeutschland!$H$1:$AX$1</c:f>
               <c:strCache>
-                <c:ptCount val="30"/>
+                <c:ptCount val="31"/>
                 <c:pt idx="0">
                   <c:v>04.03.2020</c:v>
                 </c:pt>
@@ -262,6 +262,9 @@
                 </c:pt>
                 <c:pt idx="29">
                   <c:v>02.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="30">
+                  <c:v>03.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -363,7 +366,7 @@
                   <c:v>327</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>0</c:v>
+                  <c:v>341</c:v>
                 </c:pt>
                 <c:pt idx="31">
                   <c:v>0</c:v>
@@ -502,7 +505,7 @@
             <c:strRef>
               <c:f>Norddeutschland!$H$1:$AX$1</c:f>
               <c:strCache>
-                <c:ptCount val="30"/>
+                <c:ptCount val="31"/>
                 <c:pt idx="0">
                   <c:v>04.03.2020</c:v>
                 </c:pt>
@@ -592,6 +595,9 @@
                 </c:pt>
                 <c:pt idx="29">
                   <c:v>02.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="30">
+                  <c:v>03.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -693,7 +699,7 @@
                   <c:v>2406</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>0</c:v>
+                  <c:v>2596</c:v>
                 </c:pt>
                 <c:pt idx="31">
                   <c:v>0</c:v>
@@ -832,7 +838,7 @@
             <c:strRef>
               <c:f>Norddeutschland!$H$1:$AX$1</c:f>
               <c:strCache>
-                <c:ptCount val="30"/>
+                <c:ptCount val="31"/>
                 <c:pt idx="0">
                   <c:v>04.03.2020</c:v>
                 </c:pt>
@@ -922,6 +928,9 @@
                 </c:pt>
                 <c:pt idx="29">
                   <c:v>02.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="30">
+                  <c:v>03.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -1023,7 +1032,7 @@
                   <c:v>438</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>0</c:v>
+                  <c:v>468</c:v>
                 </c:pt>
                 <c:pt idx="31">
                   <c:v>0</c:v>
@@ -1162,7 +1171,7 @@
             <c:strRef>
               <c:f>Norddeutschland!$H$1:$AX$1</c:f>
               <c:strCache>
-                <c:ptCount val="30"/>
+                <c:ptCount val="31"/>
                 <c:pt idx="0">
                   <c:v>04.03.2020</c:v>
                 </c:pt>
@@ -1252,6 +1261,9 @@
                 </c:pt>
                 <c:pt idx="29">
                   <c:v>02.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="30">
+                  <c:v>03.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -1353,7 +1365,7 @@
                   <c:v>4695</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>0</c:v>
+                  <c:v>5081</c:v>
                 </c:pt>
                 <c:pt idx="31">
                   <c:v>0</c:v>
@@ -1492,7 +1504,7 @@
             <c:strRef>
               <c:f>Norddeutschland!$H$1:$AX$1</c:f>
               <c:strCache>
-                <c:ptCount val="30"/>
+                <c:ptCount val="31"/>
                 <c:pt idx="0">
                   <c:v>04.03.2020</c:v>
                 </c:pt>
@@ -1582,6 +1594,9 @@
                 </c:pt>
                 <c:pt idx="29">
                   <c:v>02.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="30">
+                  <c:v>03.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -1683,7 +1698,7 @@
                   <c:v>1335</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>0</c:v>
+                  <c:v>1443</c:v>
                 </c:pt>
                 <c:pt idx="31">
                   <c:v>0</c:v>

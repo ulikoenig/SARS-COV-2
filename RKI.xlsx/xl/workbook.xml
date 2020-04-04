@@ -7,9 +7,9 @@
       <x15ac:absPath xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac" url="C:\Users\ukoenig\Documents\2020\Corona\"/>
     </mc:Choice>
   </mc:AlternateContent>
-  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{0E81BD28-04D6-4795-894E-19B24BE91911}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{98CD65D7-211C-4080-A24A-61B6880C602E}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
   <bookViews>
-    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="703" firstSheet="1" activeTab="12" xr2:uid="{4D893619-35DB-45DF-852E-5C63736BD35E}"/>
+    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="703" xr2:uid="{4D893619-35DB-45DF-852E-5C63736BD35E}"/>
   </bookViews>
   <sheets>
     <sheet name="RKI Zahlen" sheetId="1" r:id="rId1"/>

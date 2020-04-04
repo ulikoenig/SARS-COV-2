@@ -156,7 +156,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -164,117 +164,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -285,10 +287,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$2:$BK$2</c:f>
+              <c:f>Kreise!$AC$2:$BL$2</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -394,6 +396,9 @@
                 <c:pt idx="34">
                   <c:v>31</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>37</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -486,7 +491,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -494,117 +499,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -615,10 +622,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$3:$BK$3</c:f>
+              <c:f>Kreise!$AC$3:$BL$3</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -724,6 +731,9 @@
                 <c:pt idx="34">
                   <c:v>25</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>27</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -816,7 +826,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -824,117 +834,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -945,10 +957,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$4:$BK$4</c:f>
+              <c:f>Kreise!$AC$4:$BL$4</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -1054,6 +1066,9 @@
                 <c:pt idx="34">
                   <c:v>135</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>147</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -1146,7 +1161,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -1154,117 +1169,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -1275,10 +1292,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$5:$BK$5</c:f>
+              <c:f>Kreise!$AC$5:$BL$5</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -1384,6 +1401,9 @@
                 <c:pt idx="34">
                   <c:v>146</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>157</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -1473,7 +1493,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -1481,117 +1501,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -1602,10 +1624,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$6:$BK$6</c:f>
+              <c:f>Kreise!$AC$6:$BL$6</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>1</c:v>
                 </c:pt>
@@ -1711,6 +1733,9 @@
                 <c:pt idx="34">
                   <c:v>101</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>103</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -1803,7 +1828,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -1811,117 +1836,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -1932,10 +1959,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$7:$BK$7</c:f>
+              <c:f>Kreise!$AC$7:$BL$7</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -2041,6 +2068,9 @@
                 <c:pt idx="34">
                   <c:v>29</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>30</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -2132,7 +2162,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -2140,117 +2170,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -2261,10 +2293,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$8:$BK$8</c:f>
+              <c:f>Kreise!$AC$8:$BL$8</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -2370,6 +2402,9 @@
                 <c:pt idx="34">
                   <c:v>48</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>48</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -2461,7 +2496,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -2469,117 +2504,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -2590,10 +2627,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$9:$BK$9</c:f>
+              <c:f>Kreise!$AC$9:$BL$9</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -2699,6 +2736,9 @@
                 <c:pt idx="34">
                   <c:v>47</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>51</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -2790,7 +2830,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -2798,117 +2838,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -2919,10 +2961,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$10:$BK$10</c:f>
+              <c:f>Kreise!$AC$10:$BL$10</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -3028,6 +3070,9 @@
                 <c:pt idx="34">
                   <c:v>267</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>300</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -3119,7 +3164,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -3127,117 +3172,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -3248,10 +3295,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$11:$BK$11</c:f>
+              <c:f>Kreise!$AC$11:$BL$11</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -3357,6 +3404,9 @@
                 <c:pt idx="34">
                   <c:v>68</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>72</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -3446,7 +3496,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -3454,117 +3504,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -3575,10 +3627,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$12:$BK$12</c:f>
+              <c:f>Kreise!$AC$12:$BL$12</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -3684,6 +3736,9 @@
                 <c:pt idx="34">
                   <c:v>147</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>158</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -3775,7 +3830,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -3783,117 +3838,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -3904,10 +3961,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$13:$BK$13</c:f>
+              <c:f>Kreise!$AC$13:$BL$13</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -4013,6 +4070,9 @@
                 <c:pt idx="34">
                   <c:v>90</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>93</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -4105,7 +4165,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -4113,117 +4173,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -4234,10 +4296,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$14:$BK$14</c:f>
+              <c:f>Kreise!$AC$14:$BL$14</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>1</c:v>
                 </c:pt>
@@ -4343,6 +4405,9 @@
                 <c:pt idx="34">
                   <c:v>119</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>134</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -4438,7 +4503,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -4446,117 +4511,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -4567,10 +4634,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$15:$BK$15</c:f>
+              <c:f>Kreise!$AC$15:$BL$15</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -4676,6 +4743,9 @@
                 <c:pt idx="34">
                   <c:v>53</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>53</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -4771,7 +4841,7 @@
             </c:extLst>
           </c:dLbls>
           <c:cat>
-            <c:numRef>
+            <c:strRef>
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
@@ -4779,117 +4849,119 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BK$1</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="35"/>
+              <c:f>Kreise!$AC$1:$BL$1</c:f>
+              <c:strCache>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
-                  <c:v>43889</c:v>
+                  <c:v>28.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43890</c:v>
+                  <c:v>29.02.2020</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43891</c:v>
+                  <c:v>01.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43892</c:v>
+                  <c:v>02.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43893</c:v>
+                  <c:v>03.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43894</c:v>
+                  <c:v>04.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43895</c:v>
+                  <c:v>05.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43896</c:v>
+                  <c:v>06.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43897</c:v>
+                  <c:v>07.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43898</c:v>
+                  <c:v>08.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43899</c:v>
+                  <c:v>09.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43900</c:v>
+                  <c:v>10.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43901</c:v>
+                  <c:v>11.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43902</c:v>
+                  <c:v>12.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43903</c:v>
+                  <c:v>13.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>43904</c:v>
+                  <c:v>14.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>43905</c:v>
+                  <c:v>15.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>43906</c:v>
+                  <c:v>16.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>43907</c:v>
+                  <c:v>17.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>43908</c:v>
+                  <c:v>18.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>43909</c:v>
+                  <c:v>19.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>43910</c:v>
+                  <c:v>20.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>43911</c:v>
+                  <c:v>21.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>43912</c:v>
+                  <c:v>22.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>43913</c:v>
+                  <c:v>23.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>43914</c:v>
+                  <c:v>24.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="26">
-                  <c:v>43915</c:v>
+                  <c:v>25.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="27">
-                  <c:v>43916</c:v>
+                  <c:v>26.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="28">
-                  <c:v>43917</c:v>
+                  <c:v>27.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="29">
-                  <c:v>43918</c:v>
+                  <c:v>28.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="30">
-                  <c:v>43919</c:v>
+                  <c:v>29.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="31">
-                  <c:v>43920</c:v>
+                  <c:v>30.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="32">
-                  <c:v>43921</c:v>
+                  <c:v>31.03.2020</c:v>
                 </c:pt>
                 <c:pt idx="33">
-                  <c:v>43922</c:v>
+                  <c:v>01.04.2020</c:v>
                 </c:pt>
                 <c:pt idx="34">
-                  <c:v>43923</c:v>
+                  <c:v>02.04.2020</c:v>
                 </c:pt>
-              </c:numCache>
-            </c:numRef>
+                <c:pt idx="35">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
           </c:cat>
           <c:val>
             <c:numRef>
@@ -4900,10 +4972,10 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$16:$BK$16</c:f>
+              <c:f>Kreise!$AC$16:$BL$16</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -5008,6 +5080,9 @@
                 </c:pt>
                 <c:pt idx="34">
                   <c:v>142</c:v>
+                </c:pt>
+                <c:pt idx="35">
+                  <c:v>158</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>

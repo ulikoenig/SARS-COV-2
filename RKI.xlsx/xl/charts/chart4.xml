@@ -4410,6 +4410,151 @@
             </c:ext>
           </c:extLst>
         </c:ser>
+        <c:ser>
+          <c:idx val="30"/>
+          <c:order val="30"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>'RKI Zahlen'!$AL$23</c:f>
+              <c:strCache>
+                <c:ptCount val="1"/>
+                <c:pt idx="0">
+                  <c:v>03.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:tx>
+          <c:spPr>
+            <a:solidFill>
+              <a:schemeClr val="accent1">
+                <a:lumMod val="50000"/>
+              </a:schemeClr>
+            </a:solidFill>
+            <a:ln>
+              <a:noFill/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+          <c:invertIfNegative val="0"/>
+          <c:cat>
+            <c:strRef>
+              <c:f>'RKI Zahlen'!$A$24:$G$39</c:f>
+              <c:strCache>
+                <c:ptCount val="16"/>
+                <c:pt idx="0">
+                  <c:v>Baden-Württemberg</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>Bayern</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>Berlin</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>Brandenburg</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>Bremen</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>Hamburg</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>Hessen</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>Mecklenburg-Vorpommern</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>Niedersachsen</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>Nordrhein-West­falen</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>Rhein­landPfalz</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>Saarland</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>Sachsen</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>Sachsen-Anhalt</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>Schleswig-Holstein</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>Thüringen</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>'RKI Zahlen'!$AL$24:$AL$39</c:f>
+              <c:numCache>
+                <c:formatCode>#,##0.0</c:formatCode>
+                <c:ptCount val="16"/>
+                <c:pt idx="0">
+                  <c:v>145.0738707766624</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>154.75592084590625</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>87.850558572617729</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>42.79600002707096</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>49.927816968429809</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>140.99661141040605</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>63.726806865641777</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>29.07419199527855</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>63.652152823294308</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>92.602036363725588</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>82.304244666381379</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>108.93389156484191</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>57.283866817952308</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>37.856815200326402</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>49.815100707284671</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>46.008396766668554</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:val>
+          <c:extLst>
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000000-7193-44E2-9C1E-9FC21BF81335}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
         <c:dLbls>
           <c:showLegendKey val="0"/>
           <c:showVal val="0"/>
