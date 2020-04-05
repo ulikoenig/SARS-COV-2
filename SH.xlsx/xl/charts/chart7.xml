@@ -389,7 +389,7 @@
                   <c:v>1292</c:v>
                 </c:pt>
                 <c:pt idx="36">
-                  <c:v>1247</c:v>
+                  <c:v>1309</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -620,7 +620,7 @@
                   <c:v>65</c:v>
                 </c:pt>
                 <c:pt idx="36">
-                  <c:v>65</c:v>
+                  <c:v>64</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -947,7 +947,7 @@
                   <c:v>153</c:v>
                 </c:pt>
                 <c:pt idx="36">
-                  <c:v>153</c:v>
+                  <c:v>162</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -1961,7 +1961,7 @@
                   <c:v>120</c:v>
                 </c:pt>
                 <c:pt idx="36">
-                  <c:v>0</c:v>
+                  <c:v>70</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -2300,7 +2300,7 @@
                   <c:v>15</c:v>
                 </c:pt>
                 <c:pt idx="36">
-                  <c:v>-120</c:v>
+                  <c:v>-50</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
