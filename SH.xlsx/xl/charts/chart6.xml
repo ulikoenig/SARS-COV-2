@@ -190,7 +190,7 @@
             <c:strRef>
               <c:f>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c:f>
               <c:strCache>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>28.02.2020</c:v>
                 </c:pt>
@@ -292,6 +292,9 @@
                 </c:pt>
                 <c:pt idx="33">
                   <c:v>03.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>04.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -405,7 +408,7 @@
                   <c:v>1568</c:v>
                 </c:pt>
                 <c:pt idx="34" formatCode="#,##0">
-                  <c:v>0</c:v>
+                  <c:v>1568</c:v>
                 </c:pt>
                 <c:pt idx="35" formatCode="#,##0">
                   <c:v>0</c:v>
@@ -552,7 +555,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -654,6 +657,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -772,6 +778,9 @@
                       <c:pt idx="33">
                         <c:v>37</c:v>
                       </c:pt>
+                      <c:pt idx="34">
+                        <c:v>37</c:v>
+                      </c:pt>
                     </c:numCache>
                   </c:numRef>
                 </c:val>
@@ -887,7 +896,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -895,7 +904,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -997,6 +1006,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -1115,6 +1127,9 @@
                       <c:pt idx="33">
                         <c:v>27</c:v>
                       </c:pt>
+                      <c:pt idx="34">
+                        <c:v>27</c:v>
+                      </c:pt>
                     </c:numCache>
                   </c:numRef>
                 </c:val>
@@ -1230,7 +1245,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -1238,7 +1253,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -1340,6 +1355,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -1458,6 +1476,9 @@
                       <c:pt idx="33">
                         <c:v>147</c:v>
                       </c:pt>
+                      <c:pt idx="34">
+                        <c:v>147</c:v>
+                      </c:pt>
                     </c:numCache>
                   </c:numRef>
                 </c:val>
@@ -1573,7 +1594,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -1581,7 +1602,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -1683,6 +1704,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -1801,6 +1825,9 @@
                       <c:pt idx="33">
                         <c:v>157</c:v>
                       </c:pt>
+                      <c:pt idx="34">
+                        <c:v>157</c:v>
+                      </c:pt>
                     </c:numCache>
                   </c:numRef>
                 </c:val>
@@ -1916,7 +1943,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -1924,7 +1951,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -2026,6 +2053,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -2144,6 +2174,9 @@
                       <c:pt idx="33">
                         <c:v>103</c:v>
                       </c:pt>
+                      <c:pt idx="34">
+                        <c:v>103</c:v>
+                      </c:pt>
                     </c:numCache>
                   </c:numRef>
                 </c:val>
@@ -2259,7 +2292,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -2267,7 +2300,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -2369,6 +2402,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -2485,6 +2521,9 @@
                         <c:v>29</c:v>
                       </c:pt>
                       <c:pt idx="33">
+                        <c:v>30</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
                         <c:v>30</c:v>
                       </c:pt>
                     </c:numCache>
@@ -2608,7 +2647,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -2616,7 +2655,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -2718,6 +2757,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -2834,6 +2876,9 @@
                         <c:v>48</c:v>
                       </c:pt>
                       <c:pt idx="33">
+                        <c:v>48</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
                         <c:v>48</c:v>
                       </c:pt>
                     </c:numCache>
@@ -2957,7 +3002,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -2965,7 +3010,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -3067,6 +3112,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -3183,6 +3231,9 @@
                         <c:v>47</c:v>
                       </c:pt>
                       <c:pt idx="33">
+                        <c:v>51</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
                         <c:v>51</c:v>
                       </c:pt>
                     </c:numCache>
@@ -3306,7 +3357,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -3314,7 +3365,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -3416,6 +3467,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -3532,6 +3586,9 @@
                         <c:v>267</c:v>
                       </c:pt>
                       <c:pt idx="33">
+                        <c:v>300</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
                         <c:v>300</c:v>
                       </c:pt>
                     </c:numCache>
@@ -3655,7 +3712,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -3663,7 +3720,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -3765,6 +3822,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -3881,6 +3941,9 @@
                         <c:v>68</c:v>
                       </c:pt>
                       <c:pt idx="33">
+                        <c:v>72</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
                         <c:v>72</c:v>
                       </c:pt>
                     </c:numCache>
@@ -4004,7 +4067,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -4012,7 +4075,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -4114,6 +4177,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -4230,6 +4296,9 @@
                         <c:v>147</c:v>
                       </c:pt>
                       <c:pt idx="33">
+                        <c:v>158</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
                         <c:v>158</c:v>
                       </c:pt>
                     </c:numCache>
@@ -4353,7 +4422,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -4361,7 +4430,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -4463,6 +4532,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -4579,6 +4651,9 @@
                         <c:v>90</c:v>
                       </c:pt>
                       <c:pt idx="33">
+                        <c:v>93</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
                         <c:v>93</c:v>
                       </c:pt>
                     </c:numCache>
@@ -4705,7 +4780,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -4713,7 +4788,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -4815,6 +4890,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -4931,6 +5009,9 @@
                         <c:v>119</c:v>
                       </c:pt>
                       <c:pt idx="33">
+                        <c:v>134</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
                         <c:v>134</c:v>
                       </c:pt>
                     </c:numCache>
@@ -5057,7 +5138,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -5065,7 +5146,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -5167,6 +5248,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -5283,6 +5367,9 @@
                         <c:v>53</c:v>
                       </c:pt>
                       <c:pt idx="33">
+                        <c:v>53</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
                         <c:v>53</c:v>
                       </c:pt>
                     </c:numCache>
@@ -5409,7 +5496,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c15:sqref>
@@ -5417,7 +5504,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="34"/>
+                      <c:ptCount val="35"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -5519,6 +5606,9 @@
                       </c:pt>
                       <c:pt idx="33">
                         <c:v>03.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
+                        <c:v>04.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -5635,6 +5725,9 @@
                         <c:v>142</c:v>
                       </c:pt>
                       <c:pt idx="33">
+                        <c:v>158</c:v>
+                      </c:pt>
+                      <c:pt idx="34">
                         <c:v>158</c:v>
                       </c:pt>
                     </c:numCache>
@@ -5762,7 +5855,7 @@
             <c:strRef>
               <c:f>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c:f>
               <c:strCache>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>28.02.2020</c:v>
                 </c:pt>
@@ -5864,6 +5957,9 @@
                 </c:pt>
                 <c:pt idx="33">
                   <c:v>03.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>04.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -6106,7 +6202,7 @@
             <c:strRef>
               <c:f>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c:f>
               <c:strCache>
-                <c:ptCount val="34"/>
+                <c:ptCount val="35"/>
                 <c:pt idx="0">
                   <c:v>28.02.2020</c:v>
                 </c:pt>
@@ -6208,6 +6304,9 @@
                 </c:pt>
                 <c:pt idx="33">
                   <c:v>03.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="34">
+                  <c:v>04.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -6321,7 +6420,7 @@
                   <c:v>15</c:v>
                 </c:pt>
                 <c:pt idx="34" formatCode="#,##0">
-                  <c:v>0</c:v>
+                  <c:v>-120</c:v>
                 </c:pt>
                 <c:pt idx="35" formatCode="#,##0">
                   <c:v>0</c:v>
