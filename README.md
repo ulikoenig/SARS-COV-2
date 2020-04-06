@@ -22,3 +22,10 @@ Enthält die Zahlen des Robert Koch Instituts, jeweils aus dem Tagesbericht von 
 
 # SH.xlsx
 Enthält die Zahlen der Staatskanzlei aus Schleswig-Holstein. https://www.schleswig-holstein.de/DE/Landesregierung/I/Presse/_documents/Corona-Liste_Kreise.html
+
+# RKI-CSV.csv
+Die Daten sind die „Fallzahlen in Deutschland“ des Robert Koch-Institut (RKI) und stehen unter der Open Data Datenlizenz Deutschland – Namensnennung – Version 2.0 zur Verfügung. 
+
+Quellenvermerk: Robert Koch-Institut (RKI), dl-de/by-2-0
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html
+ 
