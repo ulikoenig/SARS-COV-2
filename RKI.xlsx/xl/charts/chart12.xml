@@ -19,11 +19,11 @@
           <a:lstStyle/>
           <a:p>
             <a:pPr>
-              <a:defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" kern="1200" spc="0" baseline="0">
+              <a:defRPr sz="1800" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
                 <a:solidFill>
-                  <a:schemeClr val="tx1">
-                    <a:lumMod val="65000"/>
-                    <a:lumOff val="35000"/>
+                  <a:schemeClr val="dk1">
+                    <a:lumMod val="75000"/>
+                    <a:lumOff val="25000"/>
                   </a:schemeClr>
                 </a:solidFill>
                 <a:latin typeface="+mn-lt"/>
@@ -51,11 +51,11 @@
         <a:lstStyle/>
         <a:p>
           <a:pPr>
-            <a:defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" kern="1200" spc="0" baseline="0">
+            <a:defRPr sz="1800" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
               <a:solidFill>
-                <a:schemeClr val="tx1">
-                  <a:lumMod val="65000"/>
-                  <a:lumOff val="35000"/>
+                <a:schemeClr val="dk1">
+                  <a:lumMod val="75000"/>
+                  <a:lumOff val="25000"/>
                 </a:schemeClr>
               </a:solidFill>
               <a:latin typeface="+mn-lt"/>
@@ -70,274 +70,27 @@
     <c:autoTitleDeleted val="0"/>
     <c:plotArea>
       <c:layout/>
-      <c:barChart>
-        <c:barDir val="col"/>
-        <c:grouping val="clustered"/>
+      <c:lineChart>
+        <c:grouping val="standard"/>
         <c:varyColors val="0"/>
         <c:ser>
           <c:idx val="0"/>
           <c:order val="0"/>
           <c:tx>
             <c:strRef>
-              <c:f>Norddeutschland!$A$32:$W$32</c:f>
+              <c:f>Norddeutschland!$A$26:$T$26</c:f>
               <c:strCache>
-                <c:ptCount val="23"/>
+                <c:ptCount val="20"/>
                 <c:pt idx="0">
-                  <c:v>Norddeutschland</c:v>
+                  <c:v>Bremen</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
           </c:tx>
           <c:spPr>
-            <a:solidFill>
-              <a:schemeClr val="accent1"/>
-            </a:solidFill>
-            <a:ln>
-              <a:noFill/>
-            </a:ln>
-            <a:effectLst/>
-          </c:spPr>
-          <c:invertIfNegative val="0"/>
-          <c:dLbls>
-            <c:spPr>
-              <a:noFill/>
-              <a:ln>
-                <a:noFill/>
-              </a:ln>
-              <a:effectLst/>
-            </c:spPr>
-            <c:txPr>
-              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
-                <a:spAutoFit/>
-              </a:bodyPr>
-              <a:lstStyle/>
-              <a:p>
-                <a:pPr>
-                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
-                    <a:solidFill>
-                      <a:schemeClr val="tx1">
-                        <a:lumMod val="75000"/>
-                        <a:lumOff val="25000"/>
-                      </a:schemeClr>
-                    </a:solidFill>
-                    <a:latin typeface="+mn-lt"/>
-                    <a:ea typeface="+mn-ea"/>
-                    <a:cs typeface="+mn-cs"/>
-                  </a:defRPr>
-                </a:pPr>
-                <a:endParaRPr lang="de-DE"/>
-              </a:p>
-            </c:txPr>
-            <c:showLegendKey val="0"/>
-            <c:showVal val="1"/>
-            <c:showCatName val="0"/>
-            <c:showSerName val="0"/>
-            <c:showPercent val="0"/>
-            <c:showBubbleSize val="0"/>
-            <c:showLeaderLines val="0"/>
-            <c:extLst>
-              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
-                <c15:showLeaderLines val="1"/>
-                <c15:leaderLines>
-                  <c:spPr>
-                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
-                      <a:solidFill>
-                        <a:schemeClr val="tx1">
-                          <a:lumMod val="35000"/>
-                          <a:lumOff val="65000"/>
-                        </a:schemeClr>
-                      </a:solidFill>
-                      <a:round/>
-                    </a:ln>
-                    <a:effectLst/>
-                  </c:spPr>
-                </c15:leaderLines>
-              </c:ext>
-            </c:extLst>
-          </c:dLbls>
-          <c:cat>
-            <c:numRef>
-              <c:f>Norddeutschland!$X$31:$AW$31</c:f>
-              <c:numCache>
-                <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="26"/>
-                <c:pt idx="0">
-                  <c:v>43910</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>43911</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>43912</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>43913</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>43914</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>43915</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>43916</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>43917</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>43918</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>43919</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>43920</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>43921</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>43922</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>43923</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>43924</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>43925</c:v>
-                </c:pt>
-              </c:numCache>
-            </c:numRef>
-          </c:cat>
-          <c:val>
-            <c:numRef>
-              <c:f>Norddeutschland!$X$32:$AW$32</c:f>
-              <c:numCache>
-                <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="26"/>
-                <c:pt idx="0">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>5</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>8</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>10</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>12</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>17</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>20</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>34</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>41</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>57</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>74</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>79</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>106</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>129</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="17">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="18">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="19">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="20">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="21">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="22">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="23">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="24">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="25">
-                  <c:v>0</c:v>
-                </c:pt>
-              </c:numCache>
-            </c:numRef>
-          </c:val>
-          <c:extLst>
-            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000000-AC77-4500-AF6F-BD6EE78FA121}"/>
-            </c:ext>
-          </c:extLst>
-        </c:ser>
-        <c:dLbls>
-          <c:showLegendKey val="0"/>
-          <c:showVal val="1"/>
-          <c:showCatName val="0"/>
-          <c:showSerName val="0"/>
-          <c:showPercent val="0"/>
-          <c:showBubbleSize val="0"/>
-        </c:dLbls>
-        <c:gapWidth val="150"/>
-        <c:axId val="2112956064"/>
-        <c:axId val="1989003952"/>
-      </c:barChart>
-      <c:lineChart>
-        <c:grouping val="standard"/>
-        <c:varyColors val="0"/>
-        <c:ser>
-          <c:idx val="1"/>
-          <c:order val="1"/>
-          <c:tx>
-            <c:strRef>
-              <c:f>Norddeutschland!$A$33:$W$33</c:f>
-              <c:strCache>
-                <c:ptCount val="23"/>
-                <c:pt idx="0">
-                  <c:v>1. Ableitung</c:v>
-                </c:pt>
-              </c:strCache>
-            </c:strRef>
-          </c:tx>
-          <c:spPr>
-            <a:ln w="28575" cap="rnd">
+            <a:ln w="31750" cap="rnd">
               <a:solidFill>
-                <a:schemeClr val="accent2"/>
+                <a:schemeClr val="accent6"/>
               </a:solidFill>
               <a:round/>
             </a:ln>
@@ -345,14 +98,14 @@
           </c:spPr>
           <c:marker>
             <c:symbol val="circle"/>
-            <c:size val="5"/>
+            <c:size val="17"/>
             <c:spPr>
               <a:solidFill>
-                <a:schemeClr val="accent2"/>
+                <a:schemeClr val="accent6"/>
               </a:solidFill>
-              <a:ln w="9525">
+              <a:ln>
                 <a:solidFill>
-                  <a:schemeClr val="accent2"/>
+                  <a:schemeClr val="accent6"/>
                 </a:solidFill>
               </a:ln>
               <a:effectLst/>
@@ -373,12 +126,9 @@
               <a:lstStyle/>
               <a:p>
                 <a:pPr>
-                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                  <a:defRPr sz="900" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
                     <a:solidFill>
-                      <a:schemeClr val="tx1">
-                        <a:lumMod val="75000"/>
-                        <a:lumOff val="25000"/>
-                      </a:schemeClr>
+                      <a:schemeClr val="lt1"/>
                     </a:solidFill>
                     <a:latin typeface="+mn-lt"/>
                     <a:ea typeface="+mn-ea"/>
@@ -388,6 +138,7 @@
                 <a:endParaRPr lang="de-DE"/>
               </a:p>
             </c:txPr>
+            <c:dLblPos val="ctr"/>
             <c:showLegendKey val="0"/>
             <c:showVal val="1"/>
             <c:showCatName val="0"/>
@@ -400,14 +151,13 @@
                 <c15:showLeaderLines val="1"/>
                 <c15:leaderLines>
                   <c:spPr>
-                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                    <a:ln w="9525">
                       <a:solidFill>
-                        <a:schemeClr val="tx1">
-                          <a:lumMod val="35000"/>
-                          <a:lumOff val="65000"/>
+                        <a:schemeClr val="dk1">
+                          <a:lumMod val="50000"/>
+                          <a:lumOff val="50000"/>
                         </a:schemeClr>
                       </a:solidFill>
-                      <a:round/>
                     </a:ln>
                     <a:effectLst/>
                   </c:spPr>
@@ -417,56 +167,65 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Norddeutschland!$X$31:$AW$31</c:f>
+              <c:f>Norddeutschland!$U$25:$AW$25</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="26"/>
+                <c:ptCount val="29"/>
                 <c:pt idx="0">
-                  <c:v>43910</c:v>
+                  <c:v>43907</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43911</c:v>
+                  <c:v>43908</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43912</c:v>
+                  <c:v>43909</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43913</c:v>
+                  <c:v>43910</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43914</c:v>
+                  <c:v>43911</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43915</c:v>
+                  <c:v>43912</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43916</c:v>
+                  <c:v>43913</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43917</c:v>
+                  <c:v>43914</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43918</c:v>
+                  <c:v>43915</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43919</c:v>
+                  <c:v>43916</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43920</c:v>
+                  <c:v>43917</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43921</c:v>
+                  <c:v>43918</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43922</c:v>
+                  <c:v>43919</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43923</c:v>
+                  <c:v>43920</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43924</c:v>
+                  <c:v>43921</c:v>
                 </c:pt>
                 <c:pt idx="15">
+                  <c:v>43922</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>43923</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>43924</c:v>
+                </c:pt>
+                <c:pt idx="18">
                   <c:v>43925</c:v>
                 </c:pt>
               </c:numCache>
@@ -474,10 +233,10 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Norddeutschland!$X$33:$AW$33</c:f>
+              <c:f>Norddeutschland!$U$26:$AW$26</c:f>
               <c:numCache>
-                <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="26"/>
+                <c:formatCode>General</c:formatCode>
+                <c:ptCount val="29"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -485,55 +244,55 @@
                   <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>1</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>3</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>3</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>2</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>2</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>5</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>3</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>14</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>7</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>16</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>17</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>5</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>27</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>23</c:v>
+                  <c:v>5</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>0</c:v>
+                  <c:v>6</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>0</c:v>
+                  <c:v>6</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>0</c:v>
+                  <c:v>6</c:v>
                 </c:pt>
                 <c:pt idx="19">
                   <c:v>0</c:v>
@@ -556,13 +315,281 @@
                 <c:pt idx="25">
                   <c:v>0</c:v>
                 </c:pt>
+                <c:pt idx="26">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="27">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="28">
+                  <c:v>0</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:smooth val="0"/>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000001-AC77-4500-AF6F-BD6EE78FA121}"/>
+              <c16:uniqueId val="{00000000-81ED-4179-8739-0FF5010B7D9D}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
+        <c:ser>
+          <c:idx val="1"/>
+          <c:order val="1"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>Norddeutschland!$A$27:$T$27</c:f>
+              <c:strCache>
+                <c:ptCount val="20"/>
+                <c:pt idx="0">
+                  <c:v>Hamburg</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:tx>
+          <c:spPr>
+            <a:ln w="31750" cap="rnd">
+              <a:solidFill>
+                <a:srgbClr val="FF0000"/>
+              </a:solidFill>
+              <a:round/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+          <c:marker>
+            <c:symbol val="circle"/>
+            <c:size val="17"/>
+            <c:spPr>
+              <a:solidFill>
+                <a:srgbClr val="FF0000"/>
+              </a:solidFill>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+          </c:marker>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:txPr>
+              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+                <a:spAutoFit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr>
+                  <a:defRPr sz="900" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                    <a:solidFill>
+                      <a:schemeClr val="lt1"/>
+                    </a:solidFill>
+                    <a:latin typeface="+mn-lt"/>
+                    <a:ea typeface="+mn-ea"/>
+                    <a:cs typeface="+mn-cs"/>
+                  </a:defRPr>
+                </a:pPr>
+                <a:endParaRPr lang="de-DE"/>
+              </a:p>
+            </c:txPr>
+            <c:dLblPos val="ctr"/>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst>
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+                <c15:leaderLines>
+                  <c:spPr>
+                    <a:ln w="9525">
+                      <a:solidFill>
+                        <a:schemeClr val="dk1">
+                          <a:lumMod val="50000"/>
+                          <a:lumOff val="50000"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                    </a:ln>
+                    <a:effectLst/>
+                  </c:spPr>
+                </c15:leaderLines>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
+          <c:cat>
+            <c:numRef>
+              <c:f>Norddeutschland!$U$25:$AW$25</c:f>
+              <c:numCache>
+                <c:formatCode>m/d/yyyy</c:formatCode>
+                <c:ptCount val="29"/>
+                <c:pt idx="0">
+                  <c:v>43907</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>43908</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>43909</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>43910</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>43911</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>43912</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>43913</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>43914</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>43915</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>43916</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>43917</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>43918</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>43919</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>43920</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>43921</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>43922</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>43923</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>43924</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>43925</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>Norddeutschland!$U$27:$AW$27</c:f>
+              <c:numCache>
+                <c:formatCode>General</c:formatCode>
+                <c:ptCount val="29"/>
+                <c:pt idx="0">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>2</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>2</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>4</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>5</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>9</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>14</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>14</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>16</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>16</c:v>
+                </c:pt>
+                <c:pt idx="19">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="20">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="21">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="22">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="23">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="25">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="26">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="27">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="28">
+                  <c:v>0</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:val>
+          <c:smooth val="0"/>
+          <c:extLst>
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000001-81ED-4179-8739-0FF5010B7D9D}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -571,17 +598,17 @@
           <c:order val="2"/>
           <c:tx>
             <c:strRef>
-              <c:f>Norddeutschland!$A$34:$W$34</c:f>
+              <c:f>Norddeutschland!$A$28:$T$28</c:f>
               <c:strCache>
-                <c:ptCount val="23"/>
+                <c:ptCount val="20"/>
                 <c:pt idx="0">
-                  <c:v>2. Ableitung</c:v>
+                  <c:v>Mecklenburg-Vorpommern</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
           </c:tx>
           <c:spPr>
-            <a:ln w="28575" cap="rnd">
+            <a:ln w="31750" cap="rnd">
               <a:solidFill>
                 <a:schemeClr val="accent3"/>
               </a:solidFill>
@@ -591,15 +618,13 @@
           </c:spPr>
           <c:marker>
             <c:symbol val="circle"/>
-            <c:size val="5"/>
+            <c:size val="17"/>
             <c:spPr>
               <a:solidFill>
                 <a:schemeClr val="accent3"/>
               </a:solidFill>
-              <a:ln w="9525">
-                <a:solidFill>
-                  <a:schemeClr val="accent3"/>
-                </a:solidFill>
+              <a:ln>
+                <a:noFill/>
               </a:ln>
               <a:effectLst/>
             </c:spPr>
@@ -619,12 +644,9 @@
               <a:lstStyle/>
               <a:p>
                 <a:pPr>
-                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                  <a:defRPr sz="900" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
                     <a:solidFill>
-                      <a:schemeClr val="tx1">
-                        <a:lumMod val="75000"/>
-                        <a:lumOff val="25000"/>
-                      </a:schemeClr>
+                      <a:schemeClr val="lt1"/>
                     </a:solidFill>
                     <a:latin typeface="+mn-lt"/>
                     <a:ea typeface="+mn-ea"/>
@@ -634,6 +656,7 @@
                 <a:endParaRPr lang="de-DE"/>
               </a:p>
             </c:txPr>
+            <c:dLblPos val="ctr"/>
             <c:showLegendKey val="0"/>
             <c:showVal val="1"/>
             <c:showCatName val="0"/>
@@ -646,14 +669,13 @@
                 <c15:showLeaderLines val="1"/>
                 <c15:leaderLines>
                   <c:spPr>
-                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                    <a:ln w="9525">
                       <a:solidFill>
-                        <a:schemeClr val="tx1">
-                          <a:lumMod val="35000"/>
-                          <a:lumOff val="65000"/>
+                        <a:schemeClr val="dk1">
+                          <a:lumMod val="50000"/>
+                          <a:lumOff val="50000"/>
                         </a:schemeClr>
                       </a:solidFill>
-                      <a:round/>
                     </a:ln>
                     <a:effectLst/>
                   </c:spPr>
@@ -663,56 +685,65 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Norddeutschland!$X$31:$AW$31</c:f>
+              <c:f>Norddeutschland!$U$25:$AW$25</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="26"/>
+                <c:ptCount val="29"/>
                 <c:pt idx="0">
-                  <c:v>43910</c:v>
+                  <c:v>43907</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>43911</c:v>
+                  <c:v>43908</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>43912</c:v>
+                  <c:v>43909</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>43913</c:v>
+                  <c:v>43910</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>43914</c:v>
+                  <c:v>43911</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>43915</c:v>
+                  <c:v>43912</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>43916</c:v>
+                  <c:v>43913</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>43917</c:v>
+                  <c:v>43914</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>43918</c:v>
+                  <c:v>43915</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>43919</c:v>
+                  <c:v>43916</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>43920</c:v>
+                  <c:v>43917</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>43921</c:v>
+                  <c:v>43918</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>43922</c:v>
+                  <c:v>43919</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>43923</c:v>
+                  <c:v>43920</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>43924</c:v>
+                  <c:v>43921</c:v>
                 </c:pt>
                 <c:pt idx="15">
+                  <c:v>43922</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>43923</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>43924</c:v>
+                </c:pt>
+                <c:pt idx="18">
                   <c:v>43925</c:v>
                 </c:pt>
               </c:numCache>
@@ -720,10 +751,10 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Norddeutschland!$X$34:$AW$34</c:f>
+              <c:f>Norddeutschland!$U$28:$AW$28</c:f>
               <c:numCache>
-                <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="26"/>
+                <c:formatCode>General</c:formatCode>
+                <c:ptCount val="29"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -731,55 +762,55 @@
                   <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>1</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>2</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="4">
                   <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>-1</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="6">
                   <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>3</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>-2</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>11</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>-7</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>9</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="12">
                   <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>-12</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>22</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>-4</c:v>
+                  <c:v>3</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>0</c:v>
+                  <c:v>3</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>0</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>0</c:v>
+                  <c:v>5</c:v>
                 </c:pt>
                 <c:pt idx="19">
                   <c:v>0</c:v>
@@ -802,17 +833,545 @@
                 <c:pt idx="25">
                   <c:v>0</c:v>
                 </c:pt>
+                <c:pt idx="26">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="27">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="28">
+                  <c:v>0</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
           <c:smooth val="0"/>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000002-AC77-4500-AF6F-BD6EE78FA121}"/>
+              <c16:uniqueId val="{00000002-81ED-4179-8739-0FF5010B7D9D}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
+        <c:ser>
+          <c:idx val="3"/>
+          <c:order val="3"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>Norddeutschland!$A$29:$T$29</c:f>
+              <c:strCache>
+                <c:ptCount val="20"/>
+                <c:pt idx="0">
+                  <c:v>Niedersachsen</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:tx>
+          <c:spPr>
+            <a:ln w="31750" cap="rnd">
+              <a:solidFill>
+                <a:schemeClr val="accent4"/>
+              </a:solidFill>
+              <a:round/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+          <c:marker>
+            <c:symbol val="circle"/>
+            <c:size val="17"/>
+            <c:spPr>
+              <a:solidFill>
+                <a:schemeClr val="accent4"/>
+              </a:solidFill>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+          </c:marker>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:txPr>
+              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+                <a:spAutoFit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr>
+                  <a:defRPr sz="900" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                    <a:solidFill>
+                      <a:schemeClr val="lt1"/>
+                    </a:solidFill>
+                    <a:latin typeface="+mn-lt"/>
+                    <a:ea typeface="+mn-ea"/>
+                    <a:cs typeface="+mn-cs"/>
+                  </a:defRPr>
+                </a:pPr>
+                <a:endParaRPr lang="de-DE"/>
+              </a:p>
+            </c:txPr>
+            <c:dLblPos val="ctr"/>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst>
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+                <c15:leaderLines>
+                  <c:spPr>
+                    <a:ln w="9525">
+                      <a:solidFill>
+                        <a:schemeClr val="dk1">
+                          <a:lumMod val="50000"/>
+                          <a:lumOff val="50000"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                    </a:ln>
+                    <a:effectLst/>
+                  </c:spPr>
+                </c15:leaderLines>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
+          <c:cat>
+            <c:numRef>
+              <c:f>Norddeutschland!$U$25:$AW$25</c:f>
+              <c:numCache>
+                <c:formatCode>m/d/yyyy</c:formatCode>
+                <c:ptCount val="29"/>
+                <c:pt idx="0">
+                  <c:v>43907</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>43908</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>43909</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>43910</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>43911</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>43912</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>43913</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>43914</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>43915</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>43916</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>43917</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>43918</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>43919</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>43920</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>43921</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>43922</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>43923</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>43924</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>43925</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>Norddeutschland!$U$29:$AW$29</c:f>
+              <c:numCache>
+                <c:formatCode>General</c:formatCode>
+                <c:ptCount val="29"/>
+                <c:pt idx="0">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>1</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>4</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>6</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>7</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>8</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>10</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>12</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>21</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>26</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>34</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>42</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>45</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>65</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>85</c:v>
+                </c:pt>
+                <c:pt idx="19">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="20">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="21">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="22">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="23">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="25">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="26">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="27">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="28">
+                  <c:v>0</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:val>
+          <c:smooth val="0"/>
+          <c:extLst>
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000003-81ED-4179-8739-0FF5010B7D9D}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
+        <c:ser>
+          <c:idx val="4"/>
+          <c:order val="4"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>Norddeutschland!$A$30:$T$30</c:f>
+              <c:strCache>
+                <c:ptCount val="20"/>
+                <c:pt idx="0">
+                  <c:v>Schleswig-Holstein</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:tx>
+          <c:spPr>
+            <a:ln w="31750" cap="rnd">
+              <a:solidFill>
+                <a:schemeClr val="accent5"/>
+              </a:solidFill>
+              <a:round/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+          <c:marker>
+            <c:symbol val="circle"/>
+            <c:size val="17"/>
+            <c:spPr>
+              <a:solidFill>
+                <a:schemeClr val="accent5"/>
+              </a:solidFill>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+          </c:marker>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:txPr>
+              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+                <a:spAutoFit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr>
+                  <a:defRPr sz="900" b="1" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                    <a:solidFill>
+                      <a:schemeClr val="lt1"/>
+                    </a:solidFill>
+                    <a:latin typeface="+mn-lt"/>
+                    <a:ea typeface="+mn-ea"/>
+                    <a:cs typeface="+mn-cs"/>
+                  </a:defRPr>
+                </a:pPr>
+                <a:endParaRPr lang="de-DE"/>
+              </a:p>
+            </c:txPr>
+            <c:dLblPos val="ctr"/>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst>
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+                <c15:leaderLines>
+                  <c:spPr>
+                    <a:ln w="9525">
+                      <a:solidFill>
+                        <a:schemeClr val="dk1">
+                          <a:lumMod val="50000"/>
+                          <a:lumOff val="50000"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                    </a:ln>
+                    <a:effectLst/>
+                  </c:spPr>
+                </c15:leaderLines>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
+          <c:cat>
+            <c:numRef>
+              <c:f>Norddeutschland!$U$25:$AW$25</c:f>
+              <c:numCache>
+                <c:formatCode>m/d/yyyy</c:formatCode>
+                <c:ptCount val="29"/>
+                <c:pt idx="0">
+                  <c:v>43907</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>43908</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>43909</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>43910</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>43911</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>43912</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>43913</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>43914</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>43915</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>43916</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>43917</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>43918</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>43919</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>43920</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>43921</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>43922</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>43923</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>43924</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>43925</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>Norddeutschland!$U$30:$AW$30</c:f>
+              <c:numCache>
+                <c:formatCode>General</c:formatCode>
+                <c:ptCount val="29"/>
+                <c:pt idx="0">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>1</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>1</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>1</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>1</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>2</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>3</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>3</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>4</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>4</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>6</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>7</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>9</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>10</c:v>
+                </c:pt>
+                <c:pt idx="16">
+                  <c:v>11</c:v>
+                </c:pt>
+                <c:pt idx="17">
+                  <c:v>15</c:v>
+                </c:pt>
+                <c:pt idx="18">
+                  <c:v>17</c:v>
+                </c:pt>
+                <c:pt idx="19">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="20">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="21">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="22">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="23">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="25">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="26">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="27">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="28">
+                  <c:v>0</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:val>
+          <c:smooth val="0"/>
+          <c:extLst>
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000004-81ED-4179-8739-0FF5010B7D9D}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
         <c:dLbls>
+          <c:dLblPos val="ctr"/>
           <c:showLegendKey val="0"/>
           <c:showVal val="1"/>
           <c:showCatName val="0"/>
@@ -822,11 +1381,11 @@
         </c:dLbls>
         <c:marker val="1"/>
         <c:smooth val="0"/>
-        <c:axId val="2113072864"/>
-        <c:axId val="1988998544"/>
+        <c:axId val="2113142064"/>
+        <c:axId val="1989005616"/>
       </c:lineChart>
       <c:dateAx>
-        <c:axId val="2112956064"/>
+        <c:axId val="2113142064"/>
         <c:scaling>
           <c:orientation val="minMax"/>
         </c:scaling>
@@ -838,11 +1397,11 @@
         <c:tickLblPos val="nextTo"/>
         <c:spPr>
           <a:noFill/>
-          <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+          <a:ln w="19050" cap="flat" cmpd="sng" algn="ctr">
             <a:solidFill>
-              <a:schemeClr val="tx1">
-                <a:lumMod val="15000"/>
-                <a:lumOff val="85000"/>
+              <a:schemeClr val="dk1">
+                <a:lumMod val="75000"/>
+                <a:lumOff val="25000"/>
               </a:schemeClr>
             </a:solidFill>
             <a:round/>
@@ -854,11 +1413,11 @@
           <a:lstStyle/>
           <a:p>
             <a:pPr>
-              <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+              <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" cap="all" baseline="0">
                 <a:solidFill>
-                  <a:schemeClr val="tx1">
-                    <a:lumMod val="65000"/>
-                    <a:lumOff val="35000"/>
+                  <a:schemeClr val="dk1">
+                    <a:lumMod val="75000"/>
+                    <a:lumOff val="25000"/>
                   </a:schemeClr>
                 </a:solidFill>
                 <a:latin typeface="+mn-lt"/>
@@ -869,127 +1428,53 @@
             <a:endParaRPr lang="de-DE"/>
           </a:p>
         </c:txPr>
-        <c:crossAx val="1989003952"/>
+        <c:crossAx val="1989005616"/>
         <c:crosses val="autoZero"/>
         <c:auto val="1"/>
         <c:lblOffset val="100"/>
         <c:baseTimeUnit val="days"/>
       </c:dateAx>
       <c:valAx>
-        <c:axId val="1989003952"/>
+        <c:axId val="1989005616"/>
         <c:scaling>
           <c:orientation val="minMax"/>
         </c:scaling>
-        <c:delete val="0"/>
+        <c:delete val="1"/>
         <c:axPos val="l"/>
         <c:majorGridlines>
           <c:spPr>
             <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
-              <a:solidFill>
-                <a:schemeClr val="tx1">
-                  <a:lumMod val="15000"/>
-                  <a:lumOff val="85000"/>
-                </a:schemeClr>
-              </a:solidFill>
+              <a:gradFill>
+                <a:gsLst>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="dk1">
+                      <a:lumMod val="95000"/>
+                      <a:lumOff val="5000"/>
+                      <a:alpha val="42000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="0">
+                    <a:schemeClr val="lt1">
+                      <a:lumMod val="75000"/>
+                      <a:alpha val="36000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:lin ang="5400000" scaled="0"/>
+              </a:gradFill>
               <a:round/>
             </a:ln>
             <a:effectLst/>
           </c:spPr>
         </c:majorGridlines>
-        <c:numFmt formatCode="#,##0" sourceLinked="1"/>
+        <c:numFmt formatCode="General" sourceLinked="1"/>
         <c:majorTickMark val="none"/>
         <c:minorTickMark val="none"/>
         <c:tickLblPos val="nextTo"/>
-        <c:spPr>
-          <a:noFill/>
-          <a:ln>
-            <a:noFill/>
-          </a:ln>
-          <a:effectLst/>
-        </c:spPr>
-        <c:txPr>
-          <a:bodyPr rot="-60000000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/>
-          <a:lstStyle/>
-          <a:p>
-            <a:pPr>
-              <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
-                <a:solidFill>
-                  <a:schemeClr val="tx1">
-                    <a:lumMod val="65000"/>
-                    <a:lumOff val="35000"/>
-                  </a:schemeClr>
-                </a:solidFill>
-                <a:latin typeface="+mn-lt"/>
-                <a:ea typeface="+mn-ea"/>
-                <a:cs typeface="+mn-cs"/>
-              </a:defRPr>
-            </a:pPr>
-            <a:endParaRPr lang="de-DE"/>
-          </a:p>
-        </c:txPr>
-        <c:crossAx val="2112956064"/>
+        <c:crossAx val="2113142064"/>
         <c:crosses val="autoZero"/>
         <c:crossBetween val="between"/>
       </c:valAx>
-      <c:valAx>
-        <c:axId val="1988998544"/>
-        <c:scaling>
-          <c:orientation val="minMax"/>
-        </c:scaling>
-        <c:delete val="0"/>
-        <c:axPos val="r"/>
-        <c:numFmt formatCode="#,##0" sourceLinked="1"/>
-        <c:majorTickMark val="out"/>
-        <c:minorTickMark val="none"/>
-        <c:tickLblPos val="nextTo"/>
-        <c:spPr>
-          <a:noFill/>
-          <a:ln>
-            <a:noFill/>
-          </a:ln>
-          <a:effectLst/>
-        </c:spPr>
-        <c:txPr>
-          <a:bodyPr rot="-60000000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" anchor="ctr" anchorCtr="1"/>
-          <a:lstStyle/>
-          <a:p>
-            <a:pPr>
-              <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
-                <a:solidFill>
-                  <a:schemeClr val="tx1">
-                    <a:lumMod val="65000"/>
-                    <a:lumOff val="35000"/>
-                  </a:schemeClr>
-                </a:solidFill>
-                <a:latin typeface="+mn-lt"/>
-                <a:ea typeface="+mn-ea"/>
-                <a:cs typeface="+mn-cs"/>
-              </a:defRPr>
-            </a:pPr>
-            <a:endParaRPr lang="de-DE"/>
-          </a:p>
-        </c:txPr>
-        <c:crossAx val="2113072864"/>
-        <c:crosses val="max"/>
-        <c:crossBetween val="between"/>
-      </c:valAx>
-      <c:dateAx>
-        <c:axId val="2113072864"/>
-        <c:scaling>
-          <c:orientation val="minMax"/>
-        </c:scaling>
-        <c:delete val="1"/>
-        <c:axPos val="b"/>
-        <c:numFmt formatCode="m/d/yyyy" sourceLinked="1"/>
-        <c:majorTickMark val="out"/>
-        <c:minorTickMark val="none"/>
-        <c:tickLblPos val="nextTo"/>
-        <c:crossAx val="1988998544"/>
-        <c:crosses val="autoZero"/>
-        <c:auto val="1"/>
-        <c:lblOffset val="100"/>
-        <c:baseTimeUnit val="days"/>
-      </c:dateAx>
       <c:spPr>
         <a:noFill/>
         <a:ln>
@@ -1002,7 +1487,12 @@
       <c:legendPos val="b"/>
       <c:overlay val="0"/>
       <c:spPr>
-        <a:noFill/>
+        <a:solidFill>
+          <a:schemeClr val="lt1">
+            <a:lumMod val="95000"/>
+            <a:alpha val="39000"/>
+          </a:schemeClr>
+        </a:solidFill>
         <a:ln>
           <a:noFill/>
         </a:ln>
@@ -1015,9 +1505,9 @@
           <a:pPr>
             <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
               <a:solidFill>
-                <a:schemeClr val="tx1">
-                  <a:lumMod val="65000"/>
-                  <a:lumOff val="35000"/>
+                <a:schemeClr val="dk1">
+                  <a:lumMod val="75000"/>
+                  <a:lumOff val="25000"/>
                 </a:schemeClr>
               </a:solidFill>
               <a:latin typeface="+mn-lt"/>
@@ -1034,14 +1524,12 @@
     <c:showDLblsOverMax val="0"/>
   </c:chart>
   <c:spPr>
-    <a:solidFill>
-      <a:schemeClr val="bg1"/>
-    </a:solidFill>
+    <a:noFill/>
     <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
       <a:solidFill>
-        <a:schemeClr val="tx1">
-          <a:lumMod val="15000"/>
-          <a:lumOff val="85000"/>
+        <a:schemeClr val="dk1">
+          <a:lumMod val="25000"/>
+          <a:lumOff val="75000"/>
         </a:schemeClr>
       </a:solidFill>
       <a:round/>

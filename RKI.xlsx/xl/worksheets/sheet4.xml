@@ -5540,79 +5540,79 @@
         <v>Bremen</v>
       </c>
       <c r="B38" s="17" t="str">
-        <f>IF(ISNUMBER(B26),B26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(B26),B26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="C38" s="17" t="str">
-        <f>IF(ISNUMBER(C26),C26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(C26),C26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="D38" s="17" t="str">
-        <f>IF(ISNUMBER(D26),D26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(D26),D26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="E38" s="17" t="str">
-        <f>IF(ISNUMBER(E26),E26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(E26),E26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="F38" s="17" t="str">
-        <f>IF(ISNUMBER(F26),F26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(F26),F26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="G38" s="17" t="str">
-        <f>IF(ISNUMBER(G26),G26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(G26),G26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="H38" s="17" t="str">
-        <f>IF(ISNUMBER(H26),H26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(H26),H26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="I38" s="17" t="str">
-        <f>IF(ISNUMBER(I26),I26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(I26),I26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="J38" s="17" t="str">
-        <f>IF(ISNUMBER(J26),J26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(J26),J26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="K38" s="17" t="str">
-        <f>IF(ISNUMBER(K26),K26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(K26),K26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="L38" s="17" t="str">
-        <f>IF(ISNUMBER(L26),L26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(L26),L26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="M38" s="17" t="str">
-        <f>IF(ISNUMBER(M26),M26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(M26),M26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="N38" s="17" t="str">
-        <f>IF(ISNUMBER(N26),N26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(N26),N26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="O38" s="17" t="str">
-        <f>IF(ISNUMBER(O26),O26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(O26),O26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="P38" s="17" t="str">
-        <f>IF(ISNUMBER(P26),P26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(P26),P26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="Q38" s="17" t="str">
-        <f>IF(ISNUMBER(Q26),Q26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(Q26),Q26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="R38" s="17" t="str">
-        <f>IF(ISNUMBER(R26),R26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(R26),R26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="S38" s="17" t="str">
-        <f>IF(ISNUMBER(S26),S26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(S26),S26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="T38" s="17" t="str">
-        <f>IF(ISNUMBER(T26),T26/'RKI Zahlen'!$B137*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(T26),T26/'RKI Zahlen'!$B142*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="U38" s="17">
@@ -5698,79 +5698,79 @@
         <v>Hamburg</v>
       </c>
       <c r="B39" s="17" t="str">
-        <f>IF(ISNUMBER(B27),B27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(B27),B27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="C39" s="17" t="str">
-        <f>IF(ISNUMBER(C27),C27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(C27),C27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="D39" s="17" t="str">
-        <f>IF(ISNUMBER(D27),D27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(D27),D27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="E39" s="17" t="str">
-        <f>IF(ISNUMBER(E27),E27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(E27),E27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="F39" s="17" t="str">
-        <f>IF(ISNUMBER(F27),F27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(F27),F27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="G39" s="17" t="str">
-        <f>IF(ISNUMBER(G27),G27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(G27),G27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="H39" s="17" t="str">
-        <f>IF(ISNUMBER(H27),H27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(H27),H27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="I39" s="17" t="str">
-        <f>IF(ISNUMBER(I27),I27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(I27),I27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="J39" s="17" t="str">
-        <f>IF(ISNUMBER(J27),J27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(J27),J27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="K39" s="17" t="str">
-        <f>IF(ISNUMBER(K27),K27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(K27),K27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="L39" s="17" t="str">
-        <f>IF(ISNUMBER(L27),L27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(L27),L27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="M39" s="17" t="str">
-        <f>IF(ISNUMBER(M27),M27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(M27),M27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="N39" s="17" t="str">
-        <f>IF(ISNUMBER(N27),N27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(N27),N27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="O39" s="17" t="str">
-        <f>IF(ISNUMBER(O27),O27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(O27),O27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="P39" s="17" t="str">
-        <f>IF(ISNUMBER(P27),P27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(P27),P27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="Q39" s="17" t="str">
-        <f>IF(ISNUMBER(Q27),Q27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(Q27),Q27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="R39" s="17" t="str">
-        <f>IF(ISNUMBER(R27),R27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(R27),R27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="S39" s="17" t="str">
-        <f>IF(ISNUMBER(S27),S27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(S27),S27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="T39" s="17" t="str">
-        <f>IF(ISNUMBER(T27),T27/'RKI Zahlen'!$B138*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(T27),T27/'RKI Zahlen'!$B143*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="U39" s="17">
@@ -5856,79 +5856,79 @@
         <v>Mecklenburg-Vorpommern</v>
       </c>
       <c r="B40" s="17" t="str">
-        <f>IF(ISNUMBER(B28),B28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(B28),B28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="C40" s="17" t="str">
-        <f>IF(ISNUMBER(C28),C28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(C28),C28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="D40" s="17" t="str">
-        <f>IF(ISNUMBER(D28),D28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(D28),D28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="E40" s="17" t="str">
-        <f>IF(ISNUMBER(E28),E28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(E28),E28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="F40" s="17" t="str">
-        <f>IF(ISNUMBER(F28),F28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(F28),F28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="G40" s="17" t="str">
-        <f>IF(ISNUMBER(G28),G28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(G28),G28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="H40" s="17" t="str">
-        <f>IF(ISNUMBER(H28),H28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(H28),H28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="I40" s="17" t="str">
-        <f>IF(ISNUMBER(I28),I28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(I28),I28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="J40" s="17" t="str">
-        <f>IF(ISNUMBER(J28),J28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(J28),J28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="K40" s="17" t="str">
-        <f>IF(ISNUMBER(K28),K28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(K28),K28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="L40" s="17" t="str">
-        <f>IF(ISNUMBER(L28),L28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(L28),L28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="M40" s="17" t="str">
-        <f>IF(ISNUMBER(M28),M28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(M28),M28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="N40" s="17" t="str">
-        <f>IF(ISNUMBER(N28),N28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(N28),N28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="O40" s="17" t="str">
-        <f>IF(ISNUMBER(O28),O28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(O28),O28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="P40" s="17" t="str">
-        <f>IF(ISNUMBER(P28),P28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(P28),P28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="Q40" s="17" t="str">
-        <f>IF(ISNUMBER(Q28),Q28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(Q28),Q28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="R40" s="17" t="str">
-        <f>IF(ISNUMBER(R28),R28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(R28),R28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="S40" s="17" t="str">
-        <f>IF(ISNUMBER(S28),S28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(S28),S28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="T40" s="17" t="str">
-        <f>IF(ISNUMBER(T28),T28/'RKI Zahlen'!$B140*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(T28),T28/'RKI Zahlen'!$B145*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="U40" s="17">
@@ -6014,79 +6014,79 @@
         <v>Niedersachsen</v>
       </c>
       <c r="B41" s="17" t="str">
-        <f>IF(ISNUMBER(B29),B29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(B29),B29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="C41" s="17" t="str">
-        <f>IF(ISNUMBER(C29),C29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(C29),C29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="D41" s="17" t="str">
-        <f>IF(ISNUMBER(D29),D29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(D29),D29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="E41" s="17" t="str">
-        <f>IF(ISNUMBER(E29),E29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(E29),E29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="F41" s="17" t="str">
-        <f>IF(ISNUMBER(F29),F29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(F29),F29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="G41" s="17" t="str">
-        <f>IF(ISNUMBER(G29),G29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(G29),G29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="H41" s="17" t="str">
-        <f>IF(ISNUMBER(H29),H29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(H29),H29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="I41" s="17" t="str">
-        <f>IF(ISNUMBER(I29),I29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(I29),I29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="J41" s="17" t="str">
-        <f>IF(ISNUMBER(J29),J29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(J29),J29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="K41" s="17" t="str">
-        <f>IF(ISNUMBER(K29),K29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(K29),K29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="L41" s="17" t="str">
-        <f>IF(ISNUMBER(L29),L29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(L29),L29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="M41" s="17" t="str">
-        <f>IF(ISNUMBER(M29),M29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(M29),M29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="N41" s="17" t="str">
-        <f>IF(ISNUMBER(N29),N29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(N29),N29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="O41" s="17" t="str">
-        <f>IF(ISNUMBER(O29),O29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(O29),O29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="P41" s="17" t="str">
-        <f>IF(ISNUMBER(P29),P29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(P29),P29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="Q41" s="17" t="str">
-        <f>IF(ISNUMBER(Q29),Q29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(Q29),Q29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="R41" s="17" t="str">
-        <f>IF(ISNUMBER(R29),R29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(R29),R29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="S41" s="17" t="str">
-        <f>IF(ISNUMBER(S29),S29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(S29),S29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="T41" s="17" t="str">
-        <f>IF(ISNUMBER(T29),T29/'RKI Zahlen'!$B141*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(T29),T29/'RKI Zahlen'!$B146*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="U41" s="17">
@@ -6172,79 +6172,79 @@
         <v>Schleswig-Holstein</v>
       </c>
       <c r="B42" s="17" t="str">
-        <f>IF(ISNUMBER(B30),B30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(B30),B30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="C42" s="17" t="str">
-        <f>IF(ISNUMBER(C30),C30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(C30),C30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="D42" s="17" t="str">
-        <f>IF(ISNUMBER(D30),D30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(D30),D30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="E42" s="17" t="str">
-        <f>IF(ISNUMBER(E30),E30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(E30),E30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="F42" s="17" t="str">
-        <f>IF(ISNUMBER(F30),F30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(F30),F30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="G42" s="17" t="str">
-        <f>IF(ISNUMBER(G30),G30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(G30),G30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="H42" s="17" t="str">
-        <f>IF(ISNUMBER(H30),H30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(H30),H30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="I42" s="17" t="str">
-        <f>IF(ISNUMBER(I30),I30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(I30),I30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="J42" s="17" t="str">
-        <f>IF(ISNUMBER(J30),J30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(J30),J30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="K42" s="17" t="str">
-        <f>IF(ISNUMBER(K30),K30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(K30),K30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="L42" s="17" t="str">
-        <f>IF(ISNUMBER(L30),L30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(L30),L30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="M42" s="17" t="str">
-        <f>IF(ISNUMBER(M30),M30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(M30),M30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="N42" s="17" t="str">
-        <f>IF(ISNUMBER(N30),N30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(N30),N30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="O42" s="17" t="str">
-        <f>IF(ISNUMBER(O30),O30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(O30),O30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="P42" s="17" t="str">
-        <f>IF(ISNUMBER(P30),P30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(P30),P30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="Q42" s="17" t="str">
-        <f>IF(ISNUMBER(Q30),Q30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(Q30),Q30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="R42" s="17" t="str">
-        <f>IF(ISNUMBER(R30),R30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(R30),R30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="S42" s="17" t="str">
-        <f>IF(ISNUMBER(S30),S30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(S30),S30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="T42" s="17" t="str">
-        <f>IF(ISNUMBER(T30),T30/'RKI Zahlen'!$B147*'RKI Zahlen'!$B$88,"")</f>
+        <f>IF(ISNUMBER(T30),T30/'RKI Zahlen'!$B152*'RKI Zahlen'!$B$88,"")</f>
         <v/>
       </c>
       <c r="U42" s="17">

@@ -190,7 +190,7 @@
             <c:strRef>
               <c:f>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c:f>
               <c:strCache>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>28.02.2020</c:v>
                 </c:pt>
@@ -295,6 +295,9 @@
                 </c:pt>
                 <c:pt idx="34">
                   <c:v>04.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="35">
+                  <c:v>05.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -411,7 +414,7 @@
                   <c:v>1638</c:v>
                 </c:pt>
                 <c:pt idx="35" formatCode="#,##0">
-                  <c:v>0</c:v>
+                  <c:v>1678</c:v>
                 </c:pt>
                 <c:pt idx="36" formatCode="#,##0">
                   <c:v>0</c:v>
@@ -555,7 +558,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -660,6 +663,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -780,6 +786,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>37</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>40</c:v>
                       </c:pt>
                     </c:numCache>
                   </c:numRef>
@@ -904,7 +913,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -1009,6 +1018,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -1128,6 +1140,9 @@
                         <c:v>27</c:v>
                       </c:pt>
                       <c:pt idx="34">
+                        <c:v>28</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
                         <c:v>28</c:v>
                       </c:pt>
                     </c:numCache>
@@ -1253,7 +1268,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -1358,6 +1373,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -1477,6 +1495,9 @@
                         <c:v>147</c:v>
                       </c:pt>
                       <c:pt idx="34">
+                        <c:v>155</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
                         <c:v>155</c:v>
                       </c:pt>
                     </c:numCache>
@@ -1602,7 +1623,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -1707,6 +1728,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -1827,6 +1851,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>160</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>164</c:v>
                       </c:pt>
                     </c:numCache>
                   </c:numRef>
@@ -1951,7 +1978,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -2056,6 +2083,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -2175,6 +2205,9 @@
                         <c:v>103</c:v>
                       </c:pt>
                       <c:pt idx="34">
+                        <c:v>103</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
                         <c:v>103</c:v>
                       </c:pt>
                     </c:numCache>
@@ -2300,7 +2333,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -2405,6 +2438,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -2525,6 +2561,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>30</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>32</c:v>
                       </c:pt>
                     </c:numCache>
                   </c:numRef>
@@ -2655,7 +2694,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -2760,6 +2799,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -2879,6 +2921,9 @@
                         <c:v>48</c:v>
                       </c:pt>
                       <c:pt idx="34">
+                        <c:v>49</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
                         <c:v>49</c:v>
                       </c:pt>
                     </c:numCache>
@@ -3010,7 +3055,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -3115,6 +3160,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -3235,6 +3283,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>51</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>52</c:v>
                       </c:pt>
                     </c:numCache>
                   </c:numRef>
@@ -3365,7 +3416,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -3470,6 +3521,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -3590,6 +3644,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>331</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>335</c:v>
                       </c:pt>
                     </c:numCache>
                   </c:numRef>
@@ -3720,7 +3777,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -3825,6 +3882,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -3945,6 +4005,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>73</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>75</c:v>
                       </c:pt>
                     </c:numCache>
                   </c:numRef>
@@ -4075,7 +4138,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -4180,6 +4243,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -4300,6 +4366,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>166</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>165</c:v>
                       </c:pt>
                     </c:numCache>
                   </c:numRef>
@@ -4430,7 +4499,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -4535,6 +4604,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -4654,6 +4726,9 @@
                         <c:v>93</c:v>
                       </c:pt>
                       <c:pt idx="34">
+                        <c:v>95</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
                         <c:v>95</c:v>
                       </c:pt>
                     </c:numCache>
@@ -4788,7 +4863,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -4893,6 +4968,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -5013,6 +5091,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>142</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>144</c:v>
                       </c:pt>
                     </c:numCache>
                   </c:numRef>
@@ -5146,7 +5227,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -5251,6 +5332,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -5370,6 +5454,9 @@
                         <c:v>53</c:v>
                       </c:pt>
                       <c:pt idx="34">
+                        <c:v>53</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
                         <c:v>53</c:v>
                       </c:pt>
                     </c:numCache>
@@ -5504,7 +5591,7 @@
                       </c:ext>
                     </c:extLst>
                     <c:strCache>
-                      <c:ptCount val="35"/>
+                      <c:ptCount val="36"/>
                       <c:pt idx="0">
                         <c:v>28.02.2020</c:v>
                       </c:pt>
@@ -5609,6 +5696,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>04.04.2020</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>05.04.2020</c:v>
                       </c:pt>
                     </c:strCache>
                   </c:strRef>
@@ -5729,6 +5819,9 @@
                       </c:pt>
                       <c:pt idx="34">
                         <c:v>165</c:v>
+                      </c:pt>
+                      <c:pt idx="35">
+                        <c:v>188</c:v>
                       </c:pt>
                     </c:numCache>
                   </c:numRef>
@@ -5855,7 +5948,7 @@
             <c:strRef>
               <c:f>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c:f>
               <c:strCache>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>28.02.2020</c:v>
                 </c:pt>
@@ -5960,6 +6053,9 @@
                 </c:pt>
                 <c:pt idx="34">
                   <c:v>04.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="35">
+                  <c:v>05.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -6076,7 +6172,7 @@
                   <c:v>70</c:v>
                 </c:pt>
                 <c:pt idx="35" formatCode="#,##0">
-                  <c:v>0</c:v>
+                  <c:v>40</c:v>
                 </c:pt>
                 <c:pt idx="36" formatCode="#,##0">
                   <c:v>0</c:v>
@@ -6202,7 +6298,7 @@
             <c:strRef>
               <c:f>(Kreise!$AC$1:$AM$1,Kreise!$AO$1:$AT$1,Kreise!$AV$1:$BP$1)</c:f>
               <c:strCache>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>28.02.2020</c:v>
                 </c:pt>
@@ -6307,6 +6403,9 @@
                 </c:pt>
                 <c:pt idx="34">
                   <c:v>04.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="35">
+                  <c:v>05.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -6423,7 +6522,7 @@
                   <c:v>-50</c:v>
                 </c:pt>
                 <c:pt idx="35" formatCode="#,##0">
-                  <c:v>0</c:v>
+                  <c:v>-30</c:v>
                 </c:pt>
                 <c:pt idx="36" formatCode="#,##0">
                   <c:v>0</c:v>

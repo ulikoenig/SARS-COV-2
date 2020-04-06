@@ -278,9 +278,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AM7),'RKI Zahlen'!AM7,"")</f>
         <v>2697</v>
       </c>
-      <c r="AH2" t="str">
+      <c r="AH2">
         <f>IF(ISNUMBER('RKI Zahlen'!AN7),'RKI Zahlen'!AN7,"")</f>
-        <v/>
+        <v>2945</v>
       </c>
       <c r="AI2" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AO7),'RKI Zahlen'!AO7,"")</f>
@@ -456,9 +456,9 @@
         <f t="shared" ref="AG3:AG4" si="30">IF(AND(ISNUMBER(AF2),ISNUMBER(AG2)),AG2-AF2,"")</f>
         <v>101</v>
       </c>
-      <c r="AH3" s="4" t="str">
+      <c r="AH3" s="4">
         <f t="shared" ref="AH3:AH4" si="31">IF(AND(ISNUMBER(AG2),ISNUMBER(AH2)),AH2-AG2,"")</f>
-        <v/>
+        <v>248</v>
       </c>
       <c r="AI3" s="4" t="str">
         <f>IF(AND(ISNUMBER(#REF!),ISNUMBER(#REF!)),#REF!-#REF!,"")</f>
@@ -634,9 +634,9 @@
         <f t="shared" si="30"/>
         <v>-89</v>
       </c>
-      <c r="AH4" s="4" t="str">
+      <c r="AH4" s="4">
         <f t="shared" si="31"/>
-        <v/>
+        <v>147</v>
       </c>
       <c r="AI4" s="4" t="str">
         <f t="shared" ref="AI4:AR4" si="32">IF(AND(ISNUMBER(AH3),ISNUMBER(AI3)),AI3-AH3,"")</f>
@@ -952,9 +952,9 @@
         <f>IF(ISNUMBER(AG2),AG2/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
         <v>146.48222687745189</v>
       </c>
-      <c r="AH8" s="11" t="str">
+      <c r="AH8" s="11">
         <f>IF(ISNUMBER(AH2),AH2/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
-        <v/>
+        <v>159.95185693514861</v>
       </c>
     </row>
     <row r="9" spans="1:44" s="23" customFormat="1" x14ac:dyDescent="0.45">
@@ -1090,9 +1090,9 @@
         <f t="shared" ref="AG9:AG10" si="64">IF(AND(ISNUMBER(AF8),ISNUMBER(AG8)),AG8-AF8,"")</f>
         <v>5.4856154670458466</v>
       </c>
-      <c r="AH9" s="23" t="str">
+      <c r="AH9" s="23">
         <f t="shared" ref="AH9:AH10" si="65">IF(AND(ISNUMBER(AG8),ISNUMBER(AH8)),AH8-AG8,"")</f>
-        <v/>
+        <v>13.469630057696719</v>
       </c>
     </row>
     <row r="10" spans="1:44" s="23" customFormat="1" x14ac:dyDescent="0.45">
@@ -1228,9 +1228,9 @@
         <f t="shared" si="64"/>
         <v>-4.8338591739315007</v>
       </c>
-      <c r="AH10" s="23" t="str">
+      <c r="AH10" s="23">
         <f t="shared" si="65"/>
-        <v/>
+        <v>7.9840145906508724</v>
       </c>
     </row>
     <row r="11" spans="1:44" s="13" customFormat="1" x14ac:dyDescent="0.45"/>
@@ -1502,9 +1502,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AM51),'RKI Zahlen'!AM51,"")</f>
         <v>16</v>
       </c>
-      <c r="AH14" t="str">
+      <c r="AH14">
         <f>IF(ISNUMBER('RKI Zahlen'!AN51),'RKI Zahlen'!AN51,"")</f>
-        <v/>
+        <v>19</v>
       </c>
       <c r="AI14" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AO51),'RKI Zahlen'!AO51,"")</f>
@@ -1680,9 +1680,9 @@
         <f t="shared" ref="AG15:AG16" si="84">IF(AND(ISNUMBER(AF14),ISNUMBER(AG14)),AG14-AF14,"")</f>
         <v>0</v>
       </c>
-      <c r="AH15" s="4" t="str">
+      <c r="AH15" s="4">
         <f t="shared" ref="AH15:AH16" si="85">IF(AND(ISNUMBER(AG14),ISNUMBER(AH14)),AH14-AG14,"")</f>
-        <v/>
+        <v>3</v>
       </c>
       <c r="AI15" s="4" t="str">
         <f>IF(AND(ISNUMBER(#REF!),ISNUMBER(#REF!)),#REF!-#REF!,"")</f>
@@ -1858,9 +1858,9 @@
         <f t="shared" si="84"/>
         <v>-2</v>
       </c>
-      <c r="AH16" s="4" t="str">
+      <c r="AH16" s="4">
         <f t="shared" si="85"/>
-        <v/>
+        <v>3</v>
       </c>
       <c r="AI16" s="4" t="str">
         <f t="shared" si="86"/>
@@ -2176,9 +2176,9 @@
         <f>IF(ISNUMBER(AG14),AG14/'RKI Zahlen'!$B105*'RKI Zahlen'!$C$88,"")</f>
         <v>0.19274679127489727</v>
       </c>
-      <c r="AH20" s="12" t="str">
+      <c r="AH20" s="12">
         <f>IF(ISNUMBER(AH14),AH14/'RKI Zahlen'!$B105*'RKI Zahlen'!$C$88,"")</f>
-        <v/>
+        <v>0.22888681463894051</v>
       </c>
     </row>
     <row r="21" spans="1:34" s="13" customFormat="1" x14ac:dyDescent="0.45">
@@ -2314,9 +2314,9 @@
         <f t="shared" ref="AG21:AG22" si="106">IF(AND(ISNUMBER(AF20),ISNUMBER(AG20)),AG20-AF20,"")</f>
         <v>0</v>
       </c>
-      <c r="AH21" s="13" t="str">
+      <c r="AH21" s="13">
         <f t="shared" ref="AH21:AH22" si="107">IF(AND(ISNUMBER(AG20),ISNUMBER(AH20)),AH20-AG20,"")</f>
-        <v/>
+        <v>3.6140023364043233E-2</v>
       </c>
     </row>
     <row r="22" spans="1:34" s="13" customFormat="1" x14ac:dyDescent="0.45">
@@ -2452,9 +2452,9 @@
         <f t="shared" si="106"/>
         <v>-2.4093348909362156E-2</v>
       </c>
-      <c r="AH22" s="13" t="str">
+      <c r="AH22" s="13">
         <f t="shared" si="107"/>
-        <v/>
+        <v>3.6140023364043233E-2</v>
       </c>
     </row>
   </sheetData>

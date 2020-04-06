@@ -3889,6 +3889,159 @@
             </c:ext>
           </c:extLst>
         </c:ser>
+        <c:ser>
+          <c:idx val="37"/>
+          <c:order val="37"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>Kreise!$BN$24</c:f>
+              <c:strCache>
+                <c:ptCount val="1"/>
+                <c:pt idx="0">
+                  <c:v>05.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:strRef>
+          </c:tx>
+          <c:invertIfNegative val="0"/>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:dLblPos val="outEnd"/>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
+          <c:cat>
+            <c:strRef>
+              <c:f>Kreise!$A$25:$A$39</c:f>
+              <c:strCache>
+                <c:ptCount val="15"/>
+                <c:pt idx="0">
+                  <c:v>Dithmarschen</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>Flensburg</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>Herzogtum Lauenburg</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>Kiel</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>Lübeck</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>Neumünster</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>Nordfriesland</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>Ostholstein</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>Pinneberg</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>Plön</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>Rendsburg-Eckernförde</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>Schleswig-Flensburg</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>Segeberg</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>Steinburg</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>Stormarn</c:v>
+                </c:pt>
+              </c:strCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:strRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>Kreise!$BN$25:$BN$39</c:f>
+              <c:numCache>
+                <c:formatCode>0.0</c:formatCode>
+                <c:ptCount val="15"/>
+                <c:pt idx="0">
+                  <c:v>30.027775692515576</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>31.283518055058991</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>78.57490469624463</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>66.249777820867067</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>47.422167791600288</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>40.25815542164127</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>29.605998537826196</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>25.924688779096723</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>106.55521309452243</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>58.299066437616112</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>60.489414352488318</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>47.49406324209474</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>52.167864595409235</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>40.351130973680405</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>77.30390302472081</c:v>
+                </c:pt>
+              </c:numCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:numRef>
+          </c:val>
+          <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{0000000C-525F-4DD8-870A-97F7762BDC25}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
         <c:dLbls>
           <c:dLblPos val="outEnd"/>
           <c:showLegendKey val="0"/>
@@ -6934,178 +7087,11 @@
             </c15:filteredBarSeries>
             <c15:filteredBarSeries>
               <c15:ser>
-                <c:idx val="37"/>
-                <c:order val="37"/>
-                <c:tx>
-                  <c:strRef>
-                    <c:extLst>
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Kreise!$BN$24</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:strCache>
-                      <c:ptCount val="1"/>
-                    </c:strCache>
-                  </c:strRef>
-                </c:tx>
-                <c:invertIfNegative val="0"/>
-                <c:dLbls>
-                  <c:spPr>
-                    <a:noFill/>
-                    <a:ln>
-                      <a:noFill/>
-                    </a:ln>
-                    <a:effectLst/>
-                  </c:spPr>
-                  <c:dLblPos val="outEnd"/>
-                  <c:showLegendKey val="0"/>
-                  <c:showVal val="1"/>
-                  <c:showCatName val="0"/>
-                  <c:showSerName val="0"/>
-                  <c:showPercent val="0"/>
-                  <c:showBubbleSize val="0"/>
-                  <c:showLeaderLines val="0"/>
-                  <c:extLst>
-                    <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
-                      <c15:showLeaderLines val="1"/>
-                    </c:ext>
-                  </c:extLst>
-                </c:dLbls>
-                <c:cat>
-                  <c:strRef>
-                    <c:extLst>
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Kreise!$A$25:$A$39</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:strCache>
-                      <c:ptCount val="15"/>
-                      <c:pt idx="0">
-                        <c:v>Dithmarschen</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>Flensburg</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>Herzogtum Lauenburg</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>Kiel</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>Lübeck</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>Neumünster</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>Nordfriesland</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>Ostholstein</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>Pinneberg</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>Plön</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>Rendsburg-Eckernförde</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>Schleswig-Flensburg</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>Segeberg</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>Steinburg</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>Stormarn</c:v>
-                      </c:pt>
-                    </c:strCache>
-                  </c:strRef>
-                </c:cat>
-                <c:val>
-                  <c:numRef>
-                    <c:extLst>
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Kreise!$BN$25:$BN$39</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:numCache>
-                      <c:formatCode>0.0</c:formatCode>
-                      <c:ptCount val="15"/>
-                      <c:pt idx="0">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>0</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>0</c:v>
-                      </c:pt>
-                    </c:numCache>
-                  </c:numRef>
-                </c:val>
-                <c:extLst>
-                  <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-                    <c16:uniqueId val="{0000000C-525F-4DD8-870A-97F7762BDC25}"/>
-                  </c:ext>
-                </c:extLst>
-              </c15:ser>
-            </c15:filteredBarSeries>
-            <c15:filteredBarSeries>
-              <c15:ser>
                 <c:idx val="38"/>
                 <c:order val="38"/>
                 <c:tx>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>Kreise!$BO$24</c15:sqref>
@@ -7134,7 +7120,7 @@
                   <c:showPercent val="0"/>
                   <c:showBubbleSize val="0"/>
                   <c:showLeaderLines val="0"/>
-                  <c:extLst>
+                  <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                     <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
                       <c15:showLeaderLines val="1"/>
                     </c:ext>
@@ -7142,7 +7128,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>Kreise!$A$25:$A$39</c15:sqref>
@@ -7201,7 +7187,7 @@
                 </c:cat>
                 <c:val>
                   <c:numRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>Kreise!$BO$25:$BO$39</c15:sqref>
@@ -7259,7 +7245,7 @@
                     </c:numCache>
                   </c:numRef>
                 </c:val>
-                <c:extLst>
+                <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
                     <c16:uniqueId val="{0000000D-525F-4DD8-870A-97F7762BDC25}"/>
                   </c:ext>
@@ -7272,7 +7258,7 @@
                 <c:order val="39"/>
                 <c:tx>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>Kreise!$BP$24</c15:sqref>
@@ -7301,7 +7287,7 @@
                   <c:showPercent val="0"/>
                   <c:showBubbleSize val="0"/>
                   <c:showLeaderLines val="0"/>
-                  <c:extLst>
+                  <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                     <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
                       <c15:showLeaderLines val="1"/>
                     </c:ext>
@@ -7309,7 +7295,7 @@
                 </c:dLbls>
                 <c:cat>
                   <c:strRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>Kreise!$A$25:$A$39</c15:sqref>
@@ -7368,7 +7354,7 @@
                 </c:cat>
                 <c:val>
                   <c:numRef>
-                    <c:extLst>
+                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                       <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                         <c15:formulaRef>
                           <c15:sqref>Kreise!$BP$25:$BP$39</c15:sqref>
@@ -7426,7 +7412,7 @@
                     </c:numCache>
                   </c:numRef>
                 </c:val>
-                <c:extLst>
+                <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
                     <c16:uniqueId val="{0000000E-525F-4DD8-870A-97F7762BDC25}"/>
                   </c:ext>

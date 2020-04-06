@@ -52,7 +52,7 @@
           <c:order val="0"/>
           <c:tx>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$J$131</c:f>
+              <c:f>'RKI Zahlen'!$J$136</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
                 <c:pt idx="0">
@@ -556,7 +556,7 @@
           </c:dLbls>
           <c:cat>
             <c:strRef>
-              <c:f>'RKI Zahlen'!$I$132:$I$138</c:f>
+              <c:f>'RKI Zahlen'!$I$137:$I$143</c:f>
               <c:strCache>
                 <c:ptCount val="7"/>
                 <c:pt idx="0">
@@ -585,30 +585,30 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>'RKI Zahlen'!$J$132:$J$138</c:f>
+              <c:f>'RKI Zahlen'!$J$137:$J$143</c:f>
               <c:numCache>
                 <c:formatCode>0.00</c:formatCode>
                 <c:ptCount val="7"/>
                 <c:pt idx="0">
-                  <c:v>0.13815058738321925</c:v>
+                  <c:v>0.13219139824986037</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>0.14431223329937223</c:v>
+                  <c:v>0.13808725873518279</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>0.11765500728317359</c:v>
+                  <c:v>0.11257990442499846</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>0.16053790087857503</c:v>
+                  <c:v>0.15361302467986512</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>0.17127213665882049</c:v>
+                  <c:v>0.16388423426218998</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>0.17263418470344377</c:v>
+                  <c:v>0.1651875297378928</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>9.5437949793395691E-2</c:v>
+                  <c:v>0.13445664991001058</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>

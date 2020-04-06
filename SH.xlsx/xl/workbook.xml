@@ -7,9 +7,9 @@
       <x15ac:absPath xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac" url="C:\Users\ukoenig\Documents\2020\Corona\"/>
     </mc:Choice>
   </mc:AlternateContent>
-  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{8644D9AD-BC3C-4E12-BE46-6A2F872B1AB1}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{30207CBF-C579-449C-ABF6-144099F66F7B}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
   <bookViews>
-    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="709" activeTab="4" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
+    <workbookView xWindow="16567" yWindow="1140" windowWidth="21601" windowHeight="11422" tabRatio="709" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
   </bookViews>
   <sheets>
     <sheet name="Kreise" sheetId="3" r:id="rId1"/>

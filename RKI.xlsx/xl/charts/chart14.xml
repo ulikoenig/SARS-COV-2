@@ -33,22 +33,8 @@
             </a:pPr>
             <a:r>
               <a:rPr lang="de-DE"/>
-              <a:t>SARS-CoV-2</a:t>
+              <a:t>SARS-CoV-2 Tote in Norddeutschland</a:t>
             </a:r>
-            <a:r>
-              <a:rPr lang="de-DE" baseline="0"/>
-              <a:t> Infektionen in Norddeuschland</a:t>
-            </a:r>
-          </a:p>
-          <a:p>
-            <a:pPr>
-              <a:defRPr/>
-            </a:pPr>
-            <a:r>
-              <a:rPr lang="de-DE" baseline="0"/>
-              <a:t>(NDS, HH, HB, MV, SH)</a:t>
-            </a:r>
-            <a:endParaRPr lang="de-DE"/>
           </a:p>
         </c:rich>
       </c:tx>
@@ -93,9 +79,9 @@
           <c:order val="0"/>
           <c:tx>
             <c:strRef>
-              <c:f>Norddeutschland!$A$8:$G$8</c:f>
+              <c:f>Norddeutschland!$A$32:$W$32</c:f>
               <c:strCache>
-                <c:ptCount val="7"/>
+                <c:ptCount val="23"/>
                 <c:pt idx="0">
                   <c:v>Norddeutschland</c:v>
                 </c:pt>
@@ -171,104 +157,56 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Norddeutschland!$H$7:$AX$7</c:f>
+              <c:f>Norddeutschland!$X$31:$AW$31</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="43"/>
+                <c:ptCount val="26"/>
                 <c:pt idx="0">
-                  <c:v>43894</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>43895</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>43896</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>43897</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>43898</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>43899</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>43900</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>43901</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>43902</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>43903</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>43904</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>43905</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>43906</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>43907</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>43908</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>43909</c:v>
-                </c:pt>
-                <c:pt idx="16">
                   <c:v>43910</c:v>
                 </c:pt>
-                <c:pt idx="17">
+                <c:pt idx="1">
                   <c:v>43911</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="2">
                   <c:v>43912</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="3">
                   <c:v>43913</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="4">
                   <c:v>43914</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="5">
                   <c:v>43915</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="6">
                   <c:v>43916</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="7">
                   <c:v>43917</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="8">
                   <c:v>43918</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="9">
                   <c:v>43919</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="10">
                   <c:v>43920</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="11">
                   <c:v>43921</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="12">
                   <c:v>43922</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="13">
                   <c:v>43923</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="14">
                   <c:v>43924</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="15">
                   <c:v>43925</c:v>
                 </c:pt>
               </c:numCache>
@@ -276,134 +214,86 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Norddeutschland!$H$8:$AX$8</c:f>
+              <c:f>Norddeutschland!$X$32:$AW$32</c:f>
               <c:numCache>
                 <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="43"/>
+                <c:ptCount val="26"/>
                 <c:pt idx="0">
-                  <c:v>28</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>46</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>50</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>49</c:v>
+                  <c:v>5</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>53</c:v>
+                  <c:v>8</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>78</c:v>
+                  <c:v>10</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>104</c:v>
+                  <c:v>12</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>188</c:v>
+                  <c:v>17</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>309</c:v>
+                  <c:v>20</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>452</c:v>
+                  <c:v>34</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>566</c:v>
+                  <c:v>41</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>655</c:v>
+                  <c:v>57</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>881</c:v>
+                  <c:v>74</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>864</c:v>
+                  <c:v>79</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>1120</c:v>
+                  <c:v>106</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>1481</c:v>
+                  <c:v>129</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>1907</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>2225</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>2862</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>3151</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>3667</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>4397</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>4742</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>5815</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>6398</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>6924</c:v>
-                </c:pt>
-                <c:pt idx="26">
-                  <c:v>7476</c:v>
-                </c:pt>
-                <c:pt idx="27">
-                  <c:v>8034</c:v>
-                </c:pt>
-                <c:pt idx="28">
-                  <c:v>8656</c:v>
-                </c:pt>
-                <c:pt idx="29">
-                  <c:v>9201</c:v>
-                </c:pt>
-                <c:pt idx="30">
-                  <c:v>9929</c:v>
-                </c:pt>
-                <c:pt idx="31">
-                  <c:v>10682</c:v>
-                </c:pt>
-                <c:pt idx="32">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="33">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="34">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="35">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="36">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="37">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="38">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="39">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="40">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="41">
                   <c:v>0</c:v>
                 </c:pt>
               </c:numCache>
@@ -411,7 +301,7 @@
           </c:val>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000000-9721-4A3C-AEF1-3EBFD4318E69}"/>
+              <c16:uniqueId val="{00000000-AC77-4500-AF6F-BD6EE78FA121}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -423,9 +313,9 @@
           <c:showPercent val="0"/>
           <c:showBubbleSize val="0"/>
         </c:dLbls>
-        <c:gapWidth val="219"/>
-        <c:axId val="1975161279"/>
-        <c:axId val="1099737039"/>
+        <c:gapWidth val="150"/>
+        <c:axId val="2112956064"/>
+        <c:axId val="1989003952"/>
       </c:barChart>
       <c:lineChart>
         <c:grouping val="standard"/>
@@ -435,9 +325,9 @@
           <c:order val="1"/>
           <c:tx>
             <c:strRef>
-              <c:f>Norddeutschland!$A$9:$G$9</c:f>
+              <c:f>Norddeutschland!$A$33:$W$33</c:f>
               <c:strCache>
-                <c:ptCount val="7"/>
+                <c:ptCount val="23"/>
                 <c:pt idx="0">
                   <c:v>1. Ableitung</c:v>
                 </c:pt>
@@ -527,104 +417,56 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Norddeutschland!$H$7:$AX$7</c:f>
+              <c:f>Norddeutschland!$X$31:$AW$31</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="43"/>
+                <c:ptCount val="26"/>
                 <c:pt idx="0">
-                  <c:v>43894</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>43895</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>43896</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>43897</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>43898</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>43899</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>43900</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>43901</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>43902</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>43903</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>43904</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>43905</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>43906</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>43907</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>43908</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>43909</c:v>
-                </c:pt>
-                <c:pt idx="16">
                   <c:v>43910</c:v>
                 </c:pt>
-                <c:pt idx="17">
+                <c:pt idx="1">
                   <c:v>43911</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="2">
                   <c:v>43912</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="3">
                   <c:v>43913</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="4">
                   <c:v>43914</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="5">
                   <c:v>43915</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="6">
                   <c:v>43916</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="7">
                   <c:v>43917</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="8">
                   <c:v>43918</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="9">
                   <c:v>43919</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="10">
                   <c:v>43920</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="11">
                   <c:v>43921</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="12">
                   <c:v>43922</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="13">
                   <c:v>43923</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="14">
                   <c:v>43924</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="15">
                   <c:v>43925</c:v>
                 </c:pt>
               </c:numCache>
@@ -632,134 +474,86 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Norddeutschland!$H$9:$AX$9</c:f>
+              <c:f>Norddeutschland!$X$33:$AW$33</c:f>
               <c:numCache>
                 <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="43"/>
+                <c:ptCount val="26"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>18</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>4</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>-1</c:v>
+                  <c:v>3</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>4</c:v>
+                  <c:v>3</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>25</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>26</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>84</c:v>
+                  <c:v>5</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>121</c:v>
+                  <c:v>3</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>143</c:v>
+                  <c:v>14</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>114</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>89</c:v>
+                  <c:v>16</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>226</c:v>
+                  <c:v>17</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>-17</c:v>
+                  <c:v>5</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>256</c:v>
+                  <c:v>27</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>361</c:v>
+                  <c:v>23</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>426</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>318</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>637</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>289</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>516</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>730</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>345</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>1073</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>583</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>526</c:v>
-                </c:pt>
-                <c:pt idx="26">
-                  <c:v>552</c:v>
-                </c:pt>
-                <c:pt idx="27">
-                  <c:v>558</c:v>
-                </c:pt>
-                <c:pt idx="28">
-                  <c:v>622</c:v>
-                </c:pt>
-                <c:pt idx="29">
-                  <c:v>545</c:v>
-                </c:pt>
-                <c:pt idx="30">
-                  <c:v>728</c:v>
-                </c:pt>
-                <c:pt idx="31">
-                  <c:v>753</c:v>
-                </c:pt>
-                <c:pt idx="32">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="33">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="34">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="35">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="36">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="37">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="38">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="39">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="40">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="41">
                   <c:v>0</c:v>
                 </c:pt>
               </c:numCache>
@@ -768,7 +562,7 @@
           <c:smooth val="0"/>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000001-9721-4A3C-AEF1-3EBFD4318E69}"/>
+              <c16:uniqueId val="{00000001-AC77-4500-AF6F-BD6EE78FA121}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -777,9 +571,9 @@
           <c:order val="2"/>
           <c:tx>
             <c:strRef>
-              <c:f>Norddeutschland!$A$10:$G$10</c:f>
+              <c:f>Norddeutschland!$A$34:$W$34</c:f>
               <c:strCache>
-                <c:ptCount val="7"/>
+                <c:ptCount val="23"/>
                 <c:pt idx="0">
                   <c:v>2. Ableitung</c:v>
                 </c:pt>
@@ -869,104 +663,56 @@
           </c:dLbls>
           <c:cat>
             <c:numRef>
-              <c:f>Norddeutschland!$H$7:$AX$7</c:f>
+              <c:f>Norddeutschland!$X$31:$AW$31</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="43"/>
+                <c:ptCount val="26"/>
                 <c:pt idx="0">
-                  <c:v>43894</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>43895</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>43896</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>43897</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>43898</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>43899</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>43900</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>43901</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>43902</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>43903</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>43904</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>43905</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>43906</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>43907</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>43908</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>43909</c:v>
-                </c:pt>
-                <c:pt idx="16">
                   <c:v>43910</c:v>
                 </c:pt>
-                <c:pt idx="17">
+                <c:pt idx="1">
                   <c:v>43911</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="2">
                   <c:v>43912</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="3">
                   <c:v>43913</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="4">
                   <c:v>43914</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="5">
                   <c:v>43915</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="6">
                   <c:v>43916</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="7">
                   <c:v>43917</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="8">
                   <c:v>43918</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="9">
                   <c:v>43919</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="10">
                   <c:v>43920</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="11">
                   <c:v>43921</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="12">
                   <c:v>43922</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="13">
                   <c:v>43923</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="14">
                   <c:v>43924</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="15">
                   <c:v>43925</c:v>
                 </c:pt>
               </c:numCache>
@@ -974,10 +720,10 @@
           </c:cat>
           <c:val>
             <c:numRef>
-              <c:f>Norddeutschland!$H$10:$AX$10</c:f>
+              <c:f>Norddeutschland!$X$34:$AW$34</c:f>
               <c:numCache>
                 <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="43"/>
+                <c:ptCount val="26"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -985,123 +731,75 @@
                   <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>-14</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>-5</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>5</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>21</c:v>
-                </c:pt>
-                <c:pt idx="6">
                   <c:v>1</c:v>
                 </c:pt>
+                <c:pt idx="3">
+                  <c:v>2</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>0</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>-1</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>0</c:v>
+                </c:pt>
                 <c:pt idx="7">
-                  <c:v>58</c:v>
+                  <c:v>3</c:v>
                 </c:pt>
                 <c:pt idx="8">
-                  <c:v>37</c:v>
+                  <c:v>-2</c:v>
                 </c:pt>
                 <c:pt idx="9">
-                  <c:v>22</c:v>
+                  <c:v>11</c:v>
                 </c:pt>
                 <c:pt idx="10">
-                  <c:v>-29</c:v>
+                  <c:v>-7</c:v>
                 </c:pt>
                 <c:pt idx="11">
-                  <c:v>-25</c:v>
+                  <c:v>9</c:v>
                 </c:pt>
                 <c:pt idx="12">
-                  <c:v>137</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="13">
-                  <c:v>-243</c:v>
+                  <c:v>-12</c:v>
                 </c:pt>
                 <c:pt idx="14">
-                  <c:v>273</c:v>
+                  <c:v>22</c:v>
                 </c:pt>
                 <c:pt idx="15">
-                  <c:v>105</c:v>
+                  <c:v>-4</c:v>
                 </c:pt>
                 <c:pt idx="16">
-                  <c:v>65</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="17">
-                  <c:v>-108</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="18">
-                  <c:v>319</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="19">
-                  <c:v>-348</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="20">
-                  <c:v>227</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="21">
-                  <c:v>214</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="22">
-                  <c:v>-385</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="23">
-                  <c:v>728</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="24">
-                  <c:v>-490</c:v>
+                  <c:v>0</c:v>
                 </c:pt>
                 <c:pt idx="25">
-                  <c:v>-57</c:v>
-                </c:pt>
-                <c:pt idx="26">
-                  <c:v>26</c:v>
-                </c:pt>
-                <c:pt idx="27">
-                  <c:v>6</c:v>
-                </c:pt>
-                <c:pt idx="28">
-                  <c:v>64</c:v>
-                </c:pt>
-                <c:pt idx="29">
-                  <c:v>-77</c:v>
-                </c:pt>
-                <c:pt idx="30">
-                  <c:v>183</c:v>
-                </c:pt>
-                <c:pt idx="31">
-                  <c:v>25</c:v>
-                </c:pt>
-                <c:pt idx="32">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="33">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="34">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="35">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="36">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="37">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="38">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="39">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="40">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="41">
                   <c:v>0</c:v>
                 </c:pt>
               </c:numCache>
@@ -1110,7 +808,7 @@
           <c:smooth val="0"/>
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000002-9721-4A3C-AEF1-3EBFD4318E69}"/>
+              <c16:uniqueId val="{00000002-AC77-4500-AF6F-BD6EE78FA121}"/>
             </c:ext>
           </c:extLst>
         </c:ser>
@@ -1124,11 +822,11 @@
         </c:dLbls>
         <c:marker val="1"/>
         <c:smooth val="0"/>
-        <c:axId val="1506377983"/>
-        <c:axId val="1367860575"/>
+        <c:axId val="2113072864"/>
+        <c:axId val="1988998544"/>
       </c:lineChart>
       <c:dateAx>
-        <c:axId val="1975161279"/>
+        <c:axId val="2112956064"/>
         <c:scaling>
           <c:orientation val="minMax"/>
         </c:scaling>
@@ -1171,14 +869,14 @@
             <a:endParaRPr lang="de-DE"/>
           </a:p>
         </c:txPr>
-        <c:crossAx val="1099737039"/>
+        <c:crossAx val="1989003952"/>
         <c:crosses val="autoZero"/>
         <c:auto val="1"/>
         <c:lblOffset val="100"/>
         <c:baseTimeUnit val="days"/>
       </c:dateAx>
       <c:valAx>
-        <c:axId val="1099737039"/>
+        <c:axId val="1989003952"/>
         <c:scaling>
           <c:orientation val="minMax"/>
         </c:scaling>
@@ -1229,12 +927,12 @@
             <a:endParaRPr lang="de-DE"/>
           </a:p>
         </c:txPr>
-        <c:crossAx val="1975161279"/>
+        <c:crossAx val="2112956064"/>
         <c:crosses val="autoZero"/>
         <c:crossBetween val="between"/>
       </c:valAx>
       <c:valAx>
-        <c:axId val="1367860575"/>
+        <c:axId val="1988998544"/>
         <c:scaling>
           <c:orientation val="minMax"/>
         </c:scaling>
@@ -1271,12 +969,12 @@
             <a:endParaRPr lang="de-DE"/>
           </a:p>
         </c:txPr>
-        <c:crossAx val="1506377983"/>
+        <c:crossAx val="2113072864"/>
         <c:crosses val="max"/>
         <c:crossBetween val="between"/>
       </c:valAx>
       <c:dateAx>
-        <c:axId val="1506377983"/>
+        <c:axId val="2113072864"/>
         <c:scaling>
           <c:orientation val="minMax"/>
         </c:scaling>
@@ -1286,7 +984,7 @@
         <c:majorTickMark val="out"/>
         <c:minorTickMark val="none"/>
         <c:tickLblPos val="nextTo"/>
-        <c:crossAx val="1367860575"/>
+        <c:crossAx val="1988998544"/>
         <c:crosses val="autoZero"/>
         <c:auto val="1"/>
         <c:lblOffset val="100"/>

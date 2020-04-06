@@ -2,7 +2,7 @@
 <xdr:wsDr xmlns:xdr="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
   <xdr:absoluteAnchor>
     <xdr:pos x="0" y="0"/>
-    <xdr:ext cx="9290716" cy="6003054"/>
+    <xdr:ext cx="9299408" cy="6010776"/>
     <xdr:graphicFrame macro="">
       <xdr:nvGraphicFramePr>
         <xdr:cNvPr id="2" name="Diagramm 1">
