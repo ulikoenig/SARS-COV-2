@@ -2,13 +2,13 @@
 <xdr:wsDr xmlns:xdr="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
   <xdr:absoluteAnchor>
     <xdr:pos x="0" y="0"/>
-    <xdr:ext cx="9299408" cy="6010776"/>
+    <xdr:ext cx="9290716" cy="6003054"/>
     <xdr:graphicFrame macro="">
       <xdr:nvGraphicFramePr>
         <xdr:cNvPr id="2" name="Diagramm 1">
           <a:extLst>
             <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
-              <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{DEFE14DE-F0E2-453F-816A-000298FCB73C}"/>
+              <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{A8B71781-1B89-40ED-B355-A28505D681FB}"/>
             </a:ext>
           </a:extLst>
         </xdr:cNvPr>

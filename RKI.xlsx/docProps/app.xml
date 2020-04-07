@@ -16,7 +16,7 @@
         <vt:lpstr>Diagramme</vt:lpstr>
       </vt:variant>
       <vt:variant>
-        <vt:i4>17</vt:i4>
+        <vt:i4>16</vt:i4>
       </vt:variant>
       <vt:variant>
         <vt:lpstr>Benannte Bereiche</vt:lpstr>
@@ -27,14 +27,13 @@
     </vt:vector>
   </HeadingPairs>
   <TitlesOfParts>
-    <vt:vector size="25" baseType="lpstr">
+    <vt:vector size="24" baseType="lpstr">
       <vt:lpstr>RKI Zahlen</vt:lpstr>
       <vt:lpstr>Vorlage</vt:lpstr>
       <vt:lpstr>Hamburg</vt:lpstr>
       <vt:lpstr>Norddeutschland</vt:lpstr>
       <vt:lpstr>Woche</vt:lpstr>
       <vt:lpstr>DE-Infiziert-Genesen-Hosp-Tot</vt:lpstr>
-      <vt:lpstr>Infizierte vs. Genesene</vt:lpstr>
       <vt:lpstr>DE-Infizierte Abl</vt:lpstr>
       <vt:lpstr>Bunddesländer Absolut</vt:lpstr>
       <vt:lpstr>Bundesländer pro Kopf</vt:lpstr>

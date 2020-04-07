@@ -93,7 +93,7 @@
               <a:effectLst/>
             </c:spPr>
             <c:txPr>
-              <a:bodyPr rot="5400000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+              <a:bodyPr rot="5400000" spcFirstLastPara="1" vertOverflow="ellipsis" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
                 <a:spAutoFit/>
               </a:bodyPr>
               <a:lstStyle/>
@@ -144,14 +144,14 @@
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
-                    <c15:sqref>'RKI Zahlen'!$B$113:$AN$113</c15:sqref>
+                    <c15:sqref>'RKI Zahlen'!$B$113:$AO$113</c15:sqref>
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>'RKI Zahlen'!$S$113:$AN$113</c:f>
+              <c:f>'RKI Zahlen'!$S$113:$AO$113</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="22"/>
+                <c:ptCount val="23"/>
                 <c:pt idx="0">
                   <c:v>43905</c:v>
                 </c:pt>
@@ -218,6 +218,9 @@
                 <c:pt idx="21">
                   <c:v>43926</c:v>
                 </c:pt>
+                <c:pt idx="22">
+                  <c:v>43927</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -226,14 +229,14 @@
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
-                    <c15:sqref>'RKI Zahlen'!$B$114:$AN$114</c15:sqref>
+                    <c15:sqref>'RKI Zahlen'!$B$114:$AO$114</c15:sqref>
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>'RKI Zahlen'!$S$114:$AN$114</c:f>
+              <c:f>'RKI Zahlen'!$S$114:$AO$114</c:f>
               <c:numCache>
                 <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="22"/>
+                <c:ptCount val="23"/>
                 <c:pt idx="0">
                   <c:v>4826</c:v>
                 </c:pt>
@@ -300,6 +303,9 @@
                 <c:pt idx="21">
                   <c:v>52122</c:v>
                 </c:pt>
+                <c:pt idx="22">
+                  <c:v>53307</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -342,7 +348,7 @@
               <a:effectLst/>
             </c:spPr>
             <c:txPr>
-              <a:bodyPr rot="5400000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+              <a:bodyPr rot="5400000" spcFirstLastPara="1" vertOverflow="ellipsis" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
                 <a:spAutoFit/>
               </a:bodyPr>
               <a:lstStyle/>
@@ -393,14 +399,14 @@
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
-                    <c15:sqref>'RKI Zahlen'!$B$113:$AN$113</c15:sqref>
+                    <c15:sqref>'RKI Zahlen'!$B$113:$AO$113</c15:sqref>
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>'RKI Zahlen'!$S$113:$AN$113</c:f>
+              <c:f>'RKI Zahlen'!$S$113:$AO$113</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="22"/>
+                <c:ptCount val="23"/>
                 <c:pt idx="0">
                   <c:v>43905</c:v>
                 </c:pt>
@@ -467,6 +473,9 @@
                 <c:pt idx="21">
                   <c:v>43926</c:v>
                 </c:pt>
+                <c:pt idx="22">
+                  <c:v>43927</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -475,14 +484,14 @@
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
-                    <c15:sqref>'RKI Zahlen'!$B$116:$AN$116</c15:sqref>
+                    <c15:sqref>'RKI Zahlen'!$B$116:$AO$116</c15:sqref>
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>'RKI Zahlen'!$S$116:$AN$116</c:f>
+              <c:f>'RKI Zahlen'!$S$116:$AO$116</c:f>
               <c:numCache>
                 <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="22"/>
+                <c:ptCount val="23"/>
                 <c:pt idx="0">
                   <c:v>12</c:v>
                 </c:pt>
@@ -549,6 +558,9 @@
                 <c:pt idx="21">
                   <c:v>1342</c:v>
                 </c:pt>
+                <c:pt idx="22">
+                  <c:v>1434</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -591,7 +603,7 @@
               <a:effectLst/>
             </c:spPr>
             <c:txPr>
-              <a:bodyPr rot="5400000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+              <a:bodyPr rot="5400000" spcFirstLastPara="1" vertOverflow="ellipsis" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
                 <a:spAutoFit/>
               </a:bodyPr>
               <a:lstStyle/>
@@ -645,14 +657,14 @@
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
-                    <c15:sqref>'RKI Zahlen'!$B$113:$AN$113</c15:sqref>
+                    <c15:sqref>'RKI Zahlen'!$B$113:$AO$113</c15:sqref>
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>'RKI Zahlen'!$S$113:$AN$113</c:f>
+              <c:f>'RKI Zahlen'!$S$113:$AO$113</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="22"/>
+                <c:ptCount val="23"/>
                 <c:pt idx="0">
                   <c:v>43905</c:v>
                 </c:pt>
@@ -719,6 +731,9 @@
                 <c:pt idx="21">
                   <c:v>43926</c:v>
                 </c:pt>
+                <c:pt idx="22">
+                  <c:v>43927</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -727,14 +742,14 @@
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
-                    <c15:sqref>'RKI Zahlen'!$B$117:$AN$117</c15:sqref>
+                    <c15:sqref>'RKI Zahlen'!$B$117:$AO$117</c15:sqref>
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>'RKI Zahlen'!$S$117:$AN$117</c:f>
+              <c:f>'RKI Zahlen'!$S$117:$AO$117</c:f>
               <c:numCache>
                 <c:formatCode>#,##0</c:formatCode>
-                <c:ptCount val="22"/>
+                <c:ptCount val="23"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -801,6 +816,9 @@
                 <c:pt idx="21">
                   <c:v>9550</c:v>
                 </c:pt>
+                <c:pt idx="22">
+                  <c:v>10050</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
@@ -843,7 +861,7 @@
               <a:effectLst/>
             </c:spPr>
             <c:txPr>
-              <a:bodyPr rot="5400000" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+              <a:bodyPr rot="5400000" spcFirstLastPara="1" vertOverflow="ellipsis" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
                 <a:spAutoFit/>
               </a:bodyPr>
               <a:lstStyle/>
@@ -897,14 +915,14 @@
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
-                    <c15:sqref>'RKI Zahlen'!$B$113:$AN$113</c15:sqref>
+                    <c15:sqref>'RKI Zahlen'!$B$113:$AO$113</c15:sqref>
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>'RKI Zahlen'!$S$113:$AN$113</c:f>
+              <c:f>'RKI Zahlen'!$S$113:$AO$113</c:f>
               <c:numCache>
                 <c:formatCode>m/d/yyyy</c:formatCode>
-                <c:ptCount val="22"/>
+                <c:ptCount val="23"/>
                 <c:pt idx="0">
                   <c:v>43905</c:v>
                 </c:pt>
@@ -971,6 +989,9 @@
                 <c:pt idx="21">
                   <c:v>43926</c:v>
                 </c:pt>
+                <c:pt idx="22">
+                  <c:v>43927</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -979,14 +1000,14 @@
               <c:extLst>
                 <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
                   <c15:fullRef>
-                    <c15:sqref>'RKI Zahlen'!$B$115:$AN$115</c15:sqref>
+                    <c15:sqref>'RKI Zahlen'!$B$115:$AO$115</c15:sqref>
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>'RKI Zahlen'!$S$115:$AN$115</c:f>
+              <c:f>'RKI Zahlen'!$S$115:$AO$115</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="22"/>
+                <c:ptCount val="23"/>
                 <c:pt idx="0">
                   <c:v>0</c:v>
                 </c:pt>
@@ -1052,6 +1073,9 @@
                 </c:pt>
                 <c:pt idx="21">
                   <c:v>28700</c:v>
+                </c:pt>
+                <c:pt idx="22">
+                  <c:v>30600</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>

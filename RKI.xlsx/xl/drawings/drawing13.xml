@@ -8,7 +8,7 @@
         <xdr:cNvPr id="2" name="Diagramm 1">
           <a:extLst>
             <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
-              <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{57CEEB51-C741-4744-93A0-5FF7BDC65ACD}"/>
+              <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{24721E34-4688-4F63-9D5B-52C3F96D2576}"/>
             </a:ext>
           </a:extLst>
         </xdr:cNvPr>
