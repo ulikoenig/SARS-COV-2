@@ -7,9 +7,9 @@
       <x15ac:absPath xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac" url="C:\Users\ukoenig\Documents\2020\Corona\"/>
     </mc:Choice>
   </mc:AlternateContent>
-  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{30207CBF-C579-449C-ABF6-144099F66F7B}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{D0B20F68-3206-49B8-AA89-4E8B08BD0101}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
   <bookViews>
-    <workbookView xWindow="16567" yWindow="1140" windowWidth="21601" windowHeight="11422" tabRatio="709" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
+    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="709" activeTab="7" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
   </bookViews>
   <sheets>
     <sheet name="Kreise" sheetId="3" r:id="rId1"/>
@@ -19,8 +19,7 @@
     <sheet name="DC-Kreise" sheetId="9" r:id="rId5"/>
     <sheet name="DC-Kreise2" sheetId="11" r:id="rId6"/>
     <sheet name="DC-Kreise-Normiert" sheetId="10" r:id="rId7"/>
-    <sheet name="DC-Kreise-Ableitung" sheetId="25" r:id="rId8"/>
-    <sheet name="DC-Kreise-Ableitung-Tot" sheetId="34" r:id="rId9"/>
+    <sheet name="DC-Kreise-Ableitung-Tot" sheetId="34" r:id="rId8"/>
   </sheets>
   <definedNames>
     <definedName name="_xlnm.Print_Area" localSheetId="1">Auswertung!$A$1</definedName>

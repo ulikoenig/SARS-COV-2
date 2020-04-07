@@ -199,7 +199,7 @@
                 <c:formatCode>0</c:formatCode>
                 <c:ptCount val="7"/>
                 <c:pt idx="0">
-                  <c:v>184</c:v>
+                  <c:v>241</c:v>
                 </c:pt>
                 <c:pt idx="1">
                   <c:v>248</c:v>
@@ -346,7 +346,7 @@
                 <c:formatCode>0</c:formatCode>
                 <c:ptCount val="7"/>
                 <c:pt idx="0">
-                  <c:v>36.799999999999997</c:v>
+                  <c:v>40.166666666666664</c:v>
                 </c:pt>
                 <c:pt idx="1">
                   <c:v>49.6</c:v>

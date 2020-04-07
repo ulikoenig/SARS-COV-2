@@ -3420,6 +3420,9 @@
               <c:f>Kreise!$BO$1</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
+                <c:pt idx="0">
+                  <c:v>06.04.2020</c:v>
+                </c:pt>
               </c:strCache>
             </c:strRef>
           </c:tx>
@@ -3505,6 +3508,51 @@
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
                 <c:ptCount val="15"/>
+                <c:pt idx="0">
+                  <c:v>40</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>29</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>162</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>169</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>105</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>34</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>52</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>52</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>338</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>80</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>172</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>95</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>152</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>61</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>194</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:val>
