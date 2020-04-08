@@ -268,6 +268,9 @@
                 <c:pt idx="38">
                   <c:v>43927</c:v>
                 </c:pt>
+                <c:pt idx="39">
+                  <c:v>43928</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -380,7 +383,7 @@
                   <c:v>95391</c:v>
                 </c:pt>
                 <c:pt idx="39">
-                  <c:v>0</c:v>
+                  <c:v>99225</c:v>
                 </c:pt>
                 <c:pt idx="40">
                   <c:v>0</c:v>
@@ -633,6 +636,9 @@
                 <c:pt idx="38">
                   <c:v>43927</c:v>
                 </c:pt>
+                <c:pt idx="39">
+                  <c:v>43928</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -745,7 +751,7 @@
                   <c:v>3677</c:v>
                 </c:pt>
                 <c:pt idx="39">
-                  <c:v>0</c:v>
+                  <c:v>3834</c:v>
                 </c:pt>
                 <c:pt idx="40">
                   <c:v>0</c:v>
@@ -984,6 +990,9 @@
                 <c:pt idx="38">
                   <c:v>43927</c:v>
                 </c:pt>
+                <c:pt idx="39">
+                  <c:v>43928</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -1096,7 +1105,7 @@
                   <c:v>-2259</c:v>
                 </c:pt>
                 <c:pt idx="39">
-                  <c:v>0</c:v>
+                  <c:v>157</c:v>
                 </c:pt>
                 <c:pt idx="40">
                   <c:v>0</c:v>

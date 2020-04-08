@@ -5570,6 +5570,627 @@
             </c:ext>
           </c:extLst>
         </c:ser>
+        <c:ser>
+          <c:idx val="38"/>
+          <c:order val="38"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>Vorlage!$AN$70</c:f>
+              <c:strCache>
+                <c:ptCount val="1"/>
+                <c:pt idx="0">
+                  <c:v>05.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:strRef>
+          </c:tx>
+          <c:spPr>
+            <a:solidFill>
+              <a:schemeClr val="accent3">
+                <a:lumMod val="70000"/>
+                <a:lumOff val="30000"/>
+              </a:schemeClr>
+            </a:solidFill>
+            <a:ln>
+              <a:noFill/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+          <c:invertIfNegative val="0"/>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:txPr>
+              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+                <a:spAutoFit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr>
+                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                    <a:solidFill>
+                      <a:schemeClr val="tx1">
+                        <a:lumMod val="75000"/>
+                        <a:lumOff val="25000"/>
+                      </a:schemeClr>
+                    </a:solidFill>
+                    <a:latin typeface="+mn-lt"/>
+                    <a:ea typeface="+mn-ea"/>
+                    <a:cs typeface="+mn-cs"/>
+                  </a:defRPr>
+                </a:pPr>
+                <a:endParaRPr lang="de-DE"/>
+              </a:p>
+            </c:txPr>
+            <c:dLblPos val="outEnd"/>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+                <c15:leaderLines>
+                  <c:spPr>
+                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                      <a:solidFill>
+                        <a:schemeClr val="tx1">
+                          <a:lumMod val="35000"/>
+                          <a:lumOff val="65000"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:round/>
+                    </a:ln>
+                    <a:effectLst/>
+                  </c:spPr>
+                </c15:leaderLines>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
+          <c:cat>
+            <c:strRef>
+              <c:f>Vorlage!$A$71:$A$86</c:f>
+              <c:strCache>
+                <c:ptCount val="16"/>
+                <c:pt idx="0">
+                  <c:v>Baden-Württemberg</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>Bayern</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>Berlin</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>Brandenburg</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>Bremen</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>Hamburg</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>Hessen</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>Mecklenburg-Vorpommern</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>Niedersachsen</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>Nordrhein-Westfalen</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>Rheinland Pfalz</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>Saarland</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>Sachsen</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>Sachsen-Anhalt</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>Schleswig-Holstein</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>Thüringen</c:v>
+                </c:pt>
+              </c:strCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:strRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>Vorlage!$AN$71:$AN$86</c:f>
+              <c:numCache>
+                <c:formatCode>#,##0.00</c:formatCode>
+                <c:ptCount val="16"/>
+                <c:pt idx="0">
+                  <c:v>33.154063500239801</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>30.282820899826493</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>6.5846764701524849</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>6.7677395391647099</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>8.7849531322750405</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>10.319474640977329</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>8.9373933996392179</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>3.1062170935126656</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>11.149461919451277</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>13.662229862165946</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>7.8338364941231546</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>14.134147190989683</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>7.8471050435551115</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>5.4339926124870432</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>6.2139418761685663</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>4.6851727868297921</c:v>
+                </c:pt>
+              </c:numCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:numRef>
+          </c:val>
+          <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000026-84AE-4176-AD2C-9C232C34B461}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
+        <c:ser>
+          <c:idx val="39"/>
+          <c:order val="39"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>Vorlage!$AO$70</c:f>
+              <c:strCache>
+                <c:ptCount val="1"/>
+                <c:pt idx="0">
+                  <c:v>06.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:strRef>
+          </c:tx>
+          <c:spPr>
+            <a:solidFill>
+              <a:schemeClr val="accent4">
+                <a:lumMod val="70000"/>
+                <a:lumOff val="30000"/>
+              </a:schemeClr>
+            </a:solidFill>
+            <a:ln>
+              <a:noFill/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+          <c:invertIfNegative val="0"/>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:txPr>
+              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+                <a:spAutoFit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr>
+                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                    <a:solidFill>
+                      <a:schemeClr val="tx1">
+                        <a:lumMod val="75000"/>
+                        <a:lumOff val="25000"/>
+                      </a:schemeClr>
+                    </a:solidFill>
+                    <a:latin typeface="+mn-lt"/>
+                    <a:ea typeface="+mn-ea"/>
+                    <a:cs typeface="+mn-cs"/>
+                  </a:defRPr>
+                </a:pPr>
+                <a:endParaRPr lang="de-DE"/>
+              </a:p>
+            </c:txPr>
+            <c:dLblPos val="outEnd"/>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+                <c15:leaderLines>
+                  <c:spPr>
+                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                      <a:solidFill>
+                        <a:schemeClr val="tx1">
+                          <a:lumMod val="35000"/>
+                          <a:lumOff val="65000"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:round/>
+                    </a:ln>
+                    <a:effectLst/>
+                  </c:spPr>
+                </c15:leaderLines>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
+          <c:cat>
+            <c:strRef>
+              <c:f>Vorlage!$A$71:$A$86</c:f>
+              <c:strCache>
+                <c:ptCount val="16"/>
+                <c:pt idx="0">
+                  <c:v>Baden-Württemberg</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>Bayern</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>Berlin</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>Brandenburg</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>Bremen</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>Hamburg</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>Hessen</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>Mecklenburg-Vorpommern</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>Niedersachsen</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>Nordrhein-Westfalen</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>Rheinland Pfalz</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>Saarland</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>Sachsen</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>Sachsen-Anhalt</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>Schleswig-Holstein</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>Thüringen</c:v>
+                </c:pt>
+              </c:strCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:strRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>Vorlage!$AO$71:$AO$86</c:f>
+              <c:numCache>
+                <c:formatCode>#,##0.00</c:formatCode>
+                <c:ptCount val="16"/>
+                <c:pt idx="0">
+                  <c:v>34.960824453931345</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>33.418163467737827</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>7.1333995093318583</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>7.5639441908311458</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>11.713270843033387</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>10.319474640977329</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>9.7353749531784324</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>3.7274605122151985</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>11.525286478533904</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>14.219871897356393</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>7.8338364941231546</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>14.134147190989683</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>8.3375491087773064</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>5.4339926124870432</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>6.9043798624095176</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>5.6222073441957505</c:v>
+                </c:pt>
+              </c:numCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:numRef>
+          </c:val>
+          <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000027-84AE-4176-AD2C-9C232C34B461}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
+        <c:ser>
+          <c:idx val="40"/>
+          <c:order val="40"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>Vorlage!$AP$70</c:f>
+              <c:strCache>
+                <c:ptCount val="1"/>
+                <c:pt idx="0">
+                  <c:v>07.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:strRef>
+          </c:tx>
+          <c:spPr>
+            <a:solidFill>
+              <a:schemeClr val="accent5">
+                <a:lumMod val="70000"/>
+                <a:lumOff val="30000"/>
+              </a:schemeClr>
+            </a:solidFill>
+            <a:ln>
+              <a:noFill/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+          <c:invertIfNegative val="0"/>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:txPr>
+              <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
+                <a:spAutoFit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr>
+                  <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
+                    <a:solidFill>
+                      <a:schemeClr val="tx1">
+                        <a:lumMod val="75000"/>
+                        <a:lumOff val="25000"/>
+                      </a:schemeClr>
+                    </a:solidFill>
+                    <a:latin typeface="+mn-lt"/>
+                    <a:ea typeface="+mn-ea"/>
+                    <a:cs typeface="+mn-cs"/>
+                  </a:defRPr>
+                </a:pPr>
+                <a:endParaRPr lang="de-DE"/>
+              </a:p>
+            </c:txPr>
+            <c:dLblPos val="outEnd"/>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+                <c15:leaderLines>
+                  <c:spPr>
+                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                      <a:solidFill>
+                        <a:schemeClr val="tx1">
+                          <a:lumMod val="35000"/>
+                          <a:lumOff val="65000"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:round/>
+                    </a:ln>
+                    <a:effectLst/>
+                  </c:spPr>
+                </c15:leaderLines>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
+          <c:cat>
+            <c:strRef>
+              <c:f>Vorlage!$A$71:$A$86</c:f>
+              <c:strCache>
+                <c:ptCount val="16"/>
+                <c:pt idx="0">
+                  <c:v>Baden-Württemberg</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>Bayern</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>Berlin</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>Brandenburg</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>Bremen</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>Hamburg</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>Hessen</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>Mecklenburg-Vorpommern</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>Niedersachsen</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>Nordrhein-Westfalen</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>Rheinland Pfalz</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>Saarland</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>Sachsen</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>Sachsen-Anhalt</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>Schleswig-Holstein</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>Thüringen</c:v>
+                </c:pt>
+              </c:strCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:strRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>Vorlage!$AP$71:$AP$86</c:f>
+              <c:numCache>
+                <c:formatCode>#,##0.00</c:formatCode>
+                <c:ptCount val="16"/>
+                <c:pt idx="0">
+                  <c:v>39.116374647421893</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>36.782921345496327</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>7.6821225485112326</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>7.9620465166643655</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>13.17742969841256</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>10.862604885239294</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>11.650530681672549</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>4.9699473496202646</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>13.90550868605721</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>15.725505392370598</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>8.3234512750058514</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>16.153311075416781</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>9.3184372392216943</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>5.4339926124870432</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>8.2852558348914211</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>8.4333110162936258</c:v>
+                </c:pt>
+              </c:numCache>
+              <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+            </c:numRef>
+          </c:val>
+          <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000028-84AE-4176-AD2C-9C232C34B461}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
         <c:dLbls>
           <c:dLblPos val="outEnd"/>
           <c:showLegendKey val="0"/>
@@ -7989,627 +8610,6 @@
                 <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
                     <c16:uniqueId val="{00000020-84AE-4176-AD2C-9C232C34B461}"/>
-                  </c:ext>
-                </c:extLst>
-              </c15:ser>
-            </c15:filteredBarSeries>
-            <c15:filteredBarSeries>
-              <c15:ser>
-                <c:idx val="38"/>
-                <c:order val="38"/>
-                <c:tx>
-                  <c:strRef>
-                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Vorlage!$AN$70</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:strCache>
-                      <c:ptCount val="1"/>
-                      <c:pt idx="0">
-                        <c:v>05.04.2020</c:v>
-                      </c:pt>
-                    </c:strCache>
-                  </c:strRef>
-                </c:tx>
-                <c:spPr>
-                  <a:solidFill>
-                    <a:schemeClr val="accent3">
-                      <a:lumMod val="70000"/>
-                      <a:lumOff val="30000"/>
-                    </a:schemeClr>
-                  </a:solidFill>
-                  <a:ln>
-                    <a:noFill/>
-                  </a:ln>
-                  <a:effectLst/>
-                </c:spPr>
-                <c:invertIfNegative val="0"/>
-                <c:dLbls>
-                  <c:spPr>
-                    <a:noFill/>
-                    <a:ln>
-                      <a:noFill/>
-                    </a:ln>
-                    <a:effectLst/>
-                  </c:spPr>
-                  <c:txPr>
-                    <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
-                      <a:spAutoFit/>
-                    </a:bodyPr>
-                    <a:lstStyle/>
-                    <a:p>
-                      <a:pPr>
-                        <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
-                          <a:solidFill>
-                            <a:schemeClr val="tx1">
-                              <a:lumMod val="75000"/>
-                              <a:lumOff val="25000"/>
-                            </a:schemeClr>
-                          </a:solidFill>
-                          <a:latin typeface="+mn-lt"/>
-                          <a:ea typeface="+mn-ea"/>
-                          <a:cs typeface="+mn-cs"/>
-                        </a:defRPr>
-                      </a:pPr>
-                      <a:endParaRPr lang="de-DE"/>
-                    </a:p>
-                  </c:txPr>
-                  <c:dLblPos val="outEnd"/>
-                  <c:showLegendKey val="0"/>
-                  <c:showVal val="1"/>
-                  <c:showCatName val="0"/>
-                  <c:showSerName val="0"/>
-                  <c:showPercent val="0"/>
-                  <c:showBubbleSize val="0"/>
-                  <c:showLeaderLines val="0"/>
-                  <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                    <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
-                      <c15:showLeaderLines val="1"/>
-                      <c15:leaderLines>
-                        <c:spPr>
-                          <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
-                            <a:solidFill>
-                              <a:schemeClr val="tx1">
-                                <a:lumMod val="35000"/>
-                                <a:lumOff val="65000"/>
-                              </a:schemeClr>
-                            </a:solidFill>
-                            <a:round/>
-                          </a:ln>
-                          <a:effectLst/>
-                        </c:spPr>
-                      </c15:leaderLines>
-                    </c:ext>
-                  </c:extLst>
-                </c:dLbls>
-                <c:cat>
-                  <c:strRef>
-                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Vorlage!$A$71:$A$86</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:strCache>
-                      <c:ptCount val="16"/>
-                      <c:pt idx="0">
-                        <c:v>Baden-Württemberg</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>Bayern</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>Berlin</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>Brandenburg</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>Bremen</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>Hamburg</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>Hessen</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>Mecklenburg-Vorpommern</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>Niedersachsen</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>Nordrhein-Westfalen</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>Rheinland Pfalz</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>Saarland</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>Sachsen</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>Sachsen-Anhalt</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>Schleswig-Holstein</c:v>
-                      </c:pt>
-                      <c:pt idx="15">
-                        <c:v>Thüringen</c:v>
-                      </c:pt>
-                    </c:strCache>
-                  </c:strRef>
-                </c:cat>
-                <c:val>
-                  <c:numRef>
-                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Vorlage!$AN$71:$AN$86</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:numCache>
-                      <c:formatCode>#,##0.00</c:formatCode>
-                      <c:ptCount val="16"/>
-                      <c:pt idx="0">
-                        <c:v>33.154063500239801</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>30.282820899826493</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>6.5846764701524849</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>6.7677395391647099</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>8.7849531322750405</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>10.319474640977329</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>8.9373933996392179</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>3.1062170935126656</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>11.149461919451277</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>13.662229862165946</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>7.8338364941231546</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>14.134147190989683</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>7.8471050435551115</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>5.4339926124870432</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>6.2139418761685663</c:v>
-                      </c:pt>
-                      <c:pt idx="15">
-                        <c:v>4.6851727868297921</c:v>
-                      </c:pt>
-                    </c:numCache>
-                  </c:numRef>
-                </c:val>
-                <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                  <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-                    <c16:uniqueId val="{00000026-84AE-4176-AD2C-9C232C34B461}"/>
-                  </c:ext>
-                </c:extLst>
-              </c15:ser>
-            </c15:filteredBarSeries>
-            <c15:filteredBarSeries>
-              <c15:ser>
-                <c:idx val="39"/>
-                <c:order val="39"/>
-                <c:tx>
-                  <c:strRef>
-                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Vorlage!$AO$70</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:strCache>
-                      <c:ptCount val="1"/>
-                      <c:pt idx="0">
-                        <c:v>06.04.2020</c:v>
-                      </c:pt>
-                    </c:strCache>
-                  </c:strRef>
-                </c:tx>
-                <c:spPr>
-                  <a:solidFill>
-                    <a:schemeClr val="accent4">
-                      <a:lumMod val="70000"/>
-                      <a:lumOff val="30000"/>
-                    </a:schemeClr>
-                  </a:solidFill>
-                  <a:ln>
-                    <a:noFill/>
-                  </a:ln>
-                  <a:effectLst/>
-                </c:spPr>
-                <c:invertIfNegative val="0"/>
-                <c:dLbls>
-                  <c:spPr>
-                    <a:noFill/>
-                    <a:ln>
-                      <a:noFill/>
-                    </a:ln>
-                    <a:effectLst/>
-                  </c:spPr>
-                  <c:txPr>
-                    <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
-                      <a:spAutoFit/>
-                    </a:bodyPr>
-                    <a:lstStyle/>
-                    <a:p>
-                      <a:pPr>
-                        <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
-                          <a:solidFill>
-                            <a:schemeClr val="tx1">
-                              <a:lumMod val="75000"/>
-                              <a:lumOff val="25000"/>
-                            </a:schemeClr>
-                          </a:solidFill>
-                          <a:latin typeface="+mn-lt"/>
-                          <a:ea typeface="+mn-ea"/>
-                          <a:cs typeface="+mn-cs"/>
-                        </a:defRPr>
-                      </a:pPr>
-                      <a:endParaRPr lang="de-DE"/>
-                    </a:p>
-                  </c:txPr>
-                  <c:dLblPos val="outEnd"/>
-                  <c:showLegendKey val="0"/>
-                  <c:showVal val="1"/>
-                  <c:showCatName val="0"/>
-                  <c:showSerName val="0"/>
-                  <c:showPercent val="0"/>
-                  <c:showBubbleSize val="0"/>
-                  <c:showLeaderLines val="0"/>
-                  <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                    <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
-                      <c15:showLeaderLines val="1"/>
-                      <c15:leaderLines>
-                        <c:spPr>
-                          <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
-                            <a:solidFill>
-                              <a:schemeClr val="tx1">
-                                <a:lumMod val="35000"/>
-                                <a:lumOff val="65000"/>
-                              </a:schemeClr>
-                            </a:solidFill>
-                            <a:round/>
-                          </a:ln>
-                          <a:effectLst/>
-                        </c:spPr>
-                      </c15:leaderLines>
-                    </c:ext>
-                  </c:extLst>
-                </c:dLbls>
-                <c:cat>
-                  <c:strRef>
-                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Vorlage!$A$71:$A$86</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:strCache>
-                      <c:ptCount val="16"/>
-                      <c:pt idx="0">
-                        <c:v>Baden-Württemberg</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>Bayern</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>Berlin</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>Brandenburg</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>Bremen</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>Hamburg</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>Hessen</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>Mecklenburg-Vorpommern</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>Niedersachsen</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>Nordrhein-Westfalen</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>Rheinland Pfalz</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>Saarland</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>Sachsen</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>Sachsen-Anhalt</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>Schleswig-Holstein</c:v>
-                      </c:pt>
-                      <c:pt idx="15">
-                        <c:v>Thüringen</c:v>
-                      </c:pt>
-                    </c:strCache>
-                  </c:strRef>
-                </c:cat>
-                <c:val>
-                  <c:numRef>
-                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Vorlage!$AO$71:$AO$86</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:numCache>
-                      <c:formatCode>#,##0.00</c:formatCode>
-                      <c:ptCount val="16"/>
-                      <c:pt idx="0">
-                        <c:v>34.960824453931345</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>33.418163467737827</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>7.1333995093318583</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>7.5639441908311458</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>11.713270843033387</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>10.319474640977329</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>9.7353749531784324</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>3.7274605122151985</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>11.525286478533904</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>14.219871897356393</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>7.8338364941231546</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>14.134147190989683</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>8.3375491087773064</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>5.4339926124870432</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>6.9043798624095176</c:v>
-                      </c:pt>
-                      <c:pt idx="15">
-                        <c:v>5.6222073441957505</c:v>
-                      </c:pt>
-                    </c:numCache>
-                  </c:numRef>
-                </c:val>
-                <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                  <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-                    <c16:uniqueId val="{00000027-84AE-4176-AD2C-9C232C34B461}"/>
-                  </c:ext>
-                </c:extLst>
-              </c15:ser>
-            </c15:filteredBarSeries>
-            <c15:filteredBarSeries>
-              <c15:ser>
-                <c:idx val="40"/>
-                <c:order val="40"/>
-                <c:tx>
-                  <c:strRef>
-                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Vorlage!$AP$70</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:strCache>
-                      <c:ptCount val="1"/>
-                    </c:strCache>
-                  </c:strRef>
-                </c:tx>
-                <c:spPr>
-                  <a:solidFill>
-                    <a:schemeClr val="accent5">
-                      <a:lumMod val="70000"/>
-                      <a:lumOff val="30000"/>
-                    </a:schemeClr>
-                  </a:solidFill>
-                  <a:ln>
-                    <a:noFill/>
-                  </a:ln>
-                  <a:effectLst/>
-                </c:spPr>
-                <c:invertIfNegative val="0"/>
-                <c:dLbls>
-                  <c:spPr>
-                    <a:noFill/>
-                    <a:ln>
-                      <a:noFill/>
-                    </a:ln>
-                    <a:effectLst/>
-                  </c:spPr>
-                  <c:txPr>
-                    <a:bodyPr rot="0" spcFirstLastPara="1" vertOverflow="ellipsis" vert="horz" wrap="square" lIns="38100" tIns="19050" rIns="38100" bIns="19050" anchor="ctr" anchorCtr="1">
-                      <a:spAutoFit/>
-                    </a:bodyPr>
-                    <a:lstStyle/>
-                    <a:p>
-                      <a:pPr>
-                        <a:defRPr sz="900" b="0" i="0" u="none" strike="noStrike" kern="1200" baseline="0">
-                          <a:solidFill>
-                            <a:schemeClr val="tx1">
-                              <a:lumMod val="75000"/>
-                              <a:lumOff val="25000"/>
-                            </a:schemeClr>
-                          </a:solidFill>
-                          <a:latin typeface="+mn-lt"/>
-                          <a:ea typeface="+mn-ea"/>
-                          <a:cs typeface="+mn-cs"/>
-                        </a:defRPr>
-                      </a:pPr>
-                      <a:endParaRPr lang="de-DE"/>
-                    </a:p>
-                  </c:txPr>
-                  <c:dLblPos val="outEnd"/>
-                  <c:showLegendKey val="0"/>
-                  <c:showVal val="1"/>
-                  <c:showCatName val="0"/>
-                  <c:showSerName val="0"/>
-                  <c:showPercent val="0"/>
-                  <c:showBubbleSize val="0"/>
-                  <c:showLeaderLines val="0"/>
-                  <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                    <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
-                      <c15:showLeaderLines val="1"/>
-                      <c15:leaderLines>
-                        <c:spPr>
-                          <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
-                            <a:solidFill>
-                              <a:schemeClr val="tx1">
-                                <a:lumMod val="35000"/>
-                                <a:lumOff val="65000"/>
-                              </a:schemeClr>
-                            </a:solidFill>
-                            <a:round/>
-                          </a:ln>
-                          <a:effectLst/>
-                        </c:spPr>
-                      </c15:leaderLines>
-                    </c:ext>
-                  </c:extLst>
-                </c:dLbls>
-                <c:cat>
-                  <c:strRef>
-                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Vorlage!$A$71:$A$86</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:strCache>
-                      <c:ptCount val="16"/>
-                      <c:pt idx="0">
-                        <c:v>Baden-Württemberg</c:v>
-                      </c:pt>
-                      <c:pt idx="1">
-                        <c:v>Bayern</c:v>
-                      </c:pt>
-                      <c:pt idx="2">
-                        <c:v>Berlin</c:v>
-                      </c:pt>
-                      <c:pt idx="3">
-                        <c:v>Brandenburg</c:v>
-                      </c:pt>
-                      <c:pt idx="4">
-                        <c:v>Bremen</c:v>
-                      </c:pt>
-                      <c:pt idx="5">
-                        <c:v>Hamburg</c:v>
-                      </c:pt>
-                      <c:pt idx="6">
-                        <c:v>Hessen</c:v>
-                      </c:pt>
-                      <c:pt idx="7">
-                        <c:v>Mecklenburg-Vorpommern</c:v>
-                      </c:pt>
-                      <c:pt idx="8">
-                        <c:v>Niedersachsen</c:v>
-                      </c:pt>
-                      <c:pt idx="9">
-                        <c:v>Nordrhein-Westfalen</c:v>
-                      </c:pt>
-                      <c:pt idx="10">
-                        <c:v>Rheinland Pfalz</c:v>
-                      </c:pt>
-                      <c:pt idx="11">
-                        <c:v>Saarland</c:v>
-                      </c:pt>
-                      <c:pt idx="12">
-                        <c:v>Sachsen</c:v>
-                      </c:pt>
-                      <c:pt idx="13">
-                        <c:v>Sachsen-Anhalt</c:v>
-                      </c:pt>
-                      <c:pt idx="14">
-                        <c:v>Schleswig-Holstein</c:v>
-                      </c:pt>
-                      <c:pt idx="15">
-                        <c:v>Thüringen</c:v>
-                      </c:pt>
-                    </c:strCache>
-                  </c:strRef>
-                </c:cat>
-                <c:val>
-                  <c:numRef>
-                    <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
-                        <c15:formulaRef>
-                          <c15:sqref>Vorlage!$AP$71:$AP$86</c15:sqref>
-                        </c15:formulaRef>
-                      </c:ext>
-                    </c:extLst>
-                    <c:numCache>
-                      <c:formatCode>#,##0.00</c:formatCode>
-                      <c:ptCount val="16"/>
-                    </c:numCache>
-                  </c:numRef>
-                </c:val>
-                <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
-                  <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-                    <c16:uniqueId val="{00000028-84AE-4176-AD2C-9C232C34B461}"/>
                   </c:ext>
                 </c:extLst>
               </c15:ser>

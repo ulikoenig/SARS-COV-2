@@ -8440,6 +8440,9 @@
                     </c:extLst>
                     <c:strCache>
                       <c:ptCount val="1"/>
+                      <c:pt idx="0">
+                        <c:v>07.04.2020</c:v>
+                      </c:pt>
                     </c:strCache>
                   </c:strRef>
                 </c:tx>
@@ -8588,52 +8591,52 @@
                       <c:formatCode>General</c:formatCode>
                       <c:ptCount val="16"/>
                       <c:pt idx="0">
-                        <c:v>0</c:v>
+                        <c:v>433</c:v>
                       </c:pt>
                       <c:pt idx="1">
-                        <c:v>0</c:v>
+                        <c:v>481</c:v>
                       </c:pt>
                       <c:pt idx="2">
-                        <c:v>0</c:v>
+                        <c:v>28</c:v>
                       </c:pt>
                       <c:pt idx="3">
-                        <c:v>0</c:v>
+                        <c:v>20</c:v>
                       </c:pt>
                       <c:pt idx="4">
-                        <c:v>0</c:v>
+                        <c:v>9</c:v>
                       </c:pt>
                       <c:pt idx="5">
-                        <c:v>0</c:v>
+                        <c:v>20</c:v>
                       </c:pt>
                       <c:pt idx="6">
-                        <c:v>0</c:v>
+                        <c:v>73</c:v>
                       </c:pt>
                       <c:pt idx="7">
-                        <c:v>0</c:v>
+                        <c:v>8</c:v>
                       </c:pt>
                       <c:pt idx="8">
-                        <c:v>0</c:v>
+                        <c:v>111</c:v>
                       </c:pt>
                       <c:pt idx="9">
-                        <c:v>0</c:v>
+                        <c:v>282</c:v>
                       </c:pt>
                       <c:pt idx="10">
-                        <c:v>0</c:v>
+                        <c:v>34</c:v>
                       </c:pt>
                       <c:pt idx="11">
-                        <c:v>0</c:v>
+                        <c:v>16</c:v>
                       </c:pt>
                       <c:pt idx="12">
-                        <c:v>0</c:v>
+                        <c:v>38</c:v>
                       </c:pt>
                       <c:pt idx="13">
-                        <c:v>0</c:v>
+                        <c:v>12</c:v>
                       </c:pt>
                       <c:pt idx="14">
-                        <c:v>0</c:v>
+                        <c:v>24</c:v>
                       </c:pt>
                       <c:pt idx="15">
-                        <c:v>0</c:v>
+                        <c:v>18</c:v>
                       </c:pt>
                     </c:numCache>
                   </c:numRef>
