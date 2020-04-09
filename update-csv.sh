@@ -21,8 +21,10 @@ mv RKI-CSV.csv.tmp RKI-CSV.csv
 echo Upload
 git add RKI-CSV.csv
 git add update-csv.sh
+git commit -m "CSV Update von $TODAY - Quellenvermerk: Robert Koch-Institut (RKI), dl-de/by-2-0"
+git push
 git add STK-Quelle
-#git commit -m "CSV Update von $TODAY - Quellenvermerk: Robert Koch-Institut (RKI), dl-de/by-2-0"
-#git push
+git commit -m "HTML Update von $TODAY - Quellenvermerk: Staatskanzlei SH"
+git push
 
 echo Fertig
