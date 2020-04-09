@@ -3,7 +3,7 @@
   <dimension ref="A1:AW46"/>
   <sheetViews>
     <sheetView topLeftCell="B1" zoomScale="55" zoomScaleNormal="55" workbookViewId="0">
-      <selection activeCell="AP1" sqref="AP1:AP1048576"/>
+      <selection activeCell="AQ1" sqref="AQ1:AQ1048576"/>
     </sheetView>
   </sheetViews>
   <sheetFormatPr baseColWidth="10" defaultRowHeight="14.25" x14ac:dyDescent="0.45"/>
@@ -180,6 +180,10 @@
         <f>IF(AND('RKI Zahlen'!AP1&gt;40000,ISNUMBER('RKI Zahlen'!AP1)),'RKI Zahlen'!AP1,"")</f>
         <v>43928</v>
       </c>
+      <c r="AQ1" s="16">
+        <f>IF(AND('RKI Zahlen'!AQ1&gt;40000,ISNUMBER('RKI Zahlen'!AQ1)),'RKI Zahlen'!AQ1,"")</f>
+        <v>43929</v>
+      </c>
     </row>
     <row r="2" spans="1:49" x14ac:dyDescent="0.45">
       <c r="A2" t="str">
@@ -350,9 +354,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AP6),'RKI Zahlen'!AP6,"")</f>
         <v>399</v>
       </c>
-      <c r="AQ2" t="str">
-        <f>IF(ISNUMBER('RKI Zahlen'!AR6),'RKI Zahlen'!AR6,"")</f>
-        <v/>
+      <c r="AQ2">
+        <f>IF(ISNUMBER('RKI Zahlen'!AQ6),'RKI Zahlen'!AQ6,"")</f>
+        <v>445</v>
       </c>
       <c r="AR2" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AS6),'RKI Zahlen'!AS6,"")</f>
@@ -548,9 +552,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AP7),'RKI Zahlen'!AP7,"")</f>
         <v>3059</v>
       </c>
-      <c r="AQ3" t="str">
-        <f>IF(ISNUMBER('RKI Zahlen'!AR7),'RKI Zahlen'!AR7,"")</f>
-        <v/>
+      <c r="AQ3">
+        <f>IF(ISNUMBER('RKI Zahlen'!AQ7),'RKI Zahlen'!AQ7,"")</f>
+        <v>3320</v>
       </c>
       <c r="AR3" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AS7),'RKI Zahlen'!AS7,"")</f>
@@ -746,9 +750,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AP9),'RKI Zahlen'!AP9,"")</f>
         <v>531</v>
       </c>
-      <c r="AQ4" t="str">
-        <f>IF(ISNUMBER('RKI Zahlen'!AR9),'RKI Zahlen'!AR9,"")</f>
-        <v/>
+      <c r="AQ4">
+        <f>IF(ISNUMBER('RKI Zahlen'!AQ9),'RKI Zahlen'!AQ9,"")</f>
+        <v>572</v>
       </c>
       <c r="AR4" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AS9),'RKI Zahlen'!AS9,"")</f>
@@ -944,9 +948,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AP10),'RKI Zahlen'!AP10,"")</f>
         <v>6200</v>
       </c>
-      <c r="AQ5" t="str">
-        <f>IF(ISNUMBER('RKI Zahlen'!AR10),'RKI Zahlen'!AR10,"")</f>
-        <v/>
+      <c r="AQ5">
+        <f>IF(ISNUMBER('RKI Zahlen'!AQ10),'RKI Zahlen'!AQ10,"")</f>
+        <v>6804</v>
       </c>
       <c r="AR5" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AS10),'RKI Zahlen'!AS10,"")</f>
@@ -1142,9 +1146,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AP16),'RKI Zahlen'!AP16,"")</f>
         <v>1730</v>
       </c>
-      <c r="AQ6" t="str">
-        <f>IF(ISNUMBER('RKI Zahlen'!AR16),'RKI Zahlen'!AR16,"")</f>
-        <v/>
+      <c r="AQ6">
+        <f>IF(ISNUMBER('RKI Zahlen'!AQ16),'RKI Zahlen'!AQ16,"")</f>
+        <v>1932</v>
       </c>
       <c r="AR6" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AS16),'RKI Zahlen'!AS16,"")</f>
@@ -1339,197 +1343,201 @@
         <f t="shared" si="1"/>
         <v>43928</v>
       </c>
+      <c r="AQ7" s="16">
+        <f t="shared" ref="AQ7" si="2">AQ1</f>
+        <v>43929</v>
+      </c>
     </row>
     <row r="8" spans="1:49" s="18" customFormat="1" x14ac:dyDescent="0.45">
       <c r="A8" s="18" t="s">
         <v>26</v>
       </c>
       <c r="C8" s="19" t="str">
-        <f t="shared" ref="C8:AW8" si="2">IF(SUM(C2:C6)&gt;0,SUM(C2:C6),"")</f>
+        <f t="shared" ref="C8:AW8" si="3">IF(SUM(C2:C6)&gt;0,SUM(C2:C6),"")</f>
         <v/>
       </c>
       <c r="D8" s="19" t="str">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v/>
       </c>
       <c r="E8" s="19" t="str">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v/>
       </c>
       <c r="F8" s="19" t="str">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v/>
       </c>
       <c r="G8" s="19" t="str">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v/>
       </c>
       <c r="H8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>28</v>
       </c>
       <c r="I8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>46</v>
       </c>
       <c r="J8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>50</v>
       </c>
       <c r="K8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>49</v>
       </c>
       <c r="L8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>53</v>
       </c>
       <c r="M8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>78</v>
       </c>
       <c r="N8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>104</v>
       </c>
       <c r="O8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>188</v>
       </c>
       <c r="P8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>309</v>
       </c>
       <c r="Q8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>452</v>
       </c>
       <c r="R8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>566</v>
       </c>
       <c r="S8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>655</v>
       </c>
       <c r="T8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>881</v>
       </c>
       <c r="U8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>864</v>
       </c>
       <c r="V8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>1120</v>
       </c>
       <c r="W8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>1481</v>
       </c>
       <c r="X8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>1907</v>
       </c>
       <c r="Y8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>2225</v>
       </c>
       <c r="Z8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>2862</v>
       </c>
       <c r="AA8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>3151</v>
       </c>
       <c r="AB8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>3667</v>
       </c>
       <c r="AC8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>4397</v>
       </c>
       <c r="AD8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>4742</v>
       </c>
       <c r="AE8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>5815</v>
       </c>
       <c r="AF8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>6398</v>
       </c>
       <c r="AG8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>6924</v>
       </c>
       <c r="AH8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>7476</v>
       </c>
       <c r="AI8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>8034</v>
       </c>
       <c r="AJ8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>8656</v>
       </c>
       <c r="AK8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>9201</v>
       </c>
       <c r="AL8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>9929</v>
       </c>
       <c r="AM8" s="19">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v>10682</v>
       </c>
       <c r="AN8" s="19">
-        <f t="shared" ref="AN8:AP8" si="3">IF(SUM(AN2:AN6)&gt;0,SUM(AN2:AN6),"")</f>
+        <f t="shared" ref="AN8:AP8" si="4">IF(SUM(AN2:AN6)&gt;0,SUM(AN2:AN6),"")</f>
         <v>11205</v>
       </c>
       <c r="AO8" s="19">
-        <f t="shared" si="3"/>
+        <f t="shared" si="4"/>
         <v>11549</v>
       </c>
       <c r="AP8" s="19">
-        <f t="shared" si="3"/>
+        <f t="shared" si="4"/>
         <v>11919</v>
       </c>
-      <c r="AQ8" s="19" t="str">
-        <f t="shared" si="2"/>
-        <v/>
+      <c r="AQ8" s="19">
+        <f t="shared" ref="AQ8" si="5">IF(SUM(AQ2:AQ6)&gt;0,SUM(AQ2:AQ6),"")</f>
+        <v>13073</v>
       </c>
       <c r="AR8" s="19" t="str">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v/>
       </c>
       <c r="AS8" s="19" t="str">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v/>
       </c>
       <c r="AT8" s="19" t="str">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v/>
       </c>
       <c r="AU8" s="19" t="str">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v/>
       </c>
       <c r="AV8" s="19" t="str">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v/>
       </c>
       <c r="AW8" s="19" t="str">
-        <f t="shared" si="2"/>
+        <f t="shared" si="3"/>
         <v/>
       </c>
     </row>
@@ -1543,187 +1551,187 @@
         <v/>
       </c>
       <c r="D9" s="4" t="str">
-        <f t="shared" ref="D9:S10" si="4">IF(AND(ISNUMBER(C8),ISNUMBER(D8)),D8-C8,"")</f>
+        <f t="shared" ref="D9:S10" si="6">IF(AND(ISNUMBER(C8),ISNUMBER(D8)),D8-C8,"")</f>
         <v/>
       </c>
       <c r="E9" s="4" t="str">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v/>
       </c>
       <c r="F9" s="4" t="str">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v/>
       </c>
       <c r="G9" s="4" t="str">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v/>
       </c>
       <c r="H9" s="4" t="str">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v/>
       </c>
       <c r="I9" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>18</v>
       </c>
       <c r="J9" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>4</v>
       </c>
       <c r="K9" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>-1</v>
       </c>
       <c r="L9" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>4</v>
       </c>
       <c r="M9" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>25</v>
       </c>
       <c r="N9" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>26</v>
       </c>
       <c r="O9" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>84</v>
       </c>
       <c r="P9" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>121</v>
       </c>
       <c r="Q9" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>143</v>
       </c>
       <c r="R9" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>114</v>
       </c>
       <c r="S9" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>89</v>
       </c>
       <c r="T9" s="4">
-        <f t="shared" ref="T9:AI10" si="5">IF(AND(ISNUMBER(S8),ISNUMBER(T8)),T8-S8,"")</f>
+        <f t="shared" ref="T9:AI10" si="7">IF(AND(ISNUMBER(S8),ISNUMBER(T8)),T8-S8,"")</f>
         <v>226</v>
       </c>
       <c r="U9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>-17</v>
       </c>
       <c r="V9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>256</v>
       </c>
       <c r="W9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>361</v>
       </c>
       <c r="X9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>426</v>
       </c>
       <c r="Y9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>318</v>
       </c>
       <c r="Z9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>637</v>
       </c>
       <c r="AA9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>289</v>
       </c>
       <c r="AB9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>516</v>
       </c>
       <c r="AC9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>730</v>
       </c>
       <c r="AD9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>345</v>
       </c>
       <c r="AE9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>1073</v>
       </c>
       <c r="AF9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>583</v>
       </c>
       <c r="AG9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>526</v>
       </c>
       <c r="AH9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>552</v>
       </c>
       <c r="AI9" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>558</v>
       </c>
       <c r="AJ9" s="4">
-        <f t="shared" ref="AJ9:AW10" si="6">IF(AND(ISNUMBER(AI8),ISNUMBER(AJ8)),AJ8-AI8,"")</f>
+        <f t="shared" ref="AJ9:AW10" si="8">IF(AND(ISNUMBER(AI8),ISNUMBER(AJ8)),AJ8-AI8,"")</f>
         <v>622</v>
       </c>
       <c r="AK9" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>545</v>
       </c>
       <c r="AL9" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>728</v>
       </c>
       <c r="AM9" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>753</v>
       </c>
       <c r="AN9" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>523</v>
       </c>
       <c r="AO9" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>344</v>
       </c>
       <c r="AP9" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>370</v>
       </c>
-      <c r="AQ9" s="4" t="str">
-        <f t="shared" si="6"/>
-        <v/>
+      <c r="AQ9" s="4">
+        <f t="shared" si="8"/>
+        <v>1154</v>
       </c>
       <c r="AR9" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
       <c r="AS9" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
       <c r="AT9" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
       <c r="AU9" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
       <c r="AV9" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
       <c r="AW9" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
     </row>
@@ -1737,187 +1745,187 @@
         <v/>
       </c>
       <c r="D10" s="4" t="str">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v/>
       </c>
       <c r="E10" s="4" t="str">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v/>
       </c>
       <c r="F10" s="4" t="str">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v/>
       </c>
       <c r="G10" s="4" t="str">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v/>
       </c>
       <c r="H10" s="4" t="str">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v/>
       </c>
       <c r="I10" s="4" t="str">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v/>
       </c>
       <c r="J10" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>-14</v>
       </c>
       <c r="K10" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>-5</v>
       </c>
       <c r="L10" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>5</v>
       </c>
       <c r="M10" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>21</v>
       </c>
       <c r="N10" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>1</v>
       </c>
       <c r="O10" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>58</v>
       </c>
       <c r="P10" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>37</v>
       </c>
       <c r="Q10" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>22</v>
       </c>
       <c r="R10" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>-29</v>
       </c>
       <c r="S10" s="4">
-        <f t="shared" si="4"/>
+        <f t="shared" si="6"/>
         <v>-25</v>
       </c>
       <c r="T10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>137</v>
       </c>
       <c r="U10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>-243</v>
       </c>
       <c r="V10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>273</v>
       </c>
       <c r="W10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>105</v>
       </c>
       <c r="X10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>65</v>
       </c>
       <c r="Y10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>-108</v>
       </c>
       <c r="Z10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>319</v>
       </c>
       <c r="AA10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>-348</v>
       </c>
       <c r="AB10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>227</v>
       </c>
       <c r="AC10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>214</v>
       </c>
       <c r="AD10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>-385</v>
       </c>
       <c r="AE10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>728</v>
       </c>
       <c r="AF10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>-490</v>
       </c>
       <c r="AG10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>-57</v>
       </c>
       <c r="AH10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>26</v>
       </c>
       <c r="AI10" s="4">
-        <f t="shared" si="5"/>
+        <f t="shared" si="7"/>
         <v>6</v>
       </c>
       <c r="AJ10" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>64</v>
       </c>
       <c r="AK10" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>-77</v>
       </c>
       <c r="AL10" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>183</v>
       </c>
       <c r="AM10" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>25</v>
       </c>
       <c r="AN10" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>-230</v>
       </c>
       <c r="AO10" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>-179</v>
       </c>
       <c r="AP10" s="4">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v>26</v>
       </c>
-      <c r="AQ10" s="4" t="str">
-        <f t="shared" si="6"/>
-        <v/>
+      <c r="AQ10" s="4">
+        <f t="shared" si="8"/>
+        <v>784</v>
       </c>
       <c r="AR10" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
       <c r="AS10" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
       <c r="AT10" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
       <c r="AU10" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
       <c r="AV10" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
       <c r="AW10" s="4" t="str">
-        <f t="shared" si="6"/>
+        <f t="shared" si="8"/>
         <v/>
       </c>
     </row>
@@ -1932,168 +1940,172 @@
         <v>25</v>
       </c>
       <c r="B13" s="16" t="str">
-        <f t="shared" ref="B13:AM13" si="7">B1</f>
+        <f t="shared" ref="B13:AM13" si="9">B1</f>
         <v/>
       </c>
       <c r="C13" s="16" t="str">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v/>
       </c>
       <c r="D13" s="16" t="str">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v/>
       </c>
       <c r="E13" s="16" t="str">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v/>
       </c>
       <c r="F13" s="16" t="str">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v/>
       </c>
       <c r="G13" s="16" t="str">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v/>
       </c>
       <c r="H13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43894</v>
       </c>
       <c r="I13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43895</v>
       </c>
       <c r="J13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43896</v>
       </c>
       <c r="K13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43897</v>
       </c>
       <c r="L13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43898</v>
       </c>
       <c r="M13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43899</v>
       </c>
       <c r="N13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43900</v>
       </c>
       <c r="O13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43901</v>
       </c>
       <c r="P13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43902</v>
       </c>
       <c r="Q13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43903</v>
       </c>
       <c r="R13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43904</v>
       </c>
       <c r="S13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43905</v>
       </c>
       <c r="T13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43906</v>
       </c>
       <c r="U13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43907</v>
       </c>
       <c r="V13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43908</v>
       </c>
       <c r="W13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43909</v>
       </c>
       <c r="X13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43910</v>
       </c>
       <c r="Y13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43911</v>
       </c>
       <c r="Z13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43912</v>
       </c>
       <c r="AA13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43913</v>
       </c>
       <c r="AB13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43914</v>
       </c>
       <c r="AC13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43915</v>
       </c>
       <c r="AD13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43916</v>
       </c>
       <c r="AE13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43917</v>
       </c>
       <c r="AF13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43918</v>
       </c>
       <c r="AG13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43919</v>
       </c>
       <c r="AH13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43920</v>
       </c>
       <c r="AI13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43921</v>
       </c>
       <c r="AJ13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43922</v>
       </c>
       <c r="AK13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43923</v>
       </c>
       <c r="AL13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43924</v>
       </c>
       <c r="AM13" s="16">
-        <f t="shared" si="7"/>
+        <f t="shared" si="9"/>
         <v>43925</v>
       </c>
       <c r="AN13" s="16">
-        <f t="shared" ref="AN13:AP13" si="8">AN1</f>
+        <f t="shared" ref="AN13:AP13" si="10">AN1</f>
         <v>43926</v>
       </c>
       <c r="AO13" s="16">
-        <f t="shared" si="8"/>
+        <f t="shared" si="10"/>
         <v>43927</v>
       </c>
       <c r="AP13" s="16">
-        <f t="shared" si="8"/>
+        <f t="shared" si="10"/>
         <v>43928</v>
+      </c>
+      <c r="AQ13" s="16">
+        <f t="shared" ref="AQ13" si="11">AQ1</f>
+        <v>43929</v>
       </c>
     </row>
     <row r="14" spans="1:49" s="11" customFormat="1" x14ac:dyDescent="0.45">
@@ -2265,6 +2277,10 @@
         <f>IF(ISNUMBER(AP2),AP2/'RKI Zahlen'!$B93*'RKI Zahlen'!$B$88,"")</f>
         <v>58.419938329629012</v>
       </c>
+      <c r="AQ14" s="11">
+        <f>IF(ISNUMBER(AQ2),AQ2/'RKI Zahlen'!$B93*'RKI Zahlen'!$B$88,"")</f>
+        <v>65.155069064373208</v>
+      </c>
     </row>
     <row r="15" spans="1:49" s="11" customFormat="1" x14ac:dyDescent="0.45">
       <c r="A15" s="11" t="str">
@@ -2434,6 +2450,10 @@
       <c r="AP15" s="11">
         <f>IF(ISNUMBER(AP3),AP3/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
         <v>166.14354171973503</v>
+      </c>
+      <c r="AQ15" s="11">
+        <f>IF(ISNUMBER(AQ3),AQ3/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
+        <v>180.31924109497228</v>
       </c>
     </row>
     <row r="16" spans="1:49" s="11" customFormat="1" x14ac:dyDescent="0.45">
@@ -2605,6 +2625,10 @@
         <f>IF(ISNUMBER(AP4),AP4/'RKI Zahlen'!$B96*'RKI Zahlen'!$B$88,"")</f>
         <v>32.988025533104512</v>
       </c>
+      <c r="AQ16" s="11">
+        <f>IF(ISNUMBER(AQ4),AQ4/'RKI Zahlen'!$B96*'RKI Zahlen'!$B$88,"")</f>
+        <v>35.535123549784892</v>
+      </c>
     </row>
     <row r="17" spans="1:49" s="11" customFormat="1" x14ac:dyDescent="0.45">
       <c r="A17" s="11" t="str">
@@ -2774,6 +2798,10 @@
       <c r="AP17" s="11">
         <f>IF(ISNUMBER(AP5),AP5/'RKI Zahlen'!$B97*'RKI Zahlen'!$B$88,"")</f>
         <v>77.670408877076298</v>
+      </c>
+      <c r="AQ17" s="11">
+        <f>IF(ISNUMBER(AQ5),AQ5/'RKI Zahlen'!$B97*'RKI Zahlen'!$B$88,"")</f>
+        <v>85.237009999939872</v>
       </c>
     </row>
     <row r="18" spans="1:49" s="11" customFormat="1" x14ac:dyDescent="0.45">
@@ -2945,174 +2973,182 @@
         <f>IF(ISNUMBER(AP6),AP6/'RKI Zahlen'!$B103*'RKI Zahlen'!$B$88,"")</f>
         <v>59.722885809842339</v>
       </c>
+      <c r="AQ18" s="11">
+        <f>IF(ISNUMBER(AQ6),AQ6/'RKI Zahlen'!$B103*'RKI Zahlen'!$B$88,"")</f>
+        <v>66.696309470875946</v>
+      </c>
     </row>
     <row r="19" spans="1:49" s="7" customFormat="1" x14ac:dyDescent="0.45">
       <c r="A19" s="7" t="s">
         <v>25</v>
       </c>
       <c r="B19" s="16" t="str">
-        <f t="shared" ref="B19:AM19" si="9">B7</f>
+        <f t="shared" ref="B19:AM19" si="12">B7</f>
         <v/>
       </c>
       <c r="C19" s="16" t="str">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v/>
       </c>
       <c r="D19" s="16" t="str">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v/>
       </c>
       <c r="E19" s="16" t="str">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v/>
       </c>
       <c r="F19" s="16" t="str">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v/>
       </c>
       <c r="G19" s="16" t="str">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v/>
       </c>
       <c r="H19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43894</v>
       </c>
       <c r="I19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43895</v>
       </c>
       <c r="J19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43896</v>
       </c>
       <c r="K19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43897</v>
       </c>
       <c r="L19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43898</v>
       </c>
       <c r="M19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43899</v>
       </c>
       <c r="N19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43900</v>
       </c>
       <c r="O19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43901</v>
       </c>
       <c r="P19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43902</v>
       </c>
       <c r="Q19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43903</v>
       </c>
       <c r="R19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43904</v>
       </c>
       <c r="S19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43905</v>
       </c>
       <c r="T19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43906</v>
       </c>
       <c r="U19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43907</v>
       </c>
       <c r="V19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43908</v>
       </c>
       <c r="W19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43909</v>
       </c>
       <c r="X19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43910</v>
       </c>
       <c r="Y19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43911</v>
       </c>
       <c r="Z19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43912</v>
       </c>
       <c r="AA19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43913</v>
       </c>
       <c r="AB19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43914</v>
       </c>
       <c r="AC19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43915</v>
       </c>
       <c r="AD19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43916</v>
       </c>
       <c r="AE19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43917</v>
       </c>
       <c r="AF19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43918</v>
       </c>
       <c r="AG19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43919</v>
       </c>
       <c r="AH19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43920</v>
       </c>
       <c r="AI19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43921</v>
       </c>
       <c r="AJ19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43922</v>
       </c>
       <c r="AK19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43923</v>
       </c>
       <c r="AL19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43924</v>
       </c>
       <c r="AM19" s="16">
-        <f t="shared" si="9"/>
+        <f t="shared" si="12"/>
         <v>43925</v>
       </c>
       <c r="AN19" s="16">
-        <f t="shared" ref="AN19:AP19" si="10">AN7</f>
+        <f t="shared" ref="AN19:AP19" si="13">AN7</f>
         <v>43926</v>
       </c>
       <c r="AO19" s="16">
-        <f t="shared" si="10"/>
+        <f t="shared" si="13"/>
         <v>43927</v>
       </c>
       <c r="AP19" s="16">
-        <f t="shared" si="10"/>
+        <f t="shared" si="13"/>
         <v>43928</v>
+      </c>
+      <c r="AQ19" s="16">
+        <f t="shared" ref="AQ19" si="14">AQ7</f>
+        <v>43929</v>
       </c>
     </row>
     <row r="20" spans="1:49" s="15" customFormat="1" x14ac:dyDescent="0.45">
@@ -3284,6 +3320,10 @@
         <f>IF(ISNUMBER(AP8),AP8/'RKI Zahlen'!$B105*'RKI Zahlen'!$B$88,"")</f>
         <v>14.358431282534379</v>
       </c>
+      <c r="AQ20" s="15">
+        <f>IF(ISNUMBER(AQ8),AQ8/'RKI Zahlen'!$B105*'RKI Zahlen'!$B$88,"")</f>
+        <v>15.748617514604575</v>
+      </c>
     </row>
     <row r="21" spans="1:49" s="13" customFormat="1" x14ac:dyDescent="0.45">
       <c r="A21" s="13" t="str">
@@ -3291,168 +3331,172 @@
         <v>1. Ableitung</v>
       </c>
       <c r="B21" s="13" t="str">
-        <f t="shared" ref="B21:Q22" si="11">IF(AND(ISNUMBER(A20),ISNUMBER(B20)),B20-A20,"")</f>
+        <f t="shared" ref="B21:Q22" si="15">IF(AND(ISNUMBER(A20),ISNUMBER(B20)),B20-A20,"")</f>
         <v/>
       </c>
       <c r="C21" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="D21" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="E21" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="F21" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="G21" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="H21" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="I21" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>2.1684014018425943E-2</v>
       </c>
       <c r="J21" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>4.8186697818724325E-3</v>
       </c>
       <c r="K21" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>-1.2046674454681064E-3</v>
       </c>
       <c r="L21" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>4.8186697818724256E-3</v>
       </c>
       <c r="M21" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>3.0116686136702708E-2</v>
       </c>
       <c r="N21" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>3.1321353582170808E-2</v>
       </c>
       <c r="O21" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>0.10119206541932108</v>
       </c>
       <c r="P21" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>0.14576476090164103</v>
       </c>
       <c r="Q21" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>0.1722674447019395</v>
       </c>
       <c r="R21" s="13">
-        <f t="shared" ref="R21:AG22" si="12">IF(AND(ISNUMBER(Q20),ISNUMBER(R20)),R20-Q20,"")</f>
+        <f t="shared" ref="R21:AG22" si="16">IF(AND(ISNUMBER(Q20),ISNUMBER(R20)),R20-Q20,"")</f>
         <v>0.13733208878336423</v>
       </c>
       <c r="S21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.10721540264666152</v>
       </c>
       <c r="T21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.27225484267579247</v>
       </c>
       <c r="U21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>-2.0479346572957802E-2</v>
       </c>
       <c r="V21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.30839486603983568</v>
       </c>
       <c r="W21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.43488494781398712</v>
       </c>
       <c r="X21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.51318833176941392</v>
       </c>
       <c r="Y21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.38308424765885807</v>
       </c>
       <c r="Z21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.76737316276318479</v>
       </c>
       <c r="AA21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.34814889174028352</v>
       </c>
       <c r="AB21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.62160840186154287</v>
       </c>
       <c r="AC21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.87940723519171993</v>
       </c>
       <c r="AD21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.41561026868649709</v>
       </c>
       <c r="AE21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>1.2926081689872788</v>
       </c>
       <c r="AF21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.70232112070790809</v>
       </c>
       <c r="AG21" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.63365507631622364</v>
       </c>
       <c r="AH21" s="13">
-        <f t="shared" ref="AH21:AP22" si="13">IF(AND(ISNUMBER(AG20),ISNUMBER(AH20)),AH20-AG20,"")</f>
+        <f t="shared" ref="AH21:AQ22" si="17">IF(AND(ISNUMBER(AG20),ISNUMBER(AH20)),AH20-AG20,"")</f>
         <v>0.66497642989839711</v>
       </c>
       <c r="AI21" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>0.6722044345712046</v>
       </c>
       <c r="AJ21" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>0.74930315108116119</v>
       </c>
       <c r="AK21" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>0.65654375778011875</v>
       </c>
       <c r="AL21" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>0.87699790030078439</v>
       </c>
       <c r="AM21" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>0.90711458643748344</v>
       </c>
       <c r="AN21" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>0.6300410739798199</v>
       </c>
       <c r="AO21" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>0.41440560124102888</v>
       </c>
       <c r="AP21" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>0.44572695482320235</v>
+      </c>
+      <c r="AQ21" s="13">
+        <f t="shared" si="17"/>
+        <v>1.3901862320701959</v>
       </c>
     </row>
     <row r="22" spans="1:49" s="13" customFormat="1" x14ac:dyDescent="0.45">
@@ -3461,168 +3505,172 @@
         <v>2. Ableitung</v>
       </c>
       <c r="B22" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="C22" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="D22" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="E22" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="F22" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="G22" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="H22" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="I22" s="13" t="str">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v/>
       </c>
       <c r="J22" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>-1.686534423655351E-2</v>
       </c>
       <c r="K22" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>-6.0233372273405389E-3</v>
       </c>
       <c r="L22" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>6.023337227340532E-3</v>
       </c>
       <c r="M22" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>2.5298016354830283E-2</v>
       </c>
       <c r="N22" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>1.2046674454680995E-3</v>
       </c>
       <c r="O22" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>6.9870711837150268E-2</v>
       </c>
       <c r="P22" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>4.4572695482319957E-2</v>
       </c>
       <c r="Q22" s="13">
-        <f t="shared" si="11"/>
+        <f t="shared" si="15"/>
         <v>2.6502683800298465E-2</v>
       </c>
       <c r="R22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>-3.4935355918575273E-2</v>
       </c>
       <c r="S22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>-3.0116686136702708E-2</v>
       </c>
       <c r="T22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.16503944002913096</v>
       </c>
       <c r="U22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>-0.29273418924875028</v>
       </c>
       <c r="V22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.32887421261279348</v>
       </c>
       <c r="W22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.12649008177415144</v>
       </c>
       <c r="X22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>7.8303383955426797E-2</v>
       </c>
       <c r="Y22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>-0.13010408411055585</v>
       </c>
       <c r="Z22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.38428891510432672</v>
       </c>
       <c r="AA22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>-0.41922427102290127</v>
       </c>
       <c r="AB22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.27345951012125935</v>
       </c>
       <c r="AC22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.25779883333017706</v>
       </c>
       <c r="AD22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>-0.46379696650522284</v>
       </c>
       <c r="AE22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>0.87699790030078173</v>
       </c>
       <c r="AF22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>-0.59028704827937073</v>
       </c>
       <c r="AG22" s="13">
-        <f t="shared" si="12"/>
+        <f t="shared" si="16"/>
         <v>-6.8666044391684444E-2</v>
       </c>
       <c r="AH22" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>3.1321353582173472E-2</v>
       </c>
       <c r="AI22" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>7.2280046728074865E-3</v>
       </c>
       <c r="AJ22" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>7.7098716509956589E-2</v>
       </c>
       <c r="AK22" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>-9.2759393301042437E-2</v>
       </c>
       <c r="AL22" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>0.22045414252066564</v>
       </c>
       <c r="AM22" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>3.0116686136699045E-2</v>
       </c>
       <c r="AN22" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>-0.27707351245766354</v>
       </c>
       <c r="AO22" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>-0.21563547273879102</v>
       </c>
       <c r="AP22" s="13">
-        <f t="shared" si="13"/>
+        <f t="shared" si="17"/>
         <v>3.1321353582173472E-2</v>
+      </c>
+      <c r="AQ22" s="13">
+        <f t="shared" si="17"/>
+        <v>0.94445927724699352</v>
       </c>
     </row>
     <row r="23" spans="1:49" s="13" customFormat="1" x14ac:dyDescent="0.45"/>
@@ -3798,6 +3846,10 @@
         <f>IF(AND('RKI Zahlen'!AP45&gt;40000,ISNUMBER('RKI Zahlen'!AP45)),'RKI Zahlen'!AP45,"")</f>
         <v>43928</v>
       </c>
+      <c r="AQ25" s="16">
+        <f>IF(AND('RKI Zahlen'!AQ45&gt;40000,ISNUMBER('RKI Zahlen'!AQ45)),'RKI Zahlen'!AQ45,"")</f>
+        <v>43929</v>
+      </c>
     </row>
     <row r="26" spans="1:49" x14ac:dyDescent="0.45">
       <c r="A26" t="str">
@@ -3968,9 +4020,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AP50),'RKI Zahlen'!AP50,"")</f>
         <v>9</v>
       </c>
-      <c r="AQ26" t="str">
-        <f>IF(ISNUMBER('RKI Zahlen'!AR50),'RKI Zahlen'!AR50,"")</f>
-        <v/>
+      <c r="AQ26">
+        <f>IF(ISNUMBER('RKI Zahlen'!AQ50),'RKI Zahlen'!AQ50,"")</f>
+        <v>11</v>
       </c>
       <c r="AR26" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AS50),'RKI Zahlen'!AS50,"")</f>
@@ -4165,9 +4217,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AP51),'RKI Zahlen'!AP51,"")</f>
         <v>20</v>
       </c>
-      <c r="AQ27" t="str">
-        <f>IF(ISNUMBER('RKI Zahlen'!AR51),'RKI Zahlen'!AR51,"")</f>
-        <v/>
+      <c r="AQ27">
+        <f>IF(ISNUMBER('RKI Zahlen'!AQ51),'RKI Zahlen'!AQ51,"")</f>
+        <v>44</v>
       </c>
       <c r="AR27" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AS51),'RKI Zahlen'!AS51,"")</f>
@@ -4363,9 +4415,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AP53),'RKI Zahlen'!AP53,"")</f>
         <v>8</v>
       </c>
-      <c r="AQ28" t="str">
-        <f>IF(ISNUMBER('RKI Zahlen'!AR53),'RKI Zahlen'!AR53,"")</f>
-        <v/>
+      <c r="AQ28">
+        <f>IF(ISNUMBER('RKI Zahlen'!AQ53),'RKI Zahlen'!AQ53,"")</f>
+        <v>11</v>
       </c>
       <c r="AR28" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AS53),'RKI Zahlen'!AS53,"")</f>
@@ -4561,9 +4613,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AP54),'RKI Zahlen'!AP54,"")</f>
         <v>111</v>
       </c>
-      <c r="AQ29" t="str">
-        <f>IF(ISNUMBER('RKI Zahlen'!AR54),'RKI Zahlen'!AR54,"")</f>
-        <v/>
+      <c r="AQ29">
+        <f>IF(ISNUMBER('RKI Zahlen'!AQ54),'RKI Zahlen'!AQ54,"")</f>
+        <v>141</v>
       </c>
       <c r="AR29" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AS54),'RKI Zahlen'!AS54,"")</f>
@@ -4759,9 +4811,9 @@
         <f>IF(ISNUMBER('RKI Zahlen'!AP60),'RKI Zahlen'!AP60,"")</f>
         <v>24</v>
       </c>
-      <c r="AQ30" t="str">
-        <f>IF(ISNUMBER('RKI Zahlen'!AR60),'RKI Zahlen'!AR60,"")</f>
-        <v/>
+      <c r="AQ30">
+        <f>IF(ISNUMBER('RKI Zahlen'!AQ60),'RKI Zahlen'!AQ60,"")</f>
+        <v>34</v>
       </c>
       <c r="AR30" t="str">
         <f>IF(ISNUMBER('RKI Zahlen'!AS60),'RKI Zahlen'!AS60,"")</f>
@@ -4793,168 +4845,172 @@
         <v>25</v>
       </c>
       <c r="B31" s="16" t="str">
-        <f t="shared" ref="B31:AM31" si="14">B25</f>
+        <f t="shared" ref="B31:AM31" si="18">B25</f>
         <v/>
       </c>
       <c r="C31" s="16" t="str">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v/>
       </c>
       <c r="D31" s="16" t="str">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v/>
       </c>
       <c r="E31" s="16" t="str">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v/>
       </c>
       <c r="F31" s="16" t="str">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v/>
       </c>
       <c r="G31" s="16" t="str">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v/>
       </c>
       <c r="H31" s="16" t="str">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v/>
       </c>
       <c r="I31" s="16" t="str">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v/>
       </c>
       <c r="J31" s="16" t="str">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v/>
       </c>
       <c r="K31" s="16" t="str">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v/>
       </c>
       <c r="L31" s="16" t="str">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v/>
       </c>
       <c r="M31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43899</v>
       </c>
       <c r="N31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43900</v>
       </c>
       <c r="O31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43901</v>
       </c>
       <c r="P31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43902</v>
       </c>
       <c r="Q31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43903</v>
       </c>
       <c r="R31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43904</v>
       </c>
       <c r="S31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43905</v>
       </c>
       <c r="T31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43906</v>
       </c>
       <c r="U31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43907</v>
       </c>
       <c r="V31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43908</v>
       </c>
       <c r="W31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43909</v>
       </c>
       <c r="X31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43910</v>
       </c>
       <c r="Y31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43911</v>
       </c>
       <c r="Z31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43912</v>
       </c>
       <c r="AA31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43913</v>
       </c>
       <c r="AB31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43914</v>
       </c>
       <c r="AC31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43915</v>
       </c>
       <c r="AD31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43916</v>
       </c>
       <c r="AE31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43917</v>
       </c>
       <c r="AF31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43918</v>
       </c>
       <c r="AG31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43919</v>
       </c>
       <c r="AH31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43920</v>
       </c>
       <c r="AI31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43921</v>
       </c>
       <c r="AJ31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43922</v>
       </c>
       <c r="AK31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43923</v>
       </c>
       <c r="AL31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43924</v>
       </c>
       <c r="AM31" s="16">
-        <f t="shared" si="14"/>
+        <f t="shared" si="18"/>
         <v>43925</v>
       </c>
       <c r="AN31" s="16">
-        <f t="shared" ref="AN31:AP31" si="15">AN25</f>
+        <f t="shared" ref="AN31:AP31" si="19">AN25</f>
         <v>43926</v>
       </c>
       <c r="AO31" s="16">
-        <f t="shared" si="15"/>
+        <f t="shared" si="19"/>
         <v>43927</v>
       </c>
       <c r="AP31" s="16">
-        <f t="shared" si="15"/>
+        <f t="shared" si="19"/>
         <v>43928</v>
+      </c>
+      <c r="AQ31" s="16">
+        <f t="shared" ref="AQ31" si="20">AQ25</f>
+        <v>43929</v>
       </c>
     </row>
     <row r="32" spans="1:49" s="18" customFormat="1" x14ac:dyDescent="0.45">
@@ -4962,191 +5018,191 @@
         <v>26</v>
       </c>
       <c r="C32" s="19" t="str">
-        <f t="shared" ref="C32:AW32" si="16">IF(SUM(C26:C30)&gt;0,SUM(C26:C30),"")</f>
+        <f t="shared" ref="C32:AW32" si="21">IF(SUM(C26:C30)&gt;0,SUM(C26:C30),"")</f>
         <v/>
       </c>
       <c r="D32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="E32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="F32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="G32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="H32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="I32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="J32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="K32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="L32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="M32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="N32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="O32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="P32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="Q32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="R32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="S32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="T32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="U32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="V32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="W32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="X32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>1</v>
       </c>
       <c r="Y32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>1</v>
       </c>
       <c r="Z32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>2</v>
       </c>
       <c r="AA32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>5</v>
       </c>
       <c r="AB32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>8</v>
       </c>
       <c r="AC32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>10</v>
       </c>
       <c r="AD32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>12</v>
       </c>
       <c r="AE32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>17</v>
       </c>
       <c r="AF32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>20</v>
       </c>
       <c r="AG32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>34</v>
       </c>
       <c r="AH32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>41</v>
       </c>
       <c r="AI32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>57</v>
       </c>
       <c r="AJ32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>74</v>
       </c>
       <c r="AK32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>79</v>
       </c>
       <c r="AL32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>106</v>
       </c>
       <c r="AM32" s="19">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v>129</v>
       </c>
       <c r="AN32" s="19">
-        <f t="shared" ref="AN32:AP32" si="17">IF(SUM(AN26:AN30)&gt;0,SUM(AN26:AN30),"")</f>
+        <f t="shared" ref="AN32:AP32" si="22">IF(SUM(AN26:AN30)&gt;0,SUM(AN26:AN30),"")</f>
         <v>137</v>
       </c>
       <c r="AO32" s="19">
-        <f t="shared" si="17"/>
+        <f t="shared" si="22"/>
         <v>145</v>
       </c>
       <c r="AP32" s="19">
-        <f t="shared" si="17"/>
+        <f t="shared" si="22"/>
         <v>172</v>
       </c>
-      <c r="AQ32" s="19" t="str">
-        <f t="shared" si="16"/>
-        <v/>
+      <c r="AQ32" s="19">
+        <f t="shared" ref="AQ32" si="23">IF(SUM(AQ26:AQ30)&gt;0,SUM(AQ26:AQ30),"")</f>
+        <v>241</v>
       </c>
       <c r="AR32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="AS32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="AT32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="AU32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="AV32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
       <c r="AW32" s="19" t="str">
-        <f t="shared" si="16"/>
+        <f t="shared" si="21"/>
         <v/>
       </c>
     </row>
@@ -5160,187 +5216,187 @@
         <v/>
       </c>
       <c r="D33" s="4" t="str">
-        <f t="shared" ref="D33:S34" si="18">IF(AND(ISNUMBER(C32),ISNUMBER(D32)),D32-C32,"")</f>
+        <f t="shared" ref="D33:S34" si="24">IF(AND(ISNUMBER(C32),ISNUMBER(D32)),D32-C32,"")</f>
         <v/>
       </c>
       <c r="E33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="F33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="G33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="H33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="I33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="J33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="K33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="L33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="M33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="N33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="O33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="P33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="Q33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="R33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="S33" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="T33" s="4" t="str">
-        <f t="shared" ref="T33:AI34" si="19">IF(AND(ISNUMBER(S32),ISNUMBER(T32)),T32-S32,"")</f>
+        <f t="shared" ref="T33:AI34" si="25">IF(AND(ISNUMBER(S32),ISNUMBER(T32)),T32-S32,"")</f>
         <v/>
       </c>
       <c r="U33" s="4" t="str">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v/>
       </c>
       <c r="V33" s="4" t="str">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v/>
       </c>
       <c r="W33" s="4" t="str">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v/>
       </c>
       <c r="X33" s="4" t="str">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v/>
       </c>
       <c r="Y33" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>0</v>
       </c>
       <c r="Z33" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>1</v>
       </c>
       <c r="AA33" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>3</v>
       </c>
       <c r="AB33" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>3</v>
       </c>
       <c r="AC33" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>2</v>
       </c>
       <c r="AD33" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>2</v>
       </c>
       <c r="AE33" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>5</v>
       </c>
       <c r="AF33" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>3</v>
       </c>
       <c r="AG33" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>14</v>
       </c>
       <c r="AH33" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>7</v>
       </c>
       <c r="AI33" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>16</v>
       </c>
       <c r="AJ33" s="4">
-        <f t="shared" ref="AJ33:AW34" si="20">IF(AND(ISNUMBER(AI32),ISNUMBER(AJ32)),AJ32-AI32,"")</f>
+        <f t="shared" ref="AJ33:AW34" si="26">IF(AND(ISNUMBER(AI32),ISNUMBER(AJ32)),AJ32-AI32,"")</f>
         <v>17</v>
       </c>
       <c r="AK33" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>5</v>
       </c>
       <c r="AL33" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>27</v>
       </c>
       <c r="AM33" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>23</v>
       </c>
       <c r="AN33" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>8</v>
       </c>
       <c r="AO33" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>8</v>
       </c>
       <c r="AP33" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>27</v>
       </c>
-      <c r="AQ33" s="4" t="str">
-        <f t="shared" si="20"/>
-        <v/>
+      <c r="AQ33" s="4">
+        <f t="shared" si="26"/>
+        <v>69</v>
       </c>
       <c r="AR33" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
       <c r="AS33" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
       <c r="AT33" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
       <c r="AU33" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
       <c r="AV33" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
       <c r="AW33" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
     </row>
@@ -5354,187 +5410,187 @@
         <v/>
       </c>
       <c r="D34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="E34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="F34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="G34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="H34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="I34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="J34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="K34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="L34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="M34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="N34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="O34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="P34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="Q34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="R34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="S34" s="4" t="str">
-        <f t="shared" si="18"/>
+        <f t="shared" si="24"/>
         <v/>
       </c>
       <c r="T34" s="4" t="str">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v/>
       </c>
       <c r="U34" s="4" t="str">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v/>
       </c>
       <c r="V34" s="4" t="str">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v/>
       </c>
       <c r="W34" s="4" t="str">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v/>
       </c>
       <c r="X34" s="4" t="str">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v/>
       </c>
       <c r="Y34" s="4" t="str">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v/>
       </c>
       <c r="Z34" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>1</v>
       </c>
       <c r="AA34" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>2</v>
       </c>
       <c r="AB34" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>0</v>
       </c>
       <c r="AC34" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>-1</v>
       </c>
       <c r="AD34" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>0</v>
       </c>
       <c r="AE34" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>3</v>
       </c>
       <c r="AF34" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>-2</v>
       </c>
       <c r="AG34" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>11</v>
       </c>
       <c r="AH34" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>-7</v>
       </c>
       <c r="AI34" s="4">
-        <f t="shared" si="19"/>
+        <f t="shared" si="25"/>
         <v>9</v>
       </c>
       <c r="AJ34" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>1</v>
       </c>
       <c r="AK34" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>-12</v>
       </c>
       <c r="AL34" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>22</v>
       </c>
       <c r="AM34" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>-4</v>
       </c>
       <c r="AN34" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>-15</v>
       </c>
       <c r="AO34" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>0</v>
       </c>
       <c r="AP34" s="4">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v>19</v>
       </c>
-      <c r="AQ34" s="4" t="str">
-        <f t="shared" si="20"/>
-        <v/>
+      <c r="AQ34" s="4">
+        <f t="shared" si="26"/>
+        <v>42</v>
       </c>
       <c r="AR34" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
       <c r="AS34" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
       <c r="AT34" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
       <c r="AU34" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
       <c r="AV34" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
       <c r="AW34" s="4" t="str">
-        <f t="shared" si="20"/>
+        <f t="shared" si="26"/>
         <v/>
       </c>
     </row>
@@ -5549,168 +5605,172 @@
         <v>25</v>
       </c>
       <c r="B37" s="16" t="str">
-        <f t="shared" ref="B37:AI37" si="21">B25</f>
+        <f t="shared" ref="B37:AI37" si="27">B25</f>
         <v/>
       </c>
       <c r="C37" s="16" t="str">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v/>
       </c>
       <c r="D37" s="16" t="str">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v/>
       </c>
       <c r="E37" s="16" t="str">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v/>
       </c>
       <c r="F37" s="16" t="str">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v/>
       </c>
       <c r="G37" s="16" t="str">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v/>
       </c>
       <c r="H37" s="16" t="str">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v/>
       </c>
       <c r="I37" s="16" t="str">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v/>
       </c>
       <c r="J37" s="16" t="str">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v/>
       </c>
       <c r="K37" s="16" t="str">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v/>
       </c>
       <c r="L37" s="16" t="str">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v/>
       </c>
       <c r="M37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43899</v>
       </c>
       <c r="N37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43900</v>
       </c>
       <c r="O37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43901</v>
       </c>
       <c r="P37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43902</v>
       </c>
       <c r="Q37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43903</v>
       </c>
       <c r="R37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43904</v>
       </c>
       <c r="S37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43905</v>
       </c>
       <c r="T37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43906</v>
       </c>
       <c r="U37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43907</v>
       </c>
       <c r="V37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43908</v>
       </c>
       <c r="W37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43909</v>
       </c>
       <c r="X37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43910</v>
       </c>
       <c r="Y37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43911</v>
       </c>
       <c r="Z37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43912</v>
       </c>
       <c r="AA37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43913</v>
       </c>
       <c r="AB37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43914</v>
       </c>
       <c r="AC37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43915</v>
       </c>
       <c r="AD37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43916</v>
       </c>
       <c r="AE37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43917</v>
       </c>
       <c r="AF37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43918</v>
       </c>
       <c r="AG37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43919</v>
       </c>
       <c r="AH37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43920</v>
       </c>
       <c r="AI37" s="16">
-        <f t="shared" si="21"/>
+        <f t="shared" si="27"/>
         <v>43921</v>
       </c>
       <c r="AJ37" s="16">
-        <f t="shared" ref="AJ37:AM37" si="22">AJ25</f>
+        <f t="shared" ref="AJ37:AM37" si="28">AJ25</f>
         <v>43922</v>
       </c>
       <c r="AK37" s="16">
-        <f t="shared" si="22"/>
+        <f t="shared" si="28"/>
         <v>43923</v>
       </c>
       <c r="AL37" s="16">
-        <f t="shared" si="22"/>
+        <f t="shared" si="28"/>
         <v>43924</v>
       </c>
       <c r="AM37" s="16">
-        <f t="shared" si="22"/>
+        <f t="shared" si="28"/>
         <v>43925</v>
       </c>
       <c r="AN37" s="16">
-        <f t="shared" ref="AN37:AP37" si="23">AN25</f>
+        <f t="shared" ref="AN37:AP37" si="29">AN25</f>
         <v>43926</v>
       </c>
       <c r="AO37" s="16">
-        <f t="shared" si="23"/>
+        <f t="shared" si="29"/>
         <v>43927</v>
       </c>
       <c r="AP37" s="16">
-        <f t="shared" si="23"/>
+        <f t="shared" si="29"/>
         <v>43928</v>
+      </c>
+      <c r="AQ37" s="16">
+        <f t="shared" ref="AQ37" si="30">AQ25</f>
+        <v>43929</v>
       </c>
     </row>
     <row r="38" spans="1:49" s="17" customFormat="1" x14ac:dyDescent="0.45">
@@ -5882,6 +5942,10 @@
         <f>IF(ISNUMBER(AP26),AP26/'RKI Zahlen'!$B93*'RKI Zahlen'!$B$88,"")</f>
         <v>1.3177429698412559</v>
       </c>
+      <c r="AQ38" s="17">
+        <f>IF(ISNUMBER(AQ26),AQ26/'RKI Zahlen'!$B93*'RKI Zahlen'!$B$88,"")</f>
+        <v>1.6105747409170905</v>
+      </c>
     </row>
     <row r="39" spans="1:49" s="17" customFormat="1" x14ac:dyDescent="0.45">
       <c r="A39" s="17" t="str">
@@ -6051,6 +6115,10 @@
       <c r="AP39" s="17">
         <f>IF(ISNUMBER(AP27),AP27/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
         <v>1.0862604885239293</v>
+      </c>
+      <c r="AQ39" s="17">
+        <f>IF(ISNUMBER(AQ27),AQ27/'RKI Zahlen'!$B94*'RKI Zahlen'!$B$88,"")</f>
+        <v>2.3897730747526449</v>
       </c>
     </row>
     <row r="40" spans="1:49" s="17" customFormat="1" x14ac:dyDescent="0.45">
@@ -6222,6 +6290,10 @@
         <f>IF(ISNUMBER(AP28),AP28/'RKI Zahlen'!$B96*'RKI Zahlen'!$B$88,"")</f>
         <v>0.49699473496202645</v>
       </c>
+      <c r="AQ40" s="17">
+        <f>IF(ISNUMBER(AQ28),AQ28/'RKI Zahlen'!$B96*'RKI Zahlen'!$B$88,"")</f>
+        <v>0.68336776057278636</v>
+      </c>
     </row>
     <row r="41" spans="1:49" s="17" customFormat="1" x14ac:dyDescent="0.45">
       <c r="A41" s="17" t="str">
@@ -6391,6 +6463,10 @@
       <c r="AP41" s="17">
         <f>IF(ISNUMBER(AP29),AP29/'RKI Zahlen'!$B97*'RKI Zahlen'!$B$88,"")</f>
         <v>1.3905508686057211</v>
+      </c>
+      <c r="AQ41" s="17">
+        <f>IF(ISNUMBER(AQ29),AQ29/'RKI Zahlen'!$B97*'RKI Zahlen'!$B$88,"")</f>
+        <v>1.7663754276883483</v>
       </c>
     </row>
     <row r="42" spans="1:49" s="17" customFormat="1" x14ac:dyDescent="0.45">
@@ -6562,174 +6638,182 @@
         <f>IF(ISNUMBER(AP30),AP30/'RKI Zahlen'!$B103*'RKI Zahlen'!$B$88,"")</f>
         <v>0.82852558348914218</v>
       </c>
+      <c r="AQ42" s="17">
+        <f>IF(ISNUMBER(AQ30),AQ30/'RKI Zahlen'!$B103*'RKI Zahlen'!$B$88,"")</f>
+        <v>1.1737445766096182</v>
+      </c>
     </row>
     <row r="43" spans="1:49" s="7" customFormat="1" x14ac:dyDescent="0.45">
       <c r="A43" s="7" t="s">
         <v>25</v>
       </c>
       <c r="B43" s="16" t="str">
-        <f t="shared" ref="B43:AI43" si="24">B31</f>
+        <f t="shared" ref="B43:AI43" si="31">B31</f>
         <v/>
       </c>
       <c r="C43" s="16" t="str">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v/>
       </c>
       <c r="D43" s="16" t="str">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v/>
       </c>
       <c r="E43" s="16" t="str">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v/>
       </c>
       <c r="F43" s="16" t="str">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v/>
       </c>
       <c r="G43" s="16" t="str">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v/>
       </c>
       <c r="H43" s="16" t="str">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v/>
       </c>
       <c r="I43" s="16" t="str">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v/>
       </c>
       <c r="J43" s="16" t="str">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v/>
       </c>
       <c r="K43" s="16" t="str">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v/>
       </c>
       <c r="L43" s="16" t="str">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v/>
       </c>
       <c r="M43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43899</v>
       </c>
       <c r="N43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43900</v>
       </c>
       <c r="O43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43901</v>
       </c>
       <c r="P43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43902</v>
       </c>
       <c r="Q43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43903</v>
       </c>
       <c r="R43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43904</v>
       </c>
       <c r="S43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43905</v>
       </c>
       <c r="T43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43906</v>
       </c>
       <c r="U43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43907</v>
       </c>
       <c r="V43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43908</v>
       </c>
       <c r="W43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43909</v>
       </c>
       <c r="X43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43910</v>
       </c>
       <c r="Y43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43911</v>
       </c>
       <c r="Z43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43912</v>
       </c>
       <c r="AA43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43913</v>
       </c>
       <c r="AB43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43914</v>
       </c>
       <c r="AC43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43915</v>
       </c>
       <c r="AD43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43916</v>
       </c>
       <c r="AE43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43917</v>
       </c>
       <c r="AF43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43918</v>
       </c>
       <c r="AG43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43919</v>
       </c>
       <c r="AH43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43920</v>
       </c>
       <c r="AI43" s="16">
-        <f t="shared" si="24"/>
+        <f t="shared" si="31"/>
         <v>43921</v>
       </c>
       <c r="AJ43" s="16">
-        <f t="shared" ref="AJ43:AM43" si="25">AJ31</f>
+        <f t="shared" ref="AJ43:AM43" si="32">AJ31</f>
         <v>43922</v>
       </c>
       <c r="AK43" s="16">
-        <f t="shared" si="25"/>
+        <f t="shared" si="32"/>
         <v>43923</v>
       </c>
       <c r="AL43" s="16">
-        <f t="shared" si="25"/>
+        <f t="shared" si="32"/>
         <v>43924</v>
       </c>
       <c r="AM43" s="16">
-        <f t="shared" si="25"/>
+        <f t="shared" si="32"/>
         <v>43925</v>
       </c>
       <c r="AN43" s="16">
-        <f t="shared" ref="AN43:AP43" si="26">AN31</f>
+        <f t="shared" ref="AN43:AP43" si="33">AN31</f>
         <v>43926</v>
       </c>
       <c r="AO43" s="16">
-        <f t="shared" si="26"/>
+        <f t="shared" si="33"/>
         <v>43927</v>
       </c>
       <c r="AP43" s="16">
-        <f t="shared" si="26"/>
+        <f t="shared" si="33"/>
         <v>43928</v>
+      </c>
+      <c r="AQ43" s="16">
+        <f t="shared" ref="AQ43" si="34">AQ31</f>
+        <v>43929</v>
       </c>
     </row>
     <row r="44" spans="1:49" s="13" customFormat="1" x14ac:dyDescent="0.45">
@@ -6901,6 +6985,10 @@
         <f>IF(ISNUMBER(AP32),AP32/'RKI Zahlen'!$B105*'RKI Zahlen'!$C$88,"")</f>
         <v>2.0720280062051457</v>
       </c>
+      <c r="AQ44" s="13">
+        <f>IF(ISNUMBER(AQ32),AQ32/'RKI Zahlen'!$B105*'RKI Zahlen'!$C$88,"")</f>
+        <v>2.9032485435781403</v>
+      </c>
     </row>
     <row r="45" spans="1:49" s="13" customFormat="1" x14ac:dyDescent="0.45">
       <c r="A45" s="13" t="str">
@@ -6908,168 +6996,172 @@
         <v>1. Ableitung</v>
       </c>
       <c r="B45" s="13" t="str">
-        <f t="shared" ref="B45:Q46" si="27">IF(AND(ISNUMBER(A44),ISNUMBER(B44)),B44-A44,"")</f>
+        <f t="shared" ref="B45:Q46" si="35">IF(AND(ISNUMBER(A44),ISNUMBER(B44)),B44-A44,"")</f>
         <v/>
       </c>
       <c r="C45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="D45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="E45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="F45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="G45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="H45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="I45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="J45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="K45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="L45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="M45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="N45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="O45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="P45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="Q45" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="R45" s="13" t="str">
-        <f t="shared" ref="R45:AG46" si="28">IF(AND(ISNUMBER(Q44),ISNUMBER(R44)),R44-Q44,"")</f>
+        <f t="shared" ref="R45:AG46" si="36">IF(AND(ISNUMBER(Q44),ISNUMBER(R44)),R44-Q44,"")</f>
         <v/>
       </c>
       <c r="S45" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="T45" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="U45" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="V45" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="W45" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="X45" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="Y45" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>0</v>
       </c>
       <c r="Z45" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>1.204667445468108E-2</v>
       </c>
       <c r="AA45" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>3.6140023364043233E-2</v>
       </c>
       <c r="AB45" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>3.614002336404324E-2</v>
       </c>
       <c r="AC45" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>2.4093348909362156E-2</v>
       </c>
       <c r="AD45" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>2.4093348909362142E-2</v>
       </c>
       <c r="AE45" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>6.0233372273405417E-2</v>
       </c>
       <c r="AF45" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>3.6140023364043233E-2</v>
       </c>
       <c r="AG45" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>0.16865344236553512</v>
       </c>
       <c r="AH45" s="13">
-        <f t="shared" ref="AH45:AP46" si="29">IF(AND(ISNUMBER(AG44),ISNUMBER(AH44)),AH44-AG44,"")</f>
+        <f t="shared" ref="AH45:AQ46" si="37">IF(AND(ISNUMBER(AG44),ISNUMBER(AH44)),AH44-AG44,"")</f>
         <v>8.4326721182767572E-2</v>
       </c>
       <c r="AI45" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>0.19274679127489719</v>
       </c>
       <c r="AJ45" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>0.20479346572957846</v>
       </c>
       <c r="AK45" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>6.0233372273405417E-2</v>
       </c>
       <c r="AL45" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>0.32526021027638896</v>
       </c>
       <c r="AM45" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>0.27707351245766487</v>
       </c>
       <c r="AN45" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>9.6373395637448622E-2</v>
       </c>
       <c r="AO45" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>9.6373395637448622E-2</v>
       </c>
       <c r="AP45" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>0.32526021027638929</v>
+      </c>
+      <c r="AQ45" s="13">
+        <f t="shared" si="37"/>
+        <v>0.83122053737299462</v>
       </c>
     </row>
     <row r="46" spans="1:49" s="13" customFormat="1" x14ac:dyDescent="0.45">
@@ -7078,168 +7170,172 @@
         <v>2. Ableitung</v>
       </c>
       <c r="B46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="C46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="D46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="E46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="F46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="G46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="H46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="I46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="J46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="K46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="L46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="M46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="N46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="O46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="P46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="Q46" s="13" t="str">
-        <f t="shared" si="27"/>
+        <f t="shared" si="35"/>
         <v/>
       </c>
       <c r="R46" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="S46" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="T46" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="U46" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="V46" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="W46" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="X46" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="Y46" s="13" t="str">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v/>
       </c>
       <c r="Z46" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>1.204667445468108E-2</v>
       </c>
       <c r="AA46" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>2.4093348909362156E-2</v>
       </c>
       <c r="AB46" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>6.9388939039072284E-18</v>
       </c>
       <c r="AC46" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>-1.2046674454681085E-2</v>
       </c>
       <c r="AD46" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>-1.3877787807814457E-17</v>
       </c>
       <c r="AE46" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>3.6140023364043275E-2</v>
       </c>
       <c r="AF46" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>-2.4093348909362183E-2</v>
       </c>
       <c r="AG46" s="13">
-        <f t="shared" si="28"/>
+        <f t="shared" si="36"/>
         <v>0.13251341900149188</v>
       </c>
       <c r="AH46" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>-8.4326721182767544E-2</v>
       </c>
       <c r="AI46" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>0.10842007009212962</v>
       </c>
       <c r="AJ46" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>1.2046674454681272E-2</v>
       </c>
       <c r="AK46" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>-0.14456009345617304</v>
       </c>
       <c r="AL46" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>0.26502683800298354</v>
       </c>
       <c r="AM46" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>-4.8186697818724089E-2</v>
       </c>
       <c r="AN46" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>-0.18070011682021625</v>
       </c>
       <c r="AO46" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>0</v>
       </c>
       <c r="AP46" s="13">
-        <f t="shared" si="29"/>
+        <f t="shared" si="37"/>
         <v>0.22888681463894067</v>
+      </c>
+      <c r="AQ46" s="13">
+        <f t="shared" si="37"/>
+        <v>0.50596032709660532</v>
       </c>
     </row>
   </sheetData>

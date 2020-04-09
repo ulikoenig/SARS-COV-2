@@ -145,7 +145,7 @@
             <c:strRef>
               <c:f>Hamburg!$B$7:$AX$7</c:f>
               <c:strCache>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>04.03.2020</c:v>
                 </c:pt>
@@ -250,6 +250,9 @@
                 </c:pt>
                 <c:pt idx="34">
                   <c:v>07.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="35">
+                  <c:v>08.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -366,7 +369,7 @@
                   <c:v>166.14354171973503</c:v>
                 </c:pt>
                 <c:pt idx="35">
-                  <c:v>0</c:v>
+                  <c:v>180.31924109497228</c:v>
                 </c:pt>
                 <c:pt idx="36">
                   <c:v>0</c:v>
@@ -500,7 +503,7 @@
             <c:strRef>
               <c:f>Hamburg!$B$7:$AX$7</c:f>
               <c:strCache>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>04.03.2020</c:v>
                 </c:pt>
@@ -605,6 +608,9 @@
                 </c:pt>
                 <c:pt idx="34">
                   <c:v>07.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="35">
+                  <c:v>08.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -721,7 +727,7 @@
                   <c:v>3.5846596121289735</c:v>
                 </c:pt>
                 <c:pt idx="35">
-                  <c:v>0</c:v>
+                  <c:v>14.175699375237258</c:v>
                 </c:pt>
                 <c:pt idx="36">
                   <c:v>0</c:v>
@@ -841,7 +847,7 @@
             <c:strRef>
               <c:f>Hamburg!$B$7:$AX$7</c:f>
               <c:strCache>
-                <c:ptCount val="35"/>
+                <c:ptCount val="36"/>
                 <c:pt idx="0">
                   <c:v>04.03.2020</c:v>
                 </c:pt>
@@ -946,6 +952,9 @@
                 </c:pt>
                 <c:pt idx="34">
                   <c:v>07.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="35">
+                  <c:v>08.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -1062,7 +1071,7 @@
                   <c:v>0.97763443967153307</c:v>
                 </c:pt>
                 <c:pt idx="35">
-                  <c:v>0</c:v>
+                  <c:v>10.591039763108284</c:v>
                 </c:pt>
                 <c:pt idx="36">
                   <c:v>0</c:v>

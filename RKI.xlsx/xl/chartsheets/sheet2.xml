@@ -5,5 +5,6 @@
     <sheetView tabSelected="1" zoomScale="124" workbookViewId="0" zoomToFit="1"/>
   </sheetViews>
   <pageMargins left="0.7" right="0.7" top="0.78740157499999996" bottom="0.78740157499999996" header="0.3" footer="0.3"/>
-  <drawing r:id="rId1"/>
+  <pageSetup paperSize="9" orientation="landscape" r:id="rId1"/>
+  <drawing r:id="rId2"/>
 </chartsheet>

@@ -61,588 +61,6 @@
         <c:grouping val="clustered"/>
         <c:varyColors val="0"/>
         <c:ser>
-          <c:idx val="16"/>
-          <c:order val="16"/>
-          <c:tx>
-            <c:strRef>
-              <c:f>'RKI Zahlen'!$X$23</c:f>
-              <c:strCache>
-                <c:ptCount val="1"/>
-                <c:pt idx="0">
-                  <c:v>20.03.2020</c:v>
-                </c:pt>
-              </c:strCache>
-            </c:strRef>
-          </c:tx>
-          <c:spPr>
-            <a:solidFill>
-              <a:schemeClr val="accent5">
-                <a:lumMod val="80000"/>
-                <a:lumOff val="20000"/>
-              </a:schemeClr>
-            </a:solidFill>
-            <a:ln>
-              <a:noFill/>
-            </a:ln>
-            <a:effectLst/>
-          </c:spPr>
-          <c:invertIfNegative val="0"/>
-          <c:cat>
-            <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$G$39</c:f>
-              <c:strCache>
-                <c:ptCount val="16"/>
-                <c:pt idx="0">
-                  <c:v>Baden-Württemberg</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>Bayern</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>Berlin</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>Brandenburg</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>Bremen</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>Hamburg</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>Hessen</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>Mecklenburg-Vorpommern</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>Niedersachsen</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>Nordrhein-West­falen</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>Rhein­landPfalz</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>Saarland</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>Sachsen</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>Sachsen-Anhalt</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>Schleswig-Holstein</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>Thüringen</c:v>
-                </c:pt>
-              </c:strCache>
-            </c:strRef>
-          </c:cat>
-          <c:val>
-            <c:numRef>
-              <c:f>'RKI Zahlen'!$X$24:$X$39</c:f>
-              <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
-                <c:ptCount val="16"/>
-                <c:pt idx="0">
-                  <c:v>24.806827894184877</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>18.360871964768538</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>20.055827082006111</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>7.6435646559977899</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>17.716322150087997</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>31.827432313751132</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>12.975180060547647</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>8.1382887850031853</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>10.059570698111658</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>19.500741970609923</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>19.60907197435202</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>14.739896356317811</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>9.6617480848772317</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>8.1509889187305653</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>9.1828252170046589</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>6.9809074523763908</c:v>
-                </c:pt>
-              </c:numCache>
-            </c:numRef>
-          </c:val>
-          <c:extLst>
-            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000010-270D-4D23-9C6E-A3C9E501108D}"/>
-            </c:ext>
-          </c:extLst>
-        </c:ser>
-        <c:ser>
-          <c:idx val="17"/>
-          <c:order val="17"/>
-          <c:tx>
-            <c:strRef>
-              <c:f>'RKI Zahlen'!$Y$23</c:f>
-              <c:strCache>
-                <c:ptCount val="1"/>
-                <c:pt idx="0">
-                  <c:v>21.03.2020</c:v>
-                </c:pt>
-              </c:strCache>
-            </c:strRef>
-          </c:tx>
-          <c:spPr>
-            <a:solidFill>
-              <a:schemeClr val="accent6">
-                <a:lumMod val="80000"/>
-                <a:lumOff val="20000"/>
-              </a:schemeClr>
-            </a:solidFill>
-            <a:ln>
-              <a:noFill/>
-            </a:ln>
-            <a:effectLst/>
-          </c:spPr>
-          <c:invertIfNegative val="0"/>
-          <c:cat>
-            <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$G$39</c:f>
-              <c:strCache>
-                <c:ptCount val="16"/>
-                <c:pt idx="0">
-                  <c:v>Baden-Württemberg</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>Bayern</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>Berlin</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>Brandenburg</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>Bremen</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>Hamburg</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>Hessen</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>Mecklenburg-Vorpommern</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>Niedersachsen</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>Nordrhein-West­falen</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>Rhein­landPfalz</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>Saarland</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>Sachsen</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>Sachsen-Anhalt</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>Schleswig-Holstein</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>Thüringen</c:v>
-                </c:pt>
-              </c:strCache>
-            </c:strRef>
-          </c:cat>
-          <c:val>
-            <c:numRef>
-              <c:f>'RKI Zahlen'!$Y$24:$Y$39</c:f>
-              <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
-                <c:ptCount val="16"/>
-                <c:pt idx="0">
-                  <c:v>33.135995890702887</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>22.635643904920812</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>23.759707596466882</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>10.111799076163743</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>20.791055746384259</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>31.881745338177332</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>17.23640155644706</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>10.250516408591798</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>12.81561746471759</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>19.751680886445623</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>22.962933223398494</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>18.879182319393362</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>13.904089249049212</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>8.5132550928963671</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>10.632744988110659</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>8.7612731113717111</c:v>
-                </c:pt>
-              </c:numCache>
-            </c:numRef>
-          </c:val>
-          <c:extLst>
-            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000011-270D-4D23-9C6E-A3C9E501108D}"/>
-            </c:ext>
-          </c:extLst>
-        </c:ser>
-        <c:ser>
-          <c:idx val="18"/>
-          <c:order val="18"/>
-          <c:tx>
-            <c:strRef>
-              <c:f>'RKI Zahlen'!$Z$23</c:f>
-              <c:strCache>
-                <c:ptCount val="1"/>
-                <c:pt idx="0">
-                  <c:v>22.03.2020</c:v>
-                </c:pt>
-              </c:strCache>
-            </c:strRef>
-          </c:tx>
-          <c:spPr>
-            <a:solidFill>
-              <a:schemeClr val="accent1">
-                <a:lumMod val="80000"/>
-              </a:schemeClr>
-            </a:solidFill>
-            <a:ln>
-              <a:noFill/>
-            </a:ln>
-            <a:effectLst/>
-          </c:spPr>
-          <c:invertIfNegative val="0"/>
-          <c:cat>
-            <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$G$39</c:f>
-              <c:strCache>
-                <c:ptCount val="16"/>
-                <c:pt idx="0">
-                  <c:v>Baden-Württemberg</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>Bayern</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>Berlin</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>Brandenburg</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>Bremen</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>Hamburg</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>Hessen</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>Mecklenburg-Vorpommern</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>Niedersachsen</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>Nordrhein-West­falen</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>Rhein­landPfalz</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>Saarland</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>Sachsen</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>Sachsen-Anhalt</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>Schleswig-Holstein</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>Thüringen</c:v>
-                </c:pt>
-              </c:strCache>
-            </c:strRef>
-          </c:cat>
-          <c:val>
-            <c:numRef>
-              <c:f>'RKI Zahlen'!$Z$24:$Z$39</c:f>
-              <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
-                <c:ptCount val="16"/>
-                <c:pt idx="0">
-                  <c:v>34.391694753518507</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>27.912196031405735</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>28.094619605983933</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>10.908003727830179</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>24.158621113756357</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>47.360957299643331</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>18.752566508171572</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>10.68538680168357</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>16.360895805397043</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>19.768410147501339</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>25.778218213474002</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>18.879182319393362</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>14.860455176232492</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>9.5547703436230513</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>11.979099061280515</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>10.119973219552351</c:v>
-                </c:pt>
-              </c:numCache>
-            </c:numRef>
-          </c:val>
-          <c:extLst>
-            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000012-270D-4D23-9C6E-A3C9E501108D}"/>
-            </c:ext>
-          </c:extLst>
-        </c:ser>
-        <c:ser>
-          <c:idx val="19"/>
-          <c:order val="19"/>
-          <c:tx>
-            <c:strRef>
-              <c:f>'RKI Zahlen'!$AA$23</c:f>
-              <c:strCache>
-                <c:ptCount val="1"/>
-                <c:pt idx="0">
-                  <c:v>23.03.2020</c:v>
-                </c:pt>
-              </c:strCache>
-            </c:strRef>
-          </c:tx>
-          <c:spPr>
-            <a:solidFill>
-              <a:schemeClr val="accent2">
-                <a:lumMod val="80000"/>
-              </a:schemeClr>
-            </a:solidFill>
-            <a:ln>
-              <a:noFill/>
-            </a:ln>
-            <a:effectLst/>
-          </c:spPr>
-          <c:invertIfNegative val="0"/>
-          <c:cat>
-            <c:strRef>
-              <c:f>'RKI Zahlen'!$A$24:$G$39</c:f>
-              <c:strCache>
-                <c:ptCount val="16"/>
-                <c:pt idx="0">
-                  <c:v>Baden-Württemberg</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>Bayern</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>Berlin</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>Brandenburg</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>Bremen</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>Hamburg</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>Hessen</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>Mecklenburg-Vorpommern</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>Niedersachsen</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>Nordrhein-West­falen</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>Rhein­landPfalz</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>Saarland</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>Sachsen</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>Sachsen-Anhalt</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>Schleswig-Holstein</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>Thüringen</c:v>
-                </c:pt>
-              </c:strCache>
-            </c:strRef>
-          </c:cat>
-          <c:val>
-            <c:numRef>
-              <c:f>'RKI Zahlen'!$AA$24:$AA$39</c:f>
-              <c:numCache>
-                <c:formatCode>#,##0.0</c:formatCode>
-                <c:ptCount val="16"/>
-                <c:pt idx="0">
-                  <c:v>34.427829972592342</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>37.409989859078586</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>29.548735659809275</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>11.465346983996685</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>24.890700541445945</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>51.217182033903278</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>21.497623052346473</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>10.68538680168357</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>18.578260703984544</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>31.311600275943587</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>28.813829854946722</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>20.191638844270976</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>16.012998729504648</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>9.6000536153937759</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.221887436514228</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>11.666080239206183</c:v>
-                </c:pt>
-              </c:numCache>
-            </c:numRef>
-          </c:val>
-          <c:extLst>
-            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
-              <c16:uniqueId val="{00000013-270D-4D23-9C6E-A3C9E501108D}"/>
-            </c:ext>
-          </c:extLst>
-        </c:ser>
-        <c:ser>
           <c:idx val="20"/>
           <c:order val="20"/>
           <c:tx>
@@ -2823,6 +2241,151 @@
             </c:ext>
           </c:extLst>
         </c:ser>
+        <c:ser>
+          <c:idx val="35"/>
+          <c:order val="35"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>'RKI Zahlen'!$AQ$23</c:f>
+              <c:strCache>
+                <c:ptCount val="1"/>
+                <c:pt idx="0">
+                  <c:v>08.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:tx>
+          <c:spPr>
+            <a:solidFill>
+              <a:schemeClr val="accent6">
+                <a:lumMod val="50000"/>
+              </a:schemeClr>
+            </a:solidFill>
+            <a:ln>
+              <a:noFill/>
+            </a:ln>
+            <a:effectLst/>
+          </c:spPr>
+          <c:invertIfNegative val="0"/>
+          <c:cat>
+            <c:strRef>
+              <c:f>'RKI Zahlen'!$A$24:$G$39</c:f>
+              <c:strCache>
+                <c:ptCount val="16"/>
+                <c:pt idx="0">
+                  <c:v>Baden-Württemberg</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>Bayern</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>Berlin</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>Brandenburg</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>Bremen</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>Hamburg</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>Hessen</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>Mecklenburg-Vorpommern</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>Niedersachsen</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>Nordrhein-West­falen</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>Rhein­landPfalz</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>Saarland</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>Sachsen</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>Sachsen-Anhalt</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>Schleswig-Holstein</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>Thüringen</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>'RKI Zahlen'!$AQ$24:$AQ$39</c:f>
+              <c:numCache>
+                <c:formatCode>#,##0.0</c:formatCode>
+                <c:ptCount val="16"/>
+                <c:pt idx="0">
+                  <c:v>195.15728441299194</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>220.44517123214607</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>115.28671053158642</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>62.820547016481839</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>65.155069064373208</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>180.31924109497228</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>83.66038607305137</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>35.535123549784892</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>85.237009999939872</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>122.46376734817402</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>106.14848449536875</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>170.92222281675382</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>79.966904834478811</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>48.679517153529765</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>66.696309470875946</c:v>
+                </c:pt>
+                <c:pt idx="15">
+                  <c:v>63.296684350070493</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:val>
+          <c:extLst>
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000000-26F1-4F62-AC62-6B6E3F1ECD25}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
         <c:dLbls>
           <c:showLegendKey val="0"/>
           <c:showVal val="0"/>
@@ -4798,7 +4361,7 @@
                     </c:numCache>
                   </c:numRef>
                 </c:val>
-                <c:extLst>
+                <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
                     <c16:uniqueId val="{0000000B-270D-4D23-9C6E-A3C9E501108D}"/>
                   </c:ext>
@@ -4964,7 +4527,7 @@
                     </c:numCache>
                   </c:numRef>
                 </c:val>
-                <c:extLst>
+                <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
                     <c16:uniqueId val="{0000000C-270D-4D23-9C6E-A3C9E501108D}"/>
                   </c:ext>
@@ -5130,7 +4693,7 @@
                     </c:numCache>
                   </c:numRef>
                 </c:val>
-                <c:extLst>
+                <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
                     <c16:uniqueId val="{0000000D-270D-4D23-9C6E-A3C9E501108D}"/>
                   </c:ext>
@@ -5296,7 +4859,7 @@
                     </c:numCache>
                   </c:numRef>
                 </c:val>
-                <c:extLst>
+                <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
                     <c16:uniqueId val="{0000000E-270D-4D23-9C6E-A3C9E501108D}"/>
                   </c:ext>
@@ -5462,9 +5025,671 @@
                     </c:numCache>
                   </c:numRef>
                 </c:val>
-                <c:extLst>
+                <c:extLst xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
                   <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
                     <c16:uniqueId val="{0000000F-270D-4D23-9C6E-A3C9E501108D}"/>
+                  </c:ext>
+                </c:extLst>
+              </c15:ser>
+            </c15:filteredBarSeries>
+            <c15:filteredBarSeries>
+              <c15:ser>
+                <c:idx val="16"/>
+                <c:order val="16"/>
+                <c:tx>
+                  <c:strRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$X$23</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:strCache>
+                      <c:ptCount val="1"/>
+                      <c:pt idx="0">
+                        <c:v>20.03.2020</c:v>
+                      </c:pt>
+                    </c:strCache>
+                  </c:strRef>
+                </c:tx>
+                <c:spPr>
+                  <a:solidFill>
+                    <a:schemeClr val="accent5">
+                      <a:lumMod val="80000"/>
+                      <a:lumOff val="20000"/>
+                    </a:schemeClr>
+                  </a:solidFill>
+                  <a:ln>
+                    <a:noFill/>
+                  </a:ln>
+                  <a:effectLst/>
+                </c:spPr>
+                <c:invertIfNegative val="0"/>
+                <c:cat>
+                  <c:strRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$A$24:$G$39</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:strCache>
+                      <c:ptCount val="16"/>
+                      <c:pt idx="0">
+                        <c:v>Baden-Württemberg</c:v>
+                      </c:pt>
+                      <c:pt idx="1">
+                        <c:v>Bayern</c:v>
+                      </c:pt>
+                      <c:pt idx="2">
+                        <c:v>Berlin</c:v>
+                      </c:pt>
+                      <c:pt idx="3">
+                        <c:v>Brandenburg</c:v>
+                      </c:pt>
+                      <c:pt idx="4">
+                        <c:v>Bremen</c:v>
+                      </c:pt>
+                      <c:pt idx="5">
+                        <c:v>Hamburg</c:v>
+                      </c:pt>
+                      <c:pt idx="6">
+                        <c:v>Hessen</c:v>
+                      </c:pt>
+                      <c:pt idx="7">
+                        <c:v>Mecklenburg-Vorpommern</c:v>
+                      </c:pt>
+                      <c:pt idx="8">
+                        <c:v>Niedersachsen</c:v>
+                      </c:pt>
+                      <c:pt idx="9">
+                        <c:v>Nordrhein-West­falen</c:v>
+                      </c:pt>
+                      <c:pt idx="10">
+                        <c:v>Rhein­landPfalz</c:v>
+                      </c:pt>
+                      <c:pt idx="11">
+                        <c:v>Saarland</c:v>
+                      </c:pt>
+                      <c:pt idx="12">
+                        <c:v>Sachsen</c:v>
+                      </c:pt>
+                      <c:pt idx="13">
+                        <c:v>Sachsen-Anhalt</c:v>
+                      </c:pt>
+                      <c:pt idx="14">
+                        <c:v>Schleswig-Holstein</c:v>
+                      </c:pt>
+                      <c:pt idx="15">
+                        <c:v>Thüringen</c:v>
+                      </c:pt>
+                    </c:strCache>
+                  </c:strRef>
+                </c:cat>
+                <c:val>
+                  <c:numRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$X$24:$X$39</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:numCache>
+                      <c:formatCode>#,##0.0</c:formatCode>
+                      <c:ptCount val="16"/>
+                      <c:pt idx="0">
+                        <c:v>24.806827894184877</c:v>
+                      </c:pt>
+                      <c:pt idx="1">
+                        <c:v>18.360871964768538</c:v>
+                      </c:pt>
+                      <c:pt idx="2">
+                        <c:v>20.055827082006111</c:v>
+                      </c:pt>
+                      <c:pt idx="3">
+                        <c:v>7.6435646559977899</c:v>
+                      </c:pt>
+                      <c:pt idx="4">
+                        <c:v>17.716322150087997</c:v>
+                      </c:pt>
+                      <c:pt idx="5">
+                        <c:v>31.827432313751132</c:v>
+                      </c:pt>
+                      <c:pt idx="6">
+                        <c:v>12.975180060547647</c:v>
+                      </c:pt>
+                      <c:pt idx="7">
+                        <c:v>8.1382887850031853</c:v>
+                      </c:pt>
+                      <c:pt idx="8">
+                        <c:v>10.059570698111658</c:v>
+                      </c:pt>
+                      <c:pt idx="9">
+                        <c:v>19.500741970609923</c:v>
+                      </c:pt>
+                      <c:pt idx="10">
+                        <c:v>19.60907197435202</c:v>
+                      </c:pt>
+                      <c:pt idx="11">
+                        <c:v>14.739896356317811</c:v>
+                      </c:pt>
+                      <c:pt idx="12">
+                        <c:v>9.6617480848772317</c:v>
+                      </c:pt>
+                      <c:pt idx="13">
+                        <c:v>8.1509889187305653</c:v>
+                      </c:pt>
+                      <c:pt idx="14">
+                        <c:v>9.1828252170046589</c:v>
+                      </c:pt>
+                      <c:pt idx="15">
+                        <c:v>6.9809074523763908</c:v>
+                      </c:pt>
+                    </c:numCache>
+                  </c:numRef>
+                </c:val>
+                <c:extLst>
+                  <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+                    <c16:uniqueId val="{00000010-270D-4D23-9C6E-A3C9E501108D}"/>
+                  </c:ext>
+                </c:extLst>
+              </c15:ser>
+            </c15:filteredBarSeries>
+            <c15:filteredBarSeries>
+              <c15:ser>
+                <c:idx val="17"/>
+                <c:order val="17"/>
+                <c:tx>
+                  <c:strRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$Y$23</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:strCache>
+                      <c:ptCount val="1"/>
+                      <c:pt idx="0">
+                        <c:v>21.03.2020</c:v>
+                      </c:pt>
+                    </c:strCache>
+                  </c:strRef>
+                </c:tx>
+                <c:spPr>
+                  <a:solidFill>
+                    <a:schemeClr val="accent6">
+                      <a:lumMod val="80000"/>
+                      <a:lumOff val="20000"/>
+                    </a:schemeClr>
+                  </a:solidFill>
+                  <a:ln>
+                    <a:noFill/>
+                  </a:ln>
+                  <a:effectLst/>
+                </c:spPr>
+                <c:invertIfNegative val="0"/>
+                <c:cat>
+                  <c:strRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$A$24:$G$39</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:strCache>
+                      <c:ptCount val="16"/>
+                      <c:pt idx="0">
+                        <c:v>Baden-Württemberg</c:v>
+                      </c:pt>
+                      <c:pt idx="1">
+                        <c:v>Bayern</c:v>
+                      </c:pt>
+                      <c:pt idx="2">
+                        <c:v>Berlin</c:v>
+                      </c:pt>
+                      <c:pt idx="3">
+                        <c:v>Brandenburg</c:v>
+                      </c:pt>
+                      <c:pt idx="4">
+                        <c:v>Bremen</c:v>
+                      </c:pt>
+                      <c:pt idx="5">
+                        <c:v>Hamburg</c:v>
+                      </c:pt>
+                      <c:pt idx="6">
+                        <c:v>Hessen</c:v>
+                      </c:pt>
+                      <c:pt idx="7">
+                        <c:v>Mecklenburg-Vorpommern</c:v>
+                      </c:pt>
+                      <c:pt idx="8">
+                        <c:v>Niedersachsen</c:v>
+                      </c:pt>
+                      <c:pt idx="9">
+                        <c:v>Nordrhein-West­falen</c:v>
+                      </c:pt>
+                      <c:pt idx="10">
+                        <c:v>Rhein­landPfalz</c:v>
+                      </c:pt>
+                      <c:pt idx="11">
+                        <c:v>Saarland</c:v>
+                      </c:pt>
+                      <c:pt idx="12">
+                        <c:v>Sachsen</c:v>
+                      </c:pt>
+                      <c:pt idx="13">
+                        <c:v>Sachsen-Anhalt</c:v>
+                      </c:pt>
+                      <c:pt idx="14">
+                        <c:v>Schleswig-Holstein</c:v>
+                      </c:pt>
+                      <c:pt idx="15">
+                        <c:v>Thüringen</c:v>
+                      </c:pt>
+                    </c:strCache>
+                  </c:strRef>
+                </c:cat>
+                <c:val>
+                  <c:numRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$Y$24:$Y$39</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:numCache>
+                      <c:formatCode>#,##0.0</c:formatCode>
+                      <c:ptCount val="16"/>
+                      <c:pt idx="0">
+                        <c:v>33.135995890702887</c:v>
+                      </c:pt>
+                      <c:pt idx="1">
+                        <c:v>22.635643904920812</c:v>
+                      </c:pt>
+                      <c:pt idx="2">
+                        <c:v>23.759707596466882</c:v>
+                      </c:pt>
+                      <c:pt idx="3">
+                        <c:v>10.111799076163743</c:v>
+                      </c:pt>
+                      <c:pt idx="4">
+                        <c:v>20.791055746384259</c:v>
+                      </c:pt>
+                      <c:pt idx="5">
+                        <c:v>31.881745338177332</c:v>
+                      </c:pt>
+                      <c:pt idx="6">
+                        <c:v>17.23640155644706</c:v>
+                      </c:pt>
+                      <c:pt idx="7">
+                        <c:v>10.250516408591798</c:v>
+                      </c:pt>
+                      <c:pt idx="8">
+                        <c:v>12.81561746471759</c:v>
+                      </c:pt>
+                      <c:pt idx="9">
+                        <c:v>19.751680886445623</c:v>
+                      </c:pt>
+                      <c:pt idx="10">
+                        <c:v>22.962933223398494</c:v>
+                      </c:pt>
+                      <c:pt idx="11">
+                        <c:v>18.879182319393362</c:v>
+                      </c:pt>
+                      <c:pt idx="12">
+                        <c:v>13.904089249049212</c:v>
+                      </c:pt>
+                      <c:pt idx="13">
+                        <c:v>8.5132550928963671</c:v>
+                      </c:pt>
+                      <c:pt idx="14">
+                        <c:v>10.632744988110659</c:v>
+                      </c:pt>
+                      <c:pt idx="15">
+                        <c:v>8.7612731113717111</c:v>
+                      </c:pt>
+                    </c:numCache>
+                  </c:numRef>
+                </c:val>
+                <c:extLst>
+                  <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+                    <c16:uniqueId val="{00000011-270D-4D23-9C6E-A3C9E501108D}"/>
+                  </c:ext>
+                </c:extLst>
+              </c15:ser>
+            </c15:filteredBarSeries>
+            <c15:filteredBarSeries>
+              <c15:ser>
+                <c:idx val="18"/>
+                <c:order val="18"/>
+                <c:tx>
+                  <c:strRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$Z$23</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:strCache>
+                      <c:ptCount val="1"/>
+                      <c:pt idx="0">
+                        <c:v>22.03.2020</c:v>
+                      </c:pt>
+                    </c:strCache>
+                  </c:strRef>
+                </c:tx>
+                <c:spPr>
+                  <a:solidFill>
+                    <a:schemeClr val="accent1">
+                      <a:lumMod val="80000"/>
+                    </a:schemeClr>
+                  </a:solidFill>
+                  <a:ln>
+                    <a:noFill/>
+                  </a:ln>
+                  <a:effectLst/>
+                </c:spPr>
+                <c:invertIfNegative val="0"/>
+                <c:cat>
+                  <c:strRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$A$24:$G$39</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:strCache>
+                      <c:ptCount val="16"/>
+                      <c:pt idx="0">
+                        <c:v>Baden-Württemberg</c:v>
+                      </c:pt>
+                      <c:pt idx="1">
+                        <c:v>Bayern</c:v>
+                      </c:pt>
+                      <c:pt idx="2">
+                        <c:v>Berlin</c:v>
+                      </c:pt>
+                      <c:pt idx="3">
+                        <c:v>Brandenburg</c:v>
+                      </c:pt>
+                      <c:pt idx="4">
+                        <c:v>Bremen</c:v>
+                      </c:pt>
+                      <c:pt idx="5">
+                        <c:v>Hamburg</c:v>
+                      </c:pt>
+                      <c:pt idx="6">
+                        <c:v>Hessen</c:v>
+                      </c:pt>
+                      <c:pt idx="7">
+                        <c:v>Mecklenburg-Vorpommern</c:v>
+                      </c:pt>
+                      <c:pt idx="8">
+                        <c:v>Niedersachsen</c:v>
+                      </c:pt>
+                      <c:pt idx="9">
+                        <c:v>Nordrhein-West­falen</c:v>
+                      </c:pt>
+                      <c:pt idx="10">
+                        <c:v>Rhein­landPfalz</c:v>
+                      </c:pt>
+                      <c:pt idx="11">
+                        <c:v>Saarland</c:v>
+                      </c:pt>
+                      <c:pt idx="12">
+                        <c:v>Sachsen</c:v>
+                      </c:pt>
+                      <c:pt idx="13">
+                        <c:v>Sachsen-Anhalt</c:v>
+                      </c:pt>
+                      <c:pt idx="14">
+                        <c:v>Schleswig-Holstein</c:v>
+                      </c:pt>
+                      <c:pt idx="15">
+                        <c:v>Thüringen</c:v>
+                      </c:pt>
+                    </c:strCache>
+                  </c:strRef>
+                </c:cat>
+                <c:val>
+                  <c:numRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$Z$24:$Z$39</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:numCache>
+                      <c:formatCode>#,##0.0</c:formatCode>
+                      <c:ptCount val="16"/>
+                      <c:pt idx="0">
+                        <c:v>34.391694753518507</c:v>
+                      </c:pt>
+                      <c:pt idx="1">
+                        <c:v>27.912196031405735</c:v>
+                      </c:pt>
+                      <c:pt idx="2">
+                        <c:v>28.094619605983933</c:v>
+                      </c:pt>
+                      <c:pt idx="3">
+                        <c:v>10.908003727830179</c:v>
+                      </c:pt>
+                      <c:pt idx="4">
+                        <c:v>24.158621113756357</c:v>
+                      </c:pt>
+                      <c:pt idx="5">
+                        <c:v>47.360957299643331</c:v>
+                      </c:pt>
+                      <c:pt idx="6">
+                        <c:v>18.752566508171572</c:v>
+                      </c:pt>
+                      <c:pt idx="7">
+                        <c:v>10.68538680168357</c:v>
+                      </c:pt>
+                      <c:pt idx="8">
+                        <c:v>16.360895805397043</c:v>
+                      </c:pt>
+                      <c:pt idx="9">
+                        <c:v>19.768410147501339</c:v>
+                      </c:pt>
+                      <c:pt idx="10">
+                        <c:v>25.778218213474002</c:v>
+                      </c:pt>
+                      <c:pt idx="11">
+                        <c:v>18.879182319393362</c:v>
+                      </c:pt>
+                      <c:pt idx="12">
+                        <c:v>14.860455176232492</c:v>
+                      </c:pt>
+                      <c:pt idx="13">
+                        <c:v>9.5547703436230513</c:v>
+                      </c:pt>
+                      <c:pt idx="14">
+                        <c:v>11.979099061280515</c:v>
+                      </c:pt>
+                      <c:pt idx="15">
+                        <c:v>10.119973219552351</c:v>
+                      </c:pt>
+                    </c:numCache>
+                  </c:numRef>
+                </c:val>
+                <c:extLst>
+                  <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+                    <c16:uniqueId val="{00000012-270D-4D23-9C6E-A3C9E501108D}"/>
+                  </c:ext>
+                </c:extLst>
+              </c15:ser>
+            </c15:filteredBarSeries>
+            <c15:filteredBarSeries>
+              <c15:ser>
+                <c:idx val="19"/>
+                <c:order val="19"/>
+                <c:tx>
+                  <c:strRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$AA$23</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:strCache>
+                      <c:ptCount val="1"/>
+                      <c:pt idx="0">
+                        <c:v>23.03.2020</c:v>
+                      </c:pt>
+                    </c:strCache>
+                  </c:strRef>
+                </c:tx>
+                <c:spPr>
+                  <a:solidFill>
+                    <a:schemeClr val="accent2">
+                      <a:lumMod val="80000"/>
+                    </a:schemeClr>
+                  </a:solidFill>
+                  <a:ln>
+                    <a:noFill/>
+                  </a:ln>
+                  <a:effectLst/>
+                </c:spPr>
+                <c:invertIfNegative val="0"/>
+                <c:cat>
+                  <c:strRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$A$24:$G$39</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:strCache>
+                      <c:ptCount val="16"/>
+                      <c:pt idx="0">
+                        <c:v>Baden-Württemberg</c:v>
+                      </c:pt>
+                      <c:pt idx="1">
+                        <c:v>Bayern</c:v>
+                      </c:pt>
+                      <c:pt idx="2">
+                        <c:v>Berlin</c:v>
+                      </c:pt>
+                      <c:pt idx="3">
+                        <c:v>Brandenburg</c:v>
+                      </c:pt>
+                      <c:pt idx="4">
+                        <c:v>Bremen</c:v>
+                      </c:pt>
+                      <c:pt idx="5">
+                        <c:v>Hamburg</c:v>
+                      </c:pt>
+                      <c:pt idx="6">
+                        <c:v>Hessen</c:v>
+                      </c:pt>
+                      <c:pt idx="7">
+                        <c:v>Mecklenburg-Vorpommern</c:v>
+                      </c:pt>
+                      <c:pt idx="8">
+                        <c:v>Niedersachsen</c:v>
+                      </c:pt>
+                      <c:pt idx="9">
+                        <c:v>Nordrhein-West­falen</c:v>
+                      </c:pt>
+                      <c:pt idx="10">
+                        <c:v>Rhein­landPfalz</c:v>
+                      </c:pt>
+                      <c:pt idx="11">
+                        <c:v>Saarland</c:v>
+                      </c:pt>
+                      <c:pt idx="12">
+                        <c:v>Sachsen</c:v>
+                      </c:pt>
+                      <c:pt idx="13">
+                        <c:v>Sachsen-Anhalt</c:v>
+                      </c:pt>
+                      <c:pt idx="14">
+                        <c:v>Schleswig-Holstein</c:v>
+                      </c:pt>
+                      <c:pt idx="15">
+                        <c:v>Thüringen</c:v>
+                      </c:pt>
+                    </c:strCache>
+                  </c:strRef>
+                </c:cat>
+                <c:val>
+                  <c:numRef>
+                    <c:extLst>
+                      <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{02D57815-91ED-43cb-92C2-25804820EDAC}">
+                        <c15:formulaRef>
+                          <c15:sqref>'RKI Zahlen'!$AA$24:$AA$39</c15:sqref>
+                        </c15:formulaRef>
+                      </c:ext>
+                    </c:extLst>
+                    <c:numCache>
+                      <c:formatCode>#,##0.0</c:formatCode>
+                      <c:ptCount val="16"/>
+                      <c:pt idx="0">
+                        <c:v>34.427829972592342</c:v>
+                      </c:pt>
+                      <c:pt idx="1">
+                        <c:v>37.409989859078586</c:v>
+                      </c:pt>
+                      <c:pt idx="2">
+                        <c:v>29.548735659809275</c:v>
+                      </c:pt>
+                      <c:pt idx="3">
+                        <c:v>11.465346983996685</c:v>
+                      </c:pt>
+                      <c:pt idx="4">
+                        <c:v>24.890700541445945</c:v>
+                      </c:pt>
+                      <c:pt idx="5">
+                        <c:v>51.217182033903278</c:v>
+                      </c:pt>
+                      <c:pt idx="6">
+                        <c:v>21.497623052346473</c:v>
+                      </c:pt>
+                      <c:pt idx="7">
+                        <c:v>10.68538680168357</c:v>
+                      </c:pt>
+                      <c:pt idx="8">
+                        <c:v>18.578260703984544</c:v>
+                      </c:pt>
+                      <c:pt idx="9">
+                        <c:v>31.311600275943587</c:v>
+                      </c:pt>
+                      <c:pt idx="10">
+                        <c:v>28.813829854946722</c:v>
+                      </c:pt>
+                      <c:pt idx="11">
+                        <c:v>20.191638844270976</c:v>
+                      </c:pt>
+                      <c:pt idx="12">
+                        <c:v>16.012998729504648</c:v>
+                      </c:pt>
+                      <c:pt idx="13">
+                        <c:v>9.6000536153937759</c:v>
+                      </c:pt>
+                      <c:pt idx="14">
+                        <c:v>13.221887436514228</c:v>
+                      </c:pt>
+                      <c:pt idx="15">
+                        <c:v>11.666080239206183</c:v>
+                      </c:pt>
+                    </c:numCache>
+                  </c:numRef>
+                </c:val>
+                <c:extLst>
+                  <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+                    <c16:uniqueId val="{00000013-270D-4D23-9C6E-A3C9E501108D}"/>
                   </c:ext>
                 </c:extLst>
               </c15:ser>

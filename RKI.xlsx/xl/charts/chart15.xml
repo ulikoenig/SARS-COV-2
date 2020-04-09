@@ -280,6 +280,9 @@
                 <c:pt idx="34">
                   <c:v>43928</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>43929</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -395,7 +398,7 @@
                   <c:v>11919</c:v>
                 </c:pt>
                 <c:pt idx="35">
-                  <c:v>0</c:v>
+                  <c:v>13073</c:v>
                 </c:pt>
                 <c:pt idx="36">
                   <c:v>0</c:v>
@@ -645,6 +648,9 @@
                 <c:pt idx="34">
                   <c:v>43928</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>43929</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -760,7 +766,7 @@
                   <c:v>370</c:v>
                 </c:pt>
                 <c:pt idx="35">
-                  <c:v>0</c:v>
+                  <c:v>1154</c:v>
                 </c:pt>
                 <c:pt idx="36">
                   <c:v>0</c:v>
@@ -996,6 +1002,9 @@
                 <c:pt idx="34">
                   <c:v>43928</c:v>
                 </c:pt>
+                <c:pt idx="35">
+                  <c:v>43929</c:v>
+                </c:pt>
               </c:numCache>
             </c:numRef>
           </c:cat>
@@ -1111,7 +1120,7 @@
                   <c:v>26</c:v>
                 </c:pt>
                 <c:pt idx="35">
-                  <c:v>0</c:v>
+                  <c:v>784</c:v>
                 </c:pt>
                 <c:pt idx="36">
                   <c:v>0</c:v>
