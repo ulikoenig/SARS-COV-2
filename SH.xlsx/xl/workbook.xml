@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr6="http://schemas.microsoft.com/office/spreadsheetml/2016/revision6" xmlns:xr10="http://schemas.microsoft.com/office/spreadsheetml/2016/revision10" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" mc:Ignorable="x15 xr xr6 xr10 xr2">
-  <fileVersion appName="xl" lastEdited="7" lowestEdited="6" rupBuild="22527"/>
+  <fileVersion appName="xl" lastEdited="7" lowestEdited="6" rupBuild="22624"/>
   <workbookPr/>
   <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
     <mc:Choice Requires="x15">
       <x15ac:absPath xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac" url="C:\Users\ukoenig\Documents\2020\Corona\"/>
     </mc:Choice>
   </mc:AlternateContent>
-  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{6A60ADE3-0012-45BA-89BF-AEAEBF2D61F5}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+  <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{4568E82A-A7E1-44B2-BA1A-EC4DB8C786AA}" xr6:coauthVersionLast="45" xr6:coauthVersionMax="45" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
   <bookViews>
-    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="709" activeTab="7" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
+    <workbookView xWindow="-98" yWindow="-98" windowWidth="28996" windowHeight="15796" tabRatio="709" activeTab="8" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
   </bookViews>
   <sheets>
     <sheet name="Kreise" sheetId="3" r:id="rId1"/>
@@ -20,6 +20,7 @@
     <sheet name="DC-Kreise2" sheetId="11" r:id="rId6"/>
     <sheet name="DC-Kreise-Normiert" sheetId="10" r:id="rId7"/>
     <sheet name="DC-Kreise-Ableitung-Tot" sheetId="34" r:id="rId8"/>
+    <sheet name="Diagramm1" sheetId="40" r:id="rId9"/>
   </sheets>
   <definedNames>
     <definedName name="_xlnm.Print_Area" localSheetId="1">Auswertung!$A$1</definedName>

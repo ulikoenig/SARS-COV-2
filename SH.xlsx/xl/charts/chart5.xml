@@ -7095,6 +7095,9 @@
               <c:f>Kreise!$BQ$24</c:f>
               <c:strCache>
                 <c:ptCount val="1"/>
+                <c:pt idx="0">
+                  <c:v>08.04.2020</c:v>
+                </c:pt>
               </c:strCache>
             </c:strRef>
           </c:tx>
@@ -7231,6 +7234,156 @@
           <c:extLst>
             <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
               <c16:uniqueId val="{00000000-929B-4629-8E6B-266ABBBB610D}"/>
+            </c:ext>
+          </c:extLst>
+        </c:ser>
+        <c:ser>
+          <c:idx val="41"/>
+          <c:order val="41"/>
+          <c:tx>
+            <c:strRef>
+              <c:f>Kreise!$BR$24</c:f>
+              <c:strCache>
+                <c:ptCount val="1"/>
+                <c:pt idx="0">
+                  <c:v>09.04.2020</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:tx>
+          <c:invertIfNegative val="0"/>
+          <c:dLbls>
+            <c:spPr>
+              <a:noFill/>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst/>
+            </c:spPr>
+            <c:dLblPos val="outEnd"/>
+            <c:showLegendKey val="0"/>
+            <c:showVal val="1"/>
+            <c:showCatName val="0"/>
+            <c:showSerName val="0"/>
+            <c:showPercent val="0"/>
+            <c:showBubbleSize val="0"/>
+            <c:showLeaderLines val="0"/>
+            <c:extLst>
+              <c:ext xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart" uri="{CE6537A1-D6FC-4f65-9D91-7224C49458BB}">
+                <c15:showLeaderLines val="1"/>
+              </c:ext>
+            </c:extLst>
+          </c:dLbls>
+          <c:cat>
+            <c:strRef>
+              <c:f>Kreise!$A$25:$A$39</c:f>
+              <c:strCache>
+                <c:ptCount val="15"/>
+                <c:pt idx="0">
+                  <c:v>Dithmarschen</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>Flensburg</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>Herzogtum Lauenburg</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>Kiel</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>Lübeck</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>Neumünster</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>Nordfriesland</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>Ostholstein</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>Pinneberg</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>Plön</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>Rendsburg-Eckernförde</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>Schleswig-Flensburg</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>Segeberg</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>Steinburg</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>Stormarn</c:v>
+                </c:pt>
+              </c:strCache>
+            </c:strRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>Kreise!$BR$25:$BR$39</c:f>
+              <c:numCache>
+                <c:formatCode>0.0</c:formatCode>
+                <c:ptCount val="15"/>
+                <c:pt idx="0">
+                  <c:v>38.285414007957364</c:v>
+                </c:pt>
+                <c:pt idx="1">
+                  <c:v>35.752592062924563</c:v>
+                </c:pt>
+                <c:pt idx="2">
+                  <c:v>92.769081028469458</c:v>
+                </c:pt>
+                <c:pt idx="3">
+                  <c:v>75.540905198183779</c:v>
+                </c:pt>
+                <c:pt idx="4">
+                  <c:v>59.392812088509096</c:v>
+                </c:pt>
+                <c:pt idx="5">
+                  <c:v>51.580761633977886</c:v>
+                </c:pt>
+                <c:pt idx="6">
+                  <c:v>38.669059314711767</c:v>
+                </c:pt>
+                <c:pt idx="7">
+                  <c:v>26.921792193677366</c:v>
+                </c:pt>
+                <c:pt idx="8">
+                  <c:v>139.6350404432697</c:v>
+                </c:pt>
+                <c:pt idx="9">
+                  <c:v>72.290842382643987</c:v>
+                </c:pt>
+                <c:pt idx="10">
+                  <c:v>70.38768215562277</c:v>
+                </c:pt>
+                <c:pt idx="11">
+                  <c:v>53.493313335833029</c:v>
+                </c:pt>
+                <c:pt idx="12">
+                  <c:v>65.209830744261538</c:v>
+                </c:pt>
+                <c:pt idx="13">
+                  <c:v>54.816630756697904</c:v>
+                </c:pt>
+                <c:pt idx="14">
+                  <c:v>85.527722495435782</c:v>
+                </c:pt>
+              </c:numCache>
+            </c:numRef>
+          </c:val>
+          <c:extLst>
+            <c:ext xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" uri="{C3380CC4-5D6E-409C-BE32-E72D297353CC}">
+              <c16:uniqueId val="{00000000-1EF8-4694-9288-2326AA9A3126}"/>
             </c:ext>
           </c:extLst>
         </c:ser>

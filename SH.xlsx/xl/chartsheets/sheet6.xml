@@ -2,7 +2,7 @@
 <chartsheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" mc:Ignorable="xr xr3" xr:uid="{DF66E409-3036-43C2-8683-0E0CF21A5B1D}">
   <sheetPr/>
   <sheetViews>
-    <sheetView tabSelected="1" zoomScale="124" workbookViewId="0" zoomToFit="1"/>
+    <sheetView zoomScale="124" workbookViewId="0" zoomToFit="1"/>
   </sheetViews>
   <pageMargins left="0.70866141732283472" right="0.70866141732283472" top="0.78740157480314965" bottom="0.78740157480314965" header="0.31496062992125984" footer="0.31496062992125984"/>
   <pageSetup paperSize="9" orientation="landscape" r:id="rId1"/>

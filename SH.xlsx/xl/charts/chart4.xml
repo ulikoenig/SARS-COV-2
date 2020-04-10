@@ -164,131 +164,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -302,132 +254,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$2:$BQ$2</c:f>
+              <c:f>Kreise!$AT$2:$BR$2</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
+                  <c:v>6</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>0</c:v>
+                  <c:v>6</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>6</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>6</c:v>
-                </c:pt>
-                <c:pt idx="17">
-                  <c:v>6</c:v>
-                </c:pt>
-                <c:pt idx="18">
-                  <c:v>6</c:v>
-                </c:pt>
-                <c:pt idx="19">
                   <c:v>10</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>11</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>12</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>12</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>12</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>15</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>16</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>17</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>20</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>26</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>27</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>29</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>31</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>37</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>37</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>40</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>40</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>42</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>48</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>51</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -529,131 +433,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -667,132 +523,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$3:$BQ$3</c:f>
+              <c:f>Kreise!$AT$3:$BR$3</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>0</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>0</c:v>
+                  <c:v>7</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="17">
-                  <c:v>7</c:v>
-                </c:pt>
-                <c:pt idx="18">
-                  <c:v>7</c:v>
-                </c:pt>
-                <c:pt idx="19">
-                  <c:v>7</c:v>
-                </c:pt>
-                <c:pt idx="20">
                   <c:v>10</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>12</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>13</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>13</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>13</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>14</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>14</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>18</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>19</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>21</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>22</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>25</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>25</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>25</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>27</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>28</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>28</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>29</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>30</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>31</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>32</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -894,131 +702,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -1032,132 +792,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$4:$BQ$4</c:f>
+              <c:f>Kreise!$AT$4:$BR$4</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>3</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>3</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>3</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>3</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>12</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>12</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>13</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>21</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>24</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>24</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>36</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>39</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>51</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>52</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>56</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>71</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>80</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>80</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>80</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>92</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>112</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>115</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>135</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>147</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>155</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>155</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>162</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>172</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>175</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>183</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -1259,131 +971,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -1397,132 +1061,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$5:$BQ$5</c:f>
+              <c:f>Kreise!$AT$5:$BR$5</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>3</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>6</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>7</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>11</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>12</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>13</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>18</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>20</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>25</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>34</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>37</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>39</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>41</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>51</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>63</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>63</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>74</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>74</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>100</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>113</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>121</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>124</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>136</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>146</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>157</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>160</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>164</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>169</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>171</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>176</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>187</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -1621,131 +1237,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -1759,132 +1327,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$6:$BQ$6</c:f>
+              <c:f>Kreise!$AT$6:$BR$6</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>1</c:v>
+                  <c:v>11</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>7</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>7</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>7</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>7</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>9</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>11</c:v>
-                </c:pt>
-                <c:pt idx="17">
-                  <c:v>11</c:v>
-                </c:pt>
-                <c:pt idx="18">
                   <c:v>18</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>19</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>43</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>53</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>56</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>57</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>68</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>68</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>63</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>67</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>69</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>69</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>77</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>88</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>97</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>98</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>101</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>103</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>103</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>103</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>105</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>121</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>121</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>129</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -1986,131 +1506,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -2124,132 +1596,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$7:$BQ$7</c:f>
+              <c:f>Kreise!$AT$7:$BR$7</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>0</c:v>
+                  <c:v>1</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="17">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="18">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="19">
                   <c:v>5</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>7</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>7</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>7</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>7</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>10</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>12</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>13</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>13</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>15</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>15</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>15</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>19</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>25</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>25</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>29</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>30</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>30</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>32</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>34</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>34</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>34</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>41</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -2350,131 +1774,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -2488,132 +1864,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$8:$BQ$8</c:f>
+              <c:f>Kreise!$AT$8:$BR$8</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
+                  <c:v>2</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="17">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="18">
                   <c:v>7</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>10</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>12</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>16</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>18</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>19</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>20</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>22</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>24</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>27</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>32</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>36</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>39</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>40</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>41</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>43</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>48</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>48</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>49</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>49</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>52</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>53</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>59</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>64</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -2714,131 +2042,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -2852,132 +2132,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$9:$BQ$9</c:f>
+              <c:f>Kreise!$AT$9:$BR$9</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>0</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>4</c:v>
-                </c:pt>
-                <c:pt idx="17">
-                  <c:v>4</c:v>
-                </c:pt>
-                <c:pt idx="18">
-                  <c:v>4</c:v>
-                </c:pt>
-                <c:pt idx="19">
                   <c:v>7</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>11</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>12</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>13</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>13</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>17</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>18</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>22</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>32</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>39</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>43</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>47</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>51</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>51</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>52</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>52</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>51</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>53</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>54</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -3078,131 +2310,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -3216,132 +2400,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$10:$BQ$10</c:f>
+              <c:f>Kreise!$AT$10:$BR$10</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>4</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>4</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>5</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>18</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>24</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>24</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>27</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>45</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>54</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>60</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>76</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>88</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>88</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>92</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>92</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>127</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>154</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>173</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>188</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>194</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>201</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>228</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>245</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>267</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>300</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>331</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>335</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>338</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>370</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>417</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>439</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -3442,131 +2578,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -3580,132 +2668,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$11:$BQ$11</c:f>
+              <c:f>Kreise!$AT$11:$BR$11</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
+                  <c:v>5</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>5</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>5</c:v>
-                </c:pt>
-                <c:pt idx="17">
-                  <c:v>5</c:v>
-                </c:pt>
-                <c:pt idx="18">
                   <c:v>8</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>10</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>11</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>12</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>12</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>19</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>31</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>38</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>45</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>50</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>54</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>54</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>56</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>58</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>64</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>68</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>72</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>73</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>75</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>80</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>83</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>89</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>93</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -3804,131 +2844,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -3942,132 +2934,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$12:$BQ$12</c:f>
+              <c:f>Kreise!$AT$12:$BR$12</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>8</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>12</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>13</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>16</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>21</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>24</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>30</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>33</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>37</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>46</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>56</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>73</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>89</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>100</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>112</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>112</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>125</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>128</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>137</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>147</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>158</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>166</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>165</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>172</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>177</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>186</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>192</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -4168,131 +3112,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -4306,132 +3202,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$13:$BQ$13</c:f>
+              <c:f>Kreise!$AT$13:$BR$13</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>5</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>11</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>16</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>17</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>18</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>21</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>22</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>24</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>27</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>28</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>34</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>36</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>45</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>55</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>64</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>65</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>67</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>75</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>81</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>90</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>93</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>95</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>95</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>95</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>101</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>102</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>107</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -4533,131 +3381,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -4671,132 +3471,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$14:$BQ$14</c:f>
+              <c:f>Kreise!$AT$14:$BR$14</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>4</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>4</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>6</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>6</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>9</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>14</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>27</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>29</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>30</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>30</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>43</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>43</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>55</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>63</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>73</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>80</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>79</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>93</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>109</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>119</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>134</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>142</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>144</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>152</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>165</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>172</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>180</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -4901,131 +3653,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -5039,132 +3743,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$15:$BQ$15</c:f>
+              <c:f>Kreise!$AT$15:$BR$15</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="1">
-                  <c:v>0</c:v>
+                  <c:v>4</c:v>
                 </c:pt>
                 <c:pt idx="2">
-                  <c:v>0</c:v>
+                  <c:v>8</c:v>
                 </c:pt>
                 <c:pt idx="3">
-                  <c:v>0</c:v>
+                  <c:v>8</c:v>
                 </c:pt>
                 <c:pt idx="4">
-                  <c:v>0</c:v>
+                  <c:v>13</c:v>
                 </c:pt>
                 <c:pt idx="5">
-                  <c:v>0</c:v>
+                  <c:v>13</c:v>
                 </c:pt>
                 <c:pt idx="6">
-                  <c:v>0</c:v>
+                  <c:v>13</c:v>
                 </c:pt>
                 <c:pt idx="7">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>2</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>4</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>4</c:v>
-                </c:pt>
-                <c:pt idx="17">
-                  <c:v>4</c:v>
-                </c:pt>
-                <c:pt idx="18">
-                  <c:v>4</c:v>
-                </c:pt>
-                <c:pt idx="19">
-                  <c:v>8</c:v>
-                </c:pt>
-                <c:pt idx="20">
-                  <c:v>8</c:v>
-                </c:pt>
-                <c:pt idx="21">
-                  <c:v>13</c:v>
-                </c:pt>
-                <c:pt idx="22">
-                  <c:v>13</c:v>
-                </c:pt>
-                <c:pt idx="23">
-                  <c:v>13</c:v>
-                </c:pt>
-                <c:pt idx="24">
                   <c:v>20</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>21</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>23</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>28</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>36</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>36</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>36</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>40</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>43</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>51</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>53</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>53</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>53</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>53</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>61</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>66</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>70</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>72</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>
@@ -5269,131 +3925,83 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$1:$BQ$1</c:f>
+              <c:f>Kreise!$AT$1:$BR$1</c:f>
               <c:strCache>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>28.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>29.02.2020</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>01.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>02.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>03.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>04.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>05.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>06.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>07.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>08.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>09.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>10.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>11.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>12.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>13.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="15">
-                  <c:v>14.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="16">
-                  <c:v>15.03.2020</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>16.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>17.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>18.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>19.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>20.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>21.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>22.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>23.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>24.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>25.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>26.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>27.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>28.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>29.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>30.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>31.03.2020</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>01.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>02.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>03.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>04.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>05.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>06.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>07.04.2020</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>08.04.2020</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>09.04.2020</c:v>
                 </c:pt>
               </c:strCache>
             </c:strRef>
@@ -5407,132 +4015,84 @@
                   </c15:fullRef>
                 </c:ext>
               </c:extLst>
-              <c:f>Kreise!$AC$16:$BQ$16</c:f>
+              <c:f>Kreise!$AT$16:$BR$16</c:f>
               <c:numCache>
                 <c:formatCode>General</c:formatCode>
-                <c:ptCount val="41"/>
+                <c:ptCount val="25"/>
                 <c:pt idx="0">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="1">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="2">
-                  <c:v>0</c:v>
-                </c:pt>
-                <c:pt idx="3">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="4">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="5">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="6">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="7">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="8">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="9">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="10">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="11">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="12">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="13">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="14">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="15" formatCode="0">
-                  <c:v>1</c:v>
-                </c:pt>
-                <c:pt idx="16" formatCode="0">
-                  <c:v>7</c:v>
-                </c:pt>
-                <c:pt idx="17">
                   <c:v>8</c:v>
                 </c:pt>
-                <c:pt idx="18">
+                <c:pt idx="1">
                   <c:v>11</c:v>
                 </c:pt>
-                <c:pt idx="19">
+                <c:pt idx="2">
                   <c:v>17</c:v>
                 </c:pt>
-                <c:pt idx="20">
+                <c:pt idx="3">
                   <c:v>21</c:v>
                 </c:pt>
-                <c:pt idx="21">
+                <c:pt idx="4">
                   <c:v>29</c:v>
                 </c:pt>
-                <c:pt idx="22">
+                <c:pt idx="5">
                   <c:v>43</c:v>
                 </c:pt>
-                <c:pt idx="23">
+                <c:pt idx="6">
                   <c:v>52</c:v>
                 </c:pt>
-                <c:pt idx="24">
+                <c:pt idx="7">
                   <c:v>60</c:v>
                 </c:pt>
-                <c:pt idx="25">
+                <c:pt idx="8">
                   <c:v>67</c:v>
                 </c:pt>
-                <c:pt idx="26">
+                <c:pt idx="9">
                   <c:v>73</c:v>
                 </c:pt>
-                <c:pt idx="27">
+                <c:pt idx="10">
                   <c:v>92</c:v>
                 </c:pt>
-                <c:pt idx="28">
+                <c:pt idx="11">
                   <c:v>105</c:v>
                 </c:pt>
-                <c:pt idx="29">
+                <c:pt idx="12">
                   <c:v>113</c:v>
                 </c:pt>
-                <c:pt idx="30">
+                <c:pt idx="13">
                   <c:v>120</c:v>
                 </c:pt>
-                <c:pt idx="31">
+                <c:pt idx="14">
                   <c:v>126</c:v>
                 </c:pt>
-                <c:pt idx="32">
+                <c:pt idx="15">
                   <c:v>137</c:v>
                 </c:pt>
-                <c:pt idx="33">
+                <c:pt idx="16">
                   <c:v>142</c:v>
                 </c:pt>
-                <c:pt idx="34">
+                <c:pt idx="17">
                   <c:v>142</c:v>
                 </c:pt>
-                <c:pt idx="35">
+                <c:pt idx="18">
                   <c:v>158</c:v>
                 </c:pt>
-                <c:pt idx="36">
+                <c:pt idx="19">
                   <c:v>165</c:v>
                 </c:pt>
-                <c:pt idx="37">
+                <c:pt idx="20">
                   <c:v>188</c:v>
                 </c:pt>
-                <c:pt idx="38">
+                <c:pt idx="21">
                   <c:v>194</c:v>
                 </c:pt>
-                <c:pt idx="39">
+                <c:pt idx="22">
                   <c:v>194</c:v>
                 </c:pt>
-                <c:pt idx="40">
+                <c:pt idx="23">
                   <c:v>201</c:v>
+                </c:pt>
+                <c:pt idx="24">
+                  <c:v>208</c:v>
                 </c:pt>
               </c:numCache>
             </c:numRef>

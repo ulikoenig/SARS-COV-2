@@ -16,7 +16,7 @@
         <vt:lpstr>Diagramme</vt:lpstr>
       </vt:variant>
       <vt:variant>
-        <vt:i4>6</vt:i4>
+        <vt:i4>7</vt:i4>
       </vt:variant>
       <vt:variant>
         <vt:lpstr>Benannte Bereiche</vt:lpstr>
@@ -27,7 +27,7 @@
     </vt:vector>
   </HeadingPairs>
   <TitlesOfParts>
-    <vt:vector size="10" baseType="lpstr">
+    <vt:vector size="11" baseType="lpstr">
       <vt:lpstr>Kreise</vt:lpstr>
       <vt:lpstr>Auswertung</vt:lpstr>
       <vt:lpstr>Wochentage</vt:lpstr>
@@ -36,6 +36,7 @@
       <vt:lpstr>DC-Kreise2</vt:lpstr>
       <vt:lpstr>DC-Kreise-Normiert</vt:lpstr>
       <vt:lpstr>DC-Kreise-Ableitung-Tot</vt:lpstr>
+      <vt:lpstr>Diagramm1</vt:lpstr>
       <vt:lpstr>Auswertung!Druckbereich</vt:lpstr>
       <vt:lpstr>Kreise!Druckbereich</vt:lpstr>
     </vt:vector>
