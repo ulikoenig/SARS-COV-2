@@ -16,6 +16,12 @@ do
 	sleep 10
 done 
 
+echo Hole HTML von Divi
+until wget -O "./divi/`date --iso-8601`-divi.html" https://diviexchange.z6.web.core.windows.net/
+do 
+	sleep 10
+done 
+
 
 mv RKI-CSV.csv.tmp RKI-CSV.csv
 echo Upload
