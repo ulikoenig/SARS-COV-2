@@ -24,6 +24,8 @@ until wget -O "./STK-Quelle/`date --iso-8601`-STK.html.tmp" --header "Cookie: JS
 do 
 	sleep 10
 done 
+#Entferne zufälligen Mail Hash
+sed -e 's/uriHash%[^%]*%//1' "./STK-Quelle/`date --iso-8601`-STK.html.tmp" > "./STK-Quelle/`date --iso-8601`-STK.html.tmp"
 mv "./STK-Quelle/`date --iso-8601`-STK.html.tmp" "./STK-Quelle/`date --iso-8601`-STK.html"
 git add STK-Quelle
 git commit -m "HTML Update von $TODAY - Quellenvermerk: Staatskanzlei SH"
