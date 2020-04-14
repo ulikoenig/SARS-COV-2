@@ -20,13 +20,13 @@ git commit -m "CSV Update von $TODAY - Quellenvermerk: Robert Koch-Institut (RKI
 #STK
 
 echo Hole HTML von STK
-until wget -O "./STK-Quelle/`date --iso-8601`-STK.html.tmp" --header "Cookie: JSESSIONID=0.delivery2-master;" https://www.schleswig-holstein.de/DE/Landesregierung/I/Presse/_documents/Corona-Liste_Kreise.html
+until wget -O "/tmp/`date --iso-8601`-STK.html.tmp" --header "Cookie: JSESSIONID=0.delivery2-master;" https://www.schleswig-holstein.de/DE/Landesregierung/I/Presse/_documents/Corona-Liste_Kreise.html
 do 
 	sleep 10
 done 
 #Entferne zufälligen Mail Hash
-#sed -e 's/uriHash%[^%]*%//1' "./STK-Quelle/`date --iso-8601`-STK.html.tmp" > "./STK-Quelle/`date --iso-8601`-STK.html.tmp"
-mv "./STK-Quelle/`date --iso-8601`-STK.html.tmp" "./STK-Quelle/`date --iso-8601`-STK.html"
+sed -e 's/uriHash%[^%]*%//1' "/tmp/`date --iso-8601`-STK.html.tmp" > "/tmp/`date --iso-8601`-STK.html.tmp"
+mv "/tmp/`date --iso-8601`-STK.html.tmp" "./STK-Quelle/`date --iso-8601`-STK.html"
 git add STK-Quelle
 git commit -m "HTML Update von $TODAY - Quellenvermerk: Staatskanzlei SH"
 
