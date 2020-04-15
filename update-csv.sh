@@ -1,4 +1,4 @@
-#!/bin/bash
+##!/bin/bash
 cd "$(dirname "$0")"
 TODAY=`date`
 echo Update Git
@@ -25,7 +25,7 @@ do
 	sleep 10
 done 
 #Entferne zufälligen Mail Hash
-sed -e 's/uriHash%[^%]*%//1' "/tmp/`date --iso-8601`-STK.html" > "/tmp/`date --iso-8601`-STK.html.tmp"
+sed -e 's/uriHash%[^%]*%//1' "/tmp/`date --iso-8601`-STK.html" -e 's/NS_CSM_td\=[^;]*;/NS_CSM_td\=000000000;/g' > "/tmp/`date --iso-8601`-STK.html.tmp"
 rm "/tmp/`date --iso-8601`-STK.html"
 mv "/tmp/`date --iso-8601`-STK.html.tmp" "./STK-Quelle/`date --iso-8601`-STK.html"
 git add STK-Quelle
