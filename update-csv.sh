@@ -12,8 +12,9 @@ until wget -O RKI-CSV.csv.tmp  https://opendata.arcgis.com/datasets/dd4580c81020
 do 
 	sleep 10
 done 
-mv RKI-CSV.csv.tmp RKI-CSV.csv
-git add RKI-CSV.csv
+mv RKI-CSV.csv.tmp "RKI-CSV/`date --iso-8601`-RKI.csv"
+cp "RKI-CSV/`date --iso-8601`-RKI.csv" "RKI-CSV/Latest-RKI.csv"
+git add RKI-CSV
 git commit -m "CSV Update von $TODAY - Quellenvermerk: Robert Koch-Institut (RKI), dl-de/by-2-0"
 
 
