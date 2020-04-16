@@ -25,6 +25,18 @@ until wget -O "/tmp/`date --iso-8601`-STK.html" --header "Cookie: JSESSIONID=0.d
 do 
 	sleep 10
 done 
+until wget -O "./STK-Quelle/`date --iso-8601`-STK-kreise.csv" https://phpefi.schleswig-holstein.de/corona/data/kreise.csv
+do 
+	sleep 10
+done 
+until wget -O "./STK-Quelle/`date --iso-8601`-STK-alter.csv" https://phpefi.schleswig-holstein.de/corona/data/alter.csv
+do 
+	sleep 10
+done 
+until wget -O "./STK-Quelle/`date --iso-8601`-STK-zeit.csv" https://phpefi.schleswig-holstein.de/corona/data/verlauf.csv
+do 
+	sleep 10
+done 
 #Entferne zufälligen Mail Hash
 sed -e 's/uriHash%[^%]*%//1' "/tmp/`date --iso-8601`-STK.html" -e 's/NS_CSM_td\=[^;]*;/NS_CSM_td\=000000000;/g' -e 's/i_Stk_Strassenseite/i_Stk_Wasserseite/g' "/tmp/`date --iso-8601`-STK.html" > "/tmp/`date --iso-8601`-STK.html.tmp"
 rm "/tmp/`date --iso-8601`-STK.html"
