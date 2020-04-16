@@ -21,7 +21,7 @@ git commit -m "CSV Update von $TODAY - Quellenvermerk: Robert Koch-Institut (RKI
 #STK
 
 echo Hole HTML von STK
-until wget -O "/tmp/`date --iso-8601`-STK.html" --header "Cookie: JSESSIONID=0.delivery2-master;" https://www.schleswig-holstein.de/DE/Landesregierung/I/Presse/_documents/Corona-Liste_Kreise.html
+until wget -O "/tmp/`date --iso-8601`-STK.html" --header "Cookie: JSESSIONID=0.delivery2-master;" https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Zahlen/zahlen_node.html
 do 
 	sleep 10
 done 
