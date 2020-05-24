@@ -1,5 +1,5 @@
 "Kreis","Kürzel","Meldungen pro 100.000 Einwohner","Gemeldete Fälle","","Hospitalisierungen","","Verstorben",""
-"Pinneberg","PI","191,58","599","","129","+1","42","+1"
+"Pinneberg","PI","191,58","599","","129","","42",""
 "Stormarn","OD","170,33","413","","51","","30",""
 "Segeberg","SE","113,86","312","","37","","4",""
 "Kiel","KI","112,12","278","","64","","9",""
@@ -15,6 +15,6 @@
 "Dithmarschen","HEI","44,21","59","","13","","3",""
 "Flensburg","FL","44,06","39","","6","","2",""
 "-"
-"Schleswig-Holstein","SH","105,96","3.062","","490","+1","137","+1"
+"Schleswig-Holstein","SH","105,96","3.062","","490","","137",""
 
-"Datenstand 23.05.2020 20:52:24"
+"Datenstand 24.05.2020 18:35:30"
