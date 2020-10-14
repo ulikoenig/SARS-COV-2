@@ -1,0 +1,608 @@
+    <!doctype html>
+
+    <html lang="en">
+    <head>
+      <meta charset="utf-8">
+
+      <title>DIVI Visualizations</title>
+      <meta name="description" content="The HTML5 Herald">
+      <meta name="author" content="SitePoint">
+
+      <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+      <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+      <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/plug-ins/1.10.20/api/sum().js"></script>
+
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css">
+      <style>
+        .nav-link, .nav-link:hover {
+          color: #495057;
+          text-decoration: none;
+        }
+
+        .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+          background-color: #890700;
+        }
+
+        table {
+          font-size: 9pt;
+        }
+
+        table.dataTable tfoot tr th, table.dataTable tfoot tr td{
+          font-weight: bold;
+          padding: 8px 10px;
+        }
+
+        table.dataTable thead .sorting {
+          background-image: none;
+        }
+
+        table.dataTable thead .sorting_asc {
+          background-image: none;
+        }
+
+        table.dataTable thead .sorting_desc {
+          background-image: none;
+        }
+
+        .row-margin-top {
+          margin-top: 6em;
+        }
+
+        #loading{
+          position:fixed;
+          top:0;
+          left:0;
+          right:0;
+          bottom:0;
+          /* background-color: gray; */
+          color: black;
+          opacity: 1;
+          transition: 0.5s;
+          visibility: visible;
+        }
+
+        #loading.hidden, .hidden{
+          opacity: 0;
+          visibility: hidden;
+        }
+
+        .lds-dual-ring {
+          position: fixed;
+          /* width: 500px; */
+          /* height: 200px; */
+          top: 50%;
+          left: 50%;
+          margin-top: -40px; /* Negative half of height. */
+          margin-left: -40px; /* Negative half of width. */
+          display: inline-block;
+          width: 80px;
+          height: 80px;
+        }
+        .lds-dual-ring:after {
+          content: " ";
+          display: block;
+          width: 64px;
+          height: 64px;
+          margin: 8px;
+          border-radius: 50%;
+          border: 6px solid #ccc;
+          border-color: #ccc transparent #ccc transparent;
+          animation: lds-dual-ring 1.2s linear infinite;
+        }
+        @keyframes lds-dual-ring {
+          0% {
+            transform: rotate(0deg);
+          }
+          100% {
+            transform: rotate(360deg);
+          }
+        }
+
+        hr {
+          background-color: #ccc;
+          margin: 60px 0;
+        }
+      </style>
+    </head>
+
+    <body>
+      <div id="loading">
+        <div class="lds-dual-ring"></div>
+      </div>
+      <main role="main" class="container hidden" id="container">
+
+          <div class="row">
+              <div class="col-lg-6">
+                  <div id="left" class="d-flex justify-content-center"></div>
+              </div>
+              <div class="col-lg-6 d-flex justify-content-center">
+                  <div id="right" class="d-flex justify-content-center"></div>
+              </div>
+          </div>
+          <div class="row row-margin-top">
+              <div class="col-12">
+                 <ul class="nav nav-pills" id="myTab" role="tablist">
+                  <li class="nav-item">
+                      <a class="nav-link active" id="Baden-Württemberg-tab" data-toggle="tab" href="#Baden-Württemberg" role="tab">Baden-Württemberg</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Bayern-tab" data-toggle="tab" href="#Bayern" role="tab">Bayern</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Berlin-tab" data-toggle="tab" href="#Berlin" role="tab">Berlin</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Brandenburg-tab" data-toggle="tab" href="#Brandenburg" role="tab">Brandenburg</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Bremen-tab" data-toggle="tab" href="#Bremen" role="tab">Bremen</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Hamburg-tab" data-toggle="tab" href="#Hamburg" role="tab">Hamburg</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Hessen-tab" data-toggle="tab" href="#Hessen" role="tab">Hessen</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Mecklenburg-Vorpommern-tab" data-toggle="tab" href="#Mecklenburg-Vorpommern" role="tab">Mecklenburg-Vorpommern</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Niedersachsen-tab" data-toggle="tab" href="#Niedersachsen" role="tab">Niedersachsen</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Nordrhein-Westfalen-tab" data-toggle="tab" href="#Nordrhein-Westfalen" role="tab">Nordrhein-Westfalen</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Rheinland-Pfalz-tab" data-toggle="tab" href="#Rheinland-Pfalz" role="tab">Rheinland-Pfalz</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Saarland-tab" data-toggle="tab" href="#Saarland" role="tab">Saarland</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Sachsen-tab" data-toggle="tab" href="#Sachsen" role="tab">Sachsen</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Sachsen-Anhalt-tab" data-toggle="tab" href="#Sachsen-Anhalt" role="tab">Sachsen-Anhalt</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Thüringen-tab" data-toggle="tab" href="#Thüringen" role="tab">Thüringen</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="Schleswig-Holstein-tab" data-toggle="tab" href="#Schleswig-Holstein" role="tab">Schleswig-Holstein</a>
+                  </li>
+                </ul>
+
+                <!-- Tab panes -->
+                <div class="tab-content">
+                     <div class="tab-pane active" id="Baden-Württemberg" role="tabpanel">
+                     <!-- <h5>Baden-Württemberg<h5/> -->
+                     <div id="bottom_Baden-Württemberg" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Bayern" role="tabpanel">
+                     <!-- <h5>Bayern<h5/> -->
+                     <div id="bottom_Bayern" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Berlin" role="tabpanel">
+                     <!-- <h5>Berlin<h5/> -->
+                     <div id="bottom_Berlin" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Brandenburg" role="tabpanel">
+                     <!-- <h5>Brandenburg<h5/> -->
+                     <div id="bottom_Brandenburg" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Bremen" role="tabpanel">
+                     <!-- <h5>Bremen<h5/> -->
+                     <div id="bottom_Bremen" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Hamburg" role="tabpanel">
+                     <!-- <h5>Hamburg<h5/> -->
+                     <div id="bottom_Hamburg" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Hessen" role="tabpanel">
+                     <!-- <h5>Hessen<h5/> -->
+                     <div id="bottom_Hessen" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Mecklenburg-Vorpommern" role="tabpanel">
+                     <!-- <h5>Mecklenburg-Vorpommern<h5/> -->
+                     <div id="bottom_Mecklenburg-Vorpommern" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Niedersachsen" role="tabpanel">
+                     <!-- <h5>Niedersachsen<h5/> -->
+                     <div id="bottom_Niedersachsen" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Nordrhein-Westfalen" role="tabpanel">
+                     <!-- <h5>Nordrhein-Westfalen<h5/> -->
+                     <div id="bottom_Nordrhein-Westfalen" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Rheinland-Pfalz" role="tabpanel">
+                     <!-- <h5>Rheinland-Pfalz<h5/> -->
+                     <div id="bottom_Rheinland-Pfalz" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Saarland" role="tabpanel">
+                     <!-- <h5>Saarland<h5/> -->
+                     <div id="bottom_Saarland" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Sachsen" role="tabpanel">
+                     <!-- <h5>Sachsen<h5/> -->
+                     <div id="bottom_Sachsen" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Sachsen-Anhalt" role="tabpanel">
+                     <!-- <h5>Sachsen-Anhalt<h5/> -->
+                     <div id="bottom_Sachsen-Anhalt" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Thüringen" role="tabpanel">
+                     <!-- <h5>Thüringen<h5/> -->
+                     <div id="bottom_Thüringen" class="d-flex justify-content-center"></div></div>
+                     <div class="tab-pane" id="Schleswig-Holstein" role="tabpanel">
+                     <!-- <h5>Schleswig-Holstein<h5/> -->
+                     <div id="bottom_Schleswig-Holstein" class="d-flex justify-content-center"></div></div>
+                </div>
+              </div>
+          </div>
+
+          <div class="row row-margin-top">
+              <div class="col-12">
+                  <h5>Erfasste Bettenkapazitäten in der Intensivmedizin und aktuelle Fallzahlen zu COVID-19-Patienten*innen in intensivmedizinischer Behandlung für die verschiedenen Bundesländer der Bundesrepublik Deutschland*:</h5>
+                  <table border="1" class="dataframe table table-striped table-bordered text-right" id="table">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>ICU low care (frei)</th>
+      <th>ICU low care (belegt)</th>
+      <th>ICU low care in 24 h (Anzahl)</th>
+      <th>ICU high care (frei)</th>
+      <th>ICU high care (belegt)</th>
+      <th>ICU high care in 24 h (Anzahl)</th>
+      <th>ICU ECMO (frei)</th>
+      <th>ICU ECMO (belegt)</th>
+      <th>ICU ECMO care in 24 h (Anzahl)</th>
+      <th>Anzahl ECMO-FÃ¤lle pro Jahr</th>
+      <th>COVID-19 aktuell in Behandlung</th>
+      <th>COVID-19 genesen</th>
+      <th>COVID-19 beatmet</th>
+      <th>COVID-19 verstorben</th>
+    </tr>
+    <tr>
+      <th>Bundesland</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>BB</th>
+      <td>144</td>
+      <td>134</td>
+      <td>166</td>
+      <td>236</td>
+      <td>221</td>
+      <td>296</td>
+      <td>8</td>
+      <td>1</td>
+      <td>8</td>
+      <td>71</td>
+      <td>34</td>
+      <td>5</td>
+      <td>24</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>BE</th>
+      <td>67</td>
+      <td>190</td>
+      <td>123</td>
+      <td>241</td>
+      <td>509</td>
+      <td>235</td>
+      <td>21</td>
+      <td>6</td>
+      <td>22</td>
+      <td>231</td>
+      <td>107</td>
+      <td>18</td>
+      <td>87</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <th>BW</th>
+      <td>338</td>
+      <td>449</td>
+      <td>354</td>
+      <td>725</td>
+      <td>1221</td>
+      <td>578</td>
+      <td>57</td>
+      <td>15</td>
+      <td>35</td>
+      <td>619</td>
+      <td>529</td>
+      <td>166</td>
+      <td>461</td>
+      <td>104</td>
+    </tr>
+    <tr>
+      <th>BY</th>
+      <td>501</td>
+      <td>628</td>
+      <td>539</td>
+      <td>855</td>
+      <td>1631</td>
+      <td>807</td>
+      <td>65</td>
+      <td>27</td>
+      <td>41</td>
+      <td>746</td>
+      <td>634</td>
+      <td>144</td>
+      <td>546</td>
+      <td>101</td>
+    </tr>
+    <tr>
+      <th>HB</th>
+      <td>66</td>
+      <td>14</td>
+      <td>62</td>
+      <td>53</td>
+      <td>37</td>
+      <td>41</td>
+      <td>4</td>
+      <td>1</td>
+      <td>3</td>
+      <td>23</td>
+      <td>12</td>
+      <td>4</td>
+      <td>9</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>HE</th>
+      <td>153</td>
+      <td>232</td>
+      <td>166</td>
+      <td>375</td>
+      <td>572</td>
+      <td>310</td>
+      <td>25</td>
+      <td>13</td>
+      <td>20</td>
+      <td>450</td>
+      <td>145</td>
+      <td>38</td>
+      <td>111</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <th>HH</th>
+      <td>107</td>
+      <td>114</td>
+      <td>106</td>
+      <td>154</td>
+      <td>241</td>
+      <td>162</td>
+      <td>16</td>
+      <td>7</td>
+      <td>18</td>
+      <td>362</td>
+      <td>69</td>
+      <td>19</td>
+      <td>51</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <th>MV</th>
+      <td>63</td>
+      <td>77</td>
+      <td>90</td>
+      <td>157</td>
+      <td>135</td>
+      <td>156</td>
+      <td>14</td>
+      <td>0</td>
+      <td>12</td>
+      <td>142</td>
+      <td>9</td>
+      <td>1</td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>NI</th>
+      <td>235</td>
+      <td>179</td>
+      <td>213</td>
+      <td>388</td>
+      <td>386</td>
+      <td>308</td>
+      <td>29</td>
+      <td>5</td>
+      <td>12</td>
+      <td>323</td>
+      <td>102</td>
+      <td>26</td>
+      <td>73</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <th>NRW</th>
+      <td>795</td>
+      <td>929</td>
+      <td>826</td>
+      <td>1432</td>
+      <td>2118</td>
+      <td>1229</td>
+      <td>85</td>
+      <td>34</td>
+      <td>79</td>
+      <td>1324</td>
+      <td>512</td>
+      <td>341</td>
+      <td>439</td>
+      <td>122</td>
+    </tr>
+    <tr>
+      <th>RP</th>
+      <td>119</td>
+      <td>115</td>
+      <td>99</td>
+      <td>173</td>
+      <td>228</td>
+      <td>185</td>
+      <td>14</td>
+      <td>5</td>
+      <td>4</td>
+      <td>171</td>
+      <td>75</td>
+      <td>13</td>
+      <td>58</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>SH</th>
+      <td>88</td>
+      <td>107</td>
+      <td>64</td>
+      <td>311</td>
+      <td>367</td>
+      <td>265</td>
+      <td>11</td>
+      <td>2</td>
+      <td>8</td>
+      <td>128</td>
+      <td>48</td>
+      <td>6</td>
+      <td>43</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>SL</th>
+      <td>62</td>
+      <td>65</td>
+      <td>110</td>
+      <td>97</td>
+      <td>127</td>
+      <td>151</td>
+      <td>14</td>
+      <td>0</td>
+      <td>15</td>
+      <td>165</td>
+      <td>45</td>
+      <td>12</td>
+      <td>32</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>SN</th>
+      <td>177</td>
+      <td>182</td>
+      <td>207</td>
+      <td>319</td>
+      <td>422</td>
+      <td>329</td>
+      <td>25</td>
+      <td>2</td>
+      <td>18</td>
+      <td>80</td>
+      <td>44</td>
+      <td>6</td>
+      <td>36</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>ST</th>
+      <td>145</td>
+      <td>170</td>
+      <td>94</td>
+      <td>274</td>
+      <td>198</td>
+      <td>141</td>
+      <td>15</td>
+      <td>0</td>
+      <td>11</td>
+      <td>52</td>
+      <td>26</td>
+      <td>5</td>
+      <td>20</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>TH</th>
+      <td>185</td>
+      <td>150</td>
+      <td>167</td>
+      <td>247</td>
+      <td>232</td>
+      <td>282</td>
+      <td>12</td>
+      <td>1</td>
+      <td>11</td>
+      <td>180</td>
+      <td>33</td>
+      <td>4</td>
+      <td>25</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+                  <h6>*(Die Betten-Kapazitätserfassung umfasst dabei alle intensivmedizinisch freien und belegten Betten inkl. intensivmedizinisch behandelte COVID-19- Patienten*innen)</h6>
+              </div>
+          </div>
+      </main>
+
+      <script src="https://vega.github.io/vega/assets/promise.min.js"></script>
+      <script src="https://vega.github.io/vega/assets/symbol.min.js"></script>
+      <script src="https://vega.github.io/vega/assets/fetch.min.js"></script>
+
+      <script src="https://unpkg.com/regenerator-runtime/runtime.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/vega@5/build-es5/vega.js"></script>
+
+<!--      <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>-->
+      <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+      <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+      <script type="text/javascript">
+      setTimeout(function() {
+        $('#loading').addClass('hidden');
+        $('#container').removeClass('hidden');
+      }, 3000);
+      </script>
+
+      <script type="text/javascript">
+      let length = $( "#table tr:nth-child(2) td" ).length;
+      let tfootString = '<tfoot><tr>'
+      for (i = 0; i <= length; i++) {
+        tfootString += '<td></td>'
+      }
+      tfootString += '</tr></tfoot>'
+      $("#table").append(tfootString);
+
+      $('#table').DataTable( {
+        paging: false,
+        responsive: true,
+        searching: false,
+        info: false,
+        scrollX: true,
+        fixedHeader: {
+          header: false,
+          footer: true,
+          footerOffset: 40
+        },
+        footerCallback: function () {
+          var api = this.api();
+          if (!$('#table tfoot').length) {
+            console.log('appending footer');
+
+          }
+
+          for (var i = 1; i <= length; i++) {
+            $( api.column( i ).footer() ).html(
+                api.column( i, {page:'current'} ).data().sum()
+            );
+          }
+        }
+      });
+      </script>
+      <script type="text/javascript">
+
+          vegaEmbed("#left", {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300, "strokeWidth": 0}}, "layer": [{"data": {"name": "data-1fdded40bda98f83fb790061f1c3d82a"}, "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white", "strokeWidth": 0.35}, "height": 400, "width": 300}, {"data": {"name": "data-6b8d14e4372b32819aa263f267c7f911"}, "mark": "circle", "encoding": {"color": {"value": "black"}, "latitude": {"field": "lat", "type": "quantitative"}, "longitude": {"field": "lon", "type": "quantitative"}, "opacity": {"value": 0.55}, "size": {"type": "quantitative", "field": "COVID-19 aktuell", "legend": {"title": ["Anzahl COVID-19", "auf Intensivbetten"]}}, "tooltip": [{"type": "nominal", "field": "Klinikname"}, {"type": "quantitative", "field": "COVID-19 aktuell"}]}, "title": {"text": ["Meldende Intensivbereiche der Kliniken in Deutschland", "(ohne COVID-19 F\u00e4lle in gr\u00fcn)"], "subtitle": ["Stand: 03.04.2020, 06:00 Uhr mit 1052 Kliniken", "Quelle: DIVI-Intensivregister, Auswertung RKI (Signale)"]}}, {"data": {"name": "data-8152b6c76355c0a0aeb383973f5a57d2"}, "mark": {"type": "circle", "color": "green", "size": 10}, "encoding": {"latitude": {"field": "lat", "type": "quantitative"}, "longitude": {"field": "lon", "type": "quantitative"}, "tooltip": [{"type": "nominal", "field": "Klinikname"}, {"type": "quantitative", "field": "COVID-19 aktuell"}]}}], "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json", "datasets": {"data-1fdded40bda98f83fb790061f1c3d82a": [{"Bundesland": "Hamburg", "RS": "02", "RS_ALT": "020000000000", "SHAPE_AREA": 760539820.189091, "SHAPE_LENG": 175253.846380701, "USE": 2, "fed_center_lat": 53.54729164166223, "fed_center_lon": 10.010898615977807, "type": "Feature", "geometry": {"type": "MultiPolygon", "coordinates": [[[[10.19113690277905, 53.72299476403796], [10.182096824348678, 53.71002525433905], [10.18181205644544, 53.709620231913135], [10.158788991265608, 53.690799074249334], [10.142848472977098, 53.67979270131177], [10.142200027789993, 53.67951231760278], [10.142414108659239, 53.67924337284751], [10.144675036434537, 53.67663529731269], [10.176386292251806, 53.66323593898978], [10.22161044422162, 53.63366827488074], [10.217639874085378, 53.62581520255063], [10.195093424791855, 53.60776405478096], [10.19657342648055, 53.59915070288009], [10.19531249890401, 53.58933543231248], [10.194548520723924, 53.584112917187575], [10.16710759685019, 53.582559411998375], [10.162073315834862, 53.58529534683676], [10.152143435236804, 53.5768662158537], [10.148071136125443, 53.56320536498194], [10.148916671755437, 53.559406776057905], [10.161787667380674, 53.52651818615827], [10.16426978556823, 53.52142084997505], [10.220866009062865, 53.49932107932225], [10.233356419461277, 53.49497241158554], [10.239078894889696, 53.48298788853684], [10.304929131153997, 53.4427152743518], [10.308862553545763, 53.445048993132396], [10.30883766458577, 53.45076443672916], [10.31476950029545, 53.45068364271077], [10.318789994586023, 53.45046496337612], [10.321380393332447, 53.4501991416029], [10.324258512754884, 53.449520305610406], [10.315459538009463, 53.44052975547104], [10.308145164003673, 53.433544890362725], [10.291037726596437, 53.4266061870692], [10.283720929688595, 53.42442772568403], [10.265808574988712, 53.4203149216244], [10.262879449223945, 53.41948253009554], [10.259395721618702, 53.41830746786202], [10.257131154791498, 53.41704486128398], [10.255185337330285, 53.41528856079132], [10.251645906284443, 53.410752045724585], [10.250780240822822, 53.40957302204781], [10.243304169623297, 53.39943828278116], [10.240564646907574, 53.39736551575751], [10.237445502126418, 53.39595690890504], [10.23454797139467, 53.39523173318819], [10.229948967298231, 53.394925138888475], [10.178818999145705, 53.396195278021125], [10.176442019439078, 53.39636879950007], [10.175885363557986, 53.39641226311978], [10.172106702227124, 53.39703134316896], [10.168249495333743, 53.398081482023656], [10.164464619711351, 53.39948218807584], [10.108492373671432, 53.426942870908164], [10.105174114040906, 53.429511493825814], [10.096520394618764, 53.44113039412338], [10.085517929320954, 53.450682735776226], [10.082593066620493, 53.45271284458224], [10.052705719070952, 53.46475795046257], [10.05128466459223, 53.463818177577224], [10.042190717288829, 53.45642462558329], [10.043209574154949, 53.45256411829239], [10.05069586178969, 53.44925754051778], [10.045851183939497, 53.44462059000376], [10.016445807796007, 53.4275323821088], [9.985296041152655, 53.416208252505996], [9.975142926437172, 53.41361304027261], [9.97341820470037, 53.413183278464054], [9.916411499294986, 53.42430384318096], [9.91882865077812, 53.433796611106416], [9.918835377530769, 53.434425718099945], [9.91552503188887, 53.44230060387533], [9.914701190605903, 53.44425585663621], [9.903486397484368, 53.45647813492233], [9.898193864268116, 53.45702755263184], [9.872858367717432, 53.44187504338112], [9.86575675923212, 53.431251944294615], [9.86349922804063, 53.43023374896875], [9.861181859989287, 53.42919721725976], [9.84945413104748, 53.43973152836741], [9.798085010891834, 53.47072408005059], [9.784195799522461, 53.49207763346566], [9.785201701587676, 53.499704142483964], [9.768388040111779, 53.50471892749638], [9.764112137466878, 53.50890820951254], [9.763897186526378, 53.509140586089686], [9.76396694239154, 53.50947349563663], [9.770959469186428, 53.52865623512396], [9.773968965296467, 53.55455452208799], [9.729752298740149, 53.55713525373016], [9.734753550985735, 53.56457096900283], [9.745885030786418, 53.59220859048518], [9.742731988565058, 53.59723041470263], [9.760381071191766, 53.62459106261475], [9.764049239270436, 53.62756918497558], [9.764426951009053, 53.62758040838152], [9.770306700620589, 53.62760625784357], [9.768636869115829, 53.622609380333884], [9.770499999828214, 53.616024912385285], [9.79397092717391, 53.60000479947752], [9.79870441492022, 53.59685974491308], [9.809022150938414, 53.59107707428129], [9.81083542459028, 53.59006282231554], [9.815784555606738, 53.58746645118901], [9.822748909341295, 53.58439568082066], [9.829767001210374, 53.58563804893423], [9.831529035939978, 53.58595313785252], [9.831933054024164, 53.58619793288752], [9.838306078071028, 53.59018598846712], [9.884069489534488, 53.621207375493334], [9.896376361223234, 53.63184396463014], [9.900713376943866, 53.636375721534534], [9.903523713757306, 53.64093588495716], [9.90337722942783, 53.65166361732018], [9.904071545929678, 53.65176580112454], [9.914698723582447, 53.65328111318395], [9.917341592330347, 53.653581110488425], [9.920273707392264, 53.653738640698634], [9.944484024896218, 53.65291520470508], [9.948569454529578, 53.65157671813422], [9.965270306359347, 53.648792696933924], [9.984759641078123, 53.649162899060045], [9.989750978671555, 53.65816872149771], [9.990565768628455, 53.6622333413883], [9.989928012318686, 53.67020944243962], [9.990004039247003, 53.67147664152378], [9.990329101541697, 53.672142880552904], [9.996867800235364, 53.678530963367905], [9.998409537412547, 53.68001072693786], [10.041017968921246, 53.68226944917584], [10.049726518517383, 53.67726989072212], [10.069077206308442, 53.67923453525857], [10.078221932554326, 53.703875292512116], [10.072719105646401, 53.706057670967155], [10.067173055779227, 53.71101591206556], [10.080998234706545, 53.7206678995384], [10.092093542483953, 53.71991425952079], [10.093367267060584, 53.71976570662763], [10.09446107629798, 53.71942788189112], [10.095982038010677, 53.71875902322361], [10.125736229852969, 53.71993054633168], [10.13943994899265, 53.72601771609858], [10.161902496142469, 53.736359100272864], [10.192684442036326, 53.731255250383406], [10.19113690277905, 53.72299476403796]]], [[[8.515055143810162, 53.914622372580666], [8.485107862843684, 53.91347641257463], [8.485305650588609, 53.91839495308862], [8.486375680024556, 53.92256377668114], [8.487592366526401, 53.92521632485982], [8.48880706393702, 53.927257761056026], [8.489872581055895, 53.92857792296846], [8.491206785712428, 53.92968673501205], [8.492894771156523, 53.93072035136241], [8.494470801805226, 53.931213019049764], [8.495806001840021, 53.931315350068516], [8.497363805474832, 53.93121460563435], [8.498575760692775, 53.93101844044642], [8.516952566317947, 53.923063392112226], [8.517316021033958, 53.92277263580186], [8.517550301030408, 53.922309093289506], [8.517420232137216, 53.920491893497925], [8.51659764289659, 53.916507030931605], [8.51639658124897, 53.91591076885435], [8.516185258675568, 53.91553895360436], [8.51563107979453, 53.91500896687189], [8.515055143810162, 53.914622372580666]]], [[[8.437915789783117, 53.94535007240455], [8.430520049573351, 53.943286494959644], [8.421364327812455, 53.95317137731671], [8.42241811611781, 53.9547075489954], [8.424593777152749, 53.95636125023035], [8.43620660746707, 53.9627003318248], [8.43995712364573, 53.96426298084238], [8.4423718098937, 53.96443763663218], [8.444344146847596, 53.96429945621661], [8.449901080376478, 53.962153527840705], [8.450912901817562, 53.961379422961464], [8.45105864544401, 53.95990816317295], [8.450358158030795, 53.95828821505852], [8.44060782624723, 53.94703901332268], [8.439433242609365, 53.94611200567467], [8.437915789783117, 53.94535007240455]]]]}}, {"Bundesland": "Niedersachsen", "RS": "03", "RS_ALT": "030000000000", "SHAPE_AREA": 47716406483.131, "SHAPE_LENG": 2016496.3965738, "USE": 2, "fed_center_lat": 52.76828720954092, "fed_center_lon": 9.8, "type": "Feature", "geometry": {"type": "MultiPolygon", "coordinates": [[[[8.689616610395177, 53.879992720322285], [8.69297200462773, 53.87829828511829], [8.700676064124606, 53.87991052708056], [8.701659173271626, 53.880041563837224], [8.70242505241528, 53.879908889624296], [8.703092714099204, 53.879577060319754], [8.717092399668633, 53.86861829013144], [8.727949948870883, 53.859994409203644], [8.753613173981664, 53.84588143342285], [8.775496545329528, 53.837407807653946], [8.783972201373373, 53.834757478768935], [8.792322575629269, 53.83333592191191], [8.820656075005534, 53.831700219972625], [8.867620464776973, 53.82977403969898], [8.89289182023154, 53.82905210391139], [8.895287906609088, 53.82915494500064], [8.907822680280184, 53.83029559902149], [8.91894606363314, 53.83141702440591], [8.96334938011149, 53.8381828249264], [8.974486750639755, 53.839865462873526], [8.976739713696052, 53.84017164297375], [8.978104900096943, 53.84023329932892], [8.980381868625022, 53.84028809546681], [8.983108933785582, 53.840069833793535], [9.022602917889905, 53.83578336332607], [9.018007353433347, 53.83824448113087], [9.016211688766187, 53.83966967759793], [8.994517010940188, 53.87258164103413], [8.994607261439835, 53.872609695450166], [9.022260573011332, 53.87938333228447], [9.0385469904417, 53.88071675721001], [9.049292444647802, 53.88133667408392], [9.057661190137846, 53.88118237989842], [9.081923227109948, 53.88048191232438], [9.168989299090136, 53.87961087376047], [9.19912498434292, 53.88017213356858], [9.207934895173258, 53.87997640993651], [9.231302208001825, 53.87749463820688], [9.268380065949007, 53.86912546698059], [9.289786055438618, 53.863585608693846], [9.301847349113467, 53.85832976308875], [9.319672946769591, 53.850540086206486], [9.365876241249042, 53.811672049647285], [9.369740582181308, 53.807259876400956], [9.374972532893587, 53.8004071327494], [9.375475263987365, 53.79974680555094], [9.37803583954811, 53.79638272040933], [9.389929046376137, 53.78108967739012], [9.413213804503275, 53.751375822279485], [9.423187224004426, 53.74102211172286], [9.4239492058581, 53.74023803155733], [9.431892971254213, 53.73335216763931], [9.440106749513145, 53.72834599768179], [9.44931900541842, 53.72394976253384], [9.48654144515303, 53.70707983106605], [9.501170599862215, 53.69717094587856], [9.507324792580162, 53.69220655141364], [9.50749454434431, 53.69206415409134], [9.5098626027283, 53.68978283361389], [9.511488639811663, 53.68816945268882], [9.511991068429747, 53.68737375668376], [9.52191603980843, 53.671395408611026], [9.525331648218152, 53.66548286115474], [9.526877423027482, 53.6626555820542], [9.529970246346124, 53.65691104911468], [9.531007438221973, 53.64561512588935], [9.531666650772928, 53.643167149242295], [9.535795342683024, 53.63355760837493], [9.541783195206413, 53.62455531589901], [9.550716321647206, 53.61621334775489], [9.589625159592028, 53.5983721666532], [9.673037314517106, 53.56588953032275], [9.69915204
